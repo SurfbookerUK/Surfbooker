@@ -1,16 +1,24 @@
-import { mkdirSync, writeFileSync } from "node:fs";
+﻿import { mkdirSync, writeFileSync } from "node:fs";
 import { dirname, join } from "node:path";
 
 const rootDir = process.cwd();
 const buildDate = "2026-08-01";
 const baseUrl = "https://surfbooker.com";
 const email = "hello@surfbooker.com";
+const whatsappUrl = "https://wa.me/447853362904?text=Hello%20Surfbooker%2C%20I%20have%20a%20question%20about...";
+const whatsappNumber = "+44 7853 362904";
 const logoIcon = "/Logo%20no%20words%20transparent.png";
+const logoWordmark = "/Logo%20transparent.png";
 const logoBackground = "/Logo%20background.png";
+const faviconIco = "/favicon.ico";
+const favicon48 = "/favicon-48x48.png";
+const favicon96 = "/favicon-96x96.png";
+const appleTouchIcon = "/apple-touch-icon.png";
 const googleRatingsScript = "/google-ratings.js";
 const analyticsComment = "<!-- Optional analytics: add Google Analytics 4 or Microsoft Clarity here when ready. -->";
-const sharedDisclaimer = "Surfbooker compares public surf lesson information and passes enquiries to the Surfbooker inbox. Final prices, availability, lesson times, booking terms and lesson delivery are confirmed by each surf school.";
-const listingNote = "Prices shown are the latest public starting prices Surfbooker found on official school websites where available. Final prices and availability are confirmed by the provider.";
+const sharedDisclaimer = "Surfbooker lists surf schools independently, compares details found on provider websites and passes availability requests to the Surfbooker inbox. Prices, lesson times, booking terms and final availability are confirmed by each school. Surfbooker does not take payment at this stage.";
+const listingNote = "Independent listings.";
+const pricingCheckedNote = "Prices checked against provider websites on 1 August 2026. Final prices and availability are confirmed when you enquire.";
 const ogImageAlt = "Surfbooker branding for North Devon surf lessons";
 
 const allAreas = ["Westward Ho!", "Saunton", "Woolacombe", "Croyde", "Putsborough"];
@@ -52,7 +60,7 @@ const schools = [
     levels: ["Beginner", "Intermediate", "Advanced"],
     summary: "The official Ho! Surf lesson page describes two-hour Westward Ho! surf lessons with wetsuit fitting, changing rooms, safety briefing and board allocation before heading to the water.",
     pageIntro: [
-      "Ho! Surf is Surfbooker’s first Westward Ho! listing. On the official Surf and Kite Shop lesson page, Surfbooker found two-hour surf lessons promoted for beginners through to more experienced surfers, with booking handled on the provider side.",
+      "Ho! Surf is Surfbookerâ€™s first Westward Ho! listing. On the official Surf and Kite Shop lesson page, Surfbooker found two-hour surf lessons promoted for beginners through to more experienced surfers, with booking handled on the provider side.",
       "The same page says lessons start from the shop on the village green, where surfers meet the instructor, get fitted with a quality wetsuit, use the on-site changing rooms and leave clothes safely before heading to the beach."
     ],
     facts: [
@@ -85,7 +93,7 @@ const schools = [
     imageWidth: 1400,
     imageHeight: 933,
     subtitle: "Westward Ho! surf school with group and private lessons",
-    priceLabel: "From £39",
+    priceLabel: "From Â£39",
     minPrice: 39,
     durationLabel: "2 hours",
     sortDurationMinutes: 120,
@@ -96,13 +104,13 @@ const schools = [
     levels: ["Beginner", "Intermediate", "Advanced"],
     summary: "North Devon Surf School publishes two-hour group and private surf lessons at Westward Ho!, with equipment included and heated changing rooms, storage and hot showers listed on the official site.",
     pageIntro: [
-      "North Devon Surf School publishes a wide range of surf lessons from its Westward Ho! base. The official lessons page includes a two-hour group lesson from £39 and private tuition with a senior coach working exclusively with the booking.",
-      "Surfbooker could also verify a purpose-built surf school close to the beach, plus heated changing rooms, secure storage, toilets and hot showers on the provider’s own website."
+      "North Devon Surf School publishes a wide range of surf lessons from its Westward Ho! base. The official lessons page includes a two-hour group lesson from Â£39 and private tuition with a senior coach working exclusively with the booking.",
+      "Surfbooker could also verify a purpose-built surf school close to the beach, plus heated changing rooms, secure storage, toilets and hot showers on the providerâ€™s own website."
     ],
     facts: [
       { label: "Lesson format", value: "Group and private lessons" },
       { label: "Duration", value: "2 hours" },
-      { label: "Public starting price", value: "£39 for 1 x 2 hour group lesson" },
+      { label: "Public starting price", value: "Â£39 for 1 x 2 hour group lesson" },
       { label: "Equipment", value: "All equipment included" },
       { label: "Changing", value: "Heated changing rooms, storage, toilets and hot showers" },
       { label: "Parking", value: "Public parking next to the surf school" },
@@ -129,7 +137,7 @@ const schools = [
     imageWidth: 1400,
     imageHeight: 933,
     subtitle: "Westward Ho! lessons from a beachside Northam Burrows base",
-    priceLabel: "From £35",
+    priceLabel: "From Â£35",
     minPrice: 35,
     durationLabel: "2 hours",
     sortDurationMinutes: 120,
@@ -138,15 +146,15 @@ const schools = [
     audienceLabel: "Mixed ages and abilities",
     minAge: 6,
     levels: ["Beginner", "Intermediate", "Advanced"],
-    summary: "Westward Waves publishes two-hour group lessons from £35 and private coaching from its Northam Burrows base, with winter wetsuits, surfboards and changing facilities listed on the official prices page.",
+    summary: "Westward Waves publishes two-hour group lessons from Â£35 and private coaching from its Northam Burrows base, with winter wetsuits, surfboards and changing facilities listed on the official prices page.",
     pageIntro: [
-      "Westward Waves Surf School is based on Northam Burrows in Westward Ho! and promotes both group and private lessons on its official site. The public prices page currently shows group lessons from £35 per person for a two-hour session.",
-      "Surfbooker could also verify winter wetsuits, surfboards, winter accessories, changing facilities and minimum age guidance from the school’s own FAQs and pricing pages."
+      "Westward Waves Surf School is based on Northam Burrows in Westward Ho! and promotes both group and private lessons on its official site. The public prices page currently shows group lessons from Â£35 per person for a two-hour session.",
+      "Surfbooker could also verify winter wetsuits, surfboards, winter accessories, changing facilities and minimum age guidance from the schoolâ€™s own FAQs and pricing pages."
     ],
     facts: [
       { label: "Lesson format", value: "Group and private lessons" },
       { label: "Duration", value: "2 hours" },
-      { label: "Public starting price", value: "£35 per person for a group lesson" },
+      { label: "Public starting price", value: "Â£35 per person for a group lesson" },
       { label: "Equipment", value: "Winter wetsuits, surfboards, boots, gloves and hoods" },
       { label: "Changing", value: "Changing facilities included" },
       { label: "Meeting point", value: "Sandymere Car Park on Northam Burrows" },
@@ -173,7 +181,7 @@ const schools = [
     imageWidth: 1400,
     imageHeight: 933,
     subtitle: "Saunton Sands surf school with group, private and kids options",
-    priceLabel: "From £45",
+    priceLabel: "From Â£45",
     minPrice: 45,
     durationLabel: "2 hours",
     sortDurationMinutes: 120,
@@ -182,15 +190,15 @@ const schools = [
     audienceLabel: "Adults, children and families",
     minAge: 8,
     levels: ["Beginner", "Intermediate", "Advanced"],
-    summary: "Surf Saunton publishes two-hour surf lessons from £45 per person at Saunton Sands, alongside private sessions, school groups and kids products on the official website.",
+    summary: "Surf Saunton publishes two-hour surf lessons from Â£45 per person at Saunton Sands, alongside private sessions, school groups and kids products on the official website.",
     pageIntro: [
-      "Surf Saunton promotes group surf lessons, private one-to-one coaching, private group lessons and dedicated children’s products from its base at Saunton Sands. The public lesson page currently shows a two-hour surf lesson from £45 per person.",
+      "Surf Saunton promotes group surf lessons, private one-to-one coaching, private group lessons and dedicated childrenâ€™s products from its base at Saunton Sands. The public lesson page currently shows a two-hour surf lesson from Â£45 per person.",
       "The official site also describes grouped sessions by experience level, large car parking, toilets, a dry indoor changing option in poor weather and equipment included in the lesson price."
     ],
     facts: [
       { label: "Lesson format", value: "Group and private lessons" },
       { label: "Duration", value: "2 hours" },
-      { label: "Public starting price", value: "£45 per person" },
+      { label: "Public starting price", value: "Â£45 per person" },
       { label: "Equipment", value: "Board, wetsuit, plus boots and gloves when needed" },
       { label: "Changing", value: "Dry indoor changing available in adverse weather" },
       { label: "Parking", value: "Large car park at Saunton Sands" },
@@ -217,7 +225,7 @@ const schools = [
     imageWidth: 1400,
     imageHeight: 933,
     subtitle: "Saunton Sands surf coaching with group, private and kids sessions",
-    priceLabel: "From £35 per lesson",
+    priceLabel: "From Â£35 per lesson",
     minPrice: 35,
     durationLabel: "1 to 2 hours",
     sortDurationMinutes: 60,
@@ -226,15 +234,15 @@ const schools = [
     audienceLabel: "Adults, children and families",
     minAge: 4,
     levels: ["Beginner", "Intermediate", "Advanced"],
-    summary: "Walking on Waves lists group, private, kids and course-based surf lessons at Saunton Sands, with public pricing from £35 per lesson on multi-session surf courses and ISA-qualified coaching across one-hour to two-hour products.",
+    summary: "Walking on Waves lists group, private, kids and course-based surf lessons at Saunton Sands, with public pricing from Â£35 per lesson on multi-session surf courses and ISA-qualified coaching across one-hour to two-hour products.",
     pageIntro: [
-      "Walking on Waves is one of the longest-running surf schools in Surfbooker’s Saunton set, with public surf lesson pages covering group lessons, private sessions, kids lessons, surf courses and coach-and-ride products.",
-      "Surfbooker could verify a maximum 6:1 lesson ratio, indoor changing and storage, on-site toilets and a spread of lesson lengths from one hour to two hours on the provider’s own site."
+      "Walking on Waves is one of the longest-running surf schools in Surfbookerâ€™s Saunton set, with public surf lesson pages covering group lessons, private sessions, kids lessons, surf courses and coach-and-ride products.",
+      "Surfbooker could verify a maximum 6:1 lesson ratio, indoor changing and storage, on-site toilets and a spread of lesson lengths from one hour to two hours on the providerâ€™s own site."
     ],
     facts: [
       { label: "Lesson format", value: "Group and private lessons" },
       { label: "Duration", value: "1 hour to 2 hours depending on session type" },
-      { label: "Public starting price", value: "From £35 per lesson on multi-session surf courses" },
+      { label: "Public starting price", value: "From Â£35 per lesson on multi-session surf courses" },
       { label: "Equipment", value: "All equipment included" },
       { label: "Changing", value: "Indoor changing and storage available" },
       { label: "Parking", value: "Saunton Sands car park" },
@@ -245,7 +253,7 @@ const schools = [
     websiteFacts: [
       "Group lessons run for two hours unless only one or two surfers are booked",
       "Private lessons are listed at 1.5 hours and kids sessions at 1 hour",
-      "Walking on Waves describes itself as Saunton’s original surf school and says it has delivered lessons since 2003"
+      "Walking on Waves describes itself as Sauntonâ€™s original surf school and says it has delivered lessons since 2003"
     ],
     claimMailto: mailtoForSchool("Walking on Waves")
   },
@@ -262,7 +270,7 @@ const schools = [
     imageWidth: 1400,
     imageHeight: 933,
     subtitle: "Woolacombe village surf school with group, private and one-to-one sessions",
-    priceLabel: "From £40",
+    priceLabel: "From Â£40",
     minPrice: 40,
     durationLabel: "2 hours",
     sortDurationMinutes: 120,
@@ -271,15 +279,15 @@ const schools = [
     audienceLabel: "Adults, children and families",
     minAge: 8,
     levels: ["Beginner", "Intermediate", "Advanced"],
-    summary: "Woolacombe Surf Centre lists two-hour group, private and one-to-one surf sessions, with equipment included and a public group lesson price from £40 on the official surf lessons page.",
+    summary: "Woolacombe Surf Centre lists two-hour group, private and one-to-one surf sessions, with equipment included and a public group lesson price from Â£40 on the official surf lessons page.",
     pageIntro: [
       "Woolacombe Surf Centre publishes two-hour surf sessions for all abilities, with separate sections for group lessons, private lessons, one-to-one coaching and larger group bookings.",
-      "The official surf lessons page currently shows a single two-hour surf session from £40 and says all required equipment and coaching are included throughout."
+      "The official surf lessons page currently shows a single two-hour surf session from Â£40 and says all required equipment and coaching are included throughout."
     ],
     facts: [
       { label: "Lesson format", value: "Group, private and one-to-one lessons" },
       { label: "Duration", value: "2 hours" },
-      { label: "Public starting price", value: "£40 for 1 surf session" },
+      { label: "Public starting price", value: "Â£40 for 1 surf session" },
       { label: "Equipment", value: "All required equipment included" },
       { label: "Coaching", value: "Suitable for first-timers through to more experienced surfers" },
       { label: "Accreditation", value: "Surfing England accredited Centre of Excellence" },
@@ -288,7 +296,7 @@ const schools = [
     ],
     websiteFacts: [
       "Woolacombe Surf Centre says it provides free session photos on most surf lessons",
-      "One-to-one coaching is listed separately at £120 per session",
+      "One-to-one coaching is listed separately at Â£120 per session",
       "The school describes itself as village-based, with surf lessons centred around the Atlantic coastline"
     ],
     claimMailto: mailtoForSchool("Woolacombe Surf Centre")
@@ -306,7 +314,7 @@ const schools = [
     imageWidth: 1400,
     imageHeight: 933,
     subtitle: "Beach slipway surf school with showers, changing and private family options",
-    priceLabel: "From £40",
+    priceLabel: "From Â£40",
     minPrice: 40,
     durationLabel: "1 to 2 hours",
     sortDurationMinutes: 60,
@@ -315,15 +323,15 @@ const schools = [
     audienceLabel: "Adults, children and families",
     minAge: 8,
     levels: ["Beginner", "Intermediate", "Advanced", "Family"],
-    summary: "Surfing Woolacombe lists taster group lessons from £40, longer course bundles and a wide range of private surf lesson formats from its beach slipway base in Woolacombe.",
+    summary: "Surfing Woolacombe lists taster group lessons from Â£40, longer course bundles and a wide range of private surf lesson formats from its beach slipway base in Woolacombe.",
     pageIntro: [
       "Surfing Woolacombe is positioned directly on the Woolacombe beach slipway and publishes group, private and family-oriented lesson options on its official surf lessons page.",
-      "Surfbooker could verify showers, changing facilities, lockers, storage, four-season wetsuits and winter accessories from the school’s own surf lesson copy."
+      "Surfbooker could verify showers, changing facilities, lockers, storage, four-season wetsuits and winter accessories from the schoolâ€™s own surf lesson copy."
     ],
     facts: [
       { label: "Lesson format", value: "Group and private lessons" },
       { label: "Duration", value: "1 hour to 2 hours depending on session type" },
-      { label: "Public starting price", value: "£40 for a 2 hour taster group session" },
+      { label: "Public starting price", value: "Â£40 for a 2 hour taster group session" },
       { label: "Equipment", value: "Four-season wetsuits, plus boots, gloves and hoods in winter" },
       { label: "Changing", value: "Showers, changing facilities, lockers and storage" },
       { label: "Location note", value: "Based on the Woolacombe beach slipway" },
@@ -350,7 +358,7 @@ const schools = [
     imageWidth: 1400,
     imageHeight: 933,
     subtitle: "Croyde Bay surf school with group, private and adaptive options",
-    priceLabel: "From £45",
+    priceLabel: "From Â£45",
     minPrice: 45,
     durationLabel: "2 hours",
     sortDurationMinutes: 120,
@@ -359,15 +367,15 @@ const schools = [
     audienceLabel: "Adults, children and families",
     minAge: null,
     levels: ["Beginner", "Intermediate", "Advanced"],
-    summary: "Surf South West publishes two-hour half-day group surf lessons from £45 and separate private lesson pricing from its Croyde Bay base, while also advertising adaptive and performance products.",
+    summary: "Surf South West publishes two-hour half-day group surf lessons from Â£45 and separate private lesson pricing from its Croyde Bay base, while also advertising adaptive and performance products.",
     pageIntro: [
       "Surf South West says it has been running surf lessons at Croyde Bay since 1996 and lists half-day, two-day, weekend, five-day, private and adaptive options on its official site.",
-      "The public half-day lesson page shows a two-hour session from £45 per person with all equipment included, while the broader school pages describe changing rooms, storage and specialist adaptive instruction."
+      "The public half-day lesson page shows a two-hour session from Â£45 per person with all equipment included, while the broader school pages describe changing rooms, storage and specialist adaptive instruction."
     ],
     facts: [
       { label: "Lesson format", value: "Group and private lessons" },
       { label: "Duration", value: "2 hours" },
-      { label: "Public starting price", value: "£45 per person for the half-day lesson" },
+      { label: "Public starting price", value: "Â£45 per person for the half-day lesson" },
       { label: "Equipment", value: "All equipment included" },
       { label: "Changing", value: "Changing rooms, toilet and storage area" },
       { label: "Parking", value: "Croyde Burrows Car Park, Moore Lane" },
@@ -394,7 +402,7 @@ const schools = [
     imageWidth: 1400,
     imageHeight: 933,
     subtitle: "Croyde lesson hub with 2.5 hour group and private sessions",
-    priceLabel: "From £30",
+    priceLabel: "From Â£30",
     minPrice: 30,
     durationLabel: "2.5 hours",
     sortDurationMinutes: 150,
@@ -403,15 +411,15 @@ const schools = [
     audienceLabel: "Adults, children and families",
     minAge: 5,
     levels: ["Beginner", "Intermediate", "Advanced", "Family"],
-    summary: "Surfing Croyde Bay publishes 2.5 hour half-day surf lessons from £30, private tuition and family options, with all equipment included and a 6:1 coaching ratio described on the official site.",
+    summary: "Surfing Croyde Bay publishes 2.5 hour half-day surf lessons from Â£30, private tuition and family options, with all equipment included and a 6:1 coaching ratio described on the official site.",
     pageIntro: [
-      "Surfing Croyde Bay is one of the more detailed public lesson sites in the Surfbooker set. The official half-day page shows 2.5 hour group lessons from £30, private lessons, all equipment included and a maximum 6 students to 1 coach ratio.",
-      "Surfbooker could also verify warm indoor changing, hot showers and family-focused lesson options from the provider’s public lesson pages."
+      "Surfing Croyde Bay is one of the more detailed public lesson sites in the Surfbooker set. The official half-day page shows 2.5 hour group lessons from Â£30, private lessons, all equipment included and a maximum 6 students to 1 coach ratio.",
+      "Surfbooker could also verify warm indoor changing, hot showers and family-focused lesson options from the providerâ€™s public lesson pages."
     ],
     facts: [
       { label: "Lesson format", value: "Group and private lessons" },
       { label: "Duration", value: "2.5 hours" },
-      { label: "Public starting price", value: "From £30 on the half-day surf lesson page" },
+      { label: "Public starting price", value: "From Â£30 on the half-day surf lesson page" },
       { label: "Equipment", value: "All equipment included" },
       { label: "Changing", value: "Warm indoor changing and hot showers" },
       { label: "Group size", value: "Maximum 6 students to 1 coach" },
@@ -419,7 +427,7 @@ const schools = [
       { label: "Accreditation", value: "Official pages reference a Surfing England Centre of Excellence" }
     ],
     websiteFacts: [
-      "Beginner surf lesson pages also show a £35 single lesson and £130 beginner private lesson",
+      "Beginner surf lesson pages also show a Â£35 single lesson and Â£130 beginner private lesson",
       "Official copy says lessons cater for complete beginners through to competitive surfers",
       "Family lessons are listed separately on the provider website"
     ],
@@ -438,7 +446,7 @@ const schools = [
     imageWidth: 1400,
     imageHeight: 933,
     subtitle: "Putsborough surf school with group, private and family sessions",
-    priceLabel: "From £38",
+    priceLabel: "From Â£38",
     minPrice: 38,
     durationLabel: "1.5 to 2 hours",
     sortDurationMinutes: 90,
@@ -447,15 +455,15 @@ const schools = [
     audienceLabel: "Adults, children and families",
     minAge: 8,
     levels: ["Beginner", "Intermediate", "Advanced", "Family"],
-    summary: "Nick Thorn Surf Coaching runs surf sessions from Putsborough beach and publishes public group pricing from £38, private coaching, family sessions and Surfing England accreditation on the official site.",
+    summary: "Nick Thorn Surf Coaching runs surf sessions from Putsborough beach and publishes public group pricing from Â£38, private coaching, family sessions and Surfing England accreditation on the official site.",
     pageIntro: [
       "Nick Thorn Surf Coaching describes itself as a Putsborough-based North Devon surf school and lifeguard training centre, with public surf school pricing for group sessions, private tuition and family sessions on the official page.",
-      "Surfbooker could verify two-hour group lessons from £38, private coaching from 1.5 hours, family sessions and a broad age range around the Putsborough surf school offer."
+      "Surfbooker could verify two-hour group lessons from Â£38, private coaching from 1.5 hours, family sessions and a broad age range around the Putsborough surf school offer."
     ],
     facts: [
       { label: "Lesson format", value: "Group, private and family sessions" },
       { label: "Duration", value: "1.5 hours to 2 hours" },
-      { label: "Public starting price", value: "£38 for 1 group session" },
+      { label: "Public starting price", value: "Â£38 for 1 group session" },
       { label: "Equipment", value: "Wetsuits, surfboards, boots, gloves and hoods available through the school" },
       { label: "Minimum age", value: "Surf school page says lessons are for ages 8 and above" },
       { label: "Accreditation", value: "Surfing England accredited and described as a lifeguard training centre" },
@@ -482,7 +490,7 @@ const schools = [
     imageWidth: 1400,
     imageHeight: 933,
     subtitle: "Putsborough Sands private and family surf school",
-    priceLabel: "From £100",
+    priceLabel: "From Â£100",
     minPrice: 100,
     durationLabel: "90 minutes",
     sortDurationMinutes: 90,
@@ -491,15 +499,15 @@ const schools = [
     audienceLabel: "Adults, children and families",
     minAge: null,
     levels: ["Beginner", "Intermediate", "Advanced", "Family"],
-    summary: "Barefoot Surf School focuses on private 1:1 or 2:1 coaching and family surf lessons at Putsborough Sands, with public prices from £100 and 90-minute sessions described on the official site.",
+    summary: "Barefoot Surf School focuses on private 1:1 or 2:1 coaching and family surf lessons at Putsborough Sands, with public prices from Â£100 and 90-minute sessions described on the official site.",
     pageIntro: [
       "Barefoot Surf School is a family-run, accredited surf school based at Putsborough. Its public lesson pages focus on private 1:1 or 2:1 tuition plus family surf lessons held at Putsborough Sands.",
-      "Surfbooker could verify 90-minute lesson lengths, a £100 starting price for 1:1 lessons, board and wetsuit hire included in lesson pricing and a dedicated private instructor format from the provider’s own pages."
+      "Surfbooker could verify 90-minute lesson lengths, a Â£100 starting price for 1:1 lessons, board and wetsuit hire included in lesson pricing and a dedicated private instructor format from the providerâ€™s own pages."
     ],
     facts: [
       { label: "Lesson format", value: "Private and family lessons" },
       { label: "Duration", value: "90 minutes" },
-      { label: "Public starting price", value: "£100 for a 1:1 lesson" },
+      { label: "Public starting price", value: "Â£100 for a 1:1 lesson" },
       { label: "Equipment", value: "Board and wetsuit hire included in lesson prices" },
       { label: "Meeting point", value: "Putsborough car park meeting point is described on the family lesson page" },
       { label: "Group size", value: "1:1, 2:1 and family session formats" },
@@ -534,8 +542,8 @@ const locations = [
     label: "Westward Ho! surf lessons",
     pageTitle: "Surf lessons in Westward Ho!",
     intro: [
-      "Westward Ho! is Surfbooker’s largest single beach cluster right now, with Ho! Surf, North Devon Surf School and Westward Waves Surf School all publishing surf lesson information for the area.",
-      "Between them, Surfbooker could verify two-hour lesson products, wetsuit and equipment notes, and a mix of group or private coaching formats from each provider’s official pages."
+      "Westward Ho! is Surfbookerâ€™s largest single beach cluster right now, with Ho! Surf, North Devon Surf School and Westward Waves Surf School all publishing surf lesson information for the area.",
+      "Between them, Surfbooker could verify two-hour lesson products, wetsuit and equipment notes, and a mix of group or private coaching formats from each providerâ€™s official pages."
     ],
     metaDescription: "Compare surf lessons in Westward Ho!, North Devon. Browse Ho! Surf, North Devon Surf School and Westward Waves with public lesson details and internal school pages.",
     relatedAreas: ["North Devon", "Saunton", "Woolacombe"]
@@ -546,7 +554,7 @@ const locations = [
     label: "Saunton surf lessons",
     pageTitle: "Surf lessons in Saunton",
     intro: [
-      "Surfbooker’s Saunton pages currently cover Surf Saunton and Walking on Waves, two schools with detailed public lesson pages centred on Saunton Sands.",
+      "Surfbookerâ€™s Saunton pages currently cover Surf Saunton and Walking on Waves, two schools with detailed public lesson pages centred on Saunton Sands.",
       "The official websites in this area show a strong mix of group lessons, private coaching, kids products and progression-focused surf courses, plus practical details such as parking, changing and equipment."
     ],
     metaDescription: "Compare surf lessons in Saunton Sands, North Devon. Browse Surf Saunton and Walking on Waves with public lesson prices, formats and internal Surfbooker school pages.",
@@ -570,7 +578,7 @@ const locations = [
     label: "Croyde surf lessons",
     pageTitle: "Surf lessons in Croyde",
     intro: [
-      "Surfbooker’s Croyde pages currently compare Surf South West and Surfing Croyde Bay. Both schools publish substantial surf lesson information, but their public lesson formats and pricing structure differ.",
+      "Surfbookerâ€™s Croyde pages currently compare Surf South West and Surfing Croyde Bay. Both schools publish substantial surf lesson information, but their public lesson formats and pricing structure differ.",
       "If you want the clearest comparison, use this page first, then move into the individual school pages to compare 2-hour versus 2.5-hour lesson formats, public prices and facilities."
     ],
     metaDescription: "Compare surf lessons in Croyde Bay, North Devon. Browse Surf South West and Surfing Croyde Bay with public lesson prices, facilities and internal school pages.",
@@ -582,8 +590,8 @@ const locations = [
     label: "Putsborough surf lessons",
     pageTitle: "Surf lessons in Putsborough",
     intro: [
-      "Putsborough is Surfbooker’s more private-coaching-led location set, with Nick Thorn Surf Coaching and Barefoot Surf School both publishing surf lesson information tied directly to Putsborough beach.",
-      "These schools present different teaching styles and pricing structures, so Surfbooker’s internal pages help you compare group-friendly surf school products against private and family-focused coaching."
+      "Putsborough is Surfbookerâ€™s more private-coaching-led location set, with Nick Thorn Surf Coaching and Barefoot Surf School both publishing surf lesson information tied directly to Putsborough beach.",
+      "These schools present different teaching styles and pricing structures, so Surfbookerâ€™s internal pages help you compare group-friendly surf school products against private and family-focused coaching."
     ],
     metaDescription: "Compare surf lessons in Putsborough, North Devon. Browse Nick Thorn Surf Coaching and Barefoot Surf School with public lesson details and internal Surfbooker pages.",
     relatedAreas: ["North Devon", "Croyde", "Woolacombe"]
@@ -593,44 +601,101 @@ const locations = [
 const utilityPages = [
   {
     path: "contact/index.html",
-    title: "Contact Surfbooker | Lesson and listing enquiries",
-    description: "Contact Surfbooker about lesson enquiries, provider listings, claim requests or general product questions.",
-    h1: "Contact Surfbooker",
-    label: "Contact",
-    intro: "Email hello@surfbooker.com or use the contact form for lesson questions, listing issues or provider enquiries.",
+    title: "Contact Surfbooker | General Questions and Surf School Enquiries",
+    description: "Contact Surfbooker with a general question, surf lesson enquiry, listing update or surf school partnership request.",
+    h1: "How can we help?",
+    label: "Contact Surfbooker",
+    intro: "Have a question about Surfbooker, a listed surf school or working with us? Send us a message and we'll get back to you as soon as possible.",
     body: `
       <section class="simple-card simple-copy">
-        <div class="simple-grid">
+        <div class="simple-grid contact-options-grid">
           <div class="simple-card-content">
-            <p>For direct contact you can email <a class="text-link" href="mailto:${escapeHtml(email)}">${escapeHtml(email)}</a>.</p>
-            <p>Use the form if you want Surfbooker to follow up about an enquiry, a provider listing, a claim request or a page update.</p>
-          </div>
-          <div class="simple-card-content">
+            <p class="section-label">General message form</p>
+            <h2>Send a general message</h2>
+            <p>Use this form for general questions, help finding a surf lesson, listing issues, partnership requests or website problems.</p>
             <div class="simple-facts">
-              <div><span>Email</span><strong>${escapeHtml(email)}</strong></div>
-              <div><span>Use cases</span><strong>Enquiries, listings, claims and product questions</strong></div>
+              <div><span>Email</span><strong><a class="text-link" href="mailto:${escapeHtml(email)}">${escapeHtml(email)}</a></strong></div>
+              <div><span>WhatsApp</span><strong><a class="text-link" href="${escapeHtml(whatsappUrl)}" target="_blank" rel="noopener noreferrer" aria-label="Message Surfbooker on WhatsApp">${escapeHtml(whatsappNumber)}</a></strong></div>
             </div>
+          </div>
+          <div class="simple-card simple-copy whatsapp-card">
+            <p class="section-label">WhatsApp</p>
+            <h2>Message us on WhatsApp</h2>
+            <p>WhatsApp is suitable for general questions and help finding a lesson. Lesson availability still needs to be confirmed with the selected surf school.</p>
+            <a class="button button-primary" href="${escapeHtml(whatsappUrl)}" target="_blank" rel="noopener noreferrer" aria-label="Message Surfbooker on WhatsApp">Message us on WhatsApp</a>
           </div>
         </div>
       </section>
       <section class="simple-card">
-        <form class="contact-form" name="contact-form" method="POST" action="/contact/" data-netlify="true" netlify-honeypot="bot-field">
-          <input type="hidden" name="form-name" value="contact-form">
+        <form class="contact-form" id="general-contact-form" name="general-contact" method="POST" action="/contact/" data-netlify="true" netlify-honeypot="bot-field">
+          <input type="hidden" name="form-name" value="general-contact">
           <p class="sr-only"><label>Do not fill this out if you're human: <input name="bot-field"></label></p>
-          <label><span>Your name</span><input type="text" name="name" required></label>
-          <label><span>Email</span><input type="email" name="email" required></label>
+          <label><span>Name</span><input type="text" name="name" required></label>
+          <label><span>Email address</span><input type="email" name="email" required></label>
+          <label><span>Phone number</span><input type="tel" name="phone"></label>
           <label>
-            <span>Reason</span>
-            <select name="reason">
+            <span>Subject</span>
+            <select name="subject" required>
+              <option value="">Select a subject</option>
               <option value="General question">General question</option>
-              <option value="Lesson enquiry follow-up">Lesson enquiry follow-up</option>
-              <option value="Claim or update a listing">Claim or update a listing</option>
-              <option value="List a new surf school">List a new surf school</option>
+              <option value="Help finding a surf lesson">Help finding a surf lesson</option>
+              <option value="Question about a listing">Question about a listing</option>
+              <option value="Surf school partnership">Surf school partnership</option>
+              <option value="Update or remove a listing">Update or remove a listing</option>
+              <option value="Website problem">Website problem</option>
+              <option value="Other">Other</option>
             </select>
           </label>
-          <label><span>Message</span><textarea name="message" rows="5" required></textarea></label>
+          <label><span>Message</span><textarea name="message" rows="6" required></textarea></label>
+          <label class="consent-row">
+            <input type="checkbox" name="consent" value="yes" required>
+            <span>I agree that Surfbooker may use these details to respond to my message.</span>
+          </label>
+          <p class="field-note">We'll only use your details to respond to your enquiry.</p>
           <button type="submit">Send message</button>
+          <p class="form-status" id="general-contact-status" aria-live="polite"></p>
         </form>
+        <script>
+          const generalContactForm = document.getElementById("general-contact-form");
+          const generalContactStatus = document.getElementById("general-contact-status");
+
+          function encodeGeneralContact(data) {
+            return Object.keys(data).map((key) => encodeURIComponent(key) + "=" + encodeURIComponent(data[key])).join("&");
+          }
+
+          generalContactForm.addEventListener("submit", async (event) => {
+            event.preventDefault();
+            generalContactStatus.textContent = "Sending your message...";
+
+            const payload = {
+              "form-name": generalContactForm.getAttribute("name"),
+              "bot-field": generalContactForm.elements["bot-field"].value,
+              name: generalContactForm.elements["name"].value,
+              email: generalContactForm.elements["email"].value,
+              phone: generalContactForm.elements["phone"].value,
+              subject: generalContactForm.elements["subject"].value,
+              message: generalContactForm.elements["message"].value,
+              consent: generalContactForm.elements["consent"].checked ? "yes" : "no"
+            };
+
+            try {
+              const response = await fetch("/contact/", {
+                method: "POST",
+                headers: { "Content-Type": "application/x-www-form-urlencoded" },
+                body: encodeGeneralContact(payload)
+              });
+
+              if (!response.ok) {
+                throw new Error("Submission failed");
+              }
+
+              generalContactStatus.textContent = "Message sent. Surfbooker will get back to you as soon as possible.";
+              generalContactForm.reset();
+            } catch (error) {
+              generalContactStatus.textContent = "Your message could not be sent just now. Please try again, email hello@surfbooker.com or use WhatsApp.";
+            }
+          });
+        </script>
       </section>
     `,
     breadcrumbs: [
@@ -783,10 +848,40 @@ function build() {
 }
 
 function renderHomePage() {
-  const title = "Surf Lessons in North Devon | Compare and Enquire | Surfbooker";
-  const description = "Compare surf lessons across Westward Ho!, Saunton, Woolacombe, Croyde and Putsborough. Filter by beach, lesson format, audience, public pricing and duration before you enquire.";
+  const title = "Compare North Devon Surf Lessons | Surfbooker";
+  const description = "Compare prices, locations, lesson types and what's included across Westward Ho!, Saunton, Woolacombe, Croyde and Putsborough.";
   const homeListings = schools.map(toListingData);
   const northDevonUrl = "/surf-lessons/north-devon/";
+  const homepageFaqs = [
+    {
+      question: "How much does a surf lesson in North Devon cost?",
+      answer: "Public starting prices in Surfbooker's current North Devon listings range from £30 for Surfing Croyde Bay's half-day lesson to £100 for Barefoot Surf School's private 1:1 session. Several listed group lessons start between £35 and £45 per person."
+    },
+    {
+      question: "Is surf equipment included?",
+      answer: "Most listed schools say a surfboard and wetsuit are included. Some also publish extra equipment such as boots, gloves, hoods, changing facilities or storage, which you can compare on each listing and school page."
+    },
+    {
+      question: "Which North Devon beach is best for beginners?",
+      answer: "Surfbooker lists beginner lesson options across Westward Ho!, Saunton, Woolacombe, Croyde and Putsborough. The right beach depends on the school, lesson format and the day's conditions, so compare the school pages and then enquire."
+    },
+    {
+      question: "Can children take surf lessons?",
+      answer: "Yes. Several listed schools publish children, family or younger-surfer options, but the published age guidance varies by provider. Use the adults and children filter together with the minimum age filter, then confirm the fit with the school."
+    },
+    {
+      question: "Should I choose a group or private lesson?",
+      answer: "Group lessons usually show the lowest public starting prices, while private lessons can suit families, younger children or surfers who want more focused coaching. Compare the format, duration and facilities on each listing before you enquire."
+    },
+    {
+      question: "How is lesson availability confirmed?",
+      answer: "Your preferred lesson date is sent with your Surfbooker availability request. The provider then confirms final lesson times, spaces and pricing."
+    },
+    {
+      question: "Does Surfbooker take payment?",
+      answer: "No. Surfbooker does not take payment at this stage. The school confirms next steps and any payment directly."
+    }
+  ];
 
   const jsonLd = {
     "@context": "https://schema.org",
@@ -796,7 +891,7 @@ function renderHomePage() {
         "@id": `${baseUrl}/#website`,
         url: `${baseUrl}/`,
         name: "Surfbooker",
-        description: "Compare surf lessons and send lesson enquiries through Surfbooker."
+        description: "Compare North Devon surf lessons and request availability through Surfbooker."
       },
       {
         "@type": "Organization",
@@ -832,32 +927,14 @@ function renderHomePage() {
       {
         "@type": "FAQPage",
         "@id": `${baseUrl}/#faq`,
-        mainEntity: [
-          {
-            "@type": "Question",
-            name: "Does Surfbooker check live lesson availability?",
-            acceptedAnswer: {
-              "@type": "Answer",
-              text: "No. Surfbooker sends your preferred lesson date with the enquiry, but each provider confirms availability directly."
-            }
-          },
-          {
-            "@type": "Question",
-            name: "Can I compare group and private surf lessons?",
-            acceptedAnswer: {
-              "@type": "Answer",
-              text: "Yes. Surfbooker lets you filter the production listing set by lesson format, audience, public price signals and duration."
-            }
-          },
-          {
-            "@type": "Question",
-            name: "How do I claim or update a listing?",
-            acceptedAnswer: {
-              "@type": "Answer",
-              text: "Each listing includes a direct claim or update route to hello@surfbooker.com and Surfbooker also provides a dedicated claim page."
-            }
+        mainEntity: homepageFaqs.map((faq) => ({
+          "@type": "Question",
+          name: faq.question,
+          acceptedAnswer: {
+            "@type": "Answer",
+            text: faq.answer
           }
-        ]
+        }))
       }
     ]
   };
@@ -885,8 +962,10 @@ function renderHomePage() {
   <meta name="twitter:title" content="${escapeHtml(title)}">
   <meta name="twitter:description" content="${escapeHtml(description)}">
   <meta name="twitter:image" content="${baseUrl}${logoBackground}">
-  <link rel="icon" href="${logoIcon}" type="image/png">
-  <link rel="apple-touch-icon" href="${logoIcon}">
+  <link rel="icon" href="${faviconIco}" sizes="any">
+  <link rel="icon" type="image/png" sizes="48x48" href="${favicon48}">
+  <link rel="icon" type="image/png" sizes="96x96" href="${favicon96}">
+  <link rel="apple-touch-icon" sizes="180x180" href="${appleTouchIcon}">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link rel="preconnect" href="https://images.pexels.com" crossorigin>
@@ -903,28 +982,29 @@ function renderHomePage() {
     <main id="top">
       <section class="hero">
         <div class="hero-copy">
-          <p class="eyebrow">North Devon surf lesson comparison</p>
-          <h1>Find the right surf lesson.</h1>
-          <p class="hero-text">Compare surf schools by beach, lesson format, public price signals, ability level and key practical details before you enquire.</p>
+          <p class="eyebrow">Compare North Devon surf lessons</p>
+          <h1>Find the right surf lesson in North Devon.</h1>
+          <p class="hero-text">Compare prices, locations, lesson types and what's included across Westward Ho!, Saunton, Woolacombe, Croyde and Putsborough.</p>
           <div class="hero-actions">
-            <a class="button button-primary" href="#search-panel">Compare and enquire</a>
-            <a class="button button-secondary" href="${northDevonUrl}">Browse North Devon pages</a>
+            <a class="button button-primary" href="#search-panel">Compare lessons</a>
+            <a class="button button-secondary" href="#how-it-works">How it works</a>
           </div>
           <ul class="hero-stats" aria-label="Surfbooker overview">
-            <li><strong>11 surf schools</strong><span>Current production listings across five North Devon beaches.</span></li>
-            <li><strong>Lessons from £30</strong><span>Lowest verified public starting price found on a listed provider page.</span></li>
+            <li><strong>11 surf schools</strong><span>Current North Devon lesson listings.</span></li>
             <li><strong>5 North Devon beaches</strong><span>Westward Ho!, Saunton, Woolacombe, Croyde and Putsborough.</span></li>
+            <li><strong>Lessons from £30</strong><span>Based on current public starting prices in the listing set.</span></li>
           </ul>
+          <p class="hero-note">${escapeHtml(pricingCheckedNote)}</p>
         </div>
         <div class="hero-visual" aria-hidden="true">
           <div class="wave-card wave-card-main">
             <span class="wave-chip">Compare first</span>
-            <h2>Stay on Surfbooker long enough to compare the lesson fit properly.</h2>
-            <p>Move from the North Devon overview into beach pages, then into each school page before you click out.</p>
+            <h2>Compare lesson fit before you contact a surf school.</h2>
+            <p>Use Surfbooker to narrow by beach, lesson format, public price, ability level and the practical details that matter on the day.</p>
           </div>
           <div class="wave-card wave-card-secondary">
-            <span class="wave-chip">Enquiry workflow</span>
-            <p>Preferred lesson dates are sent with your enquiry. Final times and spaces are confirmed by the school.</p>
+            <span class="wave-chip">Availability request</span>
+            <p>Your preferred lesson date travels with the school-page enquiry form, then the provider confirms the final next steps.</p>
           </div>
           <div class="forecast-orb"></div>
         </div>
@@ -933,11 +1013,11 @@ function renderHomePage() {
       <section class="search-panel" id="search-panel">
         <div class="section-heading">
           <p class="section-label">Lesson search</p>
-          <h2>Compare and enquire in one place.</h2>
+          <h2>Start with your beach, preferred lesson date and lesson type.</h2>
         </div>
         <form class="search-form" id="lesson-search-form">
           <label>
-            <span>Beach / location</span>
+            <span>Location</span>
             <select id="search-location" name="location">
               <option value="">Any North Devon beach</option>
               ${allAreas.map((area) => `<option value="${escapeHtml(area)}">${escapeHtml(area)}</option>`).join("")}
@@ -971,29 +1051,29 @@ function renderHomePage() {
         </form>
       </section>
 
-      <section class="section-grid" id="proof">
+      <section class="section-grid section-grid-three" id="proof">
         <article class="feature-panel feature-panel-dark">
-          <p class="section-label">How Surfbooker is built</p>
-          <h2>Surfbooker compares public lesson pages before you enquire.</h2>
-          <p>Use Surfbooker to move from location comparison to school pages, then send a lesson enquiry without losing the context you built during the comparison.</p>
+          <p class="section-label">Compare in one place</p>
+          <h2>Compare surf lessons without opening ten different websites.</h2>
+          <p>Quickly compare lesson prices, duration, ability levels and included equipment.</p>
         </article>
         <article class="feature-panel">
-          <p class="section-label">Search and filter</p>
-          <h3>Format, beach and duration</h3>
-          <p>Filter the production listing set by lesson format, party fit, public pricing, minimum age, ability level and duration.</p>
+          <p class="section-label">Find your best fit</p>
+          <h3>Find your best fit</h3>
+          <p>Filter by beach, lesson format, group type and surfing experience.</p>
         </article>
         <article class="feature-panel">
-          <p class="section-label">Provider route</p>
-          <h3>Claim or update pathway</h3>
-          <p>Every listing includes a direct provider claim route to ${escapeHtml(email)} plus a dedicated claim page in the footer.</p>
+          <p class="section-label">Request availability</p>
+          <h3>Request availability</h3>
+          <p>Send Surfbooker your preferred date and party details and we'll help with the next steps.</p>
         </article>
       </section>
 
       <section class="coverage-section" id="beaches">
         <div class="section-heading">
-          <p class="section-label">North Devon pages</p>
-          <h2>Move from the region to the beach, then to the school.</h2>
-          <p class="section-note">Every school and beach in the current production set has its own static page with server-delivered HTML.</p>
+          <p class="section-label">North Devon location guide</p>
+          <h2>Jump from the region overview to the beach pages that fit your shortlist.</h2>
+          <p class="section-note">Each location page gives you indexable Surfbooker content before you move into individual school pages.</p>
         </div>
         <div class="coverage-grid coverage-grid-six">
           <a class="coverage-card" href="${northDevonUrl}">
@@ -1012,8 +1092,8 @@ function renderHomePage() {
       <section class="listings-section" id="lessons">
         <div class="section-heading">
           <p class="section-label">Surf school listings</p>
-          <h2>Compare North Devon surf schools and lesson formats.</h2>
-          <p class="section-note">Use the filters below to narrow by beach, lesson format, public price signals, minimum age, ability level and lesson duration.</p>
+          <h2>Compare North Devon surf schools</h2>
+          <p class="section-note">Explore lesson options across five North Devon beaches. Prices and details are checked against provider websites, but final availability is confirmed when you enquire.</p>
         </div>
         <div class="listing-note">${escapeHtml(listingNote)}</div>
         <div class="filters-bar">
@@ -1086,23 +1166,23 @@ function renderHomePage() {
       <section class="process" id="how-it-works">
         <div class="section-heading">
           <p class="section-label">How it works</p>
-          <h2>Compare, shortlist, then enquire.</h2>
+          <h2>Compare, shortlist and request availability from the right school page.</h2>
         </div>
         <div class="process-grid">
           <article>
             <span class="step-number">01</span>
-            <h3>Start with beach and format</h3>
-            <p>Choose Westward Ho!, Saunton, Woolacombe, Croyde or Putsborough, then narrow the school set by group or private format.</p>
+            <h3>Search and filter</h3>
+            <p>Choose your preferred beach, lesson format and ability level.</p>
           </article>
           <article>
             <span class="step-number">02</span>
-            <h3>Read the internal school pages</h3>
-            <p>Use the internal Surfbooker pages to compare lesson length, public price signals, facilities and practical notes before you click away.</p>
+            <h3>Compare schools</h3>
+            <p>Review prices, duration, Google ratings, included equipment and lesson details.</p>
           </article>
           <article>
             <span class="step-number">03</span>
-            <h3>Send your preferred date</h3>
-            <p>Surfbooker sends your preferred lesson date and party details with the enquiry, but the school confirms the final price and availability.</p>
+            <h3>Request availability</h3>
+            <p>Send your preferred date and group details so the next steps can be confirmed.</p>
           </article>
         </div>
       </section>
@@ -1110,136 +1190,30 @@ function renderHomePage() {
       <section class="faq-section" id="faq">
         <div class="section-heading">
           <p class="section-label">Frequently asked questions</p>
-          <h2>Practical questions about the current Surfbooker flow.</h2>
+          <h2>Useful questions before you enquire.</h2>
         </div>
         <div class="faq-grid">
-          <article class="faq-card">
-            <h3>Does Surfbooker check live lesson availability?</h3>
-            <p>No. The preferred lesson date is an enquiry field only. The provider confirms final availability and lesson times.</p>
-          </article>
-          <article class="faq-card">
-            <h3>What does the price filter use?</h3>
-            <p>Surfbooker uses verified public starting prices where they are clearly shown on an official school page. If a school does not publish a clear public starting price, it stays outside price filtering.</p>
-          </article>
-          <article class="faq-card">
-            <h3>Can I compare lesson duration?</h3>
-            <p>Yes. Use the duration sort to bring shorter or longer published lesson formats to the top of the current result set.</p>
-          </article>
-          <article class="faq-card">
-            <h3>How do providers correct a listing?</h3>
-            <p>Providers can use the mailto link on each listing or the footer claim page to send an update to ${escapeHtml(email)}.</p>
-          </article>
-        </div>
-      </section>
-
-      <section class="detail-section" id="listing-detail">
-        <div class="section-heading">
-          <p class="section-label">Selected surf school</p>
-          <h2>Lesson details and enquiry panel.</h2>
-        </div>
-        <div class="detail-layout">
-          <article class="detail-card">
-            <div class="detail-image-column">
-              <div class="detail-image-wrap">
-                <img id="detail-image" alt="" width="1400" height="933">
-              </div>
-            </div>
-            <div class="detail-copy">
-              <div class="detail-meta">
-                <p class="detail-location" id="detail-location"></p>
-                <p class="detail-status" id="detail-status"></p>
-              </div>
-              ${renderGoogleRatingSlot(homeListings[0].slug, "detail", "detail-google-rating")}
-              <h3 id="detail-name"></h3>
-              <p class="detail-subtitle" id="detail-subtitle" hidden></p>
-              <p class="detail-description" id="detail-description"></p>
-              <div class="detail-specs" id="detail-specs"></div>
-              <div class="detail-facts" id="detail-facts"></div>
-              <div class="detail-levels">
-                <h4>Ability levels</h4>
-                <div class="chip-row" id="detail-levels-list"></div>
-              </div>
-              <div class="detail-actions">
-                <a class="button button-primary detail-link" id="detail-page-link" href="#">View lesson details</a>
-                <a class="text-link" id="detail-website" href="#" target="_blank" rel="noopener noreferrer">Visit school website</a>
-              </div>
-              <a class="claim-link" id="detail-claim-link" href="#">Own this surf school? Claim or update this listing</a>
-            </div>
-          </article>
-
-          <aside class="booking-panel">
-            <div class="booking-copy">
-              <p class="section-label">Surfbooker enquiry</p>
-              <h3>Send a lesson enquiry</h3>
-              <p>Choose a school, add your preferred lesson date and party details, and Surfbooker will send the enquiry to ${escapeHtml(email)}.</p>
-            </div>
-            <form class="booking-form" id="booking-form" name="lesson-enquiry" method="POST" action="/" data-netlify="true" netlify-honeypot="bot-field">
-              <input type="hidden" name="form-name" value="lesson-enquiry">
-              <input type="hidden" name="submission_type" value="Surfbooker lesson enquiry">
-              <p class="sr-only">
-                <label>Do not fill this out if you're human: <input name="bot-field"></label>
-              </p>
-              <input id="booking-school" name="school" type="hidden">
-              <input id="booking-school-slug" name="school_slug" type="hidden">
-              <input id="booking-location" name="lesson_location" type="hidden">
-              <input id="booking-provider-url" name="provider_url" type="hidden">
-              <input id="booking-page" name="source_page" type="hidden" value="/#listing-detail">
-              <label>
-                <span>Your name</span>
-                <input name="name" type="text" placeholder="Full name" required>
-              </label>
-              <label>
-                <span>Email</span>
-                <input name="email" type="email" placeholder="you@example.com" required>
-              </label>
-              <label>
-                <span>Preferred lesson date</span>
-                <input id="booking-date" name="preferred_date" type="date" required>
-                <small class="field-note">This date is sent with your enquiry. It does not check live availability.</small>
-              </label>
-              <label>
-                <span>Adults and children</span>
-                <input id="booking-party" name="party" type="text" placeholder="2 adults, 1 child" required>
-              </label>
-              <label>
-                <span>Ability level</span>
-                <select id="booking-level" name="ability_level" required>
-                  <option value="">Select ability</option>
-                  ${levelOptions.map((level) => `<option value="${escapeHtml(level)}">${escapeHtml(level)}</option>`).join("")}
-                </select>
-              </label>
-              <label>
-                <span>Extra notes</span>
-                <textarea name="notes" rows="4" placeholder="Add anything the school should know before they reply."></textarea>
-              </label>
-              <button type="submit" id="booking-submit">Send enquiry</button>
-              <p class="form-status" id="form-status" aria-live="polite"></p>
-            </form>
-          </aside>
+          ${homepageFaqs.map((faq) => `
+            <article class="faq-card">
+              <h3>${escapeHtml(faq.question)}</h3>
+              <p>${escapeHtml(faq.answer)}</p>
+            </article>
+          `).join("")}
         </div>
       </section>
     </main>
 
     ${renderFooter()}
+    ${renderWhatsAppDock()}
   </div>
 
-  <form name="site-activity" hidden data-netlify="true">
-    <input type="hidden" name="form-name" value="site-activity">
-    <input type="text" name="event_type">
-    <input type="text" name="event_target">
-    <input type="text" name="event_detail">
-    <input type="text" name="page_url">
-    <input type="text" name="timestamp">
-  </form>
+  ${renderTrackingForm()}
 
   <script>
     const listings = ${escapeScript(JSON.stringify(homeListings))};
     const listingsGrid = document.getElementById("listings-grid");
     const resultsSummary = document.getElementById("results-summary");
-    const formStatus = document.getElementById("form-status");
     const searchForm = document.getElementById("lesson-search-form");
-    const bookingForm = document.getElementById("booking-form");
-    const bookingSubmit = document.getElementById("booking-submit");
     const filters = {
       area: document.getElementById("filter-area"),
       format: document.getElementById("filter-format"),
@@ -1257,25 +1231,6 @@ function renderHomePage() {
       ability: document.getElementById("search-ability"),
       party: document.getElementById("search-party")
     };
-    const detailRefs = {
-      image: document.getElementById("detail-image"),
-      location: document.getElementById("detail-location"),
-      status: document.getElementById("detail-status"),
-      name: document.getElementById("detail-name"),
-      subtitle: document.getElementById("detail-subtitle"),
-      description: document.getElementById("detail-description"),
-      specs: document.getElementById("detail-specs"),
-      facts: document.getElementById("detail-facts"),
-      levels: document.getElementById("detail-levels-list"),
-      rating: document.getElementById("detail-google-rating"),
-      pageLink: document.getElementById("detail-page-link"),
-      websiteLink: document.getElementById("detail-website"),
-      claimLink: document.getElementById("detail-claim-link"),
-      schoolInput: document.getElementById("booking-school"),
-      schoolSlugInput: document.getElementById("booking-school-slug"),
-      locationInput: document.getElementById("booking-location"),
-      providerUrlInput: document.getElementById("booking-provider-url")
-    };
 
     const sortLabels = {
       recommended: "Recommended",
@@ -1283,8 +1238,6 @@ function renderHomePage() {
       "shortest-duration": "Lesson duration",
       location: "Location"
     };
-
-    let activeListing = listings[0];
 
     function encodeForm(data) {
       return Object.keys(data)
@@ -1314,9 +1267,7 @@ function renderHomePage() {
         },
         body: payload,
         keepalive: true
-      }).catch(() => {
-        // Best effort only.
-      });
+      }).catch(() => {});
     }
 
     function getPriceSortValue(listing) {
@@ -1325,6 +1276,39 @@ function renderHomePage() {
 
     function getDurationSortValue(listing) {
       return typeof listing.sortDurationMinutes === "number" ? listing.sortDurationMinutes : Number.POSITIVE_INFINITY;
+    }
+
+    function partyPrefillValue(value) {
+      if (value === "Family") {
+        return "2 adults, 1 child";
+      }
+      if (value === "Adults") {
+        return "Adults only";
+      }
+      if (value === "Children") {
+        return "Children only";
+      }
+      return value || "";
+    }
+
+    function buildSchoolHref(listing) {
+      const params = new URLSearchParams();
+      const preferredDate = searchFields.date.value;
+      const abilityLevel = searchFields.ability.value || filters.level.value;
+      const party = partyPrefillValue(searchFields.party.value || filters.audience.value);
+
+      if (preferredDate) {
+        params.set("preferred_date", preferredDate);
+      }
+      if (abilityLevel) {
+        params.set("ability_level", abilityLevel);
+      }
+      if (party) {
+        params.set("party", party);
+      }
+
+      const query = params.toString();
+      return query ? listing.detailUrl + "?" + query : listing.detailUrl;
     }
 
     function matchesFilters(listing) {
@@ -1348,16 +1332,12 @@ function renderHomePage() {
         return false;
       }
 
-      if (age !== null) {
-        if (typeof listing.minAge !== "number" || listing.minAge > age) {
-          return false;
-        }
+      if (age !== null && (typeof listing.minAge !== "number" || listing.minAge > age)) {
+        return false;
       }
 
-      if (price !== null) {
-        if (typeof listing.minPrice !== "number" || listing.minPrice > price) {
-          return false;
-        }
+      if (price !== null && (typeof listing.minPrice !== "number" || listing.minPrice > price)) {
+        return false;
       }
 
       if (level && !listing.levels.includes(level)) {
@@ -1371,6 +1351,7 @@ function renderHomePage() {
         listing.locationLabel,
         listing.summary,
         listing.specAudience,
+        ...listing.cardHighlights,
         ...listing.facts.map((fact) => fact.value)
       ].join(" ").toLowerCase();
 
@@ -1399,106 +1380,48 @@ function renderHomePage() {
       return sorted;
     }
 
-    function renderDetail(listing) {
-      activeListing = listing;
-      detailRefs.image.src = listing.image;
-      detailRefs.image.alt = listing.imageAlt;
-      detailRefs.image.width = listing.imageWidth;
-      detailRefs.image.height = listing.imageHeight;
-      detailRefs.location.textContent = listing.locationLabel;
-      detailRefs.status.textContent = typeof listing.minPrice === "number"
-        ? listing.priceLabel + " public starting price. Final price and availability are confirmed by the school."
-        : "Final price and availability are confirmed by the school.";
-      detailRefs.name.textContent = listing.name;
-      detailRefs.subtitle.textContent = listing.subtitle || "";
-      detailRefs.subtitle.hidden = !listing.subtitle;
-      detailRefs.description.textContent = listing.summary;
-      detailRefs.specs.innerHTML = [
-        "<div><span>Lesson format</span><strong>" + listing.specFormats + "</strong></div>",
-        "<div><span>Duration</span><strong>" + listing.durationLabel + "</strong></div>",
-        "<div><span>Audience</span><strong>" + listing.specAudience + "</strong></div>",
-        "<div><span>Price</span><strong>" + listing.priceLabel + "</strong></div>"
-      ].join("");
-      detailRefs.facts.innerHTML = listing.facts.map((fact) => {
-        return "<div><span>" + fact.label + "</span><strong>" + fact.value + "</strong></div>";
-      }).join("");
-      detailRefs.levels.innerHTML = listing.levels.map((level) => "<span>" + level + "</span>").join("");
-      detailRefs.rating.dataset.schoolSlug = listing.slug;
-      detailRefs.pageLink.href = listing.detailUrl;
-      detailRefs.websiteLink.href = listing.website;
-      detailRefs.claimLink.href = listing.claimMailto;
-      detailRefs.schoolInput.value = listing.name;
-      detailRefs.schoolSlugInput.value = listing.slug;
-      detailRefs.locationInput.value = listing.locationLabel;
-      detailRefs.providerUrlInput.value = listing.website;
-    }
-
     function renderListings() {
       const visibleListings = sortListings(listings.filter(matchesFilters));
       resultsSummary.textContent = visibleListings.length + " surf school" + (visibleListings.length === 1 ? "" : "s") + " shown. Sorted by " + sortLabels[filters.sort.value] + ".";
 
       if (!visibleListings.length) {
-        listingsGrid.innerHTML = "<article class=\\"empty-state\\"><h3>No matching surf schools</h3><p>Adjust the filters to widen the North Devon lesson shortlist.</p></article>";
+        listingsGrid.innerHTML = "<article class=\"empty-state\"><h3>No matching surf schools</h3><p>Adjust the filters to widen the North Devon lesson shortlist.</p></article>";
         return;
       }
 
-      if (!visibleListings.some((listing) => listing.slug === activeListing.slug)) {
-        renderDetail(visibleListings[0]);
-      }
-
       listingsGrid.innerHTML = visibleListings.map((listing) => {
-        return \`
-          <article class="listing-card" data-slug="\${listing.slug}">
-            <div class="listing-image-wrap">
-              <img src="\${listing.image}" alt="\${listing.imageAlt}" width="\${listing.imageWidth}" height="\${listing.imageHeight}" loading="lazy" decoding="async">
-            </div>
-            <div class="listing-card-body">
-              <div class="listing-topline">
-                <p>\${listing.locationLabel}</p>
-                <span>\${listing.specFormats}</span>
-              </div>
-              <h3>\${listing.name}</h3>
-              \${listing.subtitle ? "<p class=\\"listing-subtitle\\">" + listing.subtitle + "</p>" : ""}
-              <div class="listing-meta">
-                <strong>\${listing.priceLabel}</strong>
-                <span>\${listing.durationLabel}</span>
-              </div>
-              <div class="google-rating" data-google-rating data-school-slug="\${listing.slug}" data-rating-variant="card">
-                <p class="google-rating-loading">Loading Google rating...</p>
-              </div>
-              <div class="chip-row">
-                \${listing.levels.map((level) => "<span>" + level + "</span>").join("")}
-              </div>
-              <p class="listing-copy">\${listing.summary}</p>
-              <div class="facts-grid">
-                \${listing.facts.map((fact) => "<div><span>" + fact.label + "</span><strong>" + fact.value + "</strong></div>").join("")}
-              </div>
-              <div class="listing-actions">
-                <a class="button button-primary listing-detail-link" href="\${listing.detailUrl}" data-school="\${listing.slug}">View lesson details</a>
-                <a class="text-link listing-website" href="\${listing.website}" target="_blank" rel="noopener noreferrer" data-school="\${listing.slug}">Visit school website</a>
-              </div>
-              <a class="claim-link" href="\${listing.claimMailto}">Own this surf school? Claim or update this listing</a>
-            </div>
-          </article>
-        \`;
+        return [
+          "<article class=\"listing-card\">",
+          "<div class=\"listing-image-wrap\">",
+          "<img src=\"" + listing.image + "\" alt=\"" + listing.imageAlt + "\" width=\"" + listing.imageWidth + "\" height=\"" + listing.imageHeight + "\" loading=\"lazy\" decoding=\"async\">",
+          "</div>",
+          "<div class=\"listing-card-body\">",
+          "<div class=\"listing-topline\">",
+          "<p>" + listing.locationLabel + "</p>",
+          "<span class=\"listing-badge\">" + listingNote + "</span>",
+          "</div>",
+          "<h3>" + listing.name + "</h3>",
+          listing.subtitle ? "<p class=\"listing-subtitle\">" + listing.subtitle + "</p>" : "",
+          "<div class=\"google-rating\" data-google-rating data-school-slug=\"" + listing.slug + "\" data-rating-variant=\"card\">",
+          "<p class=\"google-rating-loading\">Loading Google rating...</p>",
+          "</div>",
+          "<div class=\"listing-meta\">",
+          "<strong>" + listing.priceLabel + "</strong>",
+          "<span>" + listing.durationLabel + "</span>",
+          "</div>",
+          "<p class=\"listing-format-line\"><strong>Lesson formats:</strong> " + listing.specFormats + "</p>",
+          listing.cardHighlights.length ? "<ul class=\"card-highlights\">" + listing.cardHighlights.map((highlight) => "<li>" + highlight + "</li>").join("") + "</ul>" : "",
+          "<div class=\"chip-row\">",
+          listing.levels.map((level) => "<span>" + level + "</span>").join(""),
+          "</div>",
+          "<div class=\"listing-actions\">",
+          "<a class=\"button button-primary listing-detail-link\" href=\"" + buildSchoolHref(listing) + "\" data-school=\"" + listing.slug + "\">View lesson details</a>",
+          "<a class=\"text-link listing-website\" href=\"" + listing.website + "\" target=\"_blank\" rel=\"noopener noreferrer\" data-school=\"" + listing.slug + "\">Visit school website</a>",
+          "</div>",
+          "</div>",
+          "</article>"
+        ].join("");
       }).join("");
-
-      document.querySelectorAll(".listing-card").forEach((card) => {
-        card.addEventListener("click", (event) => {
-          if (event.target.closest("a, button")) {
-            return;
-          }
-
-          const listing = listings.find((item) => item.slug === card.dataset.slug);
-          if (!listing) {
-            return;
-          }
-
-          renderDetail(listing);
-          trackEvent("listing_view", listing.slug, "homepage-card");
-          document.getElementById("listing-detail").scrollIntoView({ behavior: "smooth", block: "start" });
-        });
-      });
 
       document.querySelectorAll(".listing-detail-link").forEach((link) => {
         link.addEventListener("click", () => {
@@ -1521,9 +1444,6 @@ function renderHomePage() {
       filters.audience.value = searchFields.party.value;
       renderListings();
       document.getElementById("lessons").scrollIntoView({ behavior: "smooth", block: "start" });
-      document.getElementById("booking-date").value = searchFields.date.value;
-      document.getElementById("booking-level").value = searchFields.ability.value;
-      document.getElementById("booking-party").value = searchFields.party.value === "Family" ? "2 adults, 1 child" : searchFields.party.value;
       trackEvent("search", filters.area.value || "all-beaches", JSON.stringify({
         area: filters.area.value,
         format: filters.format.value,
@@ -1538,83 +1458,16 @@ function renderHomePage() {
       field.addEventListener("change", renderListings);
     });
 
-    detailRefs.websiteLink.addEventListener("click", () => {
-      trackEvent("website_click", activeListing.slug, activeListing.website);
-    });
-
-    detailRefs.pageLink.addEventListener("click", () => {
-      trackEvent("listing_view", activeListing.slug, "detail-panel-link");
-    });
-
-    bookingForm.addEventListener("submit", async (event) => {
-      event.preventDefault();
-      formStatus.textContent = "Sending enquiry...";
-      bookingSubmit.disabled = true;
-
-      const payload = {
-        "form-name": bookingForm.getAttribute("name"),
-        submission_type: bookingForm.elements["submission_type"].value,
-        "bot-field": bookingForm.elements["bot-field"].value,
-        school: detailRefs.schoolInput.value,
-        school_slug: detailRefs.schoolSlugInput.value,
-        lesson_location: detailRefs.locationInput.value,
-        provider_url: detailRefs.providerUrlInput.value,
-        source_page: bookingForm.elements["source_page"].value,
-        name: bookingForm.elements["name"].value,
-        email: bookingForm.elements["email"].value,
-        preferred_date: bookingForm.elements["preferred_date"].value,
-        party: bookingForm.elements["party"].value,
-        ability_level: bookingForm.elements["ability_level"].value,
-        notes: bookingForm.elements["notes"].value
-      };
-
-      try {
-        const response = await fetch("/", {
-          method: "POST",
-          headers: {
-            "Content-Type": "application/x-www-form-urlencoded"
-          },
-          body: encodeForm(payload)
-        });
-
-        if (!response.ok) {
-          throw new Error("Submission failed");
-        }
-
-        formStatus.textContent = "Enquiry sent. Check your inbox for follow-up and confirm final lesson availability with the school.";
-        trackEvent("enquiry", activeListing.slug, bookingForm.elements["preferred_date"].value);
-        bookingForm.reset();
-        detailRefs.schoolInput.value = activeListing.name;
-        detailRefs.schoolSlugInput.value = activeListing.slug;
-        detailRefs.locationInput.value = activeListing.locationLabel;
-        detailRefs.providerUrlInput.value = activeListing.website;
-      } catch (error) {
-        formStatus.textContent = "The enquiry could not be sent just now. Try again, or use the school website directly.";
-      } finally {
-        bookingSubmit.disabled = false;
-      }
-    });
-
-    const requestedSchool = new URLSearchParams(window.location.search).get("school");
-    const requestedListing = requestedSchool ? listings.find((listing) => listing.slug === requestedSchool) : null;
-    if (requestedListing) {
-      activeListing = requestedListing;
-      renderDetail(requestedListing);
-      document.getElementById("listing-detail").scrollIntoView({ behavior: "auto", block: "start" });
-    } else {
-      renderDetail(activeListing);
-    }
     renderListings();
   </script>
 </body>
 </html>`;
 }
-
 function renderLocationPage(location) {
   const areaSchools = getSchoolsForLocation(location.slug);
   const title = location.slug === "north-devon"
-    ? `${location.pageTitle} | Compare and Enquire | Surfbooker`
-    : `${location.pageTitle}, North Devon | Compare and Enquire | Surfbooker`;
+    ? `${location.pageTitle} | Surfbooker`
+    : `${location.pageTitle}, North Devon | Surfbooker`;
   const description = location.metaDescription;
   const path = `/surf-lessons/${location.slug}/`;
   const breadcrumbs = location.slug === "north-devon"
@@ -1659,10 +1512,10 @@ function renderLocationPage(location) {
     heroChildren: `
       <p>${escapeHtml(location.intro[1])}</p>
       <div class="simple-actions">
-        <a class="button button-primary" href="/#lessons">Compare and enquire</a>
+        <a class="button button-primary" href="#lessons">Compare lessons</a>
         <a class="button button-secondary" href="${location.slug === "north-devon" ? "#nearby-pages" : "/surf-lessons/north-devon/"}">${location.slug === "north-devon" ? "Browse beach pages" : "View North Devon overview"}</a>
       </div>
-      <p class="page-note">${escapeHtml(listingNote)}</p>
+      <p class="page-note">Prices and availability are confirmed by each school when you enquire.</p>
     `,
     breadcrumbs,
     jsonLd,
@@ -1671,7 +1524,7 @@ function renderLocationPage(location) {
         <div class="simple-facts">
           <div><span>Listed schools</span><strong>${areaSchools.length}</strong></div>
           <div><span>Lesson formats</span><strong>${summariseFormats(areaSchools)}</strong></div>
-          <div><span>Lowest verified price</span><strong>${lowestPriceLabel(areaSchools)}</strong></div>
+          <div><span>Lowest public starting price</span><strong>${lowestPriceLabel(areaSchools)}</strong></div>
           <div><span>Internal pages</span><strong>${areaSchools.length} school pages plus this location page</strong></div>
         </div>
       </section>
@@ -1694,8 +1547,8 @@ function renderLocationPage(location) {
       <section class="listings-section listings-section-static">
         <div class="section-heading">
           <p class="section-label">Schools in this area</p>
-          <h2>${location.slug === "north-devon" ? "Static comparison cards for the full North Devon school set." : `Static comparison cards for ${escapeHtml(location.pageTitle.toLowerCase())}.`}</h2>
-          <p class="section-note">${escapeHtml(listingNote)}</p>
+          <h2>${location.slug === "north-devon" ? "Compare North Devon surf schools." : `Compare surf schools in ${escapeHtml(location.name)}.`}</h2>
+          <p class="section-note">Prices and details are checked against provider websites, but final availability is confirmed when you enquire.</p>
         </div>
         <div class="listings-grid static-listings-grid">
           ${areaSchools.map((school) => renderStaticListingCard(school)).join("")}
@@ -1720,7 +1573,7 @@ function renderLocationPage(location) {
 function renderSchoolPage(school) {
   const location = locations.find((item) => item.slug === school.locationSlug);
   const title = `${school.name} | ${school.area} Surf Lessons | Surfbooker`;
-  const description = `Compare public surf lesson details for ${school.name} in ${school.locationLabel}. Review lesson format, duration, verified price signals and practical notes before you enquire.`;
+  const description = `Compare public surf lesson details for ${school.name} in ${school.locationLabel}. Review lesson format, duration, price information and practical notes before you request availability.`;
   const path = `/surf-schools/${school.slug}/`;
   const jsonLd = {
     "@context": "https://schema.org",
@@ -1742,16 +1595,16 @@ function renderSchoolPage(school) {
     description,
     path,
     h1: school.name,
-    label: "Surf school page",
+    label: "Surf school listing",
     intro: school.pageIntro[0],
     heroChildren: `
       ${school.subtitle ? `<p class="simple-kicker">${escapeHtml(school.subtitle)}</p>` : ""}
       <p>${escapeHtml(school.pageIntro[1])}</p>
       <div class="simple-actions">
-        <a class="button button-primary" href="/?school=${escapeHtml(school.slug)}#listing-detail">Compare and enquire via Surfbooker</a>
+        <a class="button button-primary" href="#availability-request">Request availability</a>
         <a class="button button-secondary" href="${escapeHtml(school.website)}" target="_blank" rel="noopener noreferrer" data-track-website="${escapeHtml(school.slug)}">Visit school website</a>
       </div>
-      <p class="page-note">Preferred lesson dates are sent with your Surfbooker enquiry. Final times, prices and availability are confirmed by the school.</p>
+      <p class="page-note">Prices and lesson details are checked against the provider website. Final availability is confirmed when you enquire.</p>
     `,
     breadcrumbs: [
       { name: "Home", url: "/" },
@@ -1770,10 +1623,10 @@ function renderSchoolPage(school) {
         <div class="detail-copy">
           <div class="detail-meta">
             <p class="detail-location">${escapeHtml(school.locationLabel)}</p>
-            <p class="detail-status">${typeof school.minPrice === "number" ? `${escapeHtml(school.priceLabel)} public starting price.` : "Price should be confirmed on the school website."}</p>
+            <p class="detail-status">${typeof school.minPrice === "number" ? `${escapeHtml(school.priceLabel)} public starting price.` : "Price confirmed on the school website."}</p>
           </div>
           ${renderGoogleRatingSlot(school.slug, "detail")}
-          <h2>What Surfbooker could verify</h2>
+          <h2>Lesson details</h2>
           <p class="detail-description">${escapeHtml(school.summary)}</p>
           <div class="detail-specs">
             <div><span>Lesson format</span><strong>${escapeHtml(specFormatLabel(school))}</strong></div>
@@ -1791,10 +1644,9 @@ function renderSchoolPage(school) {
             </div>
           </div>
           <div class="detail-actions">
-            <a class="button button-primary" href="/?school=${escapeHtml(school.slug)}#listing-detail">Compare and enquire via Surfbooker</a>
+            <a class="button button-primary" href="#availability-request">Request availability</a>
             <a class="text-link" href="${escapeHtml(school.website)}" target="_blank" rel="noopener noreferrer" data-track-website="${escapeHtml(school.slug)}">Visit school website</a>
           </div>
-          <a class="claim-link" href="${escapeHtml(school.claimMailto)}">Own this surf school? Claim or update this listing</a>
         </div>
       </section>
       <section class="simple-card simple-copy">
@@ -1803,12 +1655,61 @@ function renderSchoolPage(school) {
           ${school.websiteFacts.map((fact) => `<li>${escapeHtml(fact)}</li>`).join("")}
         </ul>
       </section>
+      <section class="booking-panel availability-panel" id="availability-request">
+        <div class="booking-copy">
+          <p class="section-label">Availability request</p>
+          <h3>Request availability</h3>
+          <p>Send us your preferred date, ability level and group details. Surfbooker will use this information to help check the lesson with your selected school. No payment is taken at this stage.</p>
+          <p class="field-note">Final prices and lesson availability are confirmed by the provider.</p>
+          <a class="text-link whatsapp-inline" href="${escapeHtml(whatsappUrl)}" target="_blank" rel="noopener noreferrer" aria-label="Message Surfbooker on WhatsApp">Message us on WhatsApp instead</a>
+        </div>
+        <form class="booking-form" id="availability-form" name="lesson-enquiry" method="POST" action="${path}" data-netlify="true" netlify-honeypot="bot-field">
+          <input type="hidden" name="form-name" value="lesson-enquiry">
+          <input type="hidden" name="submission_type" value="Surfbooker availability request">
+          <p class="sr-only"><label>Do not fill this out if you're human: <input name="bot-field"></label></p>
+          <input type="hidden" name="school" value="${escapeHtml(school.name)}">
+          <input type="hidden" name="school_slug" value="${escapeHtml(school.slug)}">
+          <input type="hidden" name="lesson_location" value="${escapeHtml(school.locationLabel)}">
+          <input type="hidden" name="provider_url" value="${escapeHtml(school.website)}">
+          <input type="hidden" name="source_page" value="${escapeHtml(path)}">
+          <label>
+            <span>Your name</span>
+            <input type="text" name="name" placeholder="Full name" required>
+          </label>
+          <label>
+            <span>Email</span>
+            <input type="email" name="email" placeholder="you@example.com" required>
+          </label>
+          <label>
+            <span>Preferred lesson date</span>
+            <input type="date" name="preferred_date" required>
+            <small class="field-note">This date is sent with your request. It does not check live availability.</small>
+          </label>
+          <label>
+            <span>Adults and children</span>
+            <input type="text" name="party" placeholder="2 adults, 1 child" required>
+          </label>
+          <label>
+            <span>Ability level</span>
+            <select name="ability_level" required>
+              <option value="">Select ability</option>
+              ${levelOptions.map((level) => `<option value="${escapeHtml(level)}">${escapeHtml(level)}</option>`).join("")}
+            </select>
+          </label>
+          <label>
+            <span>Extra notes</span>
+            <textarea name="notes" rows="4" placeholder="Anything Surfbooker should know before following up with the school."></textarea>
+          </label>
+          <button type="submit">Send availability request</button>
+          <p class="form-status" id="availability-status" aria-live="polite"></p>
+        </form>
+      </section>
       <section class="simple-card simple-copy">
         <h2>Related Surfbooker pages</h2>
         <div class="footer-links">
           <a href="/surf-lessons/${location.slug}/">${escapeHtml(location.pageTitle)}</a>
           <a href="/surf-lessons/north-devon/">North Devon surf lessons</a>
-          <a href="/claim-or-update-a-listing/?school=${escapeHtml(school.slug)}">Claim or update this listing</a>
+          <a href="/contact/">Contact Surfbooker</a>
         </div>
       </section>
       ${renderTrackingForm()}
@@ -1816,6 +1717,62 @@ function renderSchoolPage(school) {
         ${trackingScript("listing_view", school.slug, "school-page")}
         document.querySelectorAll("[data-track-website]").forEach((link) => {
           link.addEventListener("click", () => trackEvent("website_click", "${escapeScript(school.slug)}", link.href));
+        });
+        const availabilityForm = document.getElementById("availability-form");
+        const availabilityStatus = document.getElementById("availability-status");
+        const schoolPageParams = new URLSearchParams(window.location.search);
+        const preferredDate = schoolPageParams.get("preferred_date");
+        const abilityLevel = schoolPageParams.get("ability_level");
+        const party = schoolPageParams.get("party");
+
+        if (preferredDate) {
+          availabilityForm.elements["preferred_date"].value = preferredDate;
+        }
+        if (abilityLevel) {
+          availabilityForm.elements["ability_level"].value = abilityLevel;
+        }
+        if (party) {
+          availabilityForm.elements["party"].value = party;
+        }
+
+        availabilityForm.addEventListener("submit", async (event) => {
+          event.preventDefault();
+          availabilityStatus.textContent = "Sending availability request...";
+
+          const payload = {
+            "form-name": availabilityForm.getAttribute("name"),
+            submission_type: availabilityForm.elements["submission_type"].value,
+            "bot-field": availabilityForm.elements["bot-field"].value,
+            school: availabilityForm.elements["school"].value,
+            school_slug: availabilityForm.elements["school_slug"].value,
+            lesson_location: availabilityForm.elements["lesson_location"].value,
+            provider_url: availabilityForm.elements["provider_url"].value,
+            source_page: availabilityForm.elements["source_page"].value,
+            name: availabilityForm.elements["name"].value,
+            email: availabilityForm.elements["email"].value,
+            preferred_date: availabilityForm.elements["preferred_date"].value,
+            party: availabilityForm.elements["party"].value,
+            ability_level: availabilityForm.elements["ability_level"].value,
+            notes: availabilityForm.elements["notes"].value
+          };
+
+          try {
+            const response = await fetch("/", {
+              method: "POST",
+              headers: { "Content-Type": "application/x-www-form-urlencoded" },
+              body: encodeForm(payload)
+            });
+
+            if (!response.ok) {
+              throw new Error("Submission failed");
+            }
+
+            availabilityStatus.textContent = "Availability request sent. Surfbooker will use these details to help check the lesson with ${escapeScript(school.name)}.";
+            trackEvent("enquiry", "${escapeScript(school.slug)}", availabilityForm.elements["preferred_date"].value);
+            availabilityForm.reset();
+          } catch (error) {
+            availabilityStatus.textContent = "The request could not be sent just now. Please try again, or use the school website directly.";
+          }
         });
       </script>
     `
@@ -1870,8 +1827,10 @@ function renderNotFoundPage() {
   <meta name="twitter:title" content="${escapeHtml(title)}">
   <meta name="twitter:description" content="${escapeHtml(description)}">
   <meta name="twitter:image" content="${baseUrl}${logoBackground}">
-  <link rel="icon" href="${logoIcon}" type="image/png">
-  <link rel="apple-touch-icon" href="${logoIcon}">
+  <link rel="icon" href="${faviconIco}" sizes="any">
+  <link rel="icon" type="image/png" sizes="48x48" href="${favicon48}">
+  <link rel="icon" type="image/png" sizes="96x96" href="${favicon96}">
+  <link rel="apple-touch-icon" sizes="180x180" href="${appleTouchIcon}">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;700&family=Instrument+Serif:ital@0;1&display=swap" rel="stylesheet">
@@ -1906,6 +1865,7 @@ function renderNotFoundPage() {
       </section>
     </main>
     ${renderFooter()}
+    ${renderWhatsAppDock()}
   </div>
 </body>
 </html>`;
@@ -1935,8 +1895,10 @@ function renderStandardPage({ title, description, path, h1, label, intro, heroCh
   <meta name="twitter:title" content="${escapeHtml(title)}">
   <meta name="twitter:description" content="${escapeHtml(description)}">
   <meta name="twitter:image" content="${baseUrl}${logoBackground}">
-  <link rel="icon" href="${logoIcon}" type="image/png">
-  <link rel="apple-touch-icon" href="${logoIcon}">
+  <link rel="icon" href="${faviconIco}" sizes="any">
+  <link rel="icon" type="image/png" sizes="48x48" href="${favicon48}">
+  <link rel="icon" type="image/png" sizes="96x96" href="${favicon96}">
+  <link rel="apple-touch-icon" sizes="180x180" href="${appleTouchIcon}">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link rel="preconnect" href="https://images.pexels.com" crossorigin>
@@ -1961,12 +1923,14 @@ function renderStandardPage({ title, description, path, h1, label, intro, heroCh
       ${mainContent}
     </main>
     ${renderFooter()}
+    ${renderWhatsAppDock()}
   </div>
 </body>
 </html>`;
 }
 
 function renderStaticListingCard(school) {
+  const highlights = cardHighlightsForSchool(school);
   return `
     <article class="listing-card static-listing-card">
       <div class="listing-image-wrap">
@@ -1975,27 +1939,28 @@ function renderStaticListingCard(school) {
       <div class="listing-card-body">
         <div class="listing-topline">
           <p>${escapeHtml(school.locationLabel)}</p>
-          <span>${escapeHtml(specFormatLabel(school))}</span>
+          <span class="listing-badge">${escapeHtml(listingNote)}</span>
         </div>
         <h3>${escapeHtml(school.name)}</h3>
         ${school.subtitle ? `<p class="listing-subtitle">${escapeHtml(school.subtitle)}</p>` : ""}
+        ${renderGoogleRatingSlot(school.slug)}
         <div class="listing-meta">
           <strong>${escapeHtml(school.priceLabel)}</strong>
           <span>${escapeHtml(school.durationLabel)}</span>
         </div>
-        ${renderGoogleRatingSlot(school.slug)}
+        <p class="listing-format-line"><strong>Lesson formats:</strong> ${escapeHtml(specFormatLabel(school))}</p>
         <div class="chip-row">
           ${school.levels.map((level) => `<span>${escapeHtml(level)}</span>`).join("")}
         </div>
-        <p class="listing-copy">${escapeHtml(school.summary)}</p>
-        <div class="facts-grid">
-          ${school.facts.slice(0, 4).map((fact) => `<div><span>${escapeHtml(fact.label)}</span><strong>${escapeHtml(fact.value)}</strong></div>`).join("")}
-        </div>
+        ${highlights.length ? `
+        <ul class="card-highlights">
+          ${highlights.map((highlight) => `<li>${escapeHtml(highlight)}</li>`).join("")}
+        </ul>
+        ` : ""}
         <div class="listing-actions">
           <a class="button button-primary" href="${escapeHtml(comparePathForSchool(school))}">View lesson details</a>
           <a class="text-link" href="${escapeHtml(school.website)}" target="_blank" rel="noopener noreferrer">Visit school website</a>
         </div>
-        <a class="claim-link" href="${escapeHtml(school.claimMailto)}">Own this surf school? Claim or update this listing</a>
       </div>
     </article>
   `;
@@ -2005,16 +1970,22 @@ function renderHeader() {
   return `
     <header class="site-header">
       <a class="brand" href="/">
-        <img class="brand-logo" src="${logoIcon}" alt="" width="1254" height="1254">
-        <span class="brand-wordmark">Surfbooker</span>
+        <img class="brand-wordmark-image" src="${logoWordmark}" alt="Surfbooker" width="1774" height="887">
       </a>
       <nav class="site-nav" aria-label="Primary navigation">
         <a href="/surf-lessons/north-devon/">North Devon</a>
         <a href="/#lessons">Schools</a>
         <a href="/list-your-surf-school/">List your surf school</a>
         <a href="/contact/">Contact</a>
+        <a href="${whatsappUrl}" target="_blank" rel="noopener noreferrer" aria-label="Message Surfbooker on WhatsApp">WhatsApp</a>
       </nav>
-      <a class="header-cta" href="/#search-panel">Compare and enquire</a>
+      <div class="header-actions">
+        <a class="header-cta" href="/#search-panel">Compare lessons</a>
+      </div>
+      <div class="mobile-nav-links" aria-label="Mobile contact links">
+        <a href="/contact/">Contact</a>
+        <a href="${whatsappUrl}" target="_blank" rel="noopener noreferrer" aria-label="Message Surfbooker on WhatsApp">WhatsApp</a>
+      </div>
     </header>
   `;
 }
@@ -2035,9 +2006,17 @@ function renderFooter() {
         <a href="/list-your-surf-school/">List your surf school</a>
         <a href="/claim-or-update-a-listing/">Claim or update a listing</a>
       </div>
-      <p class="footer-meta"><a class="text-link" href="mailto:${escapeHtml(email)}">${escapeHtml(email)}</a></p>
+      <p class="footer-meta">
+        <a class="text-link" href="mailto:${escapeHtml(email)}">${escapeHtml(email)}</a>
+        <span> · </span>
+        <a class="text-link" href="${escapeHtml(whatsappUrl)}" target="_blank" rel="noopener noreferrer" aria-label="Message Surfbooker on WhatsApp">WhatsApp ${escapeHtml(whatsappNumber)}</a>
+      </p>
     </footer>
   `;
+}
+
+function renderWhatsAppDock() {
+  return `<a class="whatsapp-dock" href="${escapeHtml(whatsappUrl)}" target="_blank" rel="noopener noreferrer" aria-label="Message Surfbooker on WhatsApp">WhatsApp</a>`;
 }
 
 function renderBreadcrumbs(items) {
@@ -2133,7 +2112,13 @@ function getSchoolsForLocation(locationSlug) {
 
 function locationSummary(location) {
   const areaSchools = getSchoolsForLocation(location.slug);
-  return areaSchools.map((school) => school.name).join(", ");
+  if (!areaSchools.length) {
+    return "No current school listings.";
+  }
+
+  const countLabel = `${areaSchools.length} surf school${areaSchools.length === 1 ? "" : "s"}`;
+  const formatLabel = summariseFormats(areaSchools).toLowerCase();
+  return `${countLabel}. ${lowestPriceLabel(areaSchools)}. ${formatLabel} lessons.`;
 }
 
 function summariseFormats(areaSchools) {
@@ -2172,7 +2157,7 @@ function breadcrumbItems(items) {
 }
 
 function comparePathForSchool(school) {
-  return `/?school=${school.slug}#listing-detail`;
+  return `/surf-schools/${school.slug}/`;
 }
 
 function toListingData(school) {
@@ -2202,8 +2187,50 @@ function toListingData(school) {
     minAge: school.minAge,
     summary: school.summary,
     facts: school.facts,
+    cardHighlights: cardHighlightsForSchool(school),
     claimMailto: school.claimMailto
   };
+}
+
+function cardHighlightsForSchool(school) {
+  const preferredLabels = [
+    "Equipment",
+    "Changing",
+    "Group size",
+    "Accreditation",
+    "Parking",
+    "Minimum age",
+    "Meeting point",
+    "Facilities",
+    "Safety",
+    "Location note",
+    "Beach base",
+    "Instructor note"
+  ];
+  const picks = [];
+
+  for (const label of preferredLabels) {
+    const match = school.facts.find((fact) => fact.label === label);
+    if (match && !picks.includes(match.value)) {
+      picks.push(match.value);
+    }
+    if (picks.length === 3) {
+      break;
+    }
+  }
+
+  if (picks.length < 3) {
+    for (const fact of school.facts) {
+      if (!picks.includes(fact.value)) {
+        picks.push(fact.value);
+      }
+      if (picks.length === 3) {
+        break;
+      }
+    }
+  }
+
+  return picks;
 }
 
 function mailtoForSchool(schoolName) {
@@ -2215,8 +2242,19 @@ function mailtoForSchool(schoolName) {
 function write(relativePath, content) {
   const filePath = join(rootDir, relativePath);
   mkdirSync(dirname(filePath), { recursive: true });
-  const output = /\.html$/i.test(relativePath) ? "\ufeff" + content : content;
+  const normalised = normaliseGeneratedText(content);
+  const output = /\.html$/i.test(relativePath) ? "\ufeff" + normalised : normalised;
   writeFileSync(filePath, output);
+}
+
+function normaliseGeneratedText(value) {
+  return String(value)
+    .replace(/Â£/g, "£")
+    .replace(/â€™/g, "'")
+    .replace(/â€œ/g, "\"")
+    .replace(/â€/g, "\"")
+    .replace(/â€“/g, "-")
+    .replace(/â€”/g, "-");
 }
 
 function escapeHtml(value) {
@@ -2231,3 +2269,4 @@ function escapeHtml(value) {
 function escapeScript(value) {
   return String(value).replace(/<\//g, "<\\/");
 }
+

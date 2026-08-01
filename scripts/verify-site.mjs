@@ -1,4 +1,4 @@
-import { readFileSync, readdirSync, statSync } from "node:fs";
+import { existsSync, readFileSync, readdirSync, statSync } from "node:fs";
 import { join, relative } from "node:path";
 
 const rootDir = process.cwd();
@@ -64,6 +64,14 @@ for (const file of htmlFiles) {
 
     const cleanHref = href.split("#")[0].split("?")[0];
     if (!cleanHref) {
+      continue;
+    }
+
+    if (/\.(?:ico|png|jpg|jpeg|webp|svg|js)$/i.test(cleanHref)) {
+      const assetPath = join(rootDir, cleanHref.slice(1));
+      if (!existsSync(assetPath)) {
+        failures.push(`${rel}: broken internal asset ${href}`);
+      }
       continue;
     }
 
