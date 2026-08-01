@@ -5,8 +5,6 @@ const rootDir = process.cwd();
 const buildDate = "2026-08-01";
 const baseUrl = "https://surfbooker.com";
 const email = "hello@surfbooker.com";
-const whatsappUrl = "https://wa.me/447853362904?text=Hello%20Surfbooker%2C%20I%20have%20a%20question%20about...";
-const whatsappNumber = "+44 7853 362904";
 const logoIcon = "/Logo%20no%20words%20transparent.png";
 const logoWordmark = "/Logo%20transparent.png";
 const logoBackground = "/Logo%20background.png";
@@ -615,14 +613,7 @@ const utilityPages = [
             <p>Use this form for general questions, help finding a surf lesson, listing issues, partnership requests or website problems.</p>
             <div class="simple-facts">
               <div><span>Email</span><strong><a class="text-link" href="mailto:${escapeHtml(email)}">${escapeHtml(email)}</a></strong></div>
-              <div><span>WhatsApp</span><strong><a class="text-link" href="${escapeHtml(whatsappUrl)}" target="_blank" rel="noopener noreferrer" aria-label="Message Surfbooker on WhatsApp">${escapeHtml(whatsappNumber)}</a></strong></div>
             </div>
-          </div>
-          <div class="simple-card simple-copy whatsapp-card">
-            <p class="section-label">WhatsApp</p>
-            <h2>Message us on WhatsApp</h2>
-            <p>WhatsApp is suitable for general questions and help finding a lesson. Lesson availability still needs to be confirmed with the selected surf school.</p>
-            <a class="button button-primary" href="${escapeHtml(whatsappUrl)}" target="_blank" rel="noopener noreferrer" aria-label="Message Surfbooker on WhatsApp">Message us on WhatsApp</a>
           </div>
         </div>
       </section>
@@ -692,7 +683,7 @@ const utilityPages = [
               generalContactStatus.textContent = "Message sent. Surfbooker will get back to you as soon as possible.";
               generalContactForm.reset();
             } catch (error) {
-              generalContactStatus.textContent = "Your message could not be sent just now. Please try again, email hello@surfbooker.com or use WhatsApp.";
+              generalContactStatus.textContent = "Your message could not be sent just now. Please try again or email hello@surfbooker.com.";
             }
           });
         </script>
@@ -1157,7 +1148,6 @@ function renderHomePage() {
     </main>
 
     ${renderFooter()}
-    ${renderWhatsAppDock()}
   </div>
 
   ${renderTrackingForm()}
@@ -1575,7 +1565,6 @@ function renderSchoolPage(school) {
           <h3>Request availability</h3>
           <p>Send us your preferred date, ability level and group details. Surfbooker will use this information to help check the lesson with your selected school. No payment is taken at this stage.</p>
           <p class="field-note">Final prices and lesson availability are confirmed by the provider.</p>
-          <a class="text-link whatsapp-inline" href="${escapeHtml(whatsappUrl)}" target="_blank" rel="noopener noreferrer" aria-label="Message Surfbooker on WhatsApp">Message us on WhatsApp instead</a>
         </div>
         <form class="booking-form" id="availability-form" name="lesson-enquiry" method="POST" action="${path}" data-netlify="true" netlify-honeypot="bot-field">
           <input type="hidden" name="form-name" value="lesson-enquiry">
@@ -1682,7 +1671,7 @@ function renderSchoolPage(school) {
             trackEvent("enquiry", "${escapeScript(school.slug)}", availabilityForm.elements["preferred_date"].value);
             availabilityForm.reset();
           } catch (error) {
-            availabilityStatus.textContent = "The request could not be sent just now. Please try again or contact Surfbooker on WhatsApp.";
+            availabilityStatus.textContent = "The request could not be sent just now. Please try again or email hello@surfbooker.com.";
           }
         });
       </script>
@@ -1776,7 +1765,6 @@ function renderNotFoundPage() {
       </section>
     </main>
     ${renderFooter()}
-    ${renderWhatsAppDock()}
   </div>
 </body>
 </html>`;
@@ -1834,7 +1822,6 @@ function renderStandardPage({ title, description, path, h1, label, intro, heroCh
       ${mainContent}
     </main>
     ${renderFooter()}
-    ${renderWhatsAppDock()}
   </div>
 </body>
 </html>`;
@@ -1887,11 +1874,9 @@ function renderHeader() {
         <a href="/#lessons">Schools</a>
         <a href="/list-your-surf-school/">List your surf school</a>
         <a href="/contact/">Contact</a>
-        <a href="${whatsappUrl}" target="_blank" rel="noopener noreferrer" aria-label="Message Surfbooker on WhatsApp">WhatsApp</a>
       </nav>
       <div class="mobile-nav-links" aria-label="Mobile contact links">
         <a href="/contact/">Contact</a>
-        <a href="${whatsappUrl}" target="_blank" rel="noopener noreferrer" aria-label="Message Surfbooker on WhatsApp">WhatsApp</a>
       </div>
     </header>
   `;
@@ -1918,10 +1903,6 @@ function renderFooter() {
       </p>
     </footer>
   `;
-}
-
-function renderWhatsAppDock() {
-  return `<a class="whatsapp-dock" href="${escapeHtml(whatsappUrl)}" target="_blank" rel="noopener noreferrer" aria-label="Message Surfbooker on WhatsApp">WhatsApp</a>`;
 }
 
 function renderBreadcrumbs(items) {
