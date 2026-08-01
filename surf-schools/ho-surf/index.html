@@ -82,9 +82,6 @@
         <a href="/contact/">Contact</a>
         <a href="https://wa.me/447853362904?text=Hello%20Surfbooker%2C%20I%20have%20a%20question%20about..." target="_blank" rel="noopener noreferrer" aria-label="Message Surfbooker on WhatsApp">WhatsApp</a>
       </nav>
-      <div class="header-actions">
-        <a class="header-cta" href="/#search-panel">Compare lessons</a>
-      </div>
       <div class="mobile-nav-links" aria-label="Mobile contact links">
         <a href="/contact/">Contact</a>
         <a href="https://wa.me/447853362904?text=Hello%20Surfbooker%2C%20I%20have%20a%20question%20about..." target="_blank" rel="noopener noreferrer" aria-label="Message Surfbooker on WhatsApp">WhatsApp</a>
@@ -108,7 +105,6 @@
       <p>The same page says lessons start from the shop on the village green, where surfers meet the instructor, get fitted with a quality wetsuit, use the on-site changing rooms and leave clothes safely before heading to the beach.</p>
       <div class="simple-actions">
         <a class="button button-primary" href="#availability-request">Request availability</a>
-        <a class="button button-secondary" href="https://www.surfandkiteshop.co.uk/learn-to-surf" target="_blank" rel="noopener noreferrer" data-track-website="ho-surf">Visit school website</a>
       </div>
       <p class="page-note">Prices and lesson details are checked against the provider website. Final availability is confirmed when you enquire.</p>
     
@@ -123,7 +119,7 @@
         <div class="detail-copy">
           <div class="detail-meta">
             <p class="detail-location">Westward Ho!, North Devon</p>
-            <p class="detail-status">Price confirmed on the school website.</p>
+            <p class="detail-status">Price confirmed by the provider.</p>
           </div>
           <div class="google-rating" data-google-rating data-school-slug="ho-surf" data-rating-variant="detail"><p class="google-rating-loading">Loading Google rating...</p></div>
           <h2>Lesson details</h2>
@@ -132,7 +128,7 @@
             <div><span>Lesson format</span><strong>Group</strong></div>
             <div><span>Duration</span><strong>2 hours</strong></div>
             <div><span>Audience</span><strong>Ask the school</strong></div>
-            <div><span>Price</span><strong>Check school website</strong></div>
+            <div><span>Price</span><strong>Check availability</strong></div>
           </div>
           <div class="detail-facts">
             <div><span>Lesson format</span><strong>Group lessons</strong></div><div><span>Duration</span><strong>2 hours</strong></div><div><span>Ability levels</span><strong>Beginner to advanced</strong></div><div><span>Equipment</span><strong>Quality wetsuit and board allocation described on the lesson page</strong></div><div><span>Changing</span><strong>On-site changing rooms and clothes storage</strong></div><div><span>Safety</span><strong>Safety briefing before going to the water</strong></div><div><span>Instructor note</span><strong>Instructors hold current beach lifeguard qualifications</strong></div><div><span>Weather policy</span><strong>Lessons are rebooked or refunded if conditions are unsafe</strong></div>
@@ -145,7 +141,6 @@
           </div>
           <div class="detail-actions">
             <a class="button button-primary" href="#availability-request">Request availability</a>
-            <a class="text-link" href="https://www.surfandkiteshop.co.uk/learn-to-surf" target="_blank" rel="noopener noreferrer" data-track-website="ho-surf">Visit school website</a>
           </div>
         </div>
       </section>
@@ -249,9 +244,6 @@
     }
     trackEvent("listing_view", "ho-surf", "school-page");
   
-        document.querySelectorAll("[data-track-website]").forEach((link) => {
-          link.addEventListener("click", () => trackEvent("website_click", "ho-surf", link.href));
-        });
         const availabilityForm = document.getElementById("availability-form");
         const availabilityStatus = document.getElementById("availability-status");
         const schoolPageParams = new URLSearchParams(window.location.search);
@@ -305,7 +297,7 @@
             trackEvent("enquiry", "ho-surf", availabilityForm.elements["preferred_date"].value);
             availabilityForm.reset();
           } catch (error) {
-            availabilityStatus.textContent = "The request could not be sent just now. Please try again, or use the school website directly.";
+            availabilityStatus.textContent = "The request could not be sent just now. Please try again or contact Surfbooker on WhatsApp.";
           }
         });
       </script>
@@ -323,8 +315,6 @@
       </div>
       <p class="footer-meta">
         <a class="text-link" href="mailto:hello@surfbooker.com">hello@surfbooker.com</a>
-        <span> · </span>
-        <a class="text-link" href="https://wa.me/447853362904?text=Hello%20Surfbooker%2C%20I%20have%20a%20question%20about..." target="_blank" rel="noopener noreferrer" aria-label="Message Surfbooker on WhatsApp">WhatsApp +44 7853 362904</a>
       </p>
     </footer>
   

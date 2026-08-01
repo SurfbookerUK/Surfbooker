@@ -145,32 +145,29 @@
     const wrapper = document.createElement("div");
     wrapper.className = "google-rating-display";
 
-    const ratingLink = document.createElement("a");
-    ratingLink.className = "google-rating-link";
-    ratingLink.href = result.googleMapsUri;
-    ratingLink.target = "_blank";
-    ratingLink.rel = "noopener noreferrer";
-    ratingLink.setAttribute("aria-label", buildAccessibleText(result.rating, result.userRatingCount));
+    const ratingBlock = document.createElement("div");
+    ratingBlock.className = "google-rating-link";
+    ratingBlock.setAttribute("aria-label", buildAccessibleText(result.rating, result.userRatingCount));
 
-    ratingLink.append(createStars(result.rating));
+    ratingBlock.append(createStars(result.rating));
 
     const score = document.createElement("span");
     score.className = "google-rating-score";
     score.textContent = formatRating(result.rating);
-    ratingLink.append(score);
+    ratingBlock.append(score);
 
     const count = document.createElement("span");
     count.className = "google-rating-count";
     count.textContent = `(${formatCount(result.userRatingCount)} Google review${result.userRatingCount === 1 ? "" : "s"})`;
-    ratingLink.append(count);
+    ratingBlock.append(count);
 
     const accessibleText = document.createElement("span");
     accessibleText.className = "sr-only";
     accessibleText.textContent = buildAccessibleText(result.rating, result.userRatingCount);
-    ratingLink.append(accessibleText);
+    ratingBlock.append(accessibleText);
 
-    wrapper.append(ratingLink);
-    wrapper.append(createGoogleMapsLink(result.googleMapsUri, result.attributionText || "Google Maps"));
+    wrapper.append(ratingBlock);
+    wrapper.append(createGoogleMapsLabel(result.attributionText || "Google Maps"));
 
     return wrapper;
   }
@@ -181,9 +178,7 @@
 
     wrapper.append(createStatus("No Google rating currently available", "google-rating-empty"));
 
-    if (result.googleMapsUri) {
-      wrapper.append(createGoogleMapsLink(result.googleMapsUri, result.attributionText || "Google Maps"));
-    }
+    wrapper.append(createGoogleMapsLabel(result.attributionText || "Google Maps"));
 
     return wrapper;
   }
@@ -195,14 +190,11 @@
     return paragraph;
   }
 
-  function createGoogleMapsLink(googleMapsUri, label) {
-    const link = document.createElement("a");
-    link.className = "google-maps-link";
-    link.href = googleMapsUri;
-    link.target = "_blank";
-    link.rel = "noopener noreferrer";
-    link.textContent = label;
-    return link;
+  function createGoogleMapsLabel(label) {
+    const text = document.createElement("span");
+    text.className = "google-maps-link";
+    text.textContent = label;
+    return text;
   }
 
   function createStars(rating) {
@@ -237,7 +229,7 @@
       userRatingCount: Number.isInteger(value.userRatingCount) ? value.userRatingCount : null
     };
 
-    if (normalized.status === "ok" && (!normalized.googleMapsUri || normalized.rating === null || normalized.userRatingCount === null)) {
+    if (normalized.status === "ok" && (normalized.rating === null || normalized.userRatingCount === null)) {
       return unavailableResult();
     }
 

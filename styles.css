@@ -111,17 +111,10 @@ textarea {
   font-size: 0.96rem;
 }
 
-.header-actions {
-  display: flex;
-  align-items: center;
-  gap: 12px;
-}
-
 .mobile-nav-links {
   display: none;
 }
 
-.header-cta,
 .button,
 .search-form button,
 .booking-form button,
@@ -131,7 +124,6 @@ textarea {
   transition: transform 180ms ease, box-shadow 180ms ease, background 180ms ease;
 }
 
-.header-cta,
 .button-primary,
 .search-form button,
 .booking-form button,
@@ -140,11 +132,6 @@ textarea {
   background: var(--text);
   color: #fff8ef;
   box-shadow: 0 12px 30px rgba(15, 42, 51, 0.18);
-}
-
-.header-cta {
-  padding: 12px 18px;
-  font-size: 0.92rem;
 }
 
 .button {
@@ -697,9 +684,8 @@ textarea {
 }
 
 .google-maps-link {
-  color: var(--accent-deep);
-  text-decoration: underline;
-  text-underline-offset: 3px;
+  color: var(--muted);
+  font-size: 0.95rem;
 }
 
 .google-rating[data-rating-variant="detail"] .google-rating-score {
@@ -1025,7 +1011,6 @@ textarea:focus-visible {
   outline-offset: 3px;
 }
 
-.header-cta:hover,
 .button:hover,
 .search-form button:hover,
 .booking-form button:hover,
@@ -1117,14 +1102,7 @@ textarea:focus-visible {
     align-self: flex-start;
   }
 
-  .header-actions,
   .mobile-nav-links {
-    width: 100%;
-  }
-
-  .header-cta {
-    display: inline-flex;
-    justify-content: center;
     width: 100%;
   }
 

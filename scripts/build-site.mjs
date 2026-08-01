@@ -49,7 +49,7 @@ const schools = [
     imageWidth: 1400,
     imageHeight: 933,
     subtitle: "Westward Ho! surf lessons with Ho! Surf and SurfSUP Academy",
-    priceLabel: "Check school website",
+    priceLabel: "Check availability",
     minPrice: null,
     durationLabel: "2 hours",
     sortDurationMinutes: 120,
@@ -714,7 +714,7 @@ const utilityPages = [
       <section class="simple-card simple-copy">
         <h2>What Surfbooker collects</h2>
         <p>Surfbooker currently collects the details you submit through the lesson enquiry form, contact form, list-your-surf-school form and claim or update form. That typically includes names, email addresses, preferred lesson dates, party details and the message you choose to send.</p>
-        <p>Surfbooker also includes a lightweight Netlify-backed activity form used for basic event tracking such as listing views, school website clicks, searches and enquiries. No live Google Analytics or Microsoft Clarity script is installed on the production files generated in this repository.</p>
+        <p>Surfbooker also includes a lightweight Netlify-backed activity form used for basic event tracking such as listing views, searches and enquiries. No live Google Analytics or Microsoft Clarity script is installed on the production files generated in this repository.</p>
       </section>
       <section class="simple-card simple-copy">
         <h2>How the information is used</h2>
@@ -986,7 +986,7 @@ function renderHomePage() {
           <h1>Find the right surf lesson in North Devon.</h1>
           <p class="hero-text">Compare prices, locations, lesson types and what's included across Westward Ho!, Saunton, Woolacombe, Croyde and Putsborough.</p>
           <div class="hero-actions">
-            <a class="button button-primary" href="#search-panel">Compare lessons</a>
+            <a class="button button-primary" href="#lessons">Compare lessons</a>
             <a class="button button-secondary" href="#how-it-works">How it works</a>
           </div>
           <ul class="hero-stats" aria-label="Surfbooker overview">
@@ -1008,47 +1008,6 @@ function renderHomePage() {
           </div>
           <div class="forecast-orb"></div>
         </div>
-      </section>
-
-      <section class="search-panel" id="search-panel">
-        <div class="section-heading">
-          <p class="section-label">Lesson search</p>
-          <h2>Start with your beach, preferred lesson date and lesson type.</h2>
-        </div>
-        <form class="search-form" id="lesson-search-form">
-          <label>
-            <span>Location</span>
-            <select id="search-location" name="location">
-              <option value="">Any North Devon beach</option>
-              ${allAreas.map((area) => `<option value="${escapeHtml(area)}">${escapeHtml(area)}</option>`).join("")}
-            </select>
-          </label>
-          <label>
-            <span>Preferred lesson date</span>
-            <input id="search-date" name="date" type="date">
-            <small class="field-note">This date is sent with your enquiry. It does not check live availability.</small>
-          </label>
-          <label>
-            <span>Lesson format</span>
-            <select id="search-format" name="format">
-              ${formatOptions.map((option) => `<option value="${escapeHtml(option.value)}">${escapeHtml(option.label)}</option>`).join("")}
-            </select>
-          </label>
-          <label>
-            <span>Ability level</span>
-            <select id="search-ability" name="ability">
-              <option value="">Any level</option>
-              ${levelOptions.map((level) => `<option value="${escapeHtml(level)}">${escapeHtml(level)}</option>`).join("")}
-            </select>
-          </label>
-          <label>
-            <span>Adults and children</span>
-            <select id="search-party" name="party">
-              ${audienceOptions.map((option) => `<option value="${escapeHtml(option.value)}">${escapeHtml(option.label)}</option>`).join("")}
-            </select>
-          </label>
-          <button type="submit">Search lessons</button>
-        </form>
       </section>
 
       <section class="section-grid section-grid-three" id="proof">
@@ -1090,12 +1049,6 @@ function renderHomePage() {
       </section>
 
       <section class="listings-section" id="lessons">
-        <div class="section-heading">
-          <p class="section-label">Surf school listings</p>
-          <h2>Compare North Devon surf schools</h2>
-          <p class="section-note">Explore lesson options across five North Devon beaches. Prices and details are checked against provider websites, but final availability is confirmed when you enquire.</p>
-        </div>
-        <div class="listing-note">${escapeHtml(listingNote)}</div>
         <div class="filters-bar">
           <label>
             <span>Beach / area</span>
@@ -1213,7 +1166,6 @@ function renderHomePage() {
     const listings = ${escapeScript(JSON.stringify(homeListings))};
     const listingsGrid = document.getElementById("listings-grid");
     const resultsSummary = document.getElementById("results-summary");
-    const searchForm = document.getElementById("lesson-search-form");
     const filters = {
       area: document.getElementById("filter-area"),
       format: document.getElementById("filter-format"),
@@ -1224,14 +1176,6 @@ function renderHomePage() {
       query: document.getElementById("filter-query"),
       sort: document.getElementById("sort-listings")
     };
-    const searchFields = {
-      location: document.getElementById("search-location"),
-      date: document.getElementById("search-date"),
-      format: document.getElementById("search-format"),
-      ability: document.getElementById("search-ability"),
-      party: document.getElementById("search-party")
-    };
-
     const sortLabels = {
       recommended: "Recommended",
       "lowest-price": "Lowest price",
@@ -1293,13 +1237,9 @@ function renderHomePage() {
 
     function buildSchoolHref(listing) {
       const params = new URLSearchParams();
-      const preferredDate = searchFields.date.value;
-      const abilityLevel = searchFields.ability.value || filters.level.value;
-      const party = partyPrefillValue(searchFields.party.value || filters.audience.value);
+      const abilityLevel = filters.level.value;
+      const party = partyPrefillValue(filters.audience.value);
 
-      if (preferredDate) {
-        params.set("preferred_date", preferredDate);
-      }
       if (abilityLevel) {
         params.set("ability_level", abilityLevel);
       }
@@ -1385,41 +1325,40 @@ function renderHomePage() {
       resultsSummary.textContent = visibleListings.length + " surf school" + (visibleListings.length === 1 ? "" : "s") + " shown. Sorted by " + sortLabels[filters.sort.value] + ".";
 
       if (!visibleListings.length) {
-        listingsGrid.innerHTML = "<article class=\"empty-state\"><h3>No matching surf schools</h3><p>Adjust the filters to widen the North Devon lesson shortlist.</p></article>";
+        listingsGrid.innerHTML = '<article class="empty-state"><h3>No matching surf schools</h3><p>Adjust the filters to widen the North Devon lesson shortlist.</p></article>';
         return;
       }
 
       listingsGrid.innerHTML = visibleListings.map((listing) => {
         return [
-          "<article class=\"listing-card\">",
-          "<div class=\"listing-image-wrap\">",
-          "<img src=\"" + listing.image + "\" alt=\"" + listing.imageAlt + "\" width=\"" + listing.imageWidth + "\" height=\"" + listing.imageHeight + "\" loading=\"lazy\" decoding=\"async\">",
-          "</div>",
-          "<div class=\"listing-card-body\">",
-          "<div class=\"listing-topline\">",
-          "<p>" + listing.locationLabel + "</p>",
-          "<span class=\"listing-badge\">" + listingNote + "</span>",
-          "</div>",
-          "<h3>" + listing.name + "</h3>",
-          listing.subtitle ? "<p class=\"listing-subtitle\">" + listing.subtitle + "</p>" : "",
-          "<div class=\"google-rating\" data-google-rating data-school-slug=\"" + listing.slug + "\" data-rating-variant=\"card\">",
-          "<p class=\"google-rating-loading\">Loading Google rating...</p>",
-          "</div>",
-          "<div class=\"listing-meta\">",
-          "<strong>" + listing.priceLabel + "</strong>",
-          "<span>" + listing.durationLabel + "</span>",
-          "</div>",
-          "<p class=\"listing-format-line\"><strong>Lesson formats:</strong> " + listing.specFormats + "</p>",
-          listing.cardHighlights.length ? "<ul class=\"card-highlights\">" + listing.cardHighlights.map((highlight) => "<li>" + highlight + "</li>").join("") + "</ul>" : "",
-          "<div class=\"chip-row\">",
-          listing.levels.map((level) => "<span>" + level + "</span>").join(""),
-          "</div>",
-          "<div class=\"listing-actions\">",
-          "<a class=\"button button-primary listing-detail-link\" href=\"" + buildSchoolHref(listing) + "\" data-school=\"" + listing.slug + "\">View lesson details</a>",
-          "<a class=\"text-link listing-website\" href=\"" + listing.website + "\" target=\"_blank\" rel=\"noopener noreferrer\" data-school=\"" + listing.slug + "\">Visit school website</a>",
-          "</div>",
-          "</div>",
-          "</article>"
+          '<article class="listing-card">',
+          '<div class="listing-image-wrap">',
+          '<img src="' + listing.image + '" alt="' + listing.imageAlt + '" width="' + listing.imageWidth + '" height="' + listing.imageHeight + '" loading="lazy" decoding="async">',
+          '</div>',
+          '<div class="listing-card-body">',
+          '<div class="listing-topline">',
+          '<p>' + listing.locationLabel + '</p>',
+          '<span class="listing-badge">${escapeHtml(listingNote)}</span>',
+          '</div>',
+          '<h3>' + listing.name + '</h3>',
+          listing.subtitle ? '<p class="listing-subtitle">' + listing.subtitle + '</p>' : '',
+          '<div class="google-rating" data-google-rating data-school-slug="' + listing.slug + '" data-rating-variant="card">',
+          '<p class="google-rating-loading">Loading Google rating...</p>',
+          '</div>',
+          '<div class="listing-meta">',
+          '<strong>' + listing.priceLabel + '</strong>',
+          '<span>' + listing.durationLabel + '</span>',
+          '</div>',
+          '<p class="listing-format-line"><strong>Lesson formats:</strong> ' + listing.specFormats + '</p>',
+          listing.cardHighlights.length ? '<ul class="card-highlights">' + listing.cardHighlights.map((highlight) => '<li>' + highlight + '</li>').join('') + '</ul>' : '',
+          '<div class="chip-row">',
+          listing.levels.map((level) => '<span>' + level + '</span>').join(''),
+          '</div>',
+          '<div class="listing-actions">',
+          '<a class="button button-primary listing-detail-link" href="' + buildSchoolHref(listing) + '" data-school="' + listing.slug + '">View lesson details</a>',
+          '</div>',
+          '</div>',
+          '</article>'
         ].join("");
       }).join("");
 
@@ -1428,30 +1367,7 @@ function renderHomePage() {
           trackEvent("listing_view", link.dataset.school, "compare-link");
         });
       });
-
-      document.querySelectorAll(".listing-website").forEach((link) => {
-        link.addEventListener("click", () => {
-          trackEvent("website_click", link.dataset.school, link.href);
-        });
-      });
     }
-
-    searchForm.addEventListener("submit", (event) => {
-      event.preventDefault();
-      filters.area.value = searchFields.location.value;
-      filters.format.value = searchFields.format.value;
-      filters.level.value = searchFields.ability.value;
-      filters.audience.value = searchFields.party.value;
-      renderListings();
-      document.getElementById("lessons").scrollIntoView({ behavior: "smooth", block: "start" });
-      trackEvent("search", filters.area.value || "all-beaches", JSON.stringify({
-        area: filters.area.value,
-        format: filters.format.value,
-        level: filters.level.value,
-        audience: filters.audience.value,
-        preferred_date: searchFields.date.value
-      }));
-    });
 
     Object.values(filters).forEach((field) => {
       field.addEventListener("input", renderListings);
@@ -1602,7 +1518,6 @@ function renderSchoolPage(school) {
       <p>${escapeHtml(school.pageIntro[1])}</p>
       <div class="simple-actions">
         <a class="button button-primary" href="#availability-request">Request availability</a>
-        <a class="button button-secondary" href="${escapeHtml(school.website)}" target="_blank" rel="noopener noreferrer" data-track-website="${escapeHtml(school.slug)}">Visit school website</a>
       </div>
       <p class="page-note">Prices and lesson details are checked against the provider website. Final availability is confirmed when you enquire.</p>
     `,
@@ -1623,7 +1538,7 @@ function renderSchoolPage(school) {
         <div class="detail-copy">
           <div class="detail-meta">
             <p class="detail-location">${escapeHtml(school.locationLabel)}</p>
-            <p class="detail-status">${typeof school.minPrice === "number" ? `${escapeHtml(school.priceLabel)} public starting price.` : "Price confirmed on the school website."}</p>
+            <p class="detail-status">${typeof school.minPrice === "number" ? `${escapeHtml(school.priceLabel)} public starting price.` : "Price confirmed by the provider."}</p>
           </div>
           ${renderGoogleRatingSlot(school.slug, "detail")}
           <h2>Lesson details</h2>
@@ -1645,7 +1560,6 @@ function renderSchoolPage(school) {
           </div>
           <div class="detail-actions">
             <a class="button button-primary" href="#availability-request">Request availability</a>
-            <a class="text-link" href="${escapeHtml(school.website)}" target="_blank" rel="noopener noreferrer" data-track-website="${escapeHtml(school.slug)}">Visit school website</a>
           </div>
         </div>
       </section>
@@ -1715,9 +1629,6 @@ function renderSchoolPage(school) {
       ${renderTrackingForm()}
       <script>
         ${trackingScript("listing_view", school.slug, "school-page")}
-        document.querySelectorAll("[data-track-website]").forEach((link) => {
-          link.addEventListener("click", () => trackEvent("website_click", "${escapeScript(school.slug)}", link.href));
-        });
         const availabilityForm = document.getElementById("availability-form");
         const availabilityStatus = document.getElementById("availability-status");
         const schoolPageParams = new URLSearchParams(window.location.search);
@@ -1771,7 +1682,7 @@ function renderSchoolPage(school) {
             trackEvent("enquiry", "${escapeScript(school.slug)}", availabilityForm.elements["preferred_date"].value);
             availabilityForm.reset();
           } catch (error) {
-            availabilityStatus.textContent = "The request could not be sent just now. Please try again, or use the school website directly.";
+            availabilityStatus.textContent = "The request could not be sent just now. Please try again or contact Surfbooker on WhatsApp.";
           }
         });
       </script>
@@ -1959,7 +1870,6 @@ function renderStaticListingCard(school) {
         ` : ""}
         <div class="listing-actions">
           <a class="button button-primary" href="${escapeHtml(comparePathForSchool(school))}">View lesson details</a>
-          <a class="text-link" href="${escapeHtml(school.website)}" target="_blank" rel="noopener noreferrer">Visit school website</a>
         </div>
       </div>
     </article>
@@ -1979,9 +1889,6 @@ function renderHeader() {
         <a href="/contact/">Contact</a>
         <a href="${whatsappUrl}" target="_blank" rel="noopener noreferrer" aria-label="Message Surfbooker on WhatsApp">WhatsApp</a>
       </nav>
-      <div class="header-actions">
-        <a class="header-cta" href="/#search-panel">Compare lessons</a>
-      </div>
       <div class="mobile-nav-links" aria-label="Mobile contact links">
         <a href="/contact/">Contact</a>
         <a href="${whatsappUrl}" target="_blank" rel="noopener noreferrer" aria-label="Message Surfbooker on WhatsApp">WhatsApp</a>
@@ -2008,8 +1915,6 @@ function renderFooter() {
       </div>
       <p class="footer-meta">
         <a class="text-link" href="mailto:${escapeHtml(email)}">${escapeHtml(email)}</a>
-        <span> · </span>
-        <a class="text-link" href="${escapeHtml(whatsappUrl)}" target="_blank" rel="noopener noreferrer" aria-label="Message Surfbooker on WhatsApp">WhatsApp ${escapeHtml(whatsappNumber)}</a>
       </p>
     </footer>
   `;
@@ -2134,7 +2039,7 @@ function summariseFormats(areaSchools) {
 function lowestPriceLabel(areaSchools) {
   const prices = areaSchools.filter((school) => typeof school.minPrice === "number").map((school) => school.minPrice);
   if (!prices.length) {
-    return "Check school websites";
+    return "Check availability";
   }
   return `From £${Math.min(...prices)}`;
 }
