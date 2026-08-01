@@ -1,4 +1,4 @@
-﻿import { mkdirSync, writeFileSync } from "node:fs";
+import { mkdirSync, writeFileSync } from "node:fs";
 import { dirname, join } from "node:path";
 
 const rootDir = process.cwd();
@@ -18,6 +18,11 @@ const sharedDisclaimer = "Surfbooker lists surf schools independently, compares 
 const listingNote = "Independent listings.";
 const pricingCheckedNote = "Prices checked against provider websites on 1 August 2026. Final prices and availability are confirmed when you enquire.";
 const ogImageAlt = "Surfbooker branding for North Devon surf lessons";
+const surfGuidesPath = "/guides/";
+const westwardHoGuidePath = "/guides/surfing-westward-ho/";
+const rnliWestwardHoUrl = "https://rnli.org/find-my-nearest/lifeguarded-beaches/westward-ho-beach";
+const northamBurrowsAccessUrl = "https://www.torridge.gov.uk/parks-leisure-and-lifestyle/northam-burrows-country-park/opening-times-entry-fees-and-how-find-us";
+const westwardHoWhatsappUrl = "https://wa.me/447853362904?text=Hi%20Surfbooker%2C%20I%27m%20looking%20for%20a%20surf%20lesson%20in%20Westward%20Ho!";
 
 const allAreas = ["Westward Ho!", "Saunton", "Woolacombe", "Croyde", "Putsborough"];
 const levelOptions = ["Beginner", "Intermediate", "Advanced", "Family"];
@@ -58,7 +63,7 @@ const schools = [
     levels: ["Beginner", "Intermediate", "Advanced"],
     summary: "The official Ho! Surf lesson page describes two-hour Westward Ho! surf lessons with wetsuit fitting, changing rooms, safety briefing and board allocation before heading to the water.",
     pageIntro: [
-      "Ho! Surf is Surfbookerâ€™s first Westward Ho! listing. On the official Surf and Kite Shop lesson page, Surfbooker found two-hour surf lessons promoted for beginners through to more experienced surfers, with booking handled on the provider side.",
+      "Ho! Surf is SurfbookerÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã¢â‚¬Â¦Ãƒâ€šÃ‚Â¡ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã¢â‚¬Â¦Ãƒâ€šÃ‚Â¾ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¢s first Westward Ho! listing. On the official Surf and Kite Shop lesson page, Surfbooker found two-hour surf lessons promoted for beginners through to more experienced surfers, with booking handled on the provider side.",
       "The same page says lessons start from the shop on the village green, where surfers meet the instructor, get fitted with a quality wetsuit, use the on-site changing rooms and leave clothes safely before heading to the beach."
     ],
     facts: [
@@ -91,7 +96,7 @@ const schools = [
     imageWidth: 1400,
     imageHeight: 933,
     subtitle: "Westward Ho! surf school with group and private lessons",
-    priceLabel: "From Â£39",
+    priceLabel: "From ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã¢â‚¬Â¦Ãƒâ€šÃ‚Â¡ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã‚Â¡ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â£39",
     minPrice: 39,
     durationLabel: "2 hours",
     sortDurationMinutes: 120,
@@ -102,13 +107,13 @@ const schools = [
     levels: ["Beginner", "Intermediate", "Advanced"],
     summary: "North Devon Surf School publishes two-hour group and private surf lessons at Westward Ho!, with equipment included and heated changing rooms, storage and hot showers listed on the official site.",
     pageIntro: [
-      "North Devon Surf School publishes a wide range of surf lessons from its Westward Ho! base. The official lessons page includes a two-hour group lesson from Â£39 and private tuition with a senior coach working exclusively with the booking.",
-      "Surfbooker could also verify a purpose-built surf school close to the beach, plus heated changing rooms, secure storage, toilets and hot showers on the providerâ€™s own website."
+      "North Devon Surf School publishes a wide range of surf lessons from its Westward Ho! base. The official lessons page includes a two-hour group lesson from ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã¢â‚¬Â¦Ãƒâ€šÃ‚Â¡ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã‚Â¡ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â£39 and private tuition with a senior coach working exclusively with the booking.",
+      "Surfbooker could also verify a purpose-built surf school close to the beach, plus heated changing rooms, secure storage, toilets and hot showers on the providerÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã¢â‚¬Â¦Ãƒâ€šÃ‚Â¡ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã¢â‚¬Â¦Ãƒâ€šÃ‚Â¾ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¢s own website."
     ],
     facts: [
       { label: "Lesson format", value: "Group and private lessons" },
       { label: "Duration", value: "2 hours" },
-      { label: "Public starting price", value: "Â£39 for 1 x 2 hour group lesson" },
+      { label: "Public starting price", value: "ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã¢â‚¬Â¦Ãƒâ€šÃ‚Â¡ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã‚Â¡ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â£39 for 1 x 2 hour group lesson" },
       { label: "Equipment", value: "All equipment included" },
       { label: "Changing", value: "Heated changing rooms, storage, toilets and hot showers" },
       { label: "Parking", value: "Public parking next to the surf school" },
@@ -135,7 +140,7 @@ const schools = [
     imageWidth: 1400,
     imageHeight: 933,
     subtitle: "Westward Ho! lessons from a beachside Northam Burrows base",
-    priceLabel: "From Â£35",
+    priceLabel: "From ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã¢â‚¬Â¦Ãƒâ€šÃ‚Â¡ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã‚Â¡ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â£35",
     minPrice: 35,
     durationLabel: "2 hours",
     sortDurationMinutes: 120,
@@ -144,15 +149,15 @@ const schools = [
     audienceLabel: "Mixed ages and abilities",
     minAge: 6,
     levels: ["Beginner", "Intermediate", "Advanced"],
-    summary: "Westward Waves publishes two-hour group lessons from Â£35 and private coaching from its Northam Burrows base, with winter wetsuits, surfboards and changing facilities listed on the official prices page.",
+    summary: "Westward Waves publishes two-hour group lessons from ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã¢â‚¬Â¦Ãƒâ€šÃ‚Â¡ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã‚Â¡ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â£35 and private coaching from its Northam Burrows base, with winter wetsuits, surfboards and changing facilities listed on the official prices page.",
     pageIntro: [
-      "Westward Waves Surf School is based on Northam Burrows in Westward Ho! and promotes both group and private lessons on its official site. The public prices page currently shows group lessons from Â£35 per person for a two-hour session.",
-      "Surfbooker could also verify winter wetsuits, surfboards, winter accessories, changing facilities and minimum age guidance from the schoolâ€™s own FAQs and pricing pages."
+      "Westward Waves Surf School is based on Northam Burrows in Westward Ho! and promotes both group and private lessons on its official site. The public prices page currently shows group lessons from ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã¢â‚¬Â¦Ãƒâ€šÃ‚Â¡ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã‚Â¡ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â£35 per person for a two-hour session.",
+      "Surfbooker could also verify winter wetsuits, surfboards, winter accessories, changing facilities and minimum age guidance from the schoolÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã¢â‚¬Â¦Ãƒâ€šÃ‚Â¡ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã¢â‚¬Â¦Ãƒâ€šÃ‚Â¾ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¢s own FAQs and pricing pages."
     ],
     facts: [
       { label: "Lesson format", value: "Group and private lessons" },
       { label: "Duration", value: "2 hours" },
-      { label: "Public starting price", value: "Â£35 per person for a group lesson" },
+      { label: "Public starting price", value: "ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã¢â‚¬Â¦Ãƒâ€šÃ‚Â¡ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã‚Â¡ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â£35 per person for a group lesson" },
       { label: "Equipment", value: "Winter wetsuits, surfboards, boots, gloves and hoods" },
       { label: "Changing", value: "Changing facilities included" },
       { label: "Meeting point", value: "Sandymere Car Park on Northam Burrows" },
@@ -179,7 +184,7 @@ const schools = [
     imageWidth: 1400,
     imageHeight: 933,
     subtitle: "Saunton Sands surf school with group, private and kids options",
-    priceLabel: "From Â£45",
+    priceLabel: "From ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã¢â‚¬Â¦Ãƒâ€šÃ‚Â¡ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã‚Â¡ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â£45",
     minPrice: 45,
     durationLabel: "2 hours",
     sortDurationMinutes: 120,
@@ -188,15 +193,15 @@ const schools = [
     audienceLabel: "Adults, children and families",
     minAge: 8,
     levels: ["Beginner", "Intermediate", "Advanced"],
-    summary: "Surf Saunton publishes two-hour surf lessons from Â£45 per person at Saunton Sands, alongside private sessions, school groups and kids products on the official website.",
+    summary: "Surf Saunton publishes two-hour surf lessons from ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã¢â‚¬Â¦Ãƒâ€šÃ‚Â¡ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã‚Â¡ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â£45 per person at Saunton Sands, alongside private sessions, school groups and kids products on the official website.",
     pageIntro: [
-      "Surf Saunton promotes group surf lessons, private one-to-one coaching, private group lessons and dedicated childrenâ€™s products from its base at Saunton Sands. The public lesson page currently shows a two-hour surf lesson from Â£45 per person.",
+      "Surf Saunton promotes group surf lessons, private one-to-one coaching, private group lessons and dedicated childrenÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã¢â‚¬Â¦Ãƒâ€šÃ‚Â¡ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã¢â‚¬Â¦Ãƒâ€šÃ‚Â¾ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¢s products from its base at Saunton Sands. The public lesson page currently shows a two-hour surf lesson from ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã¢â‚¬Â¦Ãƒâ€šÃ‚Â¡ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã‚Â¡ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â£45 per person.",
       "The official site also describes grouped sessions by experience level, large car parking, toilets, a dry indoor changing option in poor weather and equipment included in the lesson price."
     ],
     facts: [
       { label: "Lesson format", value: "Group and private lessons" },
       { label: "Duration", value: "2 hours" },
-      { label: "Public starting price", value: "Â£45 per person" },
+      { label: "Public starting price", value: "ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã¢â‚¬Â¦Ãƒâ€šÃ‚Â¡ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã‚Â¡ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â£45 per person" },
       { label: "Equipment", value: "Board, wetsuit, plus boots and gloves when needed" },
       { label: "Changing", value: "Dry indoor changing available in adverse weather" },
       { label: "Parking", value: "Large car park at Saunton Sands" },
@@ -223,7 +228,7 @@ const schools = [
     imageWidth: 1400,
     imageHeight: 933,
     subtitle: "Saunton Sands surf coaching with group, private and kids sessions",
-    priceLabel: "From Â£35 per lesson",
+    priceLabel: "From ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã¢â‚¬Â¦Ãƒâ€šÃ‚Â¡ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã‚Â¡ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â£35 per lesson",
     minPrice: 35,
     durationLabel: "1 to 2 hours",
     sortDurationMinutes: 60,
@@ -232,15 +237,15 @@ const schools = [
     audienceLabel: "Adults, children and families",
     minAge: 4,
     levels: ["Beginner", "Intermediate", "Advanced"],
-    summary: "Walking on Waves lists group, private, kids and course-based surf lessons at Saunton Sands, with public pricing from Â£35 per lesson on multi-session surf courses and ISA-qualified coaching across one-hour to two-hour products.",
+    summary: "Walking on Waves lists group, private, kids and course-based surf lessons at Saunton Sands, with public pricing from ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã¢â‚¬Â¦Ãƒâ€šÃ‚Â¡ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã‚Â¡ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â£35 per lesson on multi-session surf courses and ISA-qualified coaching across one-hour to two-hour products.",
     pageIntro: [
-      "Walking on Waves is one of the longest-running surf schools in Surfbookerâ€™s Saunton set, with public surf lesson pages covering group lessons, private sessions, kids lessons, surf courses and coach-and-ride products.",
-      "Surfbooker could verify a maximum 6:1 lesson ratio, indoor changing and storage, on-site toilets and a spread of lesson lengths from one hour to two hours on the providerâ€™s own site."
+      "Walking on Waves is one of the longest-running surf schools in SurfbookerÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã¢â‚¬Â¦Ãƒâ€šÃ‚Â¡ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã¢â‚¬Â¦Ãƒâ€šÃ‚Â¾ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¢s Saunton set, with public surf lesson pages covering group lessons, private sessions, kids lessons, surf courses and coach-and-ride products.",
+      "Surfbooker could verify a maximum 6:1 lesson ratio, indoor changing and storage, on-site toilets and a spread of lesson lengths from one hour to two hours on the providerÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã¢â‚¬Â¦Ãƒâ€šÃ‚Â¡ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã¢â‚¬Â¦Ãƒâ€šÃ‚Â¾ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¢s own site."
     ],
     facts: [
       { label: "Lesson format", value: "Group and private lessons" },
       { label: "Duration", value: "1 hour to 2 hours depending on session type" },
-      { label: "Public starting price", value: "From Â£35 per lesson on multi-session surf courses" },
+      { label: "Public starting price", value: "From ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã¢â‚¬Â¦Ãƒâ€šÃ‚Â¡ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã‚Â¡ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â£35 per lesson on multi-session surf courses" },
       { label: "Equipment", value: "All equipment included" },
       { label: "Changing", value: "Indoor changing and storage available" },
       { label: "Parking", value: "Saunton Sands car park" },
@@ -251,7 +256,7 @@ const schools = [
     websiteFacts: [
       "Group lessons run for two hours unless only one or two surfers are booked",
       "Private lessons are listed at 1.5 hours and kids sessions at 1 hour",
-      "Walking on Waves describes itself as Sauntonâ€™s original surf school and says it has delivered lessons since 2003"
+      "Walking on Waves describes itself as SauntonÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã¢â‚¬Â¦Ãƒâ€šÃ‚Â¡ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã¢â‚¬Â¦Ãƒâ€šÃ‚Â¾ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¢s original surf school and says it has delivered lessons since 2003"
     ],
     claimMailto: mailtoForSchool("Walking on Waves")
   },
@@ -268,7 +273,7 @@ const schools = [
     imageWidth: 1400,
     imageHeight: 933,
     subtitle: "Woolacombe village surf school with group, private and one-to-one sessions",
-    priceLabel: "From Â£40",
+    priceLabel: "From ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã¢â‚¬Â¦Ãƒâ€šÃ‚Â¡ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã‚Â¡ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â£40",
     minPrice: 40,
     durationLabel: "2 hours",
     sortDurationMinutes: 120,
@@ -277,15 +282,15 @@ const schools = [
     audienceLabel: "Adults, children and families",
     minAge: 8,
     levels: ["Beginner", "Intermediate", "Advanced"],
-    summary: "Woolacombe Surf Centre lists two-hour group, private and one-to-one surf sessions, with equipment included and a public group lesson price from Â£40 on the official surf lessons page.",
+    summary: "Woolacombe Surf Centre lists two-hour group, private and one-to-one surf sessions, with equipment included and a public group lesson price from ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã¢â‚¬Â¦Ãƒâ€šÃ‚Â¡ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã‚Â¡ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â£40 on the official surf lessons page.",
     pageIntro: [
       "Woolacombe Surf Centre publishes two-hour surf sessions for all abilities, with separate sections for group lessons, private lessons, one-to-one coaching and larger group bookings.",
-      "The official surf lessons page currently shows a single two-hour surf session from Â£40 and says all required equipment and coaching are included throughout."
+      "The official surf lessons page currently shows a single two-hour surf session from ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã¢â‚¬Â¦Ãƒâ€šÃ‚Â¡ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã‚Â¡ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â£40 and says all required equipment and coaching are included throughout."
     ],
     facts: [
       { label: "Lesson format", value: "Group, private and one-to-one lessons" },
       { label: "Duration", value: "2 hours" },
-      { label: "Public starting price", value: "Â£40 for 1 surf session" },
+      { label: "Public starting price", value: "ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã¢â‚¬Â¦Ãƒâ€šÃ‚Â¡ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã‚Â¡ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â£40 for 1 surf session" },
       { label: "Equipment", value: "All required equipment included" },
       { label: "Coaching", value: "Suitable for first-timers through to more experienced surfers" },
       { label: "Accreditation", value: "Surfing England accredited Centre of Excellence" },
@@ -294,7 +299,7 @@ const schools = [
     ],
     websiteFacts: [
       "Woolacombe Surf Centre says it provides free session photos on most surf lessons",
-      "One-to-one coaching is listed separately at Â£120 per session",
+      "One-to-one coaching is listed separately at ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã¢â‚¬Â¦Ãƒâ€šÃ‚Â¡ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã‚Â¡ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â£120 per session",
       "The school describes itself as village-based, with surf lessons centred around the Atlantic coastline"
     ],
     claimMailto: mailtoForSchool("Woolacombe Surf Centre")
@@ -312,7 +317,7 @@ const schools = [
     imageWidth: 1400,
     imageHeight: 933,
     subtitle: "Beach slipway surf school with showers, changing and private family options",
-    priceLabel: "From Â£40",
+    priceLabel: "From ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã¢â‚¬Â¦Ãƒâ€šÃ‚Â¡ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã‚Â¡ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â£40",
     minPrice: 40,
     durationLabel: "1 to 2 hours",
     sortDurationMinutes: 60,
@@ -321,15 +326,15 @@ const schools = [
     audienceLabel: "Adults, children and families",
     minAge: 8,
     levels: ["Beginner", "Intermediate", "Advanced", "Family"],
-    summary: "Surfing Woolacombe lists taster group lessons from Â£40, longer course bundles and a wide range of private surf lesson formats from its beach slipway base in Woolacombe.",
+    summary: "Surfing Woolacombe lists taster group lessons from ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã¢â‚¬Â¦Ãƒâ€šÃ‚Â¡ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã‚Â¡ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â£40, longer course bundles and a wide range of private surf lesson formats from its beach slipway base in Woolacombe.",
     pageIntro: [
       "Surfing Woolacombe is positioned directly on the Woolacombe beach slipway and publishes group, private and family-oriented lesson options on its official surf lessons page.",
-      "Surfbooker could verify showers, changing facilities, lockers, storage, four-season wetsuits and winter accessories from the schoolâ€™s own surf lesson copy."
+      "Surfbooker could verify showers, changing facilities, lockers, storage, four-season wetsuits and winter accessories from the schoolÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã¢â‚¬Â¦Ãƒâ€šÃ‚Â¡ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã¢â‚¬Â¦Ãƒâ€šÃ‚Â¾ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¢s own surf lesson copy."
     ],
     facts: [
       { label: "Lesson format", value: "Group and private lessons" },
       { label: "Duration", value: "1 hour to 2 hours depending on session type" },
-      { label: "Public starting price", value: "Â£40 for a 2 hour taster group session" },
+      { label: "Public starting price", value: "ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã¢â‚¬Â¦Ãƒâ€šÃ‚Â¡ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã‚Â¡ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â£40 for a 2 hour taster group session" },
       { label: "Equipment", value: "Four-season wetsuits, plus boots, gloves and hoods in winter" },
       { label: "Changing", value: "Showers, changing facilities, lockers and storage" },
       { label: "Location note", value: "Based on the Woolacombe beach slipway" },
@@ -356,7 +361,7 @@ const schools = [
     imageWidth: 1400,
     imageHeight: 933,
     subtitle: "Croyde Bay surf school with group, private and adaptive options",
-    priceLabel: "From Â£45",
+    priceLabel: "From ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã¢â‚¬Â¦Ãƒâ€šÃ‚Â¡ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã‚Â¡ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â£45",
     minPrice: 45,
     durationLabel: "2 hours",
     sortDurationMinutes: 120,
@@ -365,15 +370,15 @@ const schools = [
     audienceLabel: "Adults, children and families",
     minAge: null,
     levels: ["Beginner", "Intermediate", "Advanced"],
-    summary: "Surf South West publishes two-hour half-day group surf lessons from Â£45 and separate private lesson pricing from its Croyde Bay base, while also advertising adaptive and performance products.",
+    summary: "Surf South West publishes two-hour half-day group surf lessons from ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã¢â‚¬Â¦Ãƒâ€šÃ‚Â¡ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã‚Â¡ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â£45 and separate private lesson pricing from its Croyde Bay base, while also advertising adaptive and performance products.",
     pageIntro: [
       "Surf South West says it has been running surf lessons at Croyde Bay since 1996 and lists half-day, two-day, weekend, five-day, private and adaptive options on its official site.",
-      "The public half-day lesson page shows a two-hour session from Â£45 per person with all equipment included, while the broader school pages describe changing rooms, storage and specialist adaptive instruction."
+      "The public half-day lesson page shows a two-hour session from ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã¢â‚¬Â¦Ãƒâ€šÃ‚Â¡ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã‚Â¡ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â£45 per person with all equipment included, while the broader school pages describe changing rooms, storage and specialist adaptive instruction."
     ],
     facts: [
       { label: "Lesson format", value: "Group and private lessons" },
       { label: "Duration", value: "2 hours" },
-      { label: "Public starting price", value: "Â£45 per person for the half-day lesson" },
+      { label: "Public starting price", value: "ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã¢â‚¬Â¦Ãƒâ€šÃ‚Â¡ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã‚Â¡ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â£45 per person for the half-day lesson" },
       { label: "Equipment", value: "All equipment included" },
       { label: "Changing", value: "Changing rooms, toilet and storage area" },
       { label: "Parking", value: "Croyde Burrows Car Park, Moore Lane" },
@@ -400,7 +405,7 @@ const schools = [
     imageWidth: 1400,
     imageHeight: 933,
     subtitle: "Croyde lesson hub with 2.5 hour group and private sessions",
-    priceLabel: "From Â£30",
+    priceLabel: "From ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã¢â‚¬Â¦Ãƒâ€šÃ‚Â¡ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã‚Â¡ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â£30",
     minPrice: 30,
     durationLabel: "2.5 hours",
     sortDurationMinutes: 150,
@@ -409,15 +414,15 @@ const schools = [
     audienceLabel: "Adults, children and families",
     minAge: 5,
     levels: ["Beginner", "Intermediate", "Advanced", "Family"],
-    summary: "Surfing Croyde Bay publishes 2.5 hour half-day surf lessons from Â£30, private tuition and family options, with all equipment included and a 6:1 coaching ratio described on the official site.",
+    summary: "Surfing Croyde Bay publishes 2.5 hour half-day surf lessons from ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã¢â‚¬Â¦Ãƒâ€šÃ‚Â¡ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã‚Â¡ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â£30, private tuition and family options, with all equipment included and a 6:1 coaching ratio described on the official site.",
     pageIntro: [
-      "Surfing Croyde Bay is one of the more detailed public lesson sites in the Surfbooker set. The official half-day page shows 2.5 hour group lessons from Â£30, private lessons, all equipment included and a maximum 6 students to 1 coach ratio.",
-      "Surfbooker could also verify warm indoor changing, hot showers and family-focused lesson options from the providerâ€™s public lesson pages."
+      "Surfing Croyde Bay is one of the more detailed public lesson sites in the Surfbooker set. The official half-day page shows 2.5 hour group lessons from ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã¢â‚¬Â¦Ãƒâ€šÃ‚Â¡ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã‚Â¡ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â£30, private lessons, all equipment included and a maximum 6 students to 1 coach ratio.",
+      "Surfbooker could also verify warm indoor changing, hot showers and family-focused lesson options from the providerÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã¢â‚¬Â¦Ãƒâ€šÃ‚Â¡ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã¢â‚¬Â¦Ãƒâ€šÃ‚Â¾ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¢s public lesson pages."
     ],
     facts: [
       { label: "Lesson format", value: "Group and private lessons" },
       { label: "Duration", value: "2.5 hours" },
-      { label: "Public starting price", value: "From Â£30 on the half-day surf lesson page" },
+      { label: "Public starting price", value: "From ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã¢â‚¬Â¦Ãƒâ€šÃ‚Â¡ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã‚Â¡ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â£30 on the half-day surf lesson page" },
       { label: "Equipment", value: "All equipment included" },
       { label: "Changing", value: "Warm indoor changing and hot showers" },
       { label: "Group size", value: "Maximum 6 students to 1 coach" },
@@ -425,7 +430,7 @@ const schools = [
       { label: "Accreditation", value: "Official pages reference a Surfing England Centre of Excellence" }
     ],
     websiteFacts: [
-      "Beginner surf lesson pages also show a Â£35 single lesson and Â£130 beginner private lesson",
+      "Beginner surf lesson pages also show a ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã¢â‚¬Â¦Ãƒâ€šÃ‚Â¡ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã‚Â¡ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â£35 single lesson and ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã¢â‚¬Â¦Ãƒâ€šÃ‚Â¡ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã‚Â¡ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â£130 beginner private lesson",
       "Official copy says lessons cater for complete beginners through to competitive surfers",
       "Family lessons are listed separately on the provider website"
     ],
@@ -444,7 +449,7 @@ const schools = [
     imageWidth: 1400,
     imageHeight: 933,
     subtitle: "Putsborough surf school with group, private and family sessions",
-    priceLabel: "From Â£38",
+    priceLabel: "From ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã¢â‚¬Â¦Ãƒâ€šÃ‚Â¡ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã‚Â¡ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â£38",
     minPrice: 38,
     durationLabel: "1.5 to 2 hours",
     sortDurationMinutes: 90,
@@ -453,15 +458,15 @@ const schools = [
     audienceLabel: "Adults, children and families",
     minAge: 8,
     levels: ["Beginner", "Intermediate", "Advanced", "Family"],
-    summary: "Nick Thorn Surf Coaching runs surf sessions from Putsborough beach and publishes public group pricing from Â£38, private coaching, family sessions and Surfing England accreditation on the official site.",
+    summary: "Nick Thorn Surf Coaching runs surf sessions from Putsborough beach and publishes public group pricing from ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã¢â‚¬Â¦Ãƒâ€šÃ‚Â¡ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã‚Â¡ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â£38, private coaching, family sessions and Surfing England accreditation on the official site.",
     pageIntro: [
       "Nick Thorn Surf Coaching describes itself as a Putsborough-based North Devon surf school and lifeguard training centre, with public surf school pricing for group sessions, private tuition and family sessions on the official page.",
-      "Surfbooker could verify two-hour group lessons from Â£38, private coaching from 1.5 hours, family sessions and a broad age range around the Putsborough surf school offer."
+      "Surfbooker could verify two-hour group lessons from ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã¢â‚¬Â¦Ãƒâ€šÃ‚Â¡ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã‚Â¡ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â£38, private coaching from 1.5 hours, family sessions and a broad age range around the Putsborough surf school offer."
     ],
     facts: [
       { label: "Lesson format", value: "Group, private and family sessions" },
       { label: "Duration", value: "1.5 hours to 2 hours" },
-      { label: "Public starting price", value: "Â£38 for 1 group session" },
+      { label: "Public starting price", value: "ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã¢â‚¬Â¦Ãƒâ€šÃ‚Â¡ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã‚Â¡ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â£38 for 1 group session" },
       { label: "Equipment", value: "Wetsuits, surfboards, boots, gloves and hoods available through the school" },
       { label: "Minimum age", value: "Surf school page says lessons are for ages 8 and above" },
       { label: "Accreditation", value: "Surfing England accredited and described as a lifeguard training centre" },
@@ -488,7 +493,7 @@ const schools = [
     imageWidth: 1400,
     imageHeight: 933,
     subtitle: "Putsborough Sands private and family surf school",
-    priceLabel: "From Â£100",
+    priceLabel: "From ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã¢â‚¬Â¦Ãƒâ€šÃ‚Â¡ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã‚Â¡ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â£100",
     minPrice: 100,
     durationLabel: "90 minutes",
     sortDurationMinutes: 90,
@@ -497,15 +502,15 @@ const schools = [
     audienceLabel: "Adults, children and families",
     minAge: null,
     levels: ["Beginner", "Intermediate", "Advanced", "Family"],
-    summary: "Barefoot Surf School focuses on private 1:1 or 2:1 coaching and family surf lessons at Putsborough Sands, with public prices from Â£100 and 90-minute sessions described on the official site.",
+    summary: "Barefoot Surf School focuses on private 1:1 or 2:1 coaching and family surf lessons at Putsborough Sands, with public prices from ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã¢â‚¬Â¦Ãƒâ€šÃ‚Â¡ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã‚Â¡ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â£100 and 90-minute sessions described on the official site.",
     pageIntro: [
       "Barefoot Surf School is a family-run, accredited surf school based at Putsborough. Its public lesson pages focus on private 1:1 or 2:1 tuition plus family surf lessons held at Putsborough Sands.",
-      "Surfbooker could verify 90-minute lesson lengths, a Â£100 starting price for 1:1 lessons, board and wetsuit hire included in lesson pricing and a dedicated private instructor format from the providerâ€™s own pages."
+      "Surfbooker could verify 90-minute lesson lengths, a ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã¢â‚¬Â¦Ãƒâ€šÃ‚Â¡ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã‚Â¡ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â£100 starting price for 1:1 lessons, board and wetsuit hire included in lesson pricing and a dedicated private instructor format from the providerÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã¢â‚¬Â¦Ãƒâ€šÃ‚Â¡ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã¢â‚¬Â¦Ãƒâ€šÃ‚Â¾ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¢s own pages."
     ],
     facts: [
       { label: "Lesson format", value: "Private and family lessons" },
       { label: "Duration", value: "90 minutes" },
-      { label: "Public starting price", value: "Â£100 for a 1:1 lesson" },
+      { label: "Public starting price", value: "ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã¢â‚¬Â¦Ãƒâ€šÃ‚Â¡ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã‚Â¡ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â£100 for a 1:1 lesson" },
       { label: "Equipment", value: "Board and wetsuit hire included in lesson prices" },
       { label: "Meeting point", value: "Putsborough car park meeting point is described on the family lesson page" },
       { label: "Group size", value: "1:1, 2:1 and family session formats" },
@@ -540,8 +545,8 @@ const locations = [
     label: "Westward Ho! surf lessons",
     pageTitle: "Surf lessons in Westward Ho!",
     intro: [
-      "Westward Ho! is Surfbookerâ€™s largest single beach cluster right now, with Ho! Surf, North Devon Surf School and Westward Waves Surf School all publishing surf lesson information for the area.",
-      "Between them, Surfbooker could verify two-hour lesson products, wetsuit and equipment notes, and a mix of group or private coaching formats from each providerâ€™s official pages."
+      "Westward Ho! is SurfbookerÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã¢â‚¬Â¦Ãƒâ€šÃ‚Â¡ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã¢â‚¬Â¦Ãƒâ€šÃ‚Â¾ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¢s largest single beach cluster right now, with Ho! Surf, North Devon Surf School and Westward Waves Surf School all publishing surf lesson information for the area.",
+      "Between them, Surfbooker could verify two-hour lesson products, wetsuit and equipment notes, and a mix of group or private coaching formats from each providerÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã¢â‚¬Â¦Ãƒâ€šÃ‚Â¡ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã¢â‚¬Â¦Ãƒâ€šÃ‚Â¾ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¢s official pages."
     ],
     metaDescription: "Compare surf lessons in Westward Ho!, North Devon. Browse Ho! Surf, North Devon Surf School and Westward Waves with public lesson details and internal school pages.",
     relatedAreas: ["North Devon", "Saunton", "Woolacombe"]
@@ -552,7 +557,7 @@ const locations = [
     label: "Saunton surf lessons",
     pageTitle: "Surf lessons in Saunton",
     intro: [
-      "Surfbookerâ€™s Saunton pages currently cover Surf Saunton and Walking on Waves, two schools with detailed public lesson pages centred on Saunton Sands.",
+      "SurfbookerÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã¢â‚¬Â¦Ãƒâ€šÃ‚Â¡ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã¢â‚¬Â¦Ãƒâ€šÃ‚Â¾ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¢s Saunton pages currently cover Surf Saunton and Walking on Waves, two schools with detailed public lesson pages centred on Saunton Sands.",
       "The official websites in this area show a strong mix of group lessons, private coaching, kids products and progression-focused surf courses, plus practical details such as parking, changing and equipment."
     ],
     metaDescription: "Compare surf lessons in Saunton Sands, North Devon. Browse Surf Saunton and Walking on Waves with public lesson prices, formats and internal Surfbooker school pages.",
@@ -576,7 +581,7 @@ const locations = [
     label: "Croyde surf lessons",
     pageTitle: "Surf lessons in Croyde",
     intro: [
-      "Surfbookerâ€™s Croyde pages currently compare Surf South West and Surfing Croyde Bay. Both schools publish substantial surf lesson information, but their public lesson formats and pricing structure differ.",
+      "SurfbookerÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã¢â‚¬Â¦Ãƒâ€šÃ‚Â¡ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã¢â‚¬Â¦Ãƒâ€šÃ‚Â¾ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¢s Croyde pages currently compare Surf South West and Surfing Croyde Bay. Both schools publish substantial surf lesson information, but their public lesson formats and pricing structure differ.",
       "If you want the clearest comparison, use this page first, then move into the individual school pages to compare 2-hour versus 2.5-hour lesson formats, public prices and facilities."
     ],
     metaDescription: "Compare surf lessons in Croyde Bay, North Devon. Browse Surf South West and Surfing Croyde Bay with public lesson prices, facilities and internal school pages.",
@@ -588,8 +593,8 @@ const locations = [
     label: "Putsborough surf lessons",
     pageTitle: "Surf lessons in Putsborough",
     intro: [
-      "Putsborough is Surfbookerâ€™s more private-coaching-led location set, with Nick Thorn Surf Coaching and Barefoot Surf School both publishing surf lesson information tied directly to Putsborough beach.",
-      "These schools present different teaching styles and pricing structures, so Surfbookerâ€™s internal pages help you compare group-friendly surf school products against private and family-focused coaching."
+      "Putsborough is SurfbookerÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã¢â‚¬Â¦Ãƒâ€šÃ‚Â¡ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã¢â‚¬Â¦Ãƒâ€šÃ‚Â¾ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¢s more private-coaching-led location set, with Nick Thorn Surf Coaching and Barefoot Surf School both publishing surf lesson information tied directly to Putsborough beach.",
+      "These schools present different teaching styles and pricing structures, so SurfbookerÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã¢â‚¬Â¦Ãƒâ€šÃ‚Â¡ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã¢â‚¬Â¦Ãƒâ€šÃ‚Â¾ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¢s internal pages help you compare group-friendly surf school products against private and family-focused coaching."
     ],
     metaDescription: "Compare surf lessons in Putsborough, North Devon. Browse Nick Thorn Surf Coaching and Barefoot Surf School with public lesson details and internal Surfbooker pages.",
     relatedAreas: ["North Devon", "Croyde", "Woolacombe"]
@@ -816,6 +821,37 @@ const utilityPages = [
   }
 ];
 
+const westwardHoGuideImage = schools.find((school) => school.slug === "westward-waves-surf-school");
+
+const guidePages = [
+  {
+    slug: "surfing-westward-ho",
+    path: westwardHoGuidePath,
+    title: "Surfing Westward Ho!: Honest Surf Spot Review | Surfbooker",
+    description: "An honest review of surfing at Westward Ho!, including waves, tides, beginner suitability, parking, facilities and Northam Burrows access.",
+    h1: "Surfing at Westward Ho!: an honest Surfbooker review",
+    label: "Surfbooker beach review",
+    intro: "Wave conditions, beginner suitability, parking, facilities and what to know before you surf.",
+    updatedLabel: "Updated 1 August 2026",
+    image: westwardHoGuideImage.image,
+    imageAlt: "Beginner surfer riding a small wave on a wide sandy beach in an illustrative Surfbooker editorial image",
+    imageWidth: westwardHoGuideImage.imageWidth,
+    imageHeight: westwardHoGuideImage.imageHeight,
+    compareHref: buildAreaCompareHref("Westward Ho!"),
+    schoolSlugs: ["ho-surf", "north-devon-surf-school", "westward-waves-surf-school"],
+    officialLinks: [
+      {
+        href: rnliWestwardHoUrl,
+        label: "RNLI Westward Ho! beach information (opens in a new tab)"
+      },
+      {
+        href: northamBurrowsAccessUrl,
+        label: "Torridge District Council Northam Burrows access information (opens in a new tab)"
+      }
+    ]
+  }
+];
+
 build();
 
 function build() {
@@ -823,6 +859,12 @@ function build() {
 
   for (const page of utilityPages) {
     write(page.path, renderUtilityPage(page));
+  }
+
+  write("guides/index.html", renderGuidesIndexPage());
+
+  for (const guide of guidePages) {
+    write(join("guides", guide.slug, "index.html"), renderGuidePage(guide));
   }
 
   for (const location of locations) {
@@ -840,13 +882,13 @@ function build() {
 
 function renderHomePage() {
   const title = "Compare North Devon Surf Lessons | Surfbooker";
-  const description = "Compare prices, locations, lesson types and what's included across Westward Ho!, Saunton, Woolacombe, Croyde and Putsborough.";
+  const description = "Compare North Devon surf schools in one place.";
   const homeListings = schools.map(toListingData);
   const northDevonUrl = "/surf-lessons/north-devon/";
   const homepageFaqs = [
     {
       question: "How much does a surf lesson in North Devon cost?",
-      answer: "Public starting prices in Surfbooker's current North Devon listings range from £30 for Surfing Croyde Bay's half-day lesson to £100 for Barefoot Surf School's private 1:1 session. Several listed group lessons start between £35 and £45 per person."
+      answer: "Public starting prices in Surfbooker's current North Devon listings range from ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã‚Â¡ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â£30 for Surfing Croyde Bay's half-day lesson to ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã‚Â¡ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â£100 for Barefoot Surf School's private 1:1 session. Several listed group lessons start between ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã‚Â¡ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â£35 and ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã‚Â¡ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â£45 per person."
     },
     {
       question: "Is surf equipment included?",
@@ -975,7 +1017,7 @@ function renderHomePage() {
         <div class="hero-copy">
           <p class="eyebrow">Compare North Devon surf lessons</p>
           <h1>Find the right surf lesson in North Devon.</h1>
-          <p class="hero-text">Compare prices, locations, lesson types and what's included across Westward Ho!, Saunton, Woolacombe, Croyde and Putsborough.</p>
+          <p class="hero-text">Compare North Devon surf schools in one place.</p>
           <div class="hero-actions">
             <a class="button button-primary" href="#lessons">Compare lessons</a>
             <a class="button button-secondary" href="#how-it-works">How it works</a>
@@ -983,7 +1025,7 @@ function renderHomePage() {
           <ul class="hero-stats" aria-label="Surfbooker overview">
             <li><strong>11 surf schools</strong><span>Current North Devon lesson listings.</span></li>
             <li><strong>5 North Devon beaches</strong><span>Westward Ho!, Saunton, Woolacombe, Croyde and Putsborough.</span></li>
-            <li><strong>Lessons from £30</strong><span>Based on current public starting prices in the listing set.</span></li>
+            <li><strong>Lessons from ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã‚Â¡ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â£30</strong><span>Based on current public starting prices in the listing set.</span></li>
           </ul>
           <p class="hero-note">${escapeHtml(pricingCheckedNote)}</p>
         </div>
@@ -995,7 +1037,7 @@ function renderHomePage() {
           </div>
           <div class="wave-card wave-card-secondary">
             <span class="wave-chip">Availability request</span>
-            <p>Your preferred lesson date travels with the school-page enquiry form, then the provider confirms the final next steps.</p>
+            <p>Your preferred lesson date travels with the school-page enquiry form.</p>
           </div>
           <div class="forecast-orb"></div>
         </div>
@@ -1037,6 +1079,15 @@ function renderHomePage() {
             </a>
           `).join("")}
         </div>
+        <div class="simple-card simple-copy guide-inline-card">
+          <p class="section-label">Westward Ho! guide</p>
+          <h3>Read Surfbooker's honest Westward Ho! surf review.</h3>
+          <p>See how surfing Westward Ho! compares for beginner surfing in Devon, parking, facilities and Northam Burrows access before you shortlist local lessons.</p>
+          <div class="simple-actions">
+            <a class="button button-secondary" href="${westwardHoGuidePath}">Read the guide</a>
+            <a class="button button-primary" href="${buildAreaCompareHref("Westward Ho!")}">Compare Westward Ho! surf lessons</a>
+          </div>
+        </div>
       </section>
 
       <section class="listings-section" id="lessons">
@@ -1074,11 +1125,11 @@ function renderHomePage() {
             <span>Price</span>
             <select id="filter-price">
               <option value="">Any price</option>
-              <option value="35">Up to £35</option>
-              <option value="40">Up to £40</option>
-              <option value="45">Up to £45</option>
-              <option value="50">Up to £50</option>
-              <option value="100">Up to £100</option>
+              <option value="35">Up to ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã‚Â¡ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â£35</option>
+              <option value="40">Up to ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã‚Â¡ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â£40</option>
+              <option value="45">Up to ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã‚Â¡ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â£45</option>
+              <option value="50">Up to ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã‚Â¡ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â£50</option>
+              <option value="100">Up to ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã‚Â¡ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â£100</option>
             </select>
           </label>
           <label>
@@ -1363,6 +1414,13 @@ function renderHomePage() {
       field.addEventListener("input", renderListings);
       field.addEventListener("change", renderListings);
     });
+
+    const listingParams = new URLSearchParams(window.location.search);
+    const requestedArea = listingParams.get("area");
+
+    if (requestedArea && Array.from(filters.area.options).some((option) => option.value === requestedArea)) {
+      filters.area.value = requestedArea;
+    }
 
     renderListings();
   </script>
@@ -1702,6 +1760,206 @@ function renderUtilityPage(page) {
   });
 }
 
+function buildAreaCompareHref(area) {
+  const params = new URLSearchParams();
+  params.set("area", area);
+  return `/?${params.toString()}#lessons`;
+}
+
+function renderGuidesIndexPage() {
+  const breadcrumbs = [
+    { name: "Home", url: "/" },
+    { name: "Surf guides", url: surfGuidesPath }
+  ];
+
+  return renderStandardPage({
+    title: "Surf guides | Surfbooker",
+    description: "Editorial Surfbooker guides covering beaches, surf spots and practical planning for surfing in North Devon.",
+    path: surfGuidesPath,
+    h1: "Surf guides",
+    label: "Editorial guides",
+    intro: "Readable Surfbooker guides for surfers comparing beaches, parking, facilities and local context before they book a lesson.",
+    heroChildren: `
+      <div class="simple-actions">
+        <a class="button button-primary" href="${westwardHoGuidePath}">Read the Westward Ho! guide</a>
+      </div>
+    `,
+    breadcrumbs,
+    jsonLd: {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "BreadcrumbList",
+          itemListElement: breadcrumbItems(breadcrumbs)
+        }
+      ]
+    },
+    mainContent: `
+      <section class="simple-card simple-copy">
+        <p class="section-label">Current guide</p>
+        <h2>Surfing Westward Ho!</h2>
+        <p>An honest Surfbooker review covering waves, beginner suitability, parking, facilities and Northam Burrows access for surfers planning a session or a lesson.</p>
+        <div class="simple-actions">
+          <a class="button button-primary" href="${westwardHoGuidePath}">Read the guide</a>
+          <a class="button button-secondary" href="${buildAreaCompareHref("Westward Ho!")}">Compare Westward Ho! surf lessons</a>
+        </div>
+      </section>
+    `
+  });
+}
+
+function renderGuidePage(guide) {
+  const guideSchools = guide.schoolSlugs
+    .map((slug) => schools.find((school) => school.slug === slug))
+    .filter(Boolean);
+  const breadcrumbs = [
+    { name: "Home", url: "/" },
+    { name: "Surf guides", url: surfGuidesPath },
+    { name: "Surfing Westward Ho!", url: guide.path }
+  ];
+  const jsonLd = {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "BreadcrumbList",
+        itemListElement: breadcrumbItems(breadcrumbs)
+      },
+      {
+        "@type": "Article",
+        headline: guide.h1,
+        description: guide.description,
+        datePublished: buildDate,
+        dateModified: buildDate,
+        inLanguage: "en-GB",
+        mainEntityOfPage: `${baseUrl}${guide.path}`,
+        image: [guide.image],
+        articleSection: ["Surf guides", "Westward Ho!", "North Devon"],
+        author: {
+          "@type": "Organization",
+          name: "Surfbooker",
+          url: baseUrl
+        },
+        publisher: {
+          "@type": "Organization",
+          name: "Surfbooker",
+          url: baseUrl,
+          logo: {
+            "@type": "ImageObject",
+            url: `${baseUrl}${logoIcon}`
+          }
+        }
+      }
+    ]
+  };
+
+  return renderStandardPage({
+    title: guide.title,
+    description: guide.description,
+    path: guide.path,
+    h1: guide.h1,
+    label: guide.label,
+    intro: guide.intro,
+    ogType: "article",
+    heroChildren: `
+      <p class="page-note">${escapeHtml(guide.updatedLabel)}</p>
+      <div class="simple-actions">
+        <a class="button button-primary" href="${guide.compareHref}">Compare Westward Ho! surf lessons</a>
+        <a class="button button-secondary" href="${westwardHoWhatsappUrl}" target="_blank" rel="noopener noreferrer" aria-label="Message Surfbooker on WhatsApp about Westward Ho! surf lessons">Message Surfbooker on WhatsApp</a>
+      </div>
+    `,
+    breadcrumbs,
+    jsonLd,
+    mainContent: `
+      <section class="simple-card">
+        <div class="simple-grid guide-overview-grid">
+          <figure class="guide-figure">
+            <img src="${escapeHtml(guide.image)}" alt="${escapeHtml(guide.imageAlt)}" width="${guide.imageWidth}" height="${guide.imageHeight}" decoding="async">
+            <figcaption class="guide-caption">Illustrative stock surfing image used by Surfbooker for this editorial beach guide.</figcaption>
+          </figure>
+          <div class="simple-card-content">
+            <p class="section-label">Quick verdict</p>
+            <h2>One of the easiest places in North Devon to start surfing.</h2>
+            <p>Westward Ho! is one of North Devon's most accessible places to learn to surf. Its long, open beach catches plenty of Atlantic swell, while the wide sandy area gives beginners plenty of room to practise in the white water.</p>
+            <p>It also has a relaxed vibe. Surf schools, cafes, equipment hire and other practical facilities sit close to the beach, so it works well for a full day out rather than a quick in-and-out lesson.</p>
+            <div class="simple-actions">
+              <a class="button button-primary" href="${guide.compareHref}">Compare Westward Ho! surf lessons</a>
+              <a class="button button-secondary" href="/surf-lessons/westward-ho/">View the Westward Ho! lesson page</a>
+            </div>
+          </div>
+        </div>
+      </section>
+      <section class="simple-card">
+        <p class="section-label">Quick facts</p>
+        <div class="simple-facts">
+          <div><span>Best for</span><strong>Beginners, improvers, families and group lessons</strong></div>
+          <div><span>Surf style</span><strong>Open sandy beach break</strong></div>
+          <div><span>Parking</span><strong>Several car parks, limited side-street options and seasonal Northam Burrows access</strong></div>
+          <div><span>Facilities</span><strong>Very good</strong></div>
+          <div><span>Overall</span><strong>A friendly and convenient North Devon surf destination</strong></div>
+        </div>
+      </section>
+      <section class="simple-card simple-copy">
+        <h2>What is the surfing like?</h2>
+        <p>Westward Ho! works particularly well for beginners and improving surfers. On smaller days, the broken waves create repeated chances to practise standing, turning and building confidence. More experienced surfers can also find enjoyable waves when the swell, wind and tide line up.</p>
+        <p>Because the beach is open and exposed, conditions can change quickly. Wind can affect wave quality, and a promising forecast does not always guarantee clean surf. Check conditions before travelling and speak to a local surf school if you are unsure what the sea state will feel like on the day.</p>
+        <p>Always follow the lifeguard flags and local safety advice. The RNLI has highlighted risks around the slipway during an incoming tide, so it is worth paying attention to your exit route while you are in the water.</p>
+      </section>
+      <section class="simple-card simple-copy">
+        <h2>Is Westward Ho! suitable for beginners?</h2>
+        <p>Yes. The sandy bottom, long beach and choice of established Westward Ho! surf schools make it a strong option for a first lesson. For anyone interested in beginner surfing in Devon, it is one of the more practical starting points because access is straightforward and there is usually enough beach to spread out.</p>
+        <p>Booking a lesson is still worthwhile if you have never surfed before. An instructor can choose the safest part of the beach, explain the tide and conditions, and help you avoid picking up bad habits early on.</p>
+        <p>Westward Ho! can be busy in summer, but the length of the beach usually makes it possible to find more space away from the busiest lesson zones.</p>
+      </section>
+      <section class="simple-card simple-copy">
+        <h2>Parking at Westward Ho!</h2>
+        <p>Parking is one of the location's biggest advantages. There are several official car parks, including the main long-stay car park, the Slipway car park and Wilkey's Field. You may also find quieter side-street spaces, provided you check the signs, park legally and leave enough room for residents and other visitors.</p>
+        <p>Northam Burrows is another useful option. Torridge District Council says the vehicle gates open from 7am to 10pm between March and October, and from 7am to 6pm between November and February.</p>
+        <p>Torridge District Council also says a vehicle toll normally applies from 3 April until 1 November. Outside that charging period, vehicle access is normally free. Check the latest access times and charges before you travel because free access to the Burrows can be a real advantage during quieter months.</p>
+      </section>
+      <section class="simple-card simple-copy">
+        <h2>Facilities and atmosphere</h2>
+        <p>Westward Ho! feels welcoming without losing its surf-town character. Cafes, pubs, takeaways, toilets, shops, surf schools and equipment-hire businesses are all within easy reach of the water.</p>
+        <p>That convenience makes surfing in North Devon easier for families and mixed groups. One person can take a lesson while others walk along the promenade, explore Northam Burrows or stop for food nearby.</p>
+      </section>
+      <section class="simple-card simple-copy">
+        <h2>What are the drawbacks?</h2>
+        <p>The main disadvantage is exposure. Wind can make the waves messy, and summer weekends can be busy both in the water and around the village.</p>
+        <p>At low tide, the walk to the water can be longer than some first-time visitors expect. At higher tide, the available beach space reduces, so it is sensible to keep an eye on the tide and avoid leaving belongings too close to the water.</p>
+      </section>
+      <section class="simple-card simple-copy">
+        <p class="section-label">Westward Ho! surf schools</p>
+        <h2>Compare local lesson pages on Surfbooker.</h2>
+        <p>If you want to compare Westward Ho! surf lessons before you enquire, start with these internal Surfbooker pages for local schools and the location overview.</p>
+        <ul class="simple-list">
+          ${guideSchools.map((school) => `<li><a class="text-link" href="${comparePathForSchool(school)}">${escapeHtml(school.name)}</a> - ${escapeHtml(school.durationLabel)} ${escapeHtml(specFormatLabel(school).toLowerCase())} listed on Surfbooker.</li>`).join("")}
+          <li><a class="text-link" href="/surf-lessons/westward-ho/">Westward Ho! surf lessons</a> - Surfbooker's beach-level comparison page for surfing Westward Ho!.</li>
+        </ul>
+      </section>
+      <section class="simple-card simple-copy">
+        <p class="section-label">Useful official information</p>
+        <h2>Check the latest official guidance before you travel.</h2>
+        <ul class="simple-list">
+          ${guide.officialLinks.map((item) => `<li><a class="text-link" href="${escapeHtml(item.href)}" target="_blank" rel="noopener noreferrer">${escapeHtml(item.label)}</a></li>`).join("")}
+        </ul>
+        <p class="page-note">Editorial note: conditions, parking charges and access times can change, so check official updates before you travel.</p>
+      </section>
+      <section class="simple-card simple-copy">
+        <h2>Surfbooker verdict</h2>
+        <p>Westward Ho! is an excellent choice for beginners, families and improving surfers who value convenience as much as wave quality.</p>
+        <p>It may not always produce the cleanest or most powerful waves in North Devon, but its reliable swell exposure, established surf schools, easy access, parking choices and relaxed atmosphere make it one of the most practical places in the area to learn.</p>
+        <div class="simple-actions">
+          <a class="button button-primary" href="${guide.compareHref}">Compare Westward Ho! surf lessons</a>
+          <a class="button button-secondary" href="${westwardHoWhatsappUrl}" target="_blank" rel="noopener noreferrer" aria-label="Message Surfbooker on WhatsApp about Westward Ho! surf lessons">Message Surfbooker on WhatsApp</a>
+        </div>
+      </section>
+      ${renderTrackingForm()}
+      <script>
+        ${trackingScript("guide_view", guide.slug, "westward-ho")}
+      </script>
+    `
+  });
+}
+
 function renderNotFoundPage() {
   const title = "Page not found | Surfbooker";
   const description = "The page you were looking for does not exist. Return to the Surfbooker homepage or one of the North Devon surf lesson pages.";
@@ -1770,7 +2028,7 @@ function renderNotFoundPage() {
 </html>`;
 }
 
-function renderStandardPage({ title, description, path, h1, label, intro, heroChildren, breadcrumbs, jsonLd, mainContent }) {
+function renderStandardPage({ title, description, path, h1, label, intro, heroChildren, breadcrumbs, jsonLd, mainContent, ogType = "website" }) {
   return `<!DOCTYPE html>
 <html lang="en-GB">
 <head>
@@ -1783,7 +2041,7 @@ function renderStandardPage({ title, description, path, h1, label, intro, heroCh
   <link rel="alternate" hreflang="en-GB" href="${baseUrl}${path}">
   <meta name="theme-color" content="#0f2a33">
   <meta property="og:locale" content="en_GB">
-  <meta property="og:type" content="website">
+  <meta property="og:type" content="${escapeHtml(ogType)}">
   <meta property="og:site_name" content="Surfbooker">
   <meta property="og:title" content="${escapeHtml(title)}">
   <meta property="og:description" content="${escapeHtml(description)}">
@@ -1892,6 +2150,7 @@ function renderFooter() {
     <footer class="site-footer" id="site-footer">
       <p class="footer-disclaimer">${escapeHtml(sharedDisclaimer)}</p>
       <div class="footer-links">
+        <a href="${westwardHoGuidePath}">Westward Ho! guide</a>
         <a href="/contact/">Contact</a>
         <a href="/privacy/">Privacy</a>
         <a href="/terms/">Terms</a>
@@ -1970,6 +2229,8 @@ Sitemap: https://surfbooker.com/sitemap.xml
 function renderSitemap() {
   const urls = [
     "/",
+    surfGuidesPath,
+    westwardHoGuidePath,
     "/contact/",
     "/privacy/",
     "/terms/",
@@ -2022,7 +2283,7 @@ function lowestPriceLabel(areaSchools) {
   if (!prices.length) {
     return "Check availability";
   }
-  return `From £${Math.min(...prices)}`;
+  return `From ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã‚Â¡ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â£${Math.min(...prices)}`;
 }
 
 function specFormatLabel(school) {
@@ -2135,12 +2396,12 @@ function write(relativePath, content) {
 
 function normaliseGeneratedText(value) {
   return String(value)
-    .replace(/Â£/g, "£")
-    .replace(/â€™/g, "'")
-    .replace(/â€œ/g, "\"")
-    .replace(/â€/g, "\"")
-    .replace(/â€“/g, "-")
-    .replace(/â€”/g, "-");
+    .replace(/ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã¢â‚¬Â¦Ãƒâ€šÃ‚Â¡ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã‚Â¡ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â£/g, "ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã‚Â¡ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â£")
+    .replace(/ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã¢â‚¬Â¦Ãƒâ€šÃ‚Â¡ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã¢â‚¬Â¦Ãƒâ€šÃ‚Â¾ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¢/g, "'")
+    .replace(/ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã¢â‚¬Â¦Ãƒâ€šÃ‚Â¡ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€šÃ‚Â¦ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã¢â‚¬Â¦ÃƒÂ¢Ã¢â€šÂ¬Ã…â€œ/g, "\"")
+    .replace(/ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã¢â‚¬Â¦Ãƒâ€šÃ‚Â¡ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã‚Â¡ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â/g, "\"")
+    .replace(/ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã¢â‚¬Â¦Ãƒâ€šÃ‚Â¡ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã‚Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â¦ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã¢â‚¬Å“/g, "-")
+    .replace(/ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã¢â‚¬Â¦Ãƒâ€šÃ‚Â¡ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã‚Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â/g, "-");
 }
 
 function escapeHtml(value) {
