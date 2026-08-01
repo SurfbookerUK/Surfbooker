@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://surfbooker.com/sitemap.xml
