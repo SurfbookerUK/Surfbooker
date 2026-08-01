@@ -24,6 +24,7 @@ body {
   min-height: 100vh;
   font-family: "Space Grotesk", sans-serif;
   color: var(--text);
+  overflow-x: clip;
   background:
     radial-gradient(circle at top left, rgba(123, 211, 223, 0.65), transparent 28%),
     radial-gradient(circle at 85% 20%, rgba(13, 142, 166, 0.18), transparent 22%),
@@ -58,6 +59,7 @@ textarea {
   align-items: center;
   justify-content: space-between;
   gap: 20px;
+  min-width: 0;
   padding: 16px 22px;
   border: 1px solid var(--line);
   border-radius: 999px;
@@ -104,12 +106,15 @@ textarea {
 .site-nav {
   display: flex;
   gap: 24px;
+  min-width: 0;
+  flex-wrap: wrap;
   color: var(--muted);
   font-size: 0.96rem;
 }
 
 .mobile-nav-links {
   display: none;
+  min-width: 0;
 }
 
 .button,
@@ -205,6 +210,8 @@ textarea {
 .hero-actions {
   display: flex;
   gap: 14px;
+  min-width: 0;
+  flex-wrap: wrap;
   margin: 30px 0 34px;
 }
 
@@ -561,6 +568,7 @@ textarea {
   flex-wrap: wrap;
   align-items: center;
   gap: 10px 14px;
+  min-width: 0;
 }
 
 .listing-topline p,
@@ -905,6 +913,7 @@ textarea {
   display: flex;
   flex-wrap: wrap;
   gap: 12px;
+  min-width: 0;
 }
 
 .simple-card {
@@ -1088,21 +1097,52 @@ textarea:focus-visible {
 @media (max-width: 640px) {
   .page-shell,
   .simple-shell {
-    width: min(100% - 20px, 1200px);
+    width: calc(100% - 20px);
+    max-width: 1200px;
     padding-top: 14px;
   }
 
   .site-header {
     flex-direction: column;
     align-items: stretch;
+    border-radius: 28px;
+    padding: 18px;
   }
 
   .brand {
     align-self: flex-start;
   }
 
+  .brand-wordmark-image {
+    width: min(100%, 220px);
+  }
+
   .mobile-nav-links {
     width: 100%;
+  }
+
+  .mobile-nav-links a,
+  .hero-actions a,
+  .simple-actions a,
+  .listing-actions a,
+  .detail-actions a,
+  .footer-links a,
+  .button,
+  .search-form button,
+  .booking-form button,
+  .provider-form button,
+  .contact-form button {
+    width: 100%;
+    max-width: 100%;
+  }
+
+  .mobile-nav-links a,
+  .hero-actions a,
+  .simple-actions a,
+  .listing-actions a,
+  .detail-actions a,
+  .footer-links a {
+    text-align: center;
   }
 
   .hero h1 {
@@ -1143,5 +1183,15 @@ textarea:focus-visible {
 
   .detail-card {
     padding: 0;
+  }
+
+  .breadcrumbs ol,
+  .listing-card-body,
+  .detail-copy,
+  .booking-panel,
+  .simple-card-content,
+  .google-rating,
+  .google-rating-display {
+    min-width: 0;
   }
 }
