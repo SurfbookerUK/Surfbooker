@@ -36,7 +36,7 @@ export async function fetchGooglePlacesForSlugs(slugs, apiKey) {
 
 async function lookupPlaceForSchool(config, apiKey) {
   if (!apiKey) {
-    return unavailableResult("missing_api_key");
+    return unavailableResult("missing_api_key", null, config.googleMapsUri || null);
   }
 
   try {
@@ -45,11 +45,11 @@ async function lookupPlaceForSchool(config, apiKey) {
       : await searchForPlace(config, apiKey);
 
     if (!place) {
-      return unavailableResult("no_match");
+      return unavailableResult("no_match", null, config.googleMapsUri || null);
     }
 
     if (!isConfidentMatch(place, config)) {
-      return unavailableResult("uncertain_match", place);
+      return unavailableResult("uncertain_match", place, config.googleMapsUri || null);
     }
 
     const rating = typeof place.rating === "number" ? place.rating : null;
@@ -58,7 +58,7 @@ async function lookupPlaceForSchool(config, apiKey) {
     const placeId = typeof place.id === "string" ? place.id : config.placeId || null;
 
     if (!googleMapsUri || !placeId) {
-      return unavailableResult("missing_required_fields", place);
+      return unavailableResult("missing_required_fields", place, config.googleMapsUri || null);
     }
 
     return {
@@ -72,7 +72,7 @@ async function lookupPlaceForSchool(config, apiKey) {
       photoAttributions: extractPhotoAttributions(place.photos)
     };
   } catch (error) {
-    return unavailableResult("lookup_failed");
+    return unavailableResult("lookup_failed", null, config.googleMapsUri || null);
   }
 }
 
@@ -196,13 +196,13 @@ function normalizeHost(value) {
   }
 }
 
-function unavailableResult(reason, place = null) {
+function unavailableResult(reason, place = null, fallbackGoogleMapsUri = null) {
   return {
     status: "unavailable",
     reason,
     placeId: place?.id || null,
     displayName: place?.displayName?.text || null,
-    googleMapsUri: typeof place?.googleMapsUri === "string" ? place.googleMapsUri : null,
+    googleMapsUri: typeof place?.googleMapsUri === "string" ? place.googleMapsUri : fallbackGoogleMapsUri,
     rating: null,
     userRatingCount: null,
     attributionText: "Google Maps",

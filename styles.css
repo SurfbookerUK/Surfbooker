@@ -36,9 +36,23 @@ a {
   text-decoration: none;
 }
 
+a[href="/claim-or-update-a-listing/"] {
+  display: none !important;
+}
+
 img {
   display: block;
   max-width: 100%;
+}
+
+h1,
+h2,
+h3,
+p,
+a,
+span,
+li {
+  min-width: 0;
 }
 
 button,
@@ -51,11 +65,11 @@ textarea {
 .page-shell {
   width: min(1200px, calc(100% - 32px));
   margin: 0 auto;
-  padding: 24px 0 56px;
+  padding: 0 0 56px;
 }
 
 .site-header {
-  display: flex;
+  display: none;
   align-items: center;
   justify-content: space-between;
   gap: 20px;
@@ -99,7 +113,7 @@ textarea {
 }
 
 .brand-wordmark-image {
-  width: clamp(180px, 22vw, 260px);
+  width: clamp(520px, 58vw, 760px);
   height: auto;
 }
 
@@ -163,7 +177,70 @@ textarea {
   grid-template-columns: 1.15fr 0.85fr;
   gap: 36px;
   align-items: center;
-  padding: 80px 0 56px;
+  padding: 0 0 56px;
+  margin-top: -132px;
+}
+
+.hero-home {
+  grid-template-columns: 1fr;
+}
+
+.hero-logo-banner {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  padding-left: 0;
+  gap: 0;
+  position: relative;
+  margin: -128px 0 -88px;
+}
+
+.hero-logo-banner img {
+  width: min(840px, calc(100vw - 24px));
+  height: auto;
+  margin-left: -36px;
+}
+
+.hero-logo-links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px 18px;
+  padding-left: 0;
+  color: var(--muted);
+  font-size: 0.95rem;
+  position: absolute;
+  left: 272px;
+  top: 262px;
+  margin: 0;
+  z-index: 2;
+}
+
+.hero-logo-links a {
+  text-decoration: underline;
+  text-underline-offset: 3px;
+}
+
+.hero-title {
+  color: #09222c;
+}
+
+.hero-intro {
+  width: 100vw;
+  margin-left: calc(50% - 50vw);
+  margin-right: calc(50% - 50vw);
+  padding: clamp(40px, 5vw, 76px) clamp(16px, 6vw, 72px) clamp(56px, 8vw, 110px);
+  color: #fff;
+  background:
+    linear-gradient(180deg, rgba(4, 31, 39, 0.14), rgba(4, 31, 39, 0.5)),
+    url("https://unsplash.com/photos/gWoDvJzLbNI/download?force=true&w=1600") center 62%/cover;
+  box-shadow: none;
+}
+
+.hero-home .hero-title,
+.hero-home .hero-text {
+  color: #fff;
 }
 
 .eyebrow,
@@ -180,9 +257,9 @@ textarea {
 }
 
 .hero h1 {
-  margin: 12px 0 18px;
+  margin: 0 0 10px;
   font-size: clamp(3.4rem, 8vw, 6.2rem);
-  line-height: 0.95;
+  line-height: 0.88;
   font-weight: 400;
 }
 
@@ -213,6 +290,10 @@ textarea {
   min-width: 0;
   flex-wrap: wrap;
   margin: 30px 0 34px;
+}
+
+.hero-home .hero-actions {
+  margin-bottom: 0;
 }
 
 .hero-note {
@@ -380,6 +461,14 @@ textarea {
   grid-template-columns: repeat(4, minmax(0, 1fr));
 }
 
+.filters-action {
+  margin-top: 14px;
+}
+
+.filters-action .button {
+  min-width: 180px;
+}
+
 .search-form label,
 .filters-bar label,
 .booking-form label,
@@ -514,6 +603,16 @@ textarea {
 .breadcrumbs li + li::before {
   content: "/";
   color: rgba(15, 42, 51, 0.4);
+}
+
+.breadcrumbs li:first-child a {
+  display: inline-block;
+  width: 34px;
+  height: 34px;
+  overflow: hidden;
+  color: transparent;
+  background: url("/Logo%20no%20words%20transparent.png") center/contain no-repeat;
+  white-space: nowrap;
 }
 
 .listing-note {
@@ -865,9 +964,15 @@ textarea {
 }
 
 .site-footer {
-  display: grid;
-  gap: 16px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  text-align: center;
+  white-space: normal;
   margin-top: 30px;
+  padding: 0 10px;
+  gap: 4px 10px;
 }
 
 .footer-links-column {
@@ -875,16 +980,45 @@ textarea {
   align-items: flex-start;
 }
 
+.footer-disclaimer {
+  display: none;
+}
+
+.footer-links,
+.footer-meta {
+  display: inline-flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin: 0;
+}
+
+.footer-links:empty {
+  display: none;
+}
+
 .footer-links a {
   color: var(--accent-deep);
 }
 
 .footer-meta {
-  display: flex;
-  flex-wrap: wrap;
-  align-items: center;
-  gap: 8px;
-  font-size: 0.94rem;
+  font-size: 0.68rem;
+  line-height: 1.3;
+  overflow-wrap: anywhere;
+}
+
+.footer-links {
+  gap: 0;
+  font-size: 0.8rem;
+}
+
+.footer-links a,
+.footer-meta a {
+  display: inline;
+}
+
+.footer-links a + a::before,
+.footer-meta::before {
+  content: " ";
 }
 
 .simple-shell {
@@ -916,6 +1050,35 @@ textarea {
   min-width: 0;
 }
 
+.guides-list {
+  display: grid;
+  gap: 18px;
+  max-width: 720px;
+  margin: 0 auto 28px;
+}
+
+.guide-list-card {
+  display: grid;
+  gap: 8px;
+  padding: 28px 30px;
+  border: 1px solid var(--line);
+  border-radius: 28px;
+  background: var(--surface);
+  box-shadow: var(--shadow);
+  text-decoration: none;
+  color: var(--text);
+  text-align: center;
+}
+
+.guide-list-card h2 {
+  margin: 0;
+}
+
+.guide-list-card p {
+  margin: 0;
+  color: var(--muted);
+}
+
 .simple-card {
   padding: 28px;
 }
@@ -943,6 +1106,80 @@ textarea {
 .simple-footer {
   margin-top: 28px;
   padding: 22px 24px;
+}
+
+.guide-page .simple-hero,
+.guide-page .simple-card,
+.guide-page .simple-footer {
+  border: 0;
+  background: transparent;
+  box-shadow: none;
+  border-radius: 0;
+}
+
+.guide-page .simple-hero {
+  padding: 0;
+  margin: 32px 0 20px;
+}
+
+.guide-index-links {
+  display: grid;
+  justify-items: center;
+  gap: 16px;
+  width: min(620px, 100%);
+  margin: 0 auto;
+}
+
+.guide-index-links a {
+  color: var(--accent-deep);
+  text-decoration: underline;
+  text-underline-offset: 3px;
+  font-weight: 500;
+  font-size: clamp(1.2rem, 2.1vw, 1.65rem);
+  line-height: 1.2;
+  text-align: center;
+}
+
+.guide-page .simple-card,
+.guide-page .simple-footer {
+  padding: 0;
+}
+
+.guide-page .site-footer {
+  display: block;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.guide-page .footer-links,
+.guide-page .footer-meta {
+  display: inline;
+  margin: 0;
+}
+
+.guide-page .footer-links {
+  font-size: 0.8rem;
+}
+
+.guide-page .footer-links a,
+.guide-page .footer-meta a {
+  display: inline;
+}
+
+.guide-page .footer-links a + a::before,
+.guide-page .footer-meta::before {
+  content: " ";
+}
+
+.guide-page .footer-meta {
+  font-size: 0.8rem;
+}
+
+.guide-page .simple-facts div {
+  padding: 0;
+  border: 0;
+  background: transparent;
+  border-radius: 0;
 }
 
 .simple-copy h2 {
@@ -1073,7 +1310,22 @@ textarea:focus-visible {
   }
 
   .hero {
-    padding-top: 44px;
+    padding-top: 0;
+    margin-top: -96px;
+  }
+
+  .hero-home {
+    grid-template-columns: 1fr;
+  }
+
+  .hero-logo-banner {
+    padding-left: 0;
+    margin: -84px 0 -60px;
+  }
+
+  .hero-logo-links {
+    left: 202px;
+    top: 198px;
   }
 
   .hero-visual {
@@ -1099,25 +1351,51 @@ textarea:focus-visible {
   .simple-shell {
     width: calc(100% - 20px);
     max-width: 1200px;
-    padding-top: 14px;
+    padding-top: 0;
+    padding-bottom: 36px;
+  }
+
+  .hero {
+  }
+
+  .hero-logo-banner {
+    padding-left: 0;
+    margin: -44px 0 -28px;
+  }
+
+  .hero {
+    margin-top: -44px;
+  }
+
+  .hero-logo-links {
+    flex-direction: row;
+    gap: 8px 14px;
+    font-size: 0.92rem;
+    left: 126px;
+    top: 160px;
   }
 
   .site-header {
     flex-direction: column;
     align-items: stretch;
     border-radius: 28px;
-    padding: 18px;
+    gap: 14px;
+    padding: 16px;
   }
 
   .brand {
     align-self: flex-start;
+    max-width: 100%;
   }
 
   .brand-wordmark-image {
-    width: min(100%, 220px);
+    width: min(100%, 560px);
   }
 
   .mobile-nav-links {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 10px;
     width: 100%;
   }
 
@@ -1145,8 +1423,22 @@ textarea:focus-visible {
     text-align: center;
   }
 
+  .mobile-nav-links a {
+    padding: 12px 14px;
+    border: 1px solid var(--line);
+    border-radius: 999px;
+    background: rgba(255, 255, 255, 0.48);
+  }
+
+  .hero {
+    gap: 22px;
+    padding: 28px 0 32px;
+  }
+
   .hero h1 {
-    font-size: clamp(2.8rem, 17vw, 4.2rem);
+    font-size: clamp(2.45rem, 13vw, 3.6rem);
+    line-height: 0.98;
+    overflow-wrap: anywhere;
   }
 
   .hero-actions,
@@ -1154,11 +1446,75 @@ textarea:focus-visible {
   .listing-actions,
   .footer-links {
     flex-direction: column;
-    align-items: flex-start;
+    align-items: stretch;
+  }
+
+  .hero-text,
+  .hero-note,
+  .section-heading h2,
+  .wave-card-main h2,
+  .listing-copy h3,
+  .detail-copy h3,
+  .faq-card h3,
+  .simple-hero h1,
+  .simple-section h2 {
+    overflow-wrap: anywhere;
+  }
+
+  .hero-text,
+  .hero-note,
+  .results-summary,
+  .footer-disclaimer,
+  .footer-meta {
+    font-size: 0.96rem;
+    line-height: 1.6;
+  }
+
+  .hero-actions {
+    gap: 10px;
+    margin: 24px 0 26px;
   }
 
   .wave-card-secondary {
     width: calc(100% - 24px);
+  }
+
+  .hero-visual {
+    min-height: 380px;
+  }
+
+  .wave-card,
+  .wave-card-main,
+  .wave-card-secondary {
+    max-width: 100%;
+  }
+
+  .wave-card-main {
+    inset: 0 0 96px 0;
+    padding: 20px;
+  }
+
+  .wave-card-main h2 {
+    font-size: 1.58rem;
+    line-height: 1.06;
+  }
+
+  .wave-card-secondary {
+    padding: 18px;
+  }
+
+  .hero-stats li,
+  .search-panel,
+  .feature-panel,
+  .coverage-card,
+  .process-grid article,
+  .detail-card,
+  .booking-panel,
+  .faq-card,
+  .site-footer,
+  .simple-card,
+  .simple-hero {
+    border-radius: 22px;
   }
 
   .forecast-orb {
@@ -1185,6 +1541,44 @@ textarea:focus-visible {
     padding: 0;
   }
 
+  .search-form,
+  .filters-bar,
+  .listings-grid,
+  .section-grid,
+  .process-grid,
+  .faq-grid,
+  .coverage-grid,
+  .simple-grid,
+  .detail-layout,
+  .detail-facts,
+  .facts-grid,
+  .detail-specs {
+    gap: 16px;
+  }
+
+  .search-form label,
+  .filters-bar label,
+  .filter-reset-wrap,
+  .search-form input,
+  .search-form select,
+  .filters-bar input,
+  .filters-bar select {
+    min-width: 0;
+    width: 100%;
+  }
+
+  .listing-card,
+  .listing-card-body,
+  .listing-copy,
+  .detail-copy,
+  .booking-copy,
+  .simple-card-content,
+  .google-rating,
+  .google-rating-display {
+    min-width: 0;
+    overflow: hidden;
+  }
+
   .breadcrumbs ol,
   .listing-card-body,
   .detail-copy,
@@ -1193,5 +1587,57 @@ textarea:focus-visible {
   .google-rating,
   .google-rating-display {
     min-width: 0;
+  }
+}
+
+@media (max-width: 420px) {
+  .page-shell,
+  .simple-shell {
+    width: calc(100% - 16px);
+    padding-top: 10px;
+  }
+
+  .site-header,
+  .search-panel,
+  .feature-panel,
+  .coverage-card,
+  .process-grid article,
+  .faq-card,
+  .site-footer,
+  .simple-card,
+  .simple-hero,
+  .booking-panel {
+    padding: 18px;
+  }
+
+  .hero {
+    gap: 18px;
+    padding: 22px 0 26px;
+  }
+
+  .hero h1 {
+    font-size: clamp(2.15rem, 12vw, 3rem);
+  }
+
+  .hero-visual {
+    min-height: 340px;
+  }
+
+  .wave-card-main {
+    inset: 0 0 82px 0;
+    padding: 18px;
+  }
+
+  .wave-card-main h2 {
+    font-size: 1.35rem;
+  }
+
+  .wave-card-secondary {
+    width: calc(100% - 18px);
+    padding: 16px;
+  }
+
+  .hero-stats li {
+    padding: 18px;
   }
 }

@@ -145,9 +145,15 @@
     const wrapper = document.createElement("div");
     wrapper.className = "google-rating-display";
 
-    const ratingBlock = document.createElement("div");
+    const ratingBlock = result.googleMapsUri ? document.createElement("a") : document.createElement("div");
     ratingBlock.className = "google-rating-link";
     ratingBlock.setAttribute("aria-label", buildAccessibleText(result.rating, result.userRatingCount));
+
+    if (ratingBlock instanceof HTMLAnchorElement) {
+      ratingBlock.href = result.googleMapsUri;
+      ratingBlock.target = "_blank";
+      ratingBlock.rel = "noopener noreferrer";
+    }
 
     ratingBlock.append(createStars(result.rating));
 
@@ -155,11 +161,6 @@
     score.className = "google-rating-score";
     score.textContent = formatRating(result.rating);
     ratingBlock.append(score);
-
-    const count = document.createElement("span");
-    count.className = "google-rating-count";
-    count.textContent = `(${formatCount(result.userRatingCount)} Google review${result.userRatingCount === 1 ? "" : "s"})`;
-    ratingBlock.append(count);
 
     const accessibleText = document.createElement("span");
     accessibleText.className = "sr-only";
@@ -177,8 +178,15 @@
     wrapper.className = "google-rating-display";
 
     wrapper.append(createStatus("No Google rating currently available", "google-rating-empty"));
-
-    wrapper.append(createGoogleMapsLabel(result.attributionText || "Google Maps"));
+    if (result.googleMapsUri) {
+      const link = document.createElement("a");
+      link.className = "google-rating-link";
+      link.href = result.googleMapsUri;
+      link.target = "_blank";
+      link.rel = "noopener noreferrer";
+      link.textContent = "Google reviews";
+      wrapper.append(link);
+    }
 
     return wrapper;
   }
@@ -206,11 +214,11 @@
 
     const base = document.createElement("span");
     base.className = "google-stars-base";
-    base.textContent = "★★★★★";
+    base.textContent = "\u2605\u2605\u2605\u2605\u2605";
 
     const fill = document.createElement("span");
     fill.className = "google-stars-fill";
-    fill.textContent = "★★★★★";
+    fill.textContent = "\u2605\u2605\u2605\u2605\u2605";
 
     stars.append(base, fill);
     return stars;
