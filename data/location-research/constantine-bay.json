@@ -1,0 +1,189 @@
+{
+ "slug": "constantine-bay",
+ "schools": [
+  {
+   "name": "Constantine Bay Surf School",
+   "type": "Surf school",
+   "url": "https://www.constantinebaysurfschool.co.uk/",
+   "base": "Constantine Bay, Padstow (PL28 8JJ)",
+   "note": "Group, private and private-group lessons, from tasters to improver sessions. Coaches are qualified beach lifeguards and use local knowledge to pick the best of the seven bays for conditions.",
+   "source": "https://www.constantinebaysurfschool.co.uk/"
+  },
+  {
+   "name": "George's Surf School",
+   "type": "Surf school",
+   "url": "https://www.georgessurfschool.com/",
+   "base": "Meets at Constantine Bay (main base at Polzeath)",
+   "note": "Private one-to-one and small-group lessons for all levels, children's lessons, family sessions and video coaching.",
+   "source": "https://directory.cornishsecrets.co.uk/listing/georges-surf-school/"
+  }
+ ],
+ "hire": [
+  {
+   "name": "The Pit Surf Shop",
+   "type": "Board & wetsuit hire",
+   "url": "https://www.thepitsurfshop.co.uk/",
+   "base": "The Airfield, St Merryn (PL28 8PU), a short drive inland from Constantine",
+   "note": "Hires foam and epoxy surfboards, bodyboards, kids' and adult wetsuits, boots, gloves, hoods and fins, and now delivers hire kit.",
+   "source": "https://www.thepitsurfshop.co.uk/hire"
+  }
+ ],
+ "shops": [
+  {
+   "name": "The Pit Surf Shop",
+   "type": "Surf shop",
+   "url": "https://www.thepitsurfshop.co.uk/",
+   "town": "St Merryn (The Airfield, PL28 8PU)",
+   "note": "Open all year, with a big bodyboard range plus fins, leashes, wetsuit hoods, changing robes and accessories, and a board repair section. It's the closest surf shop we could confirm to Constantine.",
+   "source": "https://www.thepitsurfshop.co.uk/"
+  }
+ ],
+ "lessonsIntro": "Constantine Bay is one of the best-quality waves around Padstow, but it's a beach to learn on with a school rather than on your own. Local coaches use the beach when it's suitable and move to sheltered spots nearby when it isn't.",
+ "learn": {
+  "text": [
+   "Constantine is a sandy bay about three miles from Padstow, just south of Booby's Bay, known for powerful, good-quality waves. Visit Cornwall lists it as suitable for experienced surfers only, which is why lessons here are run by local schools who know when it's safe. Constantine Bay Surf School says it uses local knowledge of the seven bays to find suitable surf on the day.",
+   "The hazards are real: Visit Cornwall warns of strong rips, hidden rocks and a large rocky reef at the southern end, and says the beach shelves quickly at high tide. The RNLI reports rip currents at both low and high tide, with bodyboarders drifting a long way out. Lifeguards patrol through the summer, so stay inside the red and yellow flags and never go in alone as a beginner."
+  ],
+  "cards": [
+   {
+    "label": "Level",
+    "title": "Lessons only for beginners",
+    "text": "Rated for experienced surfers. Beginners should only surf here with a qualified school, and improvers should keep to the patrolled area."
+   },
+   {
+    "label": "Best time",
+    "title": "Summer, with lifeguards",
+    "text": "Lifeguards cover the summer season. The middle of the bay peaks at high tide and the north end works from mid to high tide."
+   },
+   {
+    "label": "Watch out for",
+    "title": "Rips, rocks and the reef",
+    "text": "Strong rips at low and high tide, hidden rocks, a big reef to the south and a beach that shelves fast at high tide."
+   }
+  ]
+ },
+ "hireIntro": "There's no confirmed hire on the beach at Constantine, but The Pit Surf Shop at St Merryn, a short drive away, hires and delivers kit.",
+ "kit": {
+  "text": [
+   "Constantine's waves have more push than nearby Harlyn, so beginners should stick to a big foam board in the white water with a school. Confident improvers will want a responsive epoxy board, and The Pit hires both. Sea temperatures on this stretch range from about 9 to 10°C in early March to 15 to 18°C in August."
+  ],
+  "cards": [
+   {
+    "label": "Board",
+    "title": "Foam to start, epoxy to progress",
+    "text": "A soft foam board for lessons; an epoxy board once you can paddle out and handle stronger waves."
+   },
+   {
+    "label": "Wetsuit",
+    "title": "3/2 or 4/3 in summer, 5/4 in winter",
+    "text": "Surf-forecast suggests a 4/3 or 3/2 with boots in August and a 5/4 or 5/3 with gloves and boots in early March."
+   },
+   {
+    "label": "Other craft",
+    "title": "Bodyboard with care",
+    "text": "Bodyboarders have needed rescuing after drifting outside the flags here, so stay between the red and yellow flags."
+   }
+  ]
+ },
+ "shopsIntro": "Constantine has no surf shop on the beach. The nearest confirmed shop is a short drive inland at St Merryn.",
+ "shopsText": [
+  "The Pit Surf Shop at The Airfield in St Merryn is a few minutes' drive from Constantine and is open all year. It specialises in bodyboards and stocks fins, leashes, wetsuit hoods, robes and accessories, with board repairs listed. Padstow, about three miles away, is the nearest town for other shopping."
+ ],
+ "faqs": {
+  "lessons": [
+   {
+    "q": "Can beginners surf at Constantine Bay?",
+    "a": "Only with a school. Visit Cornwall rates the beach for experienced surfers because of strong rips, hidden rocks and a reef, but local schools teach here when conditions suit."
+   },
+   {
+    "q": "Who teaches surfing at Constantine?",
+    "a": "Constantine Bay Surf School is based here, and George's Surf School uses Constantine as a meeting point for some lessons."
+   },
+   {
+    "q": "What if conditions are too big at Constantine?",
+    "a": "Constantine Bay Surf School says it uses local knowledge of the seven bays around Padstow to find suitable surf, so your lesson may move to a nearby beach."
+   }
+  ],
+  "hire": [
+   {
+    "q": "Is there surf hire at Constantine Bay?",
+    "a": "We couldn't confirm any hire on the beach itself. The Pit Surf Shop at St Merryn hires boards and wetsuits and now offers delivery."
+   },
+   {
+    "q": "What can I hire nearby?",
+    "a": "The Pit hires foam and epoxy surfboards, bodyboards, kids' and adult wetsuits, boots, gloves, hoods and fins."
+   }
+  ],
+  "shops": [
+   {
+    "q": "Where's the nearest surf shop?",
+    "a": "The Pit Surf Shop at The Airfield, St Merryn, a short drive inland from Constantine."
+   }
+  ]
+ },
+ "sources": [
+  {
+   "label": "Constantine Bay Surf School",
+   "url": "https://www.constantinebaysurfschool.co.uk/"
+  },
+  {
+   "label": "Cornish Secrets: Constantine Bay Surf School",
+   "url": "https://directory.cornishsecrets.co.uk/listing/constantine-bay-surf-school/"
+  },
+  {
+   "label": "George's Surf School",
+   "url": "https://www.georgessurfschool.com/"
+  },
+  {
+   "label": "Cornish Secrets: George's Surf School",
+   "url": "https://directory.cornishsecrets.co.uk/listing/georges-surf-school/"
+  },
+  {
+   "label": "The Pit Surf Shop",
+   "url": "https://www.thepitsurfshop.co.uk/"
+  },
+  {
+   "label": "The Pit hire",
+   "url": "https://www.thepitsurfshop.co.uk/hire"
+  },
+  {
+   "label": "Cornish Secrets: The Pit",
+   "url": "https://directory.cornishsecrets.co.uk/listing/the-pit-surf-shop/"
+  },
+  {
+   "label": "Visit Cornwall: Constantine Bay",
+   "url": "https://www.visitcornwall.com/things-to-do/beaches/constantine-bay-beach"
+  },
+  {
+   "label": "RNLI: Constantine rip rescue",
+   "url": "https://rnli.org/news-and-media/2017/july/26/swimmer-rescued-by-rnli-lifeguards-after-getting-caught-in-a-rip-current"
+  },
+  {
+   "label": "Surf-forecast: Harlyn sea temperature",
+   "url": "https://www.surf-forecast.com/breaks/Harlyn/seatemp"
+  }
+ ],
+ "factCheck": [
+  {
+   "fact": "Constantine Bay Surf School formats; coaches beach lifeguards; 3 miles from Padstow; uses 7 bays",
+   "url": "https://www.constantinebaysurfschool.co.uk/"
+  },
+  {
+   "fact": "George's meeting point Constantine Bay",
+   "url": "https://directory.cornishsecrets.co.uk/listing/georges-surf-school/"
+  },
+  {
+   "fact": "Experienced surfers only; strong rips, hidden rocks, southern reef; shelves at high tide; mid-bay high-tide peak",
+   "url": "https://www.visitcornwall.com/things-to-do/beaches/constantine-bay-beach"
+  },
+  {
+   "fact": "Rips at both low and high tide; bodyboarders drifting out",
+   "url": "https://rnli.org/news-and-media/2017/july/26/swimmer-rescued-by-rnli-lifeguards-after-getting-caught-in-a-rip-current"
+  },
+  {
+   "fact": "The Pit hire range and delivery",
+   "url": "https://www.thepitsurfshop.co.uk/hire"
+  }
+ ],
+ "gaps": "No hire on the beach confirmed. Constantine Bay Surf School's site shows no copyright year, so check it's trading before featuring (it lists current lesson types and prices). Lifeguard dates from Visit Cornwall were 2022 and the RNLI page didn't load, so no exact dates. No minimum ages or adaptive surfing found."
+}

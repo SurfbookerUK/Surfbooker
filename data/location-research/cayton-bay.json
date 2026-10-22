@@ -1,0 +1,149 @@
+{
+ "slug": "cayton-bay",
+ "schools": [
+  {
+   "name": "Scarborough Surf School",
+   "type": "Surf school",
+   "url": "https://scarboroughsurfschool.co.uk/",
+   "base": "Killerby Cliff, Cayton Bay, Scarborough YO11 3NR",
+   "note": "Year-round, seven-day surf school with group and private lessons, intermediate-advanced coaching with video analysis, intensive courses, kids' clubs and the Super Groms junior course. Also runs SUP and coasteering.",
+   "source": "https://scarboroughsurfschool.co.uk/"
+  }
+ ],
+ "hire": [
+  {
+   "name": "Scarborough Surf School hire centre",
+   "type": "Board & wetsuit hire",
+   "url": "https://scarboroughsurfschool.co.uk/equipment-hire/",
+   "base": "Clifftop hire centre at Cayton Bay",
+   "note": "Hires foam-top learner boards, hard mini-mals and longboards, demo boards, 5/4mm wetsuits (including junior sizes), boots, gloves, hoods, bodyboards and SUPs, seven days a week all year.",
+   "source": "https://scarboroughsurfschool.co.uk/equipment-hire/"
+  }
+ ],
+ "shops": [
+  {
+   "name": "Secret Spot Surf Shop",
+   "type": "Surf shop",
+   "url": "https://secretspot.co.uk/",
+   "town": "Cayton Bay (linked to Scarborough Surf School)",
+   "note": "Established in 1989; Scarborough Surf School calls it one of the oldest surf shops in the UK and the largest in the North East.",
+   "source": "https://scarboroughsurfschool.co.uk/"
+  }
+ ],
+ "lessonsIntro": "Scarborough Surf School is based on the clifftop at Cayton Bay and teaches here every day of the year.",
+ "learn": {
+  "text": [
+   "Cayton Bay is the home beach of Scarborough Surf School, which teaches seven days a week all year from its clifftop base. You can choose group or private lessons, intensive courses, or video-analysis coaching once you are improving, and children can join kids' clubs or the five-week Super Groms course. The instructors assess the surf and weather before each session.",
+   "The North York Moors National Park describes Cayton as a more powerful break than Scarborough's town beaches, especially in winter and spring, and one of the few spots that works at both low and high tide. That consistency is great for lessons, but on bigger days you are better off in a lesson than on your own. When it is flat, the school switches to SUP or coasteering."
+  ],
+  "cards": [
+   {
+    "label": "Level",
+    "title": "Beginners with a school, improvers",
+    "text": "Lessons cater for all levels, but the waves can be punchier than the town bays."
+   },
+   {
+    "label": "Best time",
+    "title": "All year",
+    "text": "The school runs every day; Cayton works at most stages of the tide."
+   },
+   {
+    "label": "Watch out for",
+    "title": "Bigger winter swells",
+    "text": "The National Park notes more powerful waves in winter and spring."
+   }
+  ]
+ },
+ "hireIntro": "Scarborough Surf School's hire centre at Cayton Bay is open every day, with everything from learner soft-tops to demo boards and 5/4mm wetsuits.",
+ "kit": {
+  "text": [
+   "Scarborough Surf School recommends a lesson for total beginners and uses foam-top boards as the most stable option. Hard mini-mals and longboards suit novices moving up, and demo boards let you try before buying. All its hire wetsuits are 5/4mm, which it treats as year-round wear, with boots, gloves and hoods for colder months."
+  ],
+  "cards": [
+   {
+    "label": "Board",
+    "title": "Foam-top to start",
+    "text": "The school's 7ft to 9ft foam-tops are its learner boards; hard boards suit novice to intermediate surfers."
+   },
+   {
+    "label": "Wetsuit",
+    "title": "5/4mm most of the year",
+    "text": "North Sea water stays cool. Scarborough Surf School hires only 5/4mm suits and treats them as year-round wear, adding boots, gloves and a hood in the colder months."
+   },
+   {
+    "label": "Other craft",
+    "title": "SUP on flat days",
+    "text": "SUPs are for calm days when the surf is poor; bodyboards are also available."
+   }
+  ]
+ },
+ "shopsIntro": "Secret Spot Surf Shop, open since 1989, is linked to Scarborough Surf School at Cayton Bay.",
+ "shopsText": [
+  "Secret Spot Surf Shop is tied to Scarborough Surf School at Cayton Bay and describes itself as the largest surf shop in the North East. If you try a demo board from the school's hire centre and then buy, it refunds the hire charge. Dexters in Scarborough's North Bay is the other nearby option."
+ ],
+ "faqs": {
+  "lessons": [
+   {
+    "q": "Does Scarborough Surf School teach in winter?",
+    "a": "Yes, it runs year round, seven days a week."
+   },
+   {
+    "q": "Is Cayton Bay good for beginners?",
+    "a": "With a school, yes, but the National Park notes waves can be more powerful here than in the town bays, especially in winter and spring."
+   },
+   {
+    "q": "What happens if there are no waves?",
+    "a": "The school offers SUP and coasteering as alternatives on flat days."
+   }
+  ],
+  "hire": [
+   {
+    "q": "What wetsuit will I get?",
+    "a": "All hire wetsuits are 5/4mm, with boots, gloves and hoods available."
+   },
+   {
+    "q": "Can I try a board before buying?",
+    "a": "Yes, demo boards are available and the hire charge is refunded if you buy."
+   }
+  ],
+  "shops": [
+   {
+    "q": "Is there a surf shop at Cayton Bay?",
+    "a": "Secret Spot Surf Shop is linked to Scarborough Surf School here."
+   }
+  ]
+ },
+ "sources": [
+  {
+   "label": "Scarborough Surf School",
+   "url": "https://scarboroughsurfschool.co.uk/"
+  },
+  {
+   "label": "Scarborough Surf School: equipment hire",
+   "url": "https://scarboroughsurfschool.co.uk/equipment-hire/"
+  },
+  {
+   "label": "North York Moors National Park: surfing",
+   "url": "https://www.northyorkmoors.org.uk/things-to-do/coast/surfing-and-paddle-boarding"
+  }
+ ],
+ "factCheck": [
+  {
+   "fact": "Based Killerby Cliff, Cayton Bay YO11 3NR; year round 7 days",
+   "url": "https://scarboroughsurfschool.co.uk/"
+  },
+  {
+   "fact": "Hire range and 5/4mm wetsuits",
+   "url": "https://scarboroughsurfschool.co.uk/equipment-hire/"
+  },
+  {
+   "fact": "Cayton more powerful in winter/spring, surfable low and high tide",
+   "url": "https://www.northyorkmoors.org.uk/things-to-do/coast/surfing-and-paddle-boarding"
+  },
+  {
+   "fact": "Secret Spot est. 1989",
+   "url": "https://scarboroughsurfschool.co.uk/"
+  }
+ ],
+ "gaps": "No RNLI lifeguard info for Cayton Bay confirmed. Kids' club age limits not stated. Secret Spot's own site not opened."
+}

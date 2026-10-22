@@ -1,0 +1,165 @@
+{
+ "slug": "joss-bay",
+ "schools": [
+  {
+   "name": "Kent Surf School",
+   "type": "Surf school",
+   "url": "https://www.kentsurfschool.co.uk/",
+   "base": "Joss Bay, Broadstairs (CT10 3PG), with a second site at Viking Bay (CT10 1EU)",
+   "note": "Small-group surf lessons for all levels plus SUP, with bespoke sessions for families, couples, under-8s and advanced surfers. Group lessons from age 8 (younger children private only); SUP from 12.",
+   "source": "https://www.kentsurfschool.co.uk/faqs"
+  }
+ ],
+ "hire": [
+  {
+   "name": "Kent Surf School",
+   "type": "Board & wetsuit hire",
+   "url": "https://www.kentsurfschool.co.uk/hire",
+   "base": "Joss Bay and Viking Bay, Broadstairs",
+   "note": "Surfboards in a range of lengths, bodyboards, SUPs and single kayaks (with paddles and buoyancy aids), plus summer and winter wetsuits. Booked through the Renticy system, which holds a deposit.",
+   "source": "https://www.kentsurfschool.co.uk/hire"
+  }
+ ],
+ "shops": [
+  {
+   "name": "Kent Surf School shop",
+   "type": "Surf shop",
+   "url": "https://www.kentsurfschool.co.uk/",
+   "town": "Broadstairs (Joss Bay / Viking Bay)",
+   "note": "The school's FAQs suggest bringing money for its shop, and it also sells online through an external store. Check what's stocked before you go.",
+   "source": "https://www.kentsurfschool.co.uk/faqs"
+  }
+ ],
+ "lessonsIntro": "Kent Surf School runs surf and SUP lessons from Joss Bay and Viking Bay in Broadstairs, with all the kit provided. It closes over winter, so lessons are a spring-to-autumn option.",
+ "learn": {
+  "text": [
+   "Joss Bay is the base for Kent Surf School, which teaches small groups of all abilities and supplies the equipment for each lesson. Group lessons start at age 8, and children need to be able to swim 50m. Younger children can still have a go, but only in a private lesson. Families, couples and more experienced surfers can book bespoke sessions instead of joining a group.",
+   "This is the east Kent coast, so waves depend on the weather and flat spells happen. The school asks you to check its surf report and webcam before booking, and says that around 3ft or more means surf is likely. If there are no waves on the day, you're offered an alternative activity or a voucher for another date rather than a refund. The school closes for winter and reopens for bookings in April."
+  ],
+  "cards": [
+   {
+    "label": "Level",
+    "title": "Beginners to advanced",
+    "text": "Group lessons cater for all levels, with bespoke coaching for advanced surfers. Group lessons from 8; under-8s private only."
+   },
+   {
+    "label": "Best time",
+    "title": "April to autumn, when there's swell",
+    "text": "The school runs from April and closes for winter. Check the Joss Bay surf report: about 3ft or more usually means rideable waves."
+   },
+   {
+    "label": "Watch out for",
+    "title": "Flat days",
+    "text": "Waves here aren't guaranteed. Book with the school's no-surf policy in mind, and children must be able to swim 50m."
+   }
+  ]
+ },
+ "hireIntro": "You can hire boards, SUPs, kayaks and wetsuits from Kent Surf School at Joss Bay and Viking Bay. Hire is booked online and a deposit is held through a booking app.",
+ "kit": {
+  "text": [
+   "For learning, ask the school for a longer board. It stocks surfboards in a range of lengths, and a bigger board makes Joss Bay's often small waves easier to catch. Wetsuits for hire come in summer and winter versions, so say when you're booking if you feel the cold. Bodyboards, SUPs and kayaks are also available, which is handy on flatter days."
+  ],
+  "cards": [
+   {
+    "label": "Board",
+    "title": "Longer boards for beginners",
+    "text": "Surfboards come in a range of lengths. Ask for something long and stable if you're new; improvers can size down."
+   },
+   {
+    "label": "Wetsuit",
+    "title": "Summer or winter suit",
+    "text": "Hire wetsuits come in summer and winter versions. For lessons, the largest sizes are women's 18 and men's 2XL, and you can bring your own."
+   },
+   {
+    "label": "Other craft",
+    "title": "Bodyboards, SUPs and kayaks",
+    "text": "All three can be hired. SUP lessons are for ages 12 and over, and SUP and kayak hire includes paddles and buoyancy aids."
+   }
+  ]
+ },
+ "shopsIntro": "Shopping for surf gear at Joss Bay is limited, but Kent Surf School has a shop and an online store.",
+ "shopsText": [
+  "Kent Surf School's FAQs suggest bringing some money for its shop, and the website links to an online store. We couldn't confirm any other surf shops in Broadstairs or the wider Thanet area, so if you need hard-to-find items like wetsuits or boards, check with the school or order ahead before travelling."
+ ],
+ "faqs": {
+  "lessons": [
+   {
+    "q": "How old do you need to be for a surf lesson at Joss Bay?",
+    "a": "Kent Surf School's group surf lessons start at 8 and SUP at 12. Younger children can learn in a private lesson."
+   },
+   {
+    "q": "Do children need to be able to swim?",
+    "a": "Yes. The school asks that children can swim 50m to take part."
+   },
+   {
+    "q": "What if there are no waves?",
+    "a": "There's no refund for a no-surf day, but the school offers an alternative activity or a voucher for another date. Check its surf report before you book: about 3ft or more usually means surf."
+   }
+  ],
+  "hire": [
+   {
+    "q": "What can I hire at Joss Bay?",
+    "a": "Kent Surf School hires surfboards, bodyboards, SUPs, single kayaks and summer or winter wetsuits."
+   },
+   {
+    "q": "How do I book hire?",
+    "a": "Hire is booked through Renticy, a booking app that holds your deposit. The school may refuse hire."
+   }
+  ],
+  "shops": [
+   {
+    "q": "Is there a surf shop at Joss Bay?",
+    "a": "Kent Surf School has a shop and an online store. We couldn't confirm any other surf shop nearby."
+   }
+  ]
+ },
+ "sources": [
+  {
+   "label": "Kent Surf School",
+   "url": "https://www.kentsurfschool.co.uk/"
+  },
+  {
+   "label": "Kent Surf School - Lessons",
+   "url": "https://www.kentsurfschool.co.uk/lessons"
+  },
+  {
+   "label": "Kent Surf School - Hire",
+   "url": "https://www.kentsurfschool.co.uk/hire"
+  },
+  {
+   "label": "Kent Surf School - FAQs",
+   "url": "https://www.kentsurfschool.co.uk/faqs"
+  }
+ ],
+ "factCheck": [
+  {
+   "fact": "Kent Surf School sites at Joss Bay CT10 3PG and Viking Bay CT10 1EU",
+   "url": "https://www.kentsurfschool.co.uk/faqs"
+  },
+  {
+   "fact": "Closed for winter, reopening April 2027",
+   "url": "https://www.kentsurfschool.co.uk/"
+  },
+  {
+   "fact": "Group lessons from 8, SUP from 12, under-8s private only, children must swim 50m",
+   "url": "https://www.kentsurfschool.co.uk/faqs"
+  },
+  {
+   "fact": "3ft plus means surf is likely; no refund for no surf, alternative activity offered",
+   "url": "https://www.kentsurfschool.co.uk/lessons"
+  },
+  {
+   "fact": "No-surf days: alternative activity or voucher",
+   "url": "https://www.kentsurfschool.co.uk/faqs"
+  },
+  {
+   "fact": "Hire: surfboards in a range of lengths, bodyboards, SUP, single kayaks, summer and winter wetsuits; booked via Renticy",
+   "url": "https://www.kentsurfschool.co.uk/hire"
+  },
+  {
+   "fact": "Largest lesson wetsuit sizes: women's 18, men's 2XL",
+   "url": "https://www.kentsurfschool.co.uk/faqs"
+  }
+ ],
+ "gaps": "Web search and fetch limits were hit, so only Kent Surf School's own site was confirmed. Couldn't open the Thanet Council, Visit Thanet or RNLI pages for lifeguard dates, hazards (e.g. chalk reef/rocks), tide advice or water temperatures. No independent surf shops confirmed in Broadstairs/Thanet. Shop stock isn't described on the school's site."
+}

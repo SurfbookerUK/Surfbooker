@@ -1,0 +1,26 @@
+{
+ "name": "The Park Hotel",
+ "officialUrl": "https://parkhotel-redcar.com/",
+ "trading": true,
+ "stayType": "Seafront hotel",
+ "accommodation": "32 en-suite rooms (single to family), plus 11 self-contained contractor rooms",
+ "suitableFor": "Families, groups and business travellers",
+ "parking": "Free car parking",
+ "dogs": null,
+ "beachAccess": "Overlooks the Redcar coastline with sea-view rooms",
+ "boardStorage": null,
+ "confirmedFeatures": "Restaurant, bar meals, carvery, late bar for guests, free Wi-Fi, Smart TV, meeting room",
+ "overview": "A hotel overlooking the Redcar coastline with 32 en-suite rooms ranging from singles to family rooms, many with sea views. There is a restaurant, carvery and late bar for residents, and parking is free. It sits on the seafront, close to the beach.",
+ "surfTripFit": "Free parking and sea views make it easy to check conditions and get to the beach.",
+ "sources": [
+  {
+   "label": "Official website",
+   "url": "https://parkhotel-redcar.com/"
+  },
+  {
+   "label": "Redcar & Cleveland hotels",
+   "url": "https://redcarcleveland.co.uk/enjoy/new-hotels/"
+  }
+ ],
+ "slug": "the-park-hotel"
+}

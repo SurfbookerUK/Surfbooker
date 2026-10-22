@@ -1,0 +1,217 @@
+{
+ "slug": "porthmeor-beach",
+ "schools": [
+  {
+   "name": "St Ives Surf School",
+   "type": "Surf school",
+   "url": "https://www.stivessurfschool.co.uk/",
+   "base": "On Porthmeor Beach, St Ives",
+   "note": "Teaching on Porthmeor since 1997, from absolute beginners to surfers ready to head out back, with group and one-to-one lessons and all kit included. It also runs SUP, coasteering and sea kayaking.",
+   "source": "https://www.cornishsecrets.co.uk/guide/st-ives-surf-school/"
+  }
+ ],
+ "hire": [
+  {
+   "name": "St Ives Surf School",
+   "type": "Board & wetsuit hire",
+   "url": "https://www.stivessurfschool.co.uk/",
+   "base": "Porthmeor Beach (SUP and kayak hire from its Porthminster base)",
+   "note": "Hires surf equipment on Porthmeor for people heading out on their own.",
+   "source": "https://aspects-holidays.co.uk/blog/things-to-do/surfing-st-ives"
+  },
+  {
+   "name": "Down The Line Surf Co",
+   "type": "Board & wetsuit hire",
+   "url": "https://www.downthelinesurf.co.uk/",
+   "base": "Copperhouse, Hayle, across St Ives Bay",
+   "note": "Wetsuit, softboard and demo board hire from a day up to two weeks, if you want kit for your whole stay.",
+   "source": "https://downthelinesurf.co.uk/pages/surfboard-wetsuit-hire"
+  }
+ ],
+ "shops": [
+  {
+   "name": "WindAnSea",
+   "type": "Surf shop",
+   "url": "https://www.marriedtotheseasurf.co.uk/",
+   "town": "St Ives (25 Fore Street)",
+   "note": "Surf clothing and accessories plus wetsuits, a short walk through town from Porthmeor. The tourist board listing says it also stocks boards and rents kit.",
+   "source": "https://visitstives.com/shopping/wind-sea-surfing-centre/"
+  },
+  {
+   "name": "Down The Line Surf Co",
+   "type": "Surf shop",
+   "url": "https://www.downthelinesurf.co.uk/",
+   "town": "Hayle",
+   "note": "The nearest large surf shop, with a full range of boards, summer and winter wetsuits and accessories.",
+   "source": "https://www.downthelinesurf.co.uk/pages/about-us"
+  }
+ ],
+ "lessonsIntro": "Porthmeor is St Ives' surf beach, right below the Tate, and the town's surf school teaches directly on the sand. You can walk to your lesson from anywhere in town.",
+ "learn": {
+  "text": [
+   "Porthmeor faces north and sits between two headlands, which gives it some shelter from the prevailing south-westerly wind while still picking up Atlantic swell. Visit Cornwall describes the surf as consistent, with fairly short, sometimes hollow rides, and suitable for beginners and intermediates. Its north-facing angle means the wind is often offshore here, which keeps the waves cleaner and less choppy than on many nearby beaches.",
+   "St Ives Surf School has taught on the beach since 1997 and takes everyone from nervous first-timers upwards. RNLI lifeguards patrol Porthmeor daily from early April right through to the start of November, so there's a long season of supervised surfing. Check the flags each day: swimmers stay between red and yellow, and surfers use the black and white zone."
+  ],
+  "cards": [
+   {
+    "label": "Level",
+    "title": "Beginners and intermediates",
+    "text": "Lessons cover complete beginners to advanced, and the beach is rated suitable for beginners and intermediates."
+   },
+   {
+    "label": "Best time",
+    "title": "April to early November",
+    "text": "Lifeguards are on duty daily from 3 April to 1 November in 2026, so there's a long window for supervised learning."
+   },
+   {
+    "label": "Watch out for",
+    "title": "Short, punchy rides and big winter swell",
+    "text": "Waves can be hollow and short. In winter or big swell the break by the harbour wall is for advanced surfers only."
+   }
+  ]
+ },
+ "hireIntro": "St Ives Surf School hires kit right on Porthmeor, and there are more options in town and over the bay in Hayle.",
+ "kit": {
+  "text": [
+   "Learners do best on a big foam board, which St Ives Surf School includes with every lesson, while improvers can move to a soft top or hard board once they're riding the green face. Bodyboards can be hired locally too. Water in St Ives Bay ranges from about 9 to 10°C in early March to 15 to 18°C in mid-August, so you'll want a full suit most of the year."
+  ],
+  "cards": [
+   {
+    "label": "Board",
+    "title": "Foam board for learners",
+    "text": "Foam boards come with lessons. Shorter, harder boards suit Porthmeor's quicker waves once you can turn."
+   },
+   {
+    "label": "Wetsuit",
+    "title": "4/3 in summer, 5mm in winter",
+    "text": "Surf-forecast suggests a 4/3mm (or 3/2 with boots) in August and a 5/4 or 5/3mm with gloves and boots in late winter."
+   },
+   {
+    "label": "Other craft",
+    "title": "Bodyboard here, SUP at Porthminster",
+    "text": "Bodyboard hire is available locally. For SUP and kayaks, St Ives Surf School hires from sheltered Porthminster beach instead."
+   }
+  ]
+ },
+ "shopsIntro": "St Ives town centre is a few minutes' walk from Porthmeor, with surf clothing and wetsuit shops on Fore Street.",
+ "shopsText": [
+  "Fore Street runs through the middle of St Ives, just a short walk from Porthmeor, and is home to WindAnSea and several other surf-brand stores. For a full range of boards, demo boards and winter wetsuits, Down The Line Surf Co in Hayle is the nearest specialist shop across the bay."
+ ],
+ "faqs": {
+  "lessons": [
+   {
+    "q": "Who teaches surfing on Porthmeor Beach?",
+    "a": "St Ives Surf School, which has taught on Porthmeor since 1997 and offers group and one-to-one lessons."
+   },
+   {
+    "q": "Is Porthmeor good for learning?",
+    "a": "Yes, it's rated suitable for beginners and intermediates, though rides can be short. Lessons run on the beach itself."
+   },
+   {
+    "q": "When are lifeguards on Porthmeor?",
+    "a": "In 2026 RNLI lifeguards patrol daily from 3 April to 1 November, 10am to 6pm."
+   }
+  ],
+  "hire": [
+   {
+    "q": "Can I hire a surfboard on Porthmeor?",
+    "a": "Yes, St Ives Surf School hires surf equipment on the beach."
+   },
+   {
+    "q": "Where can I hire a SUP in St Ives?",
+    "a": "St Ives Surf School hires SUPs and kayaks from its base on Porthminster beach, which is more sheltered."
+   }
+  ],
+  "shops": [
+   {
+    "q": "Where are the surf shops in St Ives?",
+    "a": "Mostly on Fore Street in the town centre, including WindAnSea at number 25."
+   }
+  ]
+ },
+ "sources": [
+  {
+   "label": "St Ives Surf School",
+   "url": "https://www.stivessurfschool.co.uk/"
+  },
+  {
+   "label": "Cornish Secrets - St Ives Surf School",
+   "url": "https://www.cornishsecrets.co.uk/guide/st-ives-surf-school/"
+  },
+  {
+   "label": "Aspects Holidays - surfing St Ives",
+   "url": "https://aspects-holidays.co.uk/blog/things-to-do/surfing-st-ives"
+  },
+  {
+   "label": "Orange Roofs - St Ives water sports",
+   "url": "https://orangeroofs.co.uk/st-ives-holidays-water-sports/"
+  },
+  {
+   "label": "Visit Cornwall - Porthmeor Beach",
+   "url": "https://www.visitcornwall.com/things-to-do/beaches/porthmeor-beach"
+  },
+  {
+   "label": "RNLI Porthmeor Beach",
+   "url": "https://rnli.org/find-my-nearest/lifeguarded-beaches/porthmeor-beach"
+  },
+  {
+   "label": "WindAnSea / Married to the Sea",
+   "url": "https://www.marriedtotheseasurf.co.uk/"
+  },
+  {
+   "label": "Visit St Ives - Wind & Sea",
+   "url": "https://visitstives.com/shopping/wind-sea-surfing-centre/"
+  },
+  {
+   "label": "Down The Line - hire",
+   "url": "https://downthelinesurf.co.uk/pages/surfboard-wetsuit-hire"
+  },
+  {
+   "label": "Down The Line - about",
+   "url": "https://www.downthelinesurf.co.uk/pages/about-us"
+  },
+  {
+   "label": "Surf-forecast Hayle water temperature",
+   "url": "https://www.surf-forecast.com/breaks/Hayle/seatemp"
+  }
+ ],
+ "factCheck": [
+  {
+   "fact": "St Ives Surf School teaches on Porthmeor; since 1997",
+   "url": "https://www.stivessurfschool.co.uk/"
+  },
+  {
+   "fact": "Beginners to advanced; gear included; hire for independent use",
+   "url": "https://www.cornishsecrets.co.uk/guide/st-ives-surf-school/"
+  },
+  {
+   "fact": "Group or 1-2-1 lessons; foam board included",
+   "url": "https://orangeroofs.co.uk/st-ives-holidays-water-sports/"
+  },
+  {
+   "fact": "Hires surf equipment at Porthmeor; SUP/kayak hire at Porthminster; harbour wall break advanced only; north-facing semi-sheltered",
+   "url": "https://aspects-holidays.co.uk/blog/things-to-do/surfing-st-ives"
+  },
+  {
+   "fact": "Consistent surf, short hollow rides; suits beginners and intermediates; local bodyboard hire",
+   "url": "https://www.visitcornwall.com/things-to-do/beaches/porthmeor-beach"
+  },
+  {
+   "fact": "Lifeguards daily 3 April-1 November 2026",
+   "url": "https://rnli.org/find-my-nearest/lifeguarded-beaches/porthmeor-beach"
+  },
+  {
+   "fact": "WindAnSea at 25 Fore Street; wetsuits and accessories",
+   "url": "https://www.marriedtotheseasurf.co.uk/"
+  },
+  {
+   "fact": "Wind & Sea sells boards and wetsuits, rents kit",
+   "url": "https://visitstives.com/shopping/wind-sea-surfing-centre/"
+  },
+  {
+   "fact": "Sea temp 9-10C early March, 15-18C August (Hayle, St Ives Bay)",
+   "url": "https://www.surf-forecast.com/breaks/Hayle/seatemp"
+  }
+ ],
+ "gaps": "St Ives Surf School's lesson and hire pages block automated reading, so formats, minimum ages and exact hire kit come from third-party guides. No published minimum age. WindAnSea's own site doesn't mention hire (only the Visit St Ives listing does), so treat its hire as unconfirmed. Other Fore Street surf-brand shops were mentioned by a holiday guide but not confirmed. No St Ives-specific water temperature page loaded, so Hayle's figures are used."
+}

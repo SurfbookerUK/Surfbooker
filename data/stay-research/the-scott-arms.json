@@ -1,0 +1,22 @@
+{
+ "name": "The Scott Arms",
+ "officialUrl": "https://www.thescottarms.com/",
+ "trading": true,
+ "stayType": "Village pub with rooms",
+ "accommodation": "Four en suite double rooms above the pub",
+ "suitableFor": "Couples and walkers",
+ "parking": null,
+ "dogs": "Dogs welcome in the bars and garden (rooms not stated)",
+ "beachAccess": null,
+ "boardStorage": null,
+ "confirmedFeatures": "Four en suite doubles, locally sourced breakfasts, dog-friendly bars and garden",
+ "overview": "A pub in the Purbeck village of Kingston, near Corfe Castle, with four en suite double rooms upstairs. It sits in the heart of Purbeck walking country, a short drive across the hills from Kimmeridge Bay.",
+ "surfTripFit": "A cosy inland base with food and a bar on site, within a short drive of the Kimmeridge reefs.",
+ "sources": [
+  {
+   "label": "Official site",
+   "url": "https://www.thescottarms.com/"
+  }
+ ],
+ "slug": "the-scott-arms"
+}

@@ -1,0 +1,31 @@
+{
+ "slug": "cornish-wave",
+ "kind": "surf-schools",
+ "officialUrl": "https://cornishwave.com/",
+ "trading": true,
+ "about": "Cornish Wave is a Newquay surf school that has been teaching since 2012. Its base on Fore Street sits between Fistral and Towan, and lessons run on whichever of those two beaches suits the day's conditions. It also runs surf camps, retreats, coasteering, kayak and paddleboard tours.",
+ "offers": [
+  "Group lessons (2 hours, max 8, ages 8+)",
+  "Private couples lessons",
+  "Private family lessons (ages 6+, up to 4 people)",
+  "Surf and adventure weekends and 4-night surf camps with camping",
+  "Surf and yoga retreat (adults)",
+  "Coasteering, kayak tours, paddleboarding and Monster SUP",
+  "Surf hire"
+ ],
+ "where": "Base at 40 Fore St, Newquay TR7 1LP; lessons at Towan or Fistral depending on conditions",
+ "goodToKnow": [
+  "Coaching, a C-Skins wetsuit, a board and a safety briefing are included",
+  "The base has heated changing rooms and hot showers",
+  "You need to be able to swim 25 metres and fill in a participation form",
+  "Instructors are described as Surfing England qualified and as trained beach lifeguards"
+ ],
+ "season": null,
+ "sources": [
+  {
+   "label": "Surf lessons",
+   "url": "https://cornishwave.com/surf-lessons/"
+  }
+ ],
+ "gaps": "No season or cancellation terms stated; the site's wording on instructor qualifications varies (Surfing England and ISA)."
+}

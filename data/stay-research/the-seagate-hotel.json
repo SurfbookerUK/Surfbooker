@@ -1,0 +1,22 @@
+{
+ "slug": "the-seagate-hotel",
+ "officialUrl": "https://www.theseagate.co.uk/",
+ "trading": true,
+ "stayType": "Quayside pub with rooms",
+ "accommodation": "17 bedrooms, some above the pub and some in a converted sail loft, many with sea views, including family rooms",
+ "suitableFor": "Couples, families and dog owners",
+ "parking": null,
+ "dogs": "Allowed: up to two dogs in designated dog-friendly bedrooms (charge applies)",
+ "beachAccess": null,
+ "boardStorage": null,
+ "confirmedFeatures": "Restaurant serving seasonal and seafood menu, bar with local ales and cocktails, breakfast, Sunday roasts, quiz nights, event hosting",
+ "overview": "The Seagate is a pub with rooms on the quay at Appledore, where the Taw and Torridge estuaries meet, looking across to Instow. It has 17 bedrooms, split between the pub and a converted sail loft, many with water views and some set up for families or dogs. Food runs from breakfast to dinner, with fish and seafood a focus.",
+ "surfTripFit": "A characterful base across the estuary from Westward Ho!, but the site gives no beach distance and you would need to drive to the surf.",
+ "sources": [
+  {
+   "label": "The Seagate official site",
+   "url": "https://www.theseagate.co.uk/"
+  }
+ ],
+ "gaps": "Parking, distance to Westward Ho! beach and board storage not stated."
+}

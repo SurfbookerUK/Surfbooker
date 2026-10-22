@@ -1,0 +1,32 @@
+{
+ "slug": "harlyn-surf-school",
+ "kind": "surf-schools",
+ "officialUrl": "https://www.harlynsurfschool.co.uk/",
+ "trading": true,
+ "about": "Harlyn Surf School was set up in 1994 and has a base on the beach at Harlyn Bay, about five minutes from Padstow on Cornwall's north coast. All of its surf lessons take place at Harlyn Bay. It also offers paddleboarding, sea kayaking, coasteering, and sessions for groups and schools.",
+ "offers": [
+  "Beginner and refresher group lessons (2 hours, ages 8+)",
+  "Fun lessons for ages 5–7, mainly in school holidays",
+  "Summer surf camp for ages 8–14",
+  "Family and private group lessons",
+  "Intermediate and improver lessons",
+  "Intensive private lessons for individuals or couples",
+  "Surf-and-hire packages",
+  "Bodyboarding, SUP lessons and tours, and sea kayaking"
+ ],
+ "where": "Beach base at Harlyn Bay, near Padstow; car park and toilets at the beach",
+ "goodToKnow": [
+  "Bring swimwear, a towel and suncream, and arrive 15 minutes early",
+  "Board and wetsuit are included",
+  "Lessons don't stop for rain; if conditions are unsuitable, sessions may be rearranged or swapped",
+  "Holds an AALS licence; shows Surfing England and SLSGB logos"
+ ],
+ "season": "Surfing possible year-round; beach lifeguards from Easter to the end of September",
+ "sources": [
+  {
+   "label": "Surf lessons",
+   "url": "https://www.harlynsurfschool.co.uk/surf-lessons/"
+  }
+ ],
+ "gaps": "No overall opening months stated."
+}

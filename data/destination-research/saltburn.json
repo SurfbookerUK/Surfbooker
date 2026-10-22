@@ -1,0 +1,123 @@
+{
+ "overview": [
+  "Saltburn-by-the-Sea is a Victorian resort on the Teesside coast. Henry Pease imagined a town on the clifftop in 1858, and his family's company built it. Below the town, the pier opened in 1869 and is the only surviving pleasure pier on the north-east and Yorkshire coast, while a water-balanced cliff tramway still carries you between the promenade and the town.",
+  "The beach is a long stretch of sand running from the pier towards Marske, with Huntcliff rising to the east. Skelton Beck flows down through the wooded Valley Gardens and onto the sand near Cat Nab, where the miniature railway starts. It's a good place to spend a whole weekend.",
+  "Saltburn has the longest-established surf scene in the north-east, with schools teaching on the lower promenade since 1983. Beginners use the beach breaks either side of the pier. More powerful waves break south of the town and suit experienced surfers, especially in winter and spring."
+ ],
+ "suits": [
+  "Lessons and improvers",
+  "Surf weekends with a town to explore",
+  "Experienced surfers on winter swells",
+  "Car-free trips by train"
+ ],
+ "notFor": [
+  "Dogs on the beach between the pier and Hazelgrove in summer",
+  "Quiet, empty beach days in the holidays"
+ ],
+ "surf": {
+  "text": [
+   "The North York Moors National Park describes good beginner beach breaks either side of the pier, best at high tide. Saltburn faces the North Sea, and the usual recipe is north-east to easterly swell with a south-westerly wind blowing offshore.",
+   "South of the town, below Huntcliff, the waves get more powerful and are mainly suited to experienced surfers, especially in winter and spring. Keep well clear of the pier legs, and in summer use the flagged areas the RNLI sets up.",
+   "Saltburn has the longest surfing history on this coast, going back to the 1960s, and it's still home to long-running schools. Waves are gentle either side of the pier and suit all levels; a north or north-east swell with a south or south-westerly wind works at all tides. Expect a moderate crowd, rips, and the occasional pollution warning after rain. Lifeguards cover the beach in summer."
+  ],
+  "cards": [
+   {
+    "label": "Level",
+    "title": "All levels",
+    "text": "Lessons either side of the pier; more powerful waves to the south."
+   },
+   {
+    "label": "Tide",
+    "title": "Best at high tide",
+    "text": "According to the North York Moors National Park."
+   },
+   {
+    "label": "Lifeguards",
+    "title": "RNLI daily",
+    "text": "23 May–6 September 2026, 10am–6pm."
+   }
+  ]
+ },
+ "practical": [
+  {
+   "label": "Parking",
+   "title": "Cat Nab and The Pier",
+   "text": "Council car parks: Cat Nab for long stay, The Pier for short stay."
+  },
+  {
+   "label": "Dogs",
+   "title": "Summer exclusion zone",
+   "text": "From 1 May to 30 September, dogs shouldn't be exercised between the Hazelgrove access point and the eastern side of the pier. Dogs on leads are welcome on the promenade."
+  },
+  {
+   "label": "Toilets",
+   "title": "Three locations",
+   "text": "Station Square in town, Cat Nab car park and the lower promenade."
+  },
+  {
+   "label": "Lifeguards",
+   "title": "RNLI",
+   "text": "Daily from 23 May to 6 September 2026, 10am–6pm."
+  },
+  {
+   "label": "Rail",
+   "title": "Saltburn station",
+   "text": "Trains from Middlesbrough and Darlington; the beach is a short walk downhill, or take the cliff tramway."
+  }
+ ],
+ "faqs": [
+  {
+   "q": "Can dogs go on Saltburn beach?",
+   "a": "Not between the Hazelgrove access point and the eastern side of the pier from 1 May to 30 September. Elsewhere and outside those dates, yes."
+  },
+  {
+   "q": "Is Saltburn lifeguarded?",
+   "a": "Yes, daily from 23 May to 6 September in 2026, 10am–6pm."
+  },
+  {
+   "q": "Where's the best surf at Saltburn?",
+   "a": "Either side of the pier, often best at high tide. Experienced surfers also look south of the town in winter and spring."
+  },
+  {
+   "q": "Where should I park?",
+   "a": "Cat Nab for long stays, or The Pier car park for short stays."
+  }
+ ],
+ "sources": [
+  {
+   "label": "North York Moors National Park — surfing",
+   "url": "https://www.northyorkmoors.org.uk/things-to-do/coast/surfing-and-paddle-boarding"
+  },
+  {
+   "label": "Redcar & Cleveland Council — visitor information",
+   "url": "https://www.redcar-cleveland.gov.uk/things-to-see-and-do/visitors-information"
+  },
+  {
+   "label": "RNLI — 2026 Redcar and Saltburn patrols",
+   "url": "https://rnli.org/news-and-media/2026/may/20/rnli-lifeguards-start-daily-beach-patrols-at-redcar-and-saltburn"
+  },
+  {
+   "label": "Wikipedia — Saltburn-by-the-Sea",
+   "url": "https://en.wikipedia.org/wiki/Saltburn-by-the-Sea"
+  }
+ ],
+ "factCheck": [
+  {
+   "fact": "Beach breaks either side of pier, best at high tide; powerful breaks south for experienced, winter/spring",
+   "url": "https://www.northyorkmoors.org.uk/things-to-do/coast/surfing-and-paddle-boarding"
+  },
+  {
+   "fact": "Cat Nab long stay, Pier short stay; toilets Station Square, Cat Nab, Lower Promenade; dog zone Hazelgrove to east side of pier 1 May–30 Sep",
+   "url": "https://www.redcar-cleveland.gov.uk/things-to-see-and-do/visitors-information"
+  },
+  {
+   "fact": "Henry Pease 1858; pier opened 1869, only pleasure pier on NE/Yorkshire coast; Huntcliff; Skelton Beck; Cat Nab miniature railway",
+   "url": "https://en.wikipedia.org/wiki/Saltburn-by-the-Sea"
+  },
+  {
+   "fact": "RNLI daily 23 May–6 Sep 2026 (kept from current data)",
+   "url": "https://rnli.org/news-and-media/2026/may/20/rnli-lifeguards-start-daily-beach-patrols-at-redcar-and-saltburn"
+  }
+ ],
+ "checked": "October 2026"
+}

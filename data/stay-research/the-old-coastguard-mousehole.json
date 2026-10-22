@@ -1,0 +1,22 @@
+{
+ "slug": "the-old-coastguard-mousehole",
+ "officialUrl": "https://www.oldcoastguardhotel.co.uk/",
+ "trading": true,
+ "stayType": "Family-owned seaside hotel and restaurant",
+ "accommodation": "14 bedrooms, nearly all with sea views towards St Michael's Mount and the Lizard.",
+ "suitableFor": "Couples, families and dog owners; food lovers",
+ "parking": null,
+ "dogs": "Dogs welcome (site invites guests to bring dogs; separate cots and dogs page not checked).",
+ "beachAccess": null,
+ "boardStorage": null,
+ "confirmedFeatures": "Restaurant (seafood-focused, breakfast/lunch/supper), bar, beer garden, Crab Shack, terrace, tropical garden, open daily",
+ "overview": "A family-owned hotel and restaurant in the fishing village of Mousehole, about two miles from Newlyn harbour. Its 14 rooms mostly look across Mount's Bay, and the dining room, bar, terrace and garden run down towards the sea.",
+ "surfTripFit": "Mousehole faces Mount's Bay rather than open swell, so it is a food-and-comfort base; Sennen and Praa Sands are a drive away. No surf facilities are mentioned.",
+ "sources": [
+  {
+   "label": "The Old Coastguard",
+   "url": "https://www.oldcoastguardhotel.co.uk/"
+  }
+ ],
+ "gaps": "Parking and dog terms not confirmed. In Mousehole, not Praa Sands; no surf beach distance stated."
+}

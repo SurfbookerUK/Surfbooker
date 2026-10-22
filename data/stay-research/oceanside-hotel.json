@@ -1,0 +1,26 @@
+{
+ "name": "Oceanside Hotel",
+ "officialUrl": "http://www.oceansidehotel.co.uk",
+ "trading": true,
+ "stayType": "Independent seafront hotel",
+ "accommodation": "28 rooms in four styles, including four balcony sea-view rooms",
+ "suitableFor": "Couples and surfers",
+ "parking": "Car parking listed by Visit Newquay",
+ "dogs": null,
+ "beachAccess": "On Headland Road; Visit Newquay states about 0.23 miles to Fistral Beach",
+ "boardStorage": "Ample space to store surfboards overnight",
+ "confirmedFeatures": "Bar and restaurant, lift, sea views, garden/patio, open all year",
+ "overview": "An independent hotel on Headland Road, about a quarter of a mile from Fistral Beach, with 28 rooms ranging from compact doubles to balcony sea-view rooms. It is open all year and has a bar and restaurant. The hotel welcomes surfers and has space to store boards overnight.",
+ "surfTripFit": "Overnight board storage and a short walk to Fistral make dawn sessions easy.",
+ "sources": [
+  {
+   "label": "Official website",
+   "url": "http://www.oceansidehotel.co.uk"
+  },
+  {
+   "label": "Visit Newquay listing",
+   "url": "https://www.visitnewquay.org/accommodation/oceanside-hotel-p703"
+  }
+ ],
+ "slug": "oceanside-hotel"
+}

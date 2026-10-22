@@ -1,0 +1,22 @@
+{
+ "name": "Harbour Hotel",
+ "officialUrl": "https://www.harbourhotel.co.uk/",
+ "trading": true,
+ "stayType": "Small harbourside hotel",
+ "accommodation": "Six individually named rooms, each with a private balcony and harbour or sea views",
+ "suitableFor": "Couples",
+ "parking": null,
+ "dogs": null,
+ "beachAccess": "Steps from Newquay Harbour; beaches within easy reach",
+ "boardStorage": null,
+ "confirmedFeatures": "En-suite rooms, Wi-Fi, restaurant and bar",
+ "overview": "A small hotel on North Quay Hill, just steps from Newquay Harbour, with six individually named rooms. Each room has a private balcony and harbour or sea views. The Harbour Fish & Grill restaurant and bar is open to guests and non-residents, and Towan Beach is nearby.",
+ "surfTripFit": "A quiet, central base close to the harbour and the waves at Towan.",
+ "sources": [
+  {
+   "label": "Official website",
+   "url": "https://www.harbourhotel.co.uk/"
+  }
+ ],
+ "slug": "harbour-hotel"
+}

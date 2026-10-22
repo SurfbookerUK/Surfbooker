@@ -1,0 +1,233 @@
+{
+ "slug": "summerleaze-beach",
+ "schools": [
+  {
+   "name": "Big Blue Surf School",
+   "type": "Surf school",
+   "url": "https://www.bigbluesurfschool.com/",
+   "base": "Summerleaze Beach car park, Bude (EX23 8HJ)",
+   "note": "Small mixed-group or private lessons on Summerleaze for complete beginners up to advanced surfers, plus a ladies' surf club and a junior surf academy.",
+   "source": "https://www.bigbluesurfschool.com/"
+  },
+  {
+   "name": "The Bude Surfing Experience",
+   "type": "Surf school",
+   "url": "https://www.budesurfingexperience.co.uk/",
+   "base": "Summerleaze long stay car park",
+   "note": "Daily group lessons and private lessons for individuals, families and larger groups on Summerleaze, with SUP sessions here when conditions allow.",
+   "source": "https://www.budesurfingexperience.co.uk/contact"
+  },
+  {
+   "name": "Saltwater Safari",
+   "type": "Surf school",
+   "url": "https://www.saltwatersafari.co.uk/surfing/",
+   "base": "Trailer in Crooklets car park, Bude",
+   "note": "Beginner lessons for up to eight people per instructor, plus private sessions and one-to-one progression coaching, run at Crooklets and Summerleaze.",
+   "source": "https://www.saltwatersafari.co.uk/surfing/"
+  }
+ ],
+ "hire": [
+  {
+   "name": "Zuma Jay",
+   "type": "Board & wetsuit hire",
+   "url": "https://zumajay.co.uk/",
+   "base": "20 Belle Vue Lane, Bude town centre",
+   "note": "Hires soft and hard boards, wetsuits sized for kids and adults, bodyboards, inflatable SUPs and boots, gloves and hoods all year round. You can borrow a soft roof rack to carry boards to the beach.",
+   "source": "https://www.zumajay.co.uk/blog/zuma-jay-premium-surf-hire-and-surfboard-demo-centre"
+  },
+  {
+   "name": "Big Blue Surf School",
+   "type": "Board & wetsuit hire",
+   "url": "https://www.bigbluesurfschool.com/",
+   "base": "Summerleaze Beach car park",
+   "note": "Surfboard and wetsuit hire alongside lessons, right by the beach.",
+   "source": "https://www.bigbluesurfschool.com/"
+  },
+  {
+   "name": "The Bude Surfing Experience",
+   "type": "Board, wetsuit & SUP hire",
+   "url": "https://www.budesurfingexperience.co.uk/",
+   "base": "About 30 seconds' walk from the beach (check the contact page for the exact spot)",
+   "note": "Hires surfboards, wetsuits, bodyboards, paddleboards and paddles.",
+   "source": "https://www.budesurfingexperience.co.uk/equipment-hire"
+  }
+ ],
+ "shops": [
+  {
+   "name": "Zuma Jay",
+   "type": "Surf shop",
+   "url": "https://zumajay.co.uk/",
+   "town": "Bude (20 Belle Vue Lane)",
+   "note": "Sells surfboards from shortboards to longboards, custom boards, bodyboards, SUPs, wetsuits for all ages and accessories, and lists board repairs and wetsuit repair.",
+   "source": "https://zumajay.co.uk/"
+  }
+ ],
+ "lessonsIntro": "Summerleaze sits right in Bude town, so lessons start from the main beach car park and you're on the sand within a minute or two. Several local schools run beginner groups and private sessions here through the season.",
+ "learn": {
+  "text": [
+   "Summerleaze is a wide, sheltered bay beside Bude's breakwater, and Visit Cornwall rates it as suitable for everyone from beginners to experienced surfers. Schools set up in the main car park and teach on the open sand, keeping learners close to the lifeguard patrol. Lessons cover the basics on the beach first, including reading the surf and tides, before you head into the white water.",
+   "The RNLI warns that water flowing back into the river mouth creates a powerful rip, particularly on the left-hand side of the bay, and that it can look calm while pulling hard underneath. The north end is rocky, cross waves are common and the beach gets busy in summer. Stick with your instructor, stay in the flagged zones and don't drift towards the river or the sea pool rocks."
+  ],
+  "cards": [
+   {
+    "label": "Level",
+    "title": "Beginners to advanced",
+    "text": "A sheltered town beach rated suitable for all levels, with schools running from complete beginner upwards."
+   },
+   {
+    "label": "Best time",
+    "title": "Around high tide on small days",
+    "text": "Visit Bude suggests an hour either side of high tide for small, peeling waves. RNLI lifeguards patrol daily from early May to late September, plus Easter and October half term."
+   },
+   {
+    "label": "Watch out for",
+    "title": "The river rip",
+    "text": "A strong rip forms where water drains back to the river mouth, especially on the left side of the bay. Also watch for rocks at the north end and the sea pool, which hides at high tide."
+   }
+  ]
+ },
+ "hireIntro": "You can hire boards and wetsuits from surf schools in the Summerleaze car park or from Zuma Jay in Bude town centre, a short walk away.",
+ "kit": {
+  "text": [
+   "For a first go, a big soft-top foam board gives you the stability you need in Summerleaze's white water, and the schools supply boards and wetsuits with lessons. Once you're catching waves, Zuma Jay hires better boards and runs a demo centre so you can try before you buy. Sea temperatures off Bude drop to around 8 to 9°C in early March and peak at roughly 15 to 18°C in August."
+  ],
+  "cards": [
+   {
+    "label": "Board",
+    "title": "Soft-top for learners",
+    "text": "Beginners should start on a large foam board. Improvers can step up to an entry-level hard board or a demo board from Zuma Jay."
+   },
+   {
+    "label": "Wetsuit",
+    "title": "3/2 or 4/3 in summer, 5/4 in winter",
+    "text": "Surf-forecast suggests a 4/3 or 3/2 with boots in August, and a 5/4 or thicker with boots, gloves and a hood in early March."
+   },
+   {
+    "label": "Other craft",
+    "title": "Bodyboards and SUP",
+    "text": "Bodyboards and inflatable SUPs are available to hire in town. Bude Surfing Experience runs SUP on Summerleaze only when conditions allow, with calmer paddling on Bude Canal."
+   }
+  ]
+ },
+ "shopsIntro": "Bude's surf shop is in the town centre, a few minutes' walk up from Summerleaze.",
+ "shopsText": [
+  "Zuma Jay on Belle Vue Lane is the main surf shop in Bude, a short walk from the Summerleaze car park through the town centre. It stocks boards for every level, including Cornish-made custom boards, plus wetsuits, bodyboards, SUPs and accessories. It also handles board repairs and wetsuit repairs, and runs hire from the same shop."
+ ],
+ "faqs": {
+  "lessons": [
+   {
+    "q": "Where do surf lessons at Summerleaze meet?",
+    "a": "Big Blue Surf School meets in the Summerleaze Beach car park, and the Bude Surfing Experience uses the Summerleaze long stay car park. Saltwater Safari kits up at its trailer in Crooklets car park, just north of Summerleaze."
+   },
+   {
+    "q": "Is Summerleaze good for beginners?",
+    "a": "Yes. Visit Cornwall rates it suitable for beginners through to experienced surfers, and the bay is sheltered. Learn with a school, as there is a strong rip near the river mouth."
+   },
+   {
+    "q": "Are the lessons lifeguarded?",
+    "a": "The beach has RNLI lifeguards from 10am to 6pm daily between early May and late September, plus Easter and October half term. Outside those dates there's no patrol, so learning with a school matters even more."
+   }
+  ],
+  "hire": [
+   {
+    "q": "Can I hire a surfboard without a lesson in Bude?",
+    "a": "Yes. Zuma Jay in the town centre hires boards, wetsuits, bodyboards and SUPs all year, and both Big Blue and the Bude Surfing Experience hire kit near the beach."
+   },
+   {
+    "q": "How do I get a hired board to the beach?",
+    "a": "Zuma Jay lends a soft roof rack, and the school hire points are next to the beach, so you can carry your board straight down."
+   }
+  ],
+  "shops": [
+   {
+    "q": "Is there a surf shop near Summerleaze?",
+    "a": "Zuma Jay on Belle Vue Lane in Bude town centre sells boards, wetsuits and accessories, a short walk from the beach."
+   },
+   {
+    "q": "Can I get my board repaired in Bude?",
+    "a": "Zuma Jay lists board repairs and wetsuit repairs among its services."
+   }
+  ]
+ },
+ "sources": [
+  {
+   "label": "Big Blue Surf School",
+   "url": "https://www.bigbluesurfschool.com/"
+  },
+  {
+   "label": "Bude Surfing Experience",
+   "url": "https://www.budesurfingexperience.co.uk/"
+  },
+  {
+   "label": "Bude Surfing Experience contact (meeting points)",
+   "url": "https://www.budesurfingexperience.co.uk/contact"
+  },
+  {
+   "label": "Saltwater Safari",
+   "url": "https://www.saltwatersafari.co.uk/surfing/"
+  },
+  {
+   "label": "Zuma Jay",
+   "url": "https://zumajay.co.uk/"
+  },
+  {
+   "label": "Zuma Jay hire",
+   "url": "https://www.zumajay.co.uk/blog/zuma-jay-premium-surf-hire-and-surfboard-demo-centre"
+  },
+  {
+   "label": "Visit Bude: Summerleaze Beach",
+   "url": "https://www.visitbude.info/for-beach-lovers/beaches/summerleaze-beach/"
+  },
+  {
+   "label": "Visit Cornwall: Summerleaze Beach",
+   "url": "https://www.visitcornwall.com/things-to-do/beaches/summerleaze-beach"
+  },
+  {
+   "label": "RNLI: Summerleaze rescue and rip warning (Aug 2025)",
+   "url": "https://rnli.org/news-and-media/2025/august/06/rnli-lifeguards-rescue-three-swimmers-at-summerleaze-beach-in-bude"
+  },
+  {
+   "label": "Surf-forecast: Crooklets/Bude sea temperature",
+   "url": "https://www.surf-forecast.com/breaks/Crooklets_Bude/seatemp"
+  },
+  {
+   "label": "Visit Bude: Surfing in Bude",
+   "url": "https://www.visitbude.info/?p=11907"
+  }
+ ],
+ "factCheck": [
+  {
+   "fact": "Big Blue teaches on Summerleaze and meets in the car park, EX23 8HJ",
+   "url": "https://www.bigbluesurfschool.com/"
+  },
+  {
+   "fact": "Bude Surfing Experience meets at Summerleaze long stay car park",
+   "url": "https://www.budesurfingexperience.co.uk/contact"
+  },
+  {
+   "fact": "Saltwater Safari teaches at Crooklets and Summerleaze from a trailer in Crooklets car park",
+   "url": "https://www.saltwatersafari.co.uk/surfing/"
+  },
+  {
+   "fact": "Surf an hour either side of high tide for small peeling waves",
+   "url": "https://www.visitbude.info/for-beach-lovers/beaches/summerleaze-beach/"
+  },
+  {
+   "fact": "Suitable for beginners to experienced; rocky north end, river rip, cross waves, sea pool hidden at high tide",
+   "url": "https://www.visitcornwall.com/things-to-do/beaches/summerleaze-beach"
+  },
+  {
+   "fact": "Rip near river mouth, strongest on left of bay",
+   "url": "https://rnli.org/news-and-media/2025/august/06/rnli-lifeguards-rescue-three-swimmers-at-summerleaze-beach-in-bude"
+  },
+  {
+   "fact": "Zuma Jay hire range, soft roof rack, year-round hire",
+   "url": "https://www.zumajay.co.uk/blog/zuma-jay-premium-surf-hire-and-surfboard-demo-centre"
+  },
+  {
+   "fact": "Sea temperature 8-9C early March, 15-18C August; wetsuit suggestions",
+   "url": "https://www.surf-forecast.com/breaks/Crooklets_Bude/seatemp"
+  }
+ ],
+ "gaps": "Only one dedicated surf shop confirmed in Bude (Zuma Jay); others mentioned in old articles (e.g. Bude Surf Cabin) could not be confirmed as trading. No school states a minimum age for Summerleaze lessons or adaptive surfing. Bude Surfing Experience's exact hire address wasn't on the pages opened. Lifeguard dates on tourism pages were for 2024, so the card uses approximate months."
+}

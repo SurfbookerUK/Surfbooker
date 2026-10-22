@@ -1,0 +1,22 @@
+{
+ "name": "Penrhiw Hotel",
+ "officialUrl": "https://www.penrhiwhotel.com/",
+ "trading": true,
+ "stayType": "Boutique hotel with self-catering options",
+ "accommodation": "B&B rooms and suites (including the Meadow Suite, Garden Room and Valley room) plus self-catering accommodation; exclusive-use hire available",
+ "suitableFor": "Couples, small groups and those wanting a quiet retreat",
+ "parking": null,
+ "dogs": null,
+ "beachAccess": "Not stated; set in the Cathedral valley at St Davids",
+ "boardStorage": null,
+ "confirmedFeatures": "Guest lounge, reading nooks, landscaped gardens and wildflower meadow, treatments, exclusive-use hire; dining at sister hotel Twr y Felin",
+ "overview": "Penrhiw is a small hotel beside the Cathedral valley in St Davids, offering B&B rooms and suites alongside self-catering space, with gardens running down to a wildflower meadow. Evening dining is at its sister hotel, Twr y Felin, a short drive away. Whitesands is a short drive from St Davids.",
+ "surfTripFit": "A quiet, comfortable base on the edge of St Davids for surfers who want gardens and peace after a day at Whitesands.",
+ "sources": [
+  {
+   "label": "Penrhiw Hotel",
+   "url": "https://www.penrhiwhotel.com/"
+  }
+ ],
+ "slug": "penrhiw-hotel"
+}

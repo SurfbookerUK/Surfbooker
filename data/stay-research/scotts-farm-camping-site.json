@@ -1,0 +1,22 @@
+{
+ "name": "Scotts Farm Camping Site",
+ "officialUrl": "",
+ "trading": true,
+ "stayType": "Large farm campsite",
+ "accommodation": "Grass tent and tourer pitches, with or without electric",
+ "suitableFor": "Families, groups of campers and dog owners",
+ "parking": null,
+ "dogs": "Dogs welcome on leads; off-lead dog field and dog shower",
+ "beachAccess": "About a ten-minute walk from East Wittering Beach",
+ "boardStorage": null,
+ "confirmedFeatures": "Toilets and showers, laundry, Wi-Fi, shop, cafe, play areas, bike hire, beach trolleys; first-come first-served; open 1 March to 31 October",
+ "overview": "A farm campsite at West Wittering about ten minutes' walk from East Wittering Beach. Pitches are grass, with or without electric, and there is a shop, cafe, laundry and play areas. It works on a first-come, first-served basis.",
+ "surfTripFit": "Beach trolleys and a ten-minute walk to the sand suit campers bringing boards.",
+ "sources": [
+  {
+   "label": "Campsites.co.uk listing",
+   "url": "https://www.campsites.co.uk/search/campsites-in-sussex/chichester/scotts-farm-camping-site"
+  }
+ ],
+ "slug": "scotts-farm-camping-site"
+}

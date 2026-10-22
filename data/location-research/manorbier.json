@@ -1,0 +1,177 @@
+{
+ "slug": "manorbier",
+ "schools": [
+  {
+   "name": "Outer Reef Surf School",
+   "type": "Surf school",
+   "url": "https://www.outerreefsurfschool.com/surf-lessons/",
+   "base": "Office in Pembroke; exact meeting point confirmed after booking",
+   "note": "Uses Manorbier for beginner and family sessions when swell, wind and tide line up, with ISA-qualified instructors; boards and wetsuits included. Ages 7 and up.",
+   "source": "https://www.outerreefsurfschool.com/pembrokeshire-adventure-activities-locations-for-surfing-coasteering-kayaking-paddleboarding-tours/manorbier/"
+  }
+ ],
+ "hire": [
+  {
+   "name": "Outer Reef",
+   "type": "Board & wetsuit hire",
+   "url": "https://www.outerreefsurfschool.com/surf-lessons/equipment-hire/",
+   "base": "Collect from the Outer Reef shop, Unit 4, Upper Lamphey Road, Pembroke",
+   "note": "Surfboards, wetsuits and bodyboards for Freshwater West and Manorbier are collected from the Pembroke shop. Independent hire is for people who already know the kit and the beach; beginners are pointed to a lesson.",
+   "source": "https://www.outerreefsurfschool.com/surf-lessons/equipment-hire/"
+  }
+ ],
+ "shops": [
+  {
+   "name": "Outer Reef Pembroke shop",
+   "type": "Surf shop",
+   "url": "https://www.outerreefsurfschool.com/surf-shop-pembrokeshire/",
+   "town": "Pembroke",
+   "note": "Surf clothing, equipment and wetsuit advice at the Upper Lamphey Road base, which is also the pick-up point for surf hire.",
+   "source": "https://www.outerreefsurfschool.com/surf-shop-pembrokeshire/"
+  },
+  {
+   "name": "Outer Reef Tenby",
+   "type": "Surf shop",
+   "url": "https://www.outerreefsurfschool.com/surf-shop-pembrokeshire/tenby-surf-shop/",
+   "town": "Tenby",
+   "note": "Sells wetsuits, surf clothing, suncream and beach gear, with surfboard, wetsuit and SUP hire for suitable customers. Check the exact location when you book.",
+   "source": "https://www.outerreefsurfschool.com/surf-shop-pembrokeshire/tenby-surf-shop/"
+  }
+ ],
+ "lessonsIntro": "Manorbier, the south-west facing bay between Tenby and Pembroke, is one of the beaches Outer Reef uses for beginner and family lessons when conditions suit.",
+ "learn": {
+  "text": [
+   "Manorbier is a south-west facing bay between Tenby and Pembroke, and Visit Pembrokeshire describes it as a favourite surf spot. Outer Reef says it can be very good for beginner and family sessions when the swell, wind and tide come together, and its instructors check conditions before each lesson and pick a safe surf zone. If Manorbier isn't working, lessons may move to Freshwater West or Newgale.",
+   "Visit Pembrokeshire warns of very strong currents and advises checking tide times so the incoming tide doesn't cut you off. We couldn't find Manorbier on the RNLI's list of lifeguarded beaches, so don't rely on lifeguard cover and avoid surfing alone. Parking is limited: there's a National Park car park with about 30 spaces above the beach, plus a few roadside spaces towards Freshwater East."
+  ],
+  "cards": [
+   {
+    "label": "Level",
+    "title": "Beginners, with a school",
+    "text": "Outer Reef runs beginner and family lessons here when conditions are suitable. On your own, you need to be confident reading currents."
+   },
+   {
+    "label": "Best time",
+    "title": "When swell, wind and tide line up",
+    "text": "Lessons are planned around the tide. Ask your school which state of tide they're aiming for."
+   },
+   {
+    "label": "Watch out for",
+    "title": "Strong currents, no lifeguards found",
+    "text": "Visit Pembrokeshire warns about very strong currents, and we found no lifeguard cover listed. Watch the incoming tide too."
+   }
+  ]
+ },
+ "hireIntro": "Outer Reef hires surfboards, wetsuits and bodyboards for Manorbier from its shop in Pembroke.",
+ "kit": {
+  "text": [
+   "For lessons and first sessions at Manorbier, a big soft-top is the best choice; it's stable, floaty and safer in a crowd. Improvers can move to a longboard or mid-length when the waves are clean. You'll need a full wetsuit all year here: sea temperatures off Manorbier peak at around 14 to 18°C in August and drop to roughly 7 to 9°C by late February. Bodyboards work well on smaller days."
+  ],
+  "cards": [
+   {
+    "label": "Board",
+    "title": "Soft-top for learning",
+    "text": "Start on a wide soft-top. Move to a longboard or mid-length when you're catching clean, unbroken waves."
+   },
+   {
+    "label": "Wetsuit",
+    "title": "4/3mm in summer, 5mm or more in winter",
+    "text": "Sea temperature data for the south Pembrokeshire coast suggests a 4/3 or 3/2 in mid-August and a 5/4 or thicker with boots, gloves and a hood around late February, when the water drops to roughly 7 to 9°C. Spring and autumn sit in between."
+   },
+   {
+    "label": "Other craft",
+    "title": "Bodyboards on small days",
+    "text": "Bodyboards are available to hire from Outer Reef. With strong currents and no lifeguards found, stay close in and go with others."
+   }
+  ]
+ },
+ "shopsIntro": "Manorbier has no surf shop of its own that we could confirm; the nearest are in Pembroke and Tenby.",
+ "shopsText": [
+  "Outer Reef's shop on Upper Lamphey Road, Pembroke, sells surf clothing and equipment, offers wetsuit advice and is the pick-up point for hire. Outer Reef also has a store in Tenby selling wetsuits, surf clothing and beach gear. In Manorbier itself there's a pub, tea rooms and an ice cream van at the beach, but no surf shop we could confirm."
+ ],
+ "faqs": {
+  "lessons": [
+   {
+    "q": "Can I learn to surf at Manorbier?",
+    "a": "Yes. Outer Reef runs beginner and family lessons at Manorbier when the swell, wind and tide line up. On other days, it may move your lesson to Freshwater West or Newgale."
+   },
+   {
+    "q": "Is there a minimum age for lessons?",
+    "a": "Outer Reef takes children from age 7."
+   },
+   {
+    "q": "Are there lifeguards at Manorbier?",
+    "a": "We couldn't find Manorbier on the RNLI's lifeguarded beach list, and Visit Pembrokeshire warns about very strong currents, so learning with a school is the safest way to start."
+   }
+  ],
+  "hire": [
+   {
+    "q": "Where can I hire a surfboard for Manorbier?",
+    "a": "Outer Reef hires surfboards, wetsuits and bodyboards for Manorbier, collected from its Pembroke shop."
+   },
+   {
+    "q": "Is hire suitable for beginners?",
+    "a": "Outer Reef says independent hire is for people who already know the kit and conditions, and suggests beginners book a lesson first."
+   }
+  ],
+  "shops": [
+   {
+    "q": "Is there a surf shop in Manorbier?",
+    "a": "Not that we could confirm. The nearest surf shops are Outer Reef in Pembroke and Outer Reef's Tenby store."
+   }
+  ]
+ },
+ "sources": [
+  {
+   "label": "Outer Reef: Manorbier",
+   "url": "https://www.outerreefsurfschool.com/pembrokeshire-adventure-activities-locations-for-surfing-coasteering-kayaking-paddleboarding-tours/manorbier/"
+  },
+  {
+   "label": "Outer Reef: surf lessons",
+   "url": "https://www.outerreefsurfschool.com/surf-lessons/"
+  },
+  {
+   "label": "Outer Reef: equipment hire",
+   "url": "https://www.outerreefsurfschool.com/surf-lessons/equipment-hire/"
+  },
+  {
+   "label": "Outer Reef: shops",
+   "url": "https://www.outerreefsurfschool.com/surf-shop-pembrokeshire/"
+  },
+  {
+   "label": "Outer Reef: Tenby shop",
+   "url": "https://www.outerreefsurfschool.com/surf-shop-pembrokeshire/tenby-surf-shop/"
+  },
+  {
+   "label": "Visit Pembrokeshire: Manorbier beach",
+   "url": "https://www.visitpembrokeshire.com/explore-pembrokeshire/beaches/manorbier"
+  },
+  {
+   "label": "Surf-forecast: Manorbier sea temperature",
+   "url": "https://www.surf-forecast.com/breaks/Manorbier/seatemp"
+  }
+ ],
+ "factCheck": [
+  {
+   "fact": "Manorbier good for beginner/family sessions when swell, wind and tide line up; may move to Freshwater West or Newgale; ISA-qualified instructors; Castle Inn, tea rooms nearby",
+   "url": "https://www.outerreefsurfschool.com/pembrokeshire-adventure-activities-locations-for-surfing-coasteering-kayaking-paddleboarding-tours/manorbier/"
+  },
+  {
+   "fact": "Outer Reef min age 7",
+   "url": "https://www.outerreefsurfschool.com/surf-lessons/"
+  },
+  {
+   "fact": "Hire for Manorbier collected from Pembroke shop",
+   "url": "https://www.outerreefsurfschool.com/surf-lessons/equipment-hire/"
+  },
+  {
+   "fact": "South-west facing favourite surf spot; very strong currents; tide cut-off; 30-space car park plus ~10 roadside; ice cream van",
+   "url": "https://www.visitpembrokeshire.com/explore-pembrokeshire/beaches/manorbier"
+  },
+  {
+   "fact": "Sea temp peak 14 to 18°C mid-Aug, min 7 to 9°C late Feb; wetsuit recommendations",
+   "url": "https://www.surf-forecast.com/breaks/Manorbier/seatemp"
+  }
+ ],
+ "gaps": "Lifeguard status not confirmed (no RNLI page found). Outer Reef's Manorbier page mentions hire 'from a shop in the village' without naming it; we couldn't identify it. Underground Surf and Skate in Tenby appears on aroundtenby.co.uk but its own site couldn't be opened, so it was left out."
+}

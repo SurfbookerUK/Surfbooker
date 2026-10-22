@@ -1,0 +1,26 @@
+{
+ "name": "Rhydolion",
+ "officialUrl": "https://www.rhydolion.co.uk/",
+ "trading": true,
+ "stayType": "Farm self-catering and camping",
+ "accommodation": "Four 5-star self-catering properties (including Sgubor, Llofft Yr Yd and Hoewal longhouse) plus camping and caravan pitches",
+ "suitableFor": "Couples, families and campers; Sgubor has a wet room and downstairs bedroom",
+ "parking": null,
+ "dogs": null,
+ "beachAccess": "Campsites.co.uk lists it as 0.6 miles from Hell's Mouth",
+ "boardStorage": null,
+ "confirmedFeatures": "Self-catering cottages, camping and caravan pitches, wet room in Sgubor",
+ "overview": "Rhydolion is at Llangian near Abersoch on the southern Llyn coast, around 0.6 miles from Hell's Mouth. It offers four self-catering properties, including a traditional Welsh longhouse, alongside camping and caravan pitches. Online booking is not available, so enquiries go direct by phone or email.",
+ "surfTripFit": "It is the closest listed base to Hell's Mouth, giving quick access to the beach whether you camp or take a cottage.",
+ "sources": [
+  {
+   "label": "Rhydolion official site",
+   "url": "https://www.rhydolion.co.uk/"
+  },
+  {
+   "label": "Campsites.co.uk distance listing",
+   "url": "https://www.campsites.co.uk/search/campsites-near-hells-mouth"
+  }
+ ],
+ "slug": "rhydolion"
+}

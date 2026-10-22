@@ -1,0 +1,22 @@
+{
+ "name": "Portrush Atlantic Hotel",
+ "officialUrl": "https://www.portrushatlantic.com/",
+ "trading": true,
+ "stayType": "Town-centre hotel",
+ "accommodation": "Modern rooms, many overlooking the Atlantic (room numbers not stated)",
+ "suitableFor": "Couples, friends and groups wanting a central hotel with a bar",
+ "parking": "Not stated",
+ "dogs": null,
+ "beachAccess": "Described as steps from sandy beaches; no distance to East Strand stated",
+ "boardStorage": null,
+ "confirmedFeatures": "Another Round restaurant and bar with live music and televised sport, meeting and event spaces",
+ "overview": "Portrush Atlantic Hotel is in the heart of Portrush, overlooking the ocean and a short walk from the town's beaches. Many of its modern rooms face the Atlantic. Its restaurant and bar, Another Round, serves local dishes and puts on regular live music.",
+ "surfTripFit": "Sea-facing rooms let you see conditions from the window, and the central location keeps both strands within easy reach.",
+ "sources": [
+  {
+   "label": "Portrush Atlantic official site",
+   "url": "https://www.portrushatlantic.com/"
+  }
+ ],
+ "slug": "portrush-atlantic-hotel"
+}

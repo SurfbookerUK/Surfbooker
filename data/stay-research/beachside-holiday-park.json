@@ -1,0 +1,26 @@
+{
+ "slug": "beachside-holiday-park",
+ "officialUrl": "https://www.beachsideholidays.co.uk/",
+ "trading": true,
+ "stayType": "Family-run seafront holiday park",
+ "accommodation": "One-, two- and three-bedroom static caravans and two- and three-bedroom apartments/lodges for 2-8 guests, some with hot tubs",
+ "suitableFor": "Families, couples, small groups and dog owners (selected units)",
+ "parking": null,
+ "dogs": "Dogs welcome in selected accommodation only",
+ "beachAccess": "Slopes down to the promenade with direct access to the beach at Westward Ho!",
+ "boardStorage": null,
+ "confirmedFeatures": "Free Wi-Fi, launderette, hot tubs on selected units, landscaped grounds",
+ "overview": "Beachside is a family-run holiday park on the seafront in the middle of Westward Ho!, between the beach and the Tors. Its static caravans and apartments sleep between two and eight, and some have hot tubs or accept dogs. The park slopes down to the promenade, giving direct access to the sand, and the village centre is a few minutes' walk away.",
+ "surfTripFit": "Direct beach access and a central village location make it a convenient self-catering base for surfing Westward Ho!.",
+ "sources": [
+  {
+   "label": "Beachside official site",
+   "url": "https://www.beachsideholidays.co.uk/"
+  },
+  {
+   "label": "Visit Westward Ho! listing",
+   "url": "https://visitwestwardho.co.uk/beachside-holiday-park"
+  }
+ ],
+ "gaps": "Parking, board/wetsuit storage and unit numbers not stated."
+}

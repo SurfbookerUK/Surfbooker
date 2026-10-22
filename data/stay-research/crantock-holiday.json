@@ -1,0 +1,22 @@
+{
+ "name": "Crantock Holiday",
+ "officialUrl": "https://crantockholiday.co.uk/",
+ "trading": true,
+ "stayType": "Apartments, cottages and campsite",
+ "accommodation": "Four apartments at Lismore House in Crantock village, four cottages and lodges at Treago Mill, and camping at Porth Joke Campsite",
+ "suitableFor": "Couples, families and campers",
+ "parking": null,
+ "dogs": null,
+ "beachAccess": "Lismore House overlooks Crantock Beach, about five minutes' walk; Treago Mill is near Porth Joke, about a mile from the village",
+ "boardStorage": null,
+ "confirmedFeatures": "Self-catering apartments, cottages, lodges and camping",
+ "overview": "A local business running several places to stay around Crantock. Lismore House has four apartments in the village centre with views over Crantock Beach, about five minutes' walk away. Treago Mill offers cottages and lodges near Porth Joke, and there is also camping at Porth Joke Campsite.",
+ "surfTripFit": "Options range from a village apartment a few minutes from Crantock Beach to camping near Porth Joke.",
+ "sources": [
+  {
+   "label": "Official website",
+   "url": "https://crantockholiday.co.uk/"
+  }
+ ],
+ "slug": "crantock-holiday"
+}

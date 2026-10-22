@@ -1,0 +1,225 @@
+{
+ "slug": "sennen-cove",
+ "schools": [
+  {
+   "name": "Sennen Surfing Centre",
+   "type": "Surf school",
+   "url": "https://www.sennensurfingcentre.com/",
+   "base": "Beach cabin on Sennen beach",
+   "note": "One of the UK's longest-running surf schools, with one- to five-day courses for beginners, improvers and intermediates, plus private one-to-one, two-to-one and small-group lessons. All equipment is included and the first session covers beach safety.",
+   "source": "https://www.sennensurfingcentre.com/surf-lessons"
+  },
+  {
+   "name": "Smart Surf School",
+   "type": "Surf school",
+   "url": "https://www.smartsurfschool.com/",
+   "base": "Sennen Cove (TR19 7DF)",
+   "note": "Small group lessons with a maximum of six students, private tuition and kids' surf clubs. It was formerly known as Sennen Surf School.",
+   "source": "https://www.smartsurfschool.com/"
+  }
+ ],
+ "hire": [
+  {
+   "name": "Sennen Surfing Centre",
+   "type": "Board & wetsuit hire",
+   "url": "https://www.sennensurfingcentre.com/",
+   "base": "Sennen Cove village, by the beach",
+   "note": "Board and wetsuit hire alongside lessons in the village; check with the beach cabin for what's available on the day.",
+   "source": "https://www.yha.org.uk/experience/watersports-lands-end"
+  }
+ ],
+ "shops": [
+  {
+   "name": "Sennen Surf Co",
+   "type": "Surf shop",
+   "url": "https://sennensurfco.co.uk/",
+   "town": "Sennen Cove (beach car park)",
+   "note": "A family-run surf and beach shop open daily, with surfboards and longboards, clothing and accessories.",
+   "source": "https://sennensurfco.co.uk/"
+  },
+  {
+   "name": "Sennen Surfing Centre shop",
+   "type": "Surf shop",
+   "url": "https://www.sennensurfingcentre.com/",
+   "town": "Sennen beach",
+   "note": "Sells entry and advanced O'Neill wetsuits and surf hardware, in store or online for collection when you arrive.",
+   "source": "https://www.sennensurfingcentre.com/"
+  }
+ ],
+ "lessonsIntro": "Sennen is England's most westerly surf beach, and two surf schools teach right on the sand. It picks up swell when much of Cornwall is flat.",
+ "learn": {
+  "text": [
+   "Sennen sits at the southern end of Whitesand Bay, about a mile from Land's End, and is fully open to Atlantic swell. That means there's usually a wave, but it also means some days bring big surf that isn't for beginners. The southern end is a bit more sheltered than Gwenver at the far end of the bay. It works on most tides except the very top, and a rising tide often brings the best waves.",
+   "Sennen Surfing Centre has a cabin on the beach, and its first session for beginners covers beach safety and the kit. Smart Surf School also teaches in the cove with small groups. RNLI lifeguards patrol daily from early April to the start of November, and they move the flags with the tide, so check where the black and white surf zone is each time you go in."
+  ],
+  "cards": [
+   {
+    "label": "Level",
+    "title": "All levels, with a school on big days",
+    "text": "Both schools take complete beginners, but the beach can get large rollers, so learn with a lesson rather than alone."
+   },
+   {
+    "label": "Best time",
+    "title": "Lifeguarded season, smaller swells",
+    "text": "Lifeguards are on duty daily from 3 April to 1 November in 2026. Pick smaller days and avoid the very top of the tide."
+   },
+   {
+    "label": "Watch out for",
+    "title": "Full Atlantic exposure",
+    "text": "Sennen is exposed to Atlantic swells. If nobody is in the water, there may be a good reason, so ask the lifeguards first."
+   }
+  ]
+ },
+ "hireIntro": "Surf kit can be hired in the cove itself, next to the beach. Lessons at both schools include boards and wetsuits.",
+ "kit": {
+  "text": [
+   "A big foam board is the right choice for learning in Sennen's often powerful whitewater, and both schools supply boards with lessons. Improvers can step down once they're comfortable in green waves. Sea temperatures here range from about 8 to 10°C in late February to 15 to 19°C in mid-August."
+  ],
+  "cards": [
+   {
+    "label": "Board",
+    "title": "Foam board to start",
+    "text": "Lessons include boards. Stick to high-volume soft boards until you're riding green waves comfortably."
+   },
+   {
+    "label": "Wetsuit",
+    "title": "4/3 or 3/2 in summer, 5mm in winter",
+    "text": "Surf-forecast suggests a 4/3mm (or 3/2 with boots) in August, and a 5/4 or 5/3mm with gloves and boots in late February."
+   },
+   {
+    "label": "Other craft",
+    "title": "Bodyboards between the flags",
+    "text": "Bodyboarders swim between the red and yellow flags. Surfboards stay in the black and white zone, which moves with the tide."
+   }
+  ]
+ },
+ "shopsIntro": "Sennen Cove has a family-run surf shop by the beach car park, and the surfing centre sells wetsuits and hardware.",
+ "shopsText": [
+  "Everything is within a short walk in the cove. Sennen Surf Co sits at the beach car park and stocks boards, longboards, clothing and accessories, opening daily. Sennen Surfing Centre sells O'Neill wetsuits and surf hardware, which you can order online and pick up when you arrive."
+ ],
+ "faqs": {
+  "lessons": [
+   {
+    "q": "Which surf schools teach at Sennen?",
+    "a": "Sennen Surfing Centre, on the beach, and Smart Surf School (formerly Sennen Surf School), also based in the cove."
+   },
+   {
+    "q": "Is Sennen good for beginners?",
+    "a": "Yes with a school, as both teach first-timers. On big Atlantic swells it's better suited to experienced surfers."
+   },
+   {
+    "q": "What's included in a lesson?",
+    "a": "Sennen Surfing Centre includes all equipment, and the first beginner session starts with beach safety."
+   }
+  ],
+  "hire": [
+   {
+    "q": "Can I hire a board at Sennen?",
+    "a": "Yes, board and wetsuit hire is available in the cove through Sennen Surfing Centre."
+   },
+   {
+    "q": "Can I hire if I've never surfed?",
+    "a": "You can, but Sennen can get powerful, so a lesson is the safer first step."
+   }
+  ],
+  "shops": [
+   {
+    "q": "Is there a surf shop in Sennen Cove?",
+    "a": "Yes, Sennen Surf Co by the beach car park, open daily, and Sennen Surfing Centre sells wetsuits and hardware."
+   }
+  ]
+ },
+ "sources": [
+  {
+   "label": "Sennen Surfing Centre",
+   "url": "https://www.sennensurfingcentre.com/"
+  },
+  {
+   "label": "Sennen Surfing Centre - surf lessons",
+   "url": "https://www.sennensurfingcentre.com/surf-lessons"
+  },
+  {
+   "label": "Smart Surf School",
+   "url": "https://www.smartsurfschool.com/"
+  },
+  {
+   "label": "Sennen Surf Co",
+   "url": "https://sennensurfco.co.uk/"
+  },
+  {
+   "label": "YHA - Watersports at Land's End",
+   "url": "https://www.yha.org.uk/experience/watersports-lands-end"
+  },
+  {
+   "label": "RNLI Sennen Beach",
+   "url": "https://rnli.org/find-my-nearest/lifeguarded-beaches/sennen-beach"
+  },
+  {
+   "label": "Visit Cornwall - Sennen Cove",
+   "url": "https://www.visitcornwall.com/things-to-do/beaches/sennen-cove-beach"
+  },
+  {
+   "label": "Aspects Holidays - surfing in Sennen",
+   "url": "https://www.aspects-holidays.co.uk/blog/things-to-do/surfing-in-sennen-tips-and-hints"
+  },
+  {
+   "label": "Wikipedia - Sennen Cove",
+   "url": "https://en.wikipedia.org/wiki/Sennen_Cove"
+  },
+  {
+   "label": "Surf-forecast Sennen Cove water temperature",
+   "url": "https://www.surf-forecast.com/breaks/Sennen-Cove/seatemp"
+  }
+ ],
+ "factCheck": [
+  {
+   "fact": "SSC on Sennen beach; sells O'Neill wetsuits and hardware, click and collect",
+   "url": "https://www.sennensurfingcentre.com/"
+  },
+  {
+   "fact": "SSC 1-5 day courses, private 1:1, 2:1, groups; equipment included; first session beach safety",
+   "url": "https://www.sennensurfingcentre.com/surf-lessons"
+  },
+  {
+   "fact": "Smart Surf School max 6 per group; private; family friendly; 2026 copyright",
+   "url": "https://www.smartsurfschool.com/"
+  },
+  {
+   "fact": "sennensurfschool.com redirects to smartsurfschool.com",
+   "url": "https://www.sennensurfschool.com/"
+  },
+  {
+   "fact": "Smart Surf School kids' surf clubs",
+   "url": "https://directory.cornishsecrets.co.uk/listing/smart-surf-school/"
+  },
+  {
+   "fact": "Sennen Surf Co at beach car park, open daily, boards and clothing",
+   "url": "https://sennensurfco.co.uk/"
+  },
+  {
+   "fact": "Board and wetsuit hire in the village via Sennen Surfing Centre",
+   "url": "https://www.yha.org.uk/experience/watersports-lands-end"
+  },
+  {
+   "fact": "Lifeguards daily 3 April-1 November 2026; exposed to Atlantic swell",
+   "url": "https://rnli.org/find-my-nearest/lifeguarded-beaches/sennen-beach"
+  },
+  {
+   "fact": "Most westerly surf spot; big rollers some days; flags move with tide",
+   "url": "https://www.visitcornwall.com/things-to-do/beaches/sennen-cove-beach"
+  },
+  {
+   "fact": "Incoming tide best; if nobody in, there may be a reason",
+   "url": "https://www.aspects-holidays.co.uk/blog/things-to-do/surfing-in-sennen-tips-and-hints"
+  },
+  {
+   "fact": "More sheltered than Gwenver; works most tides but not extreme high",
+   "url": "https://en.wikipedia.org/wiki/Sennen_Cove"
+  },
+  {
+   "fact": "Sea temp 8-10C late Feb, 15-19C mid-August",
+   "url": "https://www.surf-forecast.com/breaks/Sennen-Cove/seatemp"
+  }
+ ],
+ "gaps": "Sennen Surfing Centre's hire offer is confirmed only by the YHA page and third-party listings (its own hire page wouldn't load), so items available weren't itemised. No minimum lesson ages published by either school. Chapel Idne surf shop (named on Wikipedia) couldn't be confirmed as trading. No adaptive surfing found."
+}

@@ -1,0 +1,22 @@
+{
+ "slug": "braddicks-holiday-park",
+ "officialUrl": "https://www.braddicksholidays.co.uk/",
+ "trading": true,
+ "stayType": "Seafront holiday park",
+ "accommodation": "Holiday homes, caravans, villas, chalets and apartments, many with sea views, plus mobility-adapted units",
+ "suitableFor": "Families, dog owners, and guests needing accessible units",
+ "parking": "Free parking",
+ "dogs": "Pet-friendly options available",
+ "beachAccess": "On the seafront at Westward Ho!, next to the beach",
+ "boardStorage": null,
+ "confirmedFeatures": "Bar/lounge, games room, The Pier House restaurant, public Wi-Fi, accessible units",
+ "overview": "Braddicks is a seafront holiday park in Westward Ho!, with the two-mile sandy beach right alongside. It offers a mix of self-catering holiday homes, caravans, villas, chalets and apartments, many with sea views, including units adapted for limited mobility. On site there is a bar, a games room and The Pier House restaurant, and parking is free.",
+ "surfTripFit": "Its seafront position makes it easy to check the surf and walk down to the beach at Westward Ho!.",
+ "sources": [
+  {
+   "label": "Visit Westward Ho! listing",
+   "url": "https://visitwestwardho.co.uk/braddicks-holiday-park"
+  }
+ ],
+ "gaps": "Official site blocked fetching, so details come from the local tourism site. Dog rules, unit numbers and board storage not stated."
+}

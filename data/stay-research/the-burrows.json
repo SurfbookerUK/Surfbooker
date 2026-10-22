@@ -1,0 +1,26 @@
+{
+ "name": "The Burrows",
+ "officialUrl": "https://www.theburrowsportclew.co.uk",
+ "trading": true,
+ "stayType": "Luxury B&B",
+ "accommodation": "Four en suite rooms",
+ "suitableFor": "Couples and dog owners",
+ "parking": "Ample private parking",
+ "dogs": "Welcome",
+ "beachAccess": "About a 10-minute walk to Freshwater East beach",
+ "boardStorage": null,
+ "confirmedFeatures": "Cooked breakfast, vegetarian and vegan options, underfloor-heated en suites, garden, picnic lunches on request",
+ "overview": "The Burrows is a four-room B&B in Upper Portclew House, a Georgian house about ten minutes' walk from Freshwater East beach. Rooms have en suites with underfloor heating and breakfast is cooked to order.",
+ "surfTripFit": "Dog-friendly and within walking distance of the beach, with a big breakfast before a session.",
+ "sources": [
+  {
+   "label": "The Burrows",
+   "url": "https://www.theburrowsportclew.co.uk"
+  },
+  {
+   "label": "Visit Wales – The Burrows B&B",
+   "url": "https://www.visitwales.com/accommodation/bed-breakfast/burrows-bb-563331"
+  }
+ ],
+ "slug": "the-burrows"
+}

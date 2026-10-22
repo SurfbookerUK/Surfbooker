@@ -1,0 +1,217 @@
+{
+ "slug": "saunton-sands",
+ "schools": [
+  {
+   "name": "Walking on Waves",
+   "type": "Surf school",
+   "url": "https://walking-on-waves.com/",
+   "base": "Walking on Waves HQ at Saunton Sands, about 10 metres from the sand (further at low tide)",
+   "note": "Private and group lessons. Beginner 'First Wave' sessions start with introductions, a safety briefing and practice on land before you go in.",
+   "source": "https://walking-on-waves.com/"
+  }
+ ],
+ "hire": [
+  {
+   "name": "Saunton Surf Hire",
+   "type": "Board & wetsuit hire",
+   "url": "https://www.sauntonsurfhire.com/",
+   "base": "On Saunton Sands, with board storage a few steps from the beach",
+   "note": "Soft and soft/hard surfboards with wetsuits, available on click and collect. Open every day except Christmas Day; pre-booking is advised.",
+   "source": "https://www.sauntonsurfhire.com/"
+  },
+  {
+   "name": "Surfing Croyde Bay",
+   "type": "Board & wetsuit hire",
+   "url": "https://www.surfingcroydebay.co.uk/surf-hire/",
+   "base": "Baggy Lodge, Moor Lane, Croyde",
+   "note": "Softech soft boards for beginners, Tiki improver boards, adult and junior wetsuits, bodyboards and SUPs, with boards from 5'0\" to 9'0\". Indoor changing, hot showers and lockers.",
+   "source": "https://www.surfingcroydebay.co.uk/surf-hire/"
+  }
+ ],
+ "shops": [
+  {
+   "name": "Saunton Surf Hire",
+   "type": "Surf shop",
+   "url": "https://www.sauntonsurfhire.com/",
+   "town": "Saunton Sands",
+   "note": "Small beach shop selling surfboards and accessories, including soft boards from Piran Surf.",
+   "source": "https://www.sauntonsurfhire.com/"
+  },
+  {
+   "name": "Tiki Surf Shop",
+   "type": "Surf shop",
+   "url": "https://www.tikisurf.co.uk/",
+   "town": "Braunton (Caen Street)",
+   "note": "Long-running North Devon surf brand selling its own and other brands' surfboards (from shortboards to softboards), wetsuits, bodyboards, fins and clothing. Offers free surfboard demos.",
+   "source": "https://www.tikisurf.co.uk/pages/about"
+  },
+  {
+   "name": "Saltrock",
+   "type": "Surf clothing shop",
+   "url": "https://www.saltrock.com/",
+   "town": "Braunton",
+   "note": "Surf-inspired clothing, footwear and accessories. Use the store locator for the exact address.",
+   "source": "https://www.saltrock.com/pages/store-locator"
+  }
+ ],
+ "lessonsIntro": "Saunton's long, gentle waves make it one of North Devon's most relaxed places to learn, and lessons start just steps from the sand.",
+ "learn": {
+  "text": [
+   "Visit Devon describes Saunton Sands as a good beach for beginners and longboarders, with gentler waves than Croyde and miles of sand to spread out on. Lessons usually begin with a safety talk and practice on the beach, then move into waist-deep water close to shore. At low tide the sea pulls a long way back, so allow a bit of extra walking to reach the water.",
+   "There's plenty of room to spread out along the beach. The north end, around Downend Point, is rocky, so stay well down the beach towards the south. We couldn't confirm RNLI lifeguard cover here, so check for red and yellow flags when you arrive, never surf alone, and take advice from the school on rips and conditions before heading out."
+  ],
+  "cards": [
+   {
+    "label": "Level",
+    "title": "Beginners and longboarders",
+    "text": "Softer, slower waves than Croyde, with plenty of room on the beach."
+   },
+   {
+    "label": "Best time",
+    "title": "Summer for lessons",
+    "text": "Lessons and hire run through the summer. Coaches pick the tide that suits the day."
+   },
+   {
+    "label": "Watch out for",
+    "title": "Rocks at the north end",
+    "text": "Downend Point is rocky. Stay away from it and check for lifeguard flags before going in."
+   }
+  ]
+ },
+ "hireIntro": "You can hire boards and wetsuits right on Saunton Sands, and Croyde's hire centres are a short drive away.",
+ "kit": {
+  "text": [
+   "Saunton's slow, rolling waves suit big soft-tops and longboards, so beginners and improvers can both stay on high-volume boards for longer. The sea here runs from about 15-18C in mid-August to 8-9C in early March. Wear a 3/2mm or 4/3mm in summer, and a 5/4mm or thicker with boots, gloves and a hood in early spring."
+  ],
+  "cards": [
+   {
+    "label": "Board",
+    "title": "Longboards and soft-tops",
+    "text": "A large foam board to learn; a longboard or mini-mal once you can trim along the wave."
+   },
+   {
+    "label": "Wetsuit",
+    "title": "3/2 summer, 5/4 winter",
+    "text": "A 3/2mm or 4/3mm in summer; 5/4mm or thicker with boots, gloves and a hood in early spring."
+   },
+   {
+    "label": "Other craft",
+    "title": "Bodyboards welcome",
+    "text": "The gentle inside waves suit bodyboarding. Keep well clear of other surfers when the beach is busy."
+   }
+  ]
+ },
+ "shopsIntro": "There is a small surf shop on the beach, and Braunton, a short drive inland, has the area's main surf shops.",
+ "shopsText": [
+  "Saunton Surf Hire also sells surfboards and accessories, including Piran Surf soft boards, right by the beach. For a wider choice of boards, wetsuits and bodyboards, head inland to Braunton, where Tiki Surf Shop on Caen Street stocks its own boards and wetsuits and offers free demos. Braunton also has a Saltrock store for surf clothing."
+ ],
+ "faqs": {
+  "lessons": [
+   {
+    "q": "Is Saunton good for beginners?",
+    "a": "Yes. Visit Devon describes its waves as gentler than Croyde's and recommends it for beginners and longboarders."
+   },
+   {
+    "q": "Where do lessons meet?",
+    "a": "Walking on Waves starts sessions at its HQ at Saunton, about 10 metres from the sand, where you change and have a safety briefing."
+   },
+   {
+    "q": "Are there lifeguards at Saunton?",
+    "a": "We couldn't confirm RNLI cover. Check for red and yellow flags on arrival and ask the school about conditions."
+   }
+  ],
+  "hire": [
+   {
+    "q": "Can I hire a board on the beach?",
+    "a": "Yes. Saunton Surf Hire offers soft and soft/hard boards with wetsuits by click and collect, and is open every day except Christmas Day."
+   },
+   {
+    "q": "Should I book hire in advance?",
+    "a": "Customers recommend pre-booking with Saunton Surf Hire, especially in busy periods."
+   }
+  ],
+  "shops": [
+   {
+    "q": "Where can I buy a wetsuit near Saunton?",
+    "a": "Tiki Surf Shop in Braunton stocks wetsuits from Tiki and other brands, plus boards and accessories."
+   }
+  ]
+ },
+ "sources": [
+  {
+   "label": "Walking on Waves",
+   "url": "https://walking-on-waves.com/"
+  },
+  {
+   "label": "Coast magazine: Saunton Sands guide",
+   "url": "https://www.coastmagazine.co.uk/travel/saunton-sands-guide-weekend-north-devon/"
+  },
+  {
+   "label": "Saunton Surf Hire",
+   "url": "https://www.sauntonsurfhire.com/"
+  },
+  {
+   "label": "Playsport: Saunton Surf Hire listing",
+   "url": "https://playsport.com/sauntonsurfhire_ag_d8b3225f"
+  },
+  {
+   "label": "Visit Devon: Saunton",
+   "url": "https://www.visitdevon.co.uk/explore/cities-towns-and-villages/saunton/"
+  },
+  {
+   "label": "Visit Devon: surfing in Devon",
+   "url": "https://www.visitdevon.co.uk/things-to-do/watersports/surfing/"
+  },
+  {
+   "label": "Visit Devon: where to surf in North Devon",
+   "url": "https://www.visitdevon.co.uk/northdevon/blog/post/where-to-surf-this-summer/"
+  },
+  {
+   "label": "Boards.co.uk: Saunton Sands",
+   "url": "https://boards.co.uk/travel/uk-travel/saunton-sands-north-devon.html"
+  },
+  {
+   "label": "Surfing Croyde Bay surf hire",
+   "url": "https://www.surfingcroydebay.co.uk/surf-hire/"
+  },
+  {
+   "label": "Tiki Surf Shop",
+   "url": "https://www.tikisurf.co.uk/pages/about"
+  },
+  {
+   "label": "Saltrock store locator",
+   "url": "https://www.saltrock.com/pages/store-locator"
+  },
+  {
+   "label": "Surf-forecast: Croyde sea temperature",
+   "url": "https://www.surf-forecast.com/breaks/Croyde/seatemp"
+  }
+ ],
+ "factCheck": [
+  {
+   "fact": "Walking on Waves HQ is at Saunton, beach about 10m away; private and group lessons; First Wave beginner sessions",
+   "url": "https://walking-on-waves.com/"
+  },
+  {
+   "fact": "Saunton Surf Hire is on Saunton Sands, hires Torq and Hot Surf soft boards, sells Piran Surf boards, open daily except Christmas Day",
+   "url": "https://www.sauntonsurfhire.com/"
+  },
+  {
+   "fact": "Saunton suits beginners and longboarders, gentler waves than Croyde",
+   "url": "https://www.visitdevon.co.uk/things-to-do/watersports/surfing/"
+  },
+  {
+   "fact": "Saunton suitable for beginner and intermediate surfers",
+   "url": "https://www.visitdevon.co.uk/explore/cities-towns-and-villages/saunton/"
+  },
+  {
+   "fact": "Downend Point at the north end is rocky",
+   "url": "https://boards.co.uk/travel/uk-travel/saunton-sands-north-devon.html"
+  },
+  {
+   "fact": "Big expanse of beach at low tide",
+   "url": "https://www.coastmagazine.co.uk/travel/saunton-sands-guide-weekend-north-devon/"
+  }
+ ],
+ "gaps": "Surf Saunton (Surfbooker profile) site blocks automated access, so not confirmed. Visit Devon says Surf South West runs a school at Saunton, but Surf South West's own site only mentions Croyde, so it is left out. RNLI lifeguard cover at Saunton not confirmed. No minimum lesson ages found. Walking on Waves lesson formats beyond private/group not confirmed."
+}

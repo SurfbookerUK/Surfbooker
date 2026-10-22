@@ -1,0 +1,172 @@
+{
+ "slug": "east-wittering",
+ "schools": [],
+ "hire": [
+  {
+   "name": "2XS West Wittering",
+   "type": "Board & wetsuit hire",
+   "url": "https://www.2xs.co.uk/club/hire/",
+   "base": "On West Wittering beach, the next beach to the west (not at East Wittering itself)",
+   "note": "Foam and epoxy surfboards, bodyboards, skimboards, SUPs, kayaks and wetsuits with boots and gloves.",
+   "source": "https://www.2xs.co.uk/club/hire/"
+  }
+ ],
+ "shops": [
+  {
+   "name": "Wittering Surf Shop",
+   "type": "Surf shop",
+   "url": "https://witteringsurfshop.com/",
+   "town": "15 Shore Road, East Wittering",
+   "note": "Independent shop since 2005, selling its own surf clothing, accessories and changing robes, with Fairmile surfboards in store and the Drift-In café attached.",
+   "source": "https://witteringsurfshop.com/pages/brand"
+  },
+  {
+   "name": "Shore Watersports",
+   "type": "Surf shop",
+   "url": "https://www.shore.co.uk/",
+   "town": "20-22 Shore Road, East Wittering (about 100m from the beach)",
+   "note": "Large surf store with hundreds of surfboards and wetsuits in stock, changing rooms for fitting, plus SUPs and kayaks and a big online shop.",
+   "source": "https://www.shore.co.uk/wittering-surf-shop"
+  }
+ ],
+ "lessonsIntro": "We couldn't confirm a surf school teaching at East Wittering itself; the nearest lessons we could verify are at 2XS on West Wittering beach.",
+ "learn": {
+  "text": [
+   "East Wittering is a sandy beach break with a gentle slope, and Wittering Surf Shop calls it the most consistent surf between Brighton and the Isle of Wight. On small, clean days it's a good place to learn, with a sandy bottom and plenty of space. Groynes split the beach into bays, which helps spread people out. Most people get in at the bottom of Shore Road, where parking is close by.",
+   "Most waves come from south-westerly windswell pushing up the Channel, and they tend to fade within a day or two once the wind drops. The beach is flat and the tide goes out a long way, so low tide is often slow. Mid to high tide is usually best. On bigger days, watch for the shore dump and the pull along the groynes. The shop suggests checking with them first if you're new. Chichester District Council notes there are no lifeguards on its beaches, though it says there are no rip currents here."
+  ],
+  "cards": [
+   {
+    "label": "Level",
+    "title": "Good for beginners on small days",
+    "text": "Sandy bottom, gentle slope and space make small, clean days suitable for learners. Bigger days are better left to experienced surfers."
+   },
+   {
+    "label": "Best time",
+    "title": "Mid to high tide, light winds",
+    "text": "Waves pick up on the incoming tide. North and north-east winds are offshore, and the best days are light winds over leftover swell."
+   },
+   {
+    "label": "Watch out for",
+    "title": "Shore dump and groynes",
+    "text": "On bigger windswell days the shore dump and the pull along the groynes need respect. There are no lifeguards here, and access is over a loose shingle bank."
+   }
+  ]
+ },
+ "hireIntro": "We couldn't confirm surf hire in East Wittering itself, but 2XS hires boards and wetsuits from West Wittering beach next door.",
+ "kit": {
+  "text": [
+   "The waves here are mostly short-period windswell, so a big, floaty board makes life easier: foam for beginners, a longer board for improvers. Wittering Surf Shop puts the water at about 6 to 8°C in late winter and 17 to 19°C in late summer, so match your wetsuit to the month. On flat days, a SUP or bodyboard from 2XS at West Wittering is a good alternative."
+  ],
+  "cards": [
+   {
+    "label": "Board",
+    "title": "Volume helps",
+    "text": "Windswell waves are often slow at low tide. Use a foam board to learn; 2XS also hires epoxy boards for improvers."
+   },
+   {
+    "label": "Wetsuit",
+    "title": "3/2 summer, 5/4 winter",
+    "text": "3/2 or shorty July to October, 4/3 in May, June and November, 5/4 or 5/3 with boots and gloves December to April (Wittering Surf Shop)."
+   },
+   {
+    "label": "Other craft",
+    "title": "Bodyboards and SUP",
+    "text": "Both can be hired from 2XS at West Wittering."
+   }
+  ]
+ },
+ "shopsIntro": "Two surf shops sit on Shore Road in East Wittering village, the main way down to the beach.",
+ "shopsText": [
+  "Wittering Surf Shop has been on Shore Road since 2005, on the road you use to get down to the beach. It mainly sells its own surf clothing, accessories and changing robes, has Fairmile surfboards in store and runs the Drift-In café alongside. For wetsuits and hardware, 2XS on West Wittering beach also has an online shop. Shore Watersports, at 20-22 Shore Road about 100m from the beach, carries hundreds of surfboards and wetsuits with changing rooms for fitting."
+ ],
+ "faqs": {
+  "lessons": [
+   {
+    "q": "Can beginners surf at East Wittering?",
+    "a": "Yes, on small, clean days. Wittering Surf Shop says the sandy bottom, gentle slope and space make it a good learner beach, but bigger windswell days bring a shore dump and a pull along the groynes."
+   },
+   {
+    "q": "What tide is best at East Wittering?",
+    "a": "Mid to high tide is usually best. The beach is flat and the tide goes out a long way, so low tide tends to be slow."
+   },
+   {
+    "q": "Where can I get a surf lesson near East Wittering?",
+    "a": "The nearest school we could confirm is 2XS on West Wittering beach, which runs Learn to Surf (12+) and family lessons (7+)."
+   },
+   {
+    "q": "Is East Wittering lifeguarded?",
+    "a": "No. Chichester District Council says there are no lifeguards on its beaches. It notes no rip currents, but waves can be large at high tide, making it hard to get out."
+   }
+  ],
+  "hire": [
+   {
+    "q": "Can I hire a surfboard in East Wittering?",
+    "a": "We couldn't confirm hire in the village. 2XS hires foam and epoxy surfboards and wetsuits on West Wittering beach next door."
+   },
+   {
+    "q": "What wetsuit do I need?",
+    "a": "Wittering Surf Shop suggests a 3/2 or shorty from July to October, a 4/3 in May, June and November, and a 5/4 or 5/3 with boots and gloves from December to April."
+   }
+  ],
+  "shops": [
+   {
+    "q": "Is there a surf shop in East Wittering?",
+    "a": "Yes, two. Wittering Surf Shop is at 15 Shore Road and Shore Watersports at 20-22 Shore Road, about 100m from the beach."
+   }
+  ]
+ },
+ "sources": [
+  {
+   "label": "Wittering Surf Shop - About",
+   "url": "https://witteringsurfshop.com/pages/brand"
+  },
+  {
+   "label": "Wittering Surf Shop - Surf report",
+   "url": "https://witteringsurfshop.com/pages/surf-report"
+  },
+  {
+   "label": "2XS - Hire",
+   "url": "https://www.2xs.co.uk/club/hire/"
+  },
+  {
+   "label": "2XS - Surf and SUP tuition",
+   "url": "https://www.2xs.co.uk/west-wittering-watersports-courses-tuition/surf-sup-tuition/"
+  },
+  {
+   "label": "Chichester District Council - Coastal recreation, byelaws and slipways",
+   "url": "https://www.chichester.gov.uk/article/24068/Coastal-recreation-byelaws-and-slipways"
+  },
+  {
+   "label": "Shore Watersports",
+   "url": "https://www.shore.co.uk/wittering-surf-shop"
+  }
+ ],
+ "factCheck": [
+  {
+   "fact": "Sandy beach break; most consistent surf between Brighton and the Isle of Wight; SW windswell; N/NE offshore; mid-high tide best; shore dump and groyne pull on bigger days; access at bottom of Shore Road",
+   "url": "https://witteringsurfshop.com/pages/surf-report"
+  },
+  {
+   "fact": "Water 6-8C late winter to 17-19C late summer; wetsuit by month",
+   "url": "https://witteringsurfshop.com/pages/surf-report"
+  },
+  {
+   "fact": "Wittering Surf Shop, 15 Shore Rd, East Wittering, since 2005; Fairmile boards; Drift-In cafe",
+   "url": "https://witteringsurfshop.com/pages/brand"
+  },
+  {
+   "fact": "2XS hire list at West Wittering",
+   "url": "https://www.2xs.co.uk/club/hire/"
+  },
+  {
+   "fact": "No lifeguards on council beaches; East Wittering no rips, gentle slope, large waves at high tide, loose shingle access",
+   "url": "https://www.chichester.gov.uk/article/24068/Coastal-recreation-byelaws-and-slipways"
+  },
+  {
+   "fact": "Shore Watersports 20-22 Shore Rd, 100m from beach, 300+ boards, 500+ wetsuits",
+   "url": "https://www.shore.co.uk/wittering-surf-shop"
+  }
+ ],
+ "gaps": "No surf school confirmed at East Wittering itself, and no hire in the village."
+}

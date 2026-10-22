@@ -1,0 +1,26 @@
+{
+ "name": "A Room With A View",
+ "officialUrl": "http://www.aroomwithaviewbrighton.com",
+ "trading": true,
+ "stayType": "Seafront guest house",
+ "accommodation": "Individually styled rooms from singles to deluxe kings, some with sea views towards the pier; no lift",
+ "suitableFor": "Couples and solo travellers wanting a smaller seafront B&B",
+ "parking": "Car park for up to ten cars; free private parking when booking direct",
+ "dogs": null,
+ "beachAccess": "On Marine Parade in Kemptown, listed under the seafront by Visit Brighton",
+ "boardStorage": null,
+ "confirmedFeatures": "Breakfast, sea-view rooms, guest lounge, Wi-Fi, private car park",
+ "overview": "A Room With A View is a guest house in a Grade II listed Georgian building on Marine Parade in Kemptown, facing the sea. Rooms range from singles to deluxe kings, each styled differently, and some look along the coast to the pier. Its own car park, holding up to ten cars, is a rare thing on this stretch of seafront.",
+ "surfTripFit": "Free private parking right on the seafront makes it easy to load and unload boards, and the beach is across the road.",
+ "sources": [
+  {
+   "label": "Official website",
+   "url": "http://www.aroomwithaviewbrighton.com"
+  },
+  {
+   "label": "Visit Brighton listing",
+   "url": "https://www.visitbrighton.com/accommodation/a-room-with-a-view-p919961"
+  }
+ ],
+ "slug": "a-room-with-a-view"
+}

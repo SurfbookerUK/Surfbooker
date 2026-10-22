@@ -1,0 +1,22 @@
+{
+ "slug": "the-cottage-hotel-hope-cove",
+ "officialUrl": "https://www.hopecove.com/",
+ "trading": true,
+ "stayType": "Family-run hotel",
+ "accommodation": "Hotel rooms across several grades, many with sea views; no self-catering cottages mentioned (batch type 'self-catering cottage' appears wrong)",
+ "suitableFor": "Families, couples, walkers",
+ "parking": null,
+ "dogs": null,
+ "beachAccess": "On the cliffs above Hope Cove's harbour beach with easy access to the beach; Hope Cove's beaches a short walk",
+ "boardStorage": null,
+ "confirmedFeatures": "Restaurant, bar, lounge, terrace, afternoon and cream teas, breakfast for residents and visitors, private functions",
+ "overview": "The Cottage Hotel is an independent, family-run hotel that has stood on the cliffs above Hope Cove's harbour beach since 1973. Many rooms face the sea, and the hotel has a restaurant, bar, lounge and terrace open to residents and visitors. Hope Cove sits a few miles along the coast from Bantham.",
+ "surfTripFit": "Hope Cove itself is a sheltered cove, so surfers would need to drive to Bantham or Thurlestone for waves. It suits a relaxed family seaside break with occasional surf sessions.",
+ "sources": [
+  {
+   "label": "Hope Cove / The Cottage Hotel official site",
+   "url": "https://www.hopecove.com/"
+  }
+ ],
+ "gaps": "Parking, dogs and Wi-Fi not stated on homepage; room count not stated; listed in batch as self-catering cottages but official site shows a hotel; it is in Hope Cove not Bantham."
+}

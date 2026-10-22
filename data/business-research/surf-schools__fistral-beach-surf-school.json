@@ -1,0 +1,31 @@
+{
+ "slug": "fistral-beach-surf-school",
+ "kind": "surf-schools",
+ "officialUrl": "https://www.fistralbeachsurfschool.co.uk/",
+ "trading": true,
+ "about": "Fistral Beach Surf School & Hire works from the International Surfing Centre on Fistral Beach in Newquay and says it is the only surf school and hire based on the beach itself. It teaches all levels from beginners to advanced surfers, runs kids' clubs and weekends, and operates a large hire centre.",
+ "offers": [
+  "Group and private lessons",
+  "Beginner, improver, intermediate and advanced coaching",
+  "Family lessons",
+  "Kids-only lessons and kids' surf clubs",
+  "Bodyboard lessons",
+  "Coasteering and surf-and-coasteer sessions",
+  "Surf weekends",
+  "Hire: wetsuits, bodyboards, surfboards, SUPs and beach kit"
+ ],
+ "where": "International Surfing Centre, Fistral Beach, Newquay TR7 1HY, next to a pay-and-display car park",
+ "goodToKnow": [
+  "Lesson equipment is included, with extra thermal kit when it is needed",
+  "Coaches are described as qualified surf instructors and lifeguards",
+  "Booked online; deposit and cancellation details are in the terms"
+ ],
+ "season": "Open all year",
+ "sources": [
+  {
+   "label": "Homepage",
+   "url": "https://www.fistralbeachsurfschool.co.uk/home/"
+  }
+ ],
+ "gaps": "No ages for kids' lessons and no what-to-bring list."
+}

@@ -1,0 +1,30 @@
+{
+ "slug": "mount-pleasant-eco-park",
+ "officialUrl": "https://www.mpecopark.co.uk",
+ "trading": true,
+ "stayType": "Eco campsite with glamping",
+ "accommodation": "Grass camping pitches (seasonal), electric hardstandings, Shepherd's Huts and Eco Pods (six of each per Quirky Campers)",
+ "suitableFor": "Campers, couples, families and dog owners; tents, campervans and tourers",
+ "parking": "Ample parking (official site); one car per booking on pitches (Pitchup)",
+ "dogs": "Allowed, one per booking, on leads (Pitchup)",
+ "beachAccess": "Footpath to Porthtowan beach, about 1.3 km as the crow flies (Pitchup)",
+ "boardStorage": "Drying room (Pitchup)",
+ "confirmedFeatures": "Cafe, sauna, shop, laundry, drying room, compost toilets, solar showers, Wi-Fi, playground, event spaces",
+ "overview": "Mount Pleasant Eco Park is an off-grid-style campsite between Porthtowan and St Agnes with grass pitches, electric hardstandings, Shepherd's Huts and Eco Pods. It has a cafe, wild sauna and shop, and a footpath leads down to Porthtowan beach about a kilometre away.",
+ "surfTripFit": "Affordable camping with a drying room and a footpath to Porthtowan suits surfers happy with a steep walk.",
+ "sources": [
+  {
+   "label": "Official site",
+   "url": "https://www.mpecopark.co.uk"
+  },
+  {
+   "label": "Pitchup",
+   "url": "https://www.pitchup.com/en-ca/campsites/England/South_West/Cornwall/porthtowan/mount-pleasant-eco-park"
+  },
+  {
+   "label": "Quirky Campers",
+   "url": "https://www.quirkycampers.com/uk/campsites/campsite/the-eco-park/"
+  }
+ ],
+ "gaps": "Dog policy, beach distance and drying room from Pitchup, not the official site. Grass pitches closed in winter."
+}

@@ -1,0 +1,128 @@
+{
+ "overview": [
+  "Shoreham Beach is a long shingle beach on the strip of land between the River Adur and the sea, across the footbridge from Shoreham-by-Sea. Around 26 hectares of it is a Local Nature Reserve, designated in 2006 for its vegetated shingle, an internationally rare habitat where yellow horned poppy, sea kale and curled dock grow among the stones. A 1.2km boardwalk, built in stages from 2011, lets you cross the shingle without trampling it.",
+  "This isn't a sandy surf beach. It picks up Channel swell occasionally, breaking onto steep shingle, and it sits right next to Shoreham Harbour's entrance, where the river, boat traffic and currents meet. Keep well away from the harbour mouth if you do go in, and treat it as a spot for experienced locals rather than somewhere to learn. On flat days, the boardwalk and the shingle plants are reason enough to visit.",
+  "At the eastern end, Shoreham Fort guards the harbour entrance. Completed in 1857 and armed with six 68-pounder guns, it's a scheduled monument that volunteers are restoring, and National Coastwatch volunteers keep watch over the harbour from a wartime light station nearby. To the west is Widewater Lagoon, and the RSPB's Adur reserve lies upriver. Barbecues aren't allowed on the beach because of its nature reserve status."
+ ],
+ "suits": [
+  "Walkers and wildlife watchers",
+  "Experienced local surfers on the odd good swell",
+  "Visitors arriving by train",
+  "Dog walkers year-round"
+ ],
+ "notFor": [
+  "Beginners",
+  "Sandy beach days",
+  "Barbecues"
+ ],
+ "surf": {
+  "text": [
+   "Waves here are occasional and need a decent south-westerly Channel swell. They break onto a shingle shore, which can mean a short, sharp shorebreak, and the best season is autumn to early spring.",
+   "The biggest local hazard is the harbour entrance, with currents and boats coming and going. Stay well clear of it, and as there's no lifeguard service listed for Shoreham Beach, call 999 and ask for the Coastguard in an emergency.",
+   "Shoreham is a breakwater-assisted beach break that works once in a while, best on a south-westerly swell with a northerly offshore, around low tide. Watch for rocks, and expect it to get crowded when it works. Winter is the best season."
+  ],
+  "cards": [
+   {
+    "label": "Level",
+    "title": "Experienced",
+    "text": "Shingle shorebreak and a harbour mouth nearby."
+   },
+   {
+    "label": "Hazards",
+    "title": "Harbour mouth",
+    "text": "Strong currents and boat traffic at the Adur entrance."
+   },
+   {
+    "label": "Season",
+    "title": "Autumn and winter",
+    "text": "Channel swell is most likely from autumn to early spring; summer is usually small and much busier."
+   }
+  ]
+ },
+ "practical": [
+  {
+   "label": "Access",
+   "title": "Boardwalk",
+   "text": "A 1.2km boardwalk crosses the shingle to the shoreline, including for people with mobility issues."
+  },
+  {
+   "label": "Rules",
+   "title": "Nature reserve",
+   "text": "No barbecues. Keep to the boardwalk and paths to protect the shingle plants."
+  },
+  {
+   "label": "Dogs",
+   "title": "Allowed all year",
+   "text": "Dogs are allowed on Adur beaches year-round; Worthing's summer exclusion zones don't apply here."
+  },
+  {
+   "label": "Getting there",
+   "title": "Adur Ferry Bridge",
+   "text": "From Shoreham-by-Sea station, walk through town and over the footbridge across the river."
+  },
+  {
+   "label": "Contact",
+   "title": "Coastal Office",
+   "text": "Adur & Worthing Councils' Coastal Office handles beach enquiries."
+  }
+ ],
+ "faqs": [
+  {
+   "q": "Is Shoreham Beach good for beginners?",
+   "a": "No. It's steep shingle beside a harbour mouth. Look for a sandy beach with a surf school instead."
+  },
+  {
+   "q": "Can dogs go on Shoreham Beach?",
+   "a": "Yes, dogs are allowed on Adur's beaches all year."
+  },
+  {
+   "q": "Can you have a barbecue on Shoreham Beach?",
+   "a": "No, because it's a Local Nature Reserve."
+  },
+  {
+   "q": "What is Shoreham Fort?",
+   "a": "A crescent-shaped fort completed in 1857 at the harbour entrance, now a scheduled monument being restored by volunteers."
+  }
+ ],
+ "sources": [
+  {
+   "label": "Adur & Worthing Councils — beaches",
+   "url": "https://www.adur-worthing.gov.uk/beaches/"
+  },
+  {
+   "label": "Wikipedia — Shoreham Beach",
+   "url": "https://en.wikipedia.org/wiki/Shoreham_Beach"
+  },
+  {
+   "label": "Wikipedia — Shoreham Redoubt",
+   "url": "https://en.wikipedia.org/wiki/Shoreham_Redoubt"
+  }
+ ],
+ "factCheck": [
+  {
+   "fact": "LNR since 10 June 2006; vegetated shingle, plant species",
+   "url": "https://www.adur-worthing.gov.uk/beaches/"
+  },
+  {
+   "fact": "Boardwalk since 2011, over 1.2km",
+   "url": "https://www.adur-worthing.gov.uk/beaches/"
+  },
+  {
+   "fact": "Dogs allowed on Adur beaches all year; no barbecues",
+   "url": "https://www.adur-worthing.gov.uk/beaches/"
+  },
+  {
+   "fact": "LNR 26.2 hectares; boardwalk phases",
+   "url": "https://en.wikipedia.org/wiki/Shoreham_Beach"
+  },
+  {
+   "fact": "Fort completed June 1857; six 68-pounders; scheduled monument; NCI lookout",
+   "url": "https://en.wikipedia.org/wiki/Shoreham_Redoubt"
+  },
+  {
+   "fact": "Shoreham: breakwater, SW swell, N offshore, low tide, rocks",
+   "url": "https://www.surf-forecast.com/breaks/Shoreham"
+  }
+ ],
+ "checked": "October 2026"
+}

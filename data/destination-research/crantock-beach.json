@@ -1,0 +1,167 @@
+{
+ "overview": [
+  "Crantock is a wide stretch of golden sand owned by the National Trust, sitting just across the Gannel estuary from Newquay's Pentire Point East. Behind it are tall, constantly shifting dunes and the grassy plateau of Rushy Green, and to the south the beach runs out towards the West Pentire headland. It's only a short hop from Newquay, but with no town on the beach it feels far more open and wild.",
+  "The Gannel has a long working history. Ships used its mouth until the late 1800s, carrying cargo to and from creeks like Penpol, where you can still see old quays, steps and mooring rings at low tide. Over on the west side of the beach, Piper's Hole is a deep cleft where fulmars nest, and at low tide a cave holds carvings thought to date from the early 1900s.",
+  "The river is also the beach's biggest hazard. The National Trust warns that the Gannel creates dangerous currents at certain stages of the tide, and the lifeguards advise against swimming near the river flow. Quicksand has been reported by the river edge and at the West Pentire end, and the dune faces can leave sheer drops after bad weather. Check tide times before you go and use the main beach access path."
+ ],
+ "suits": [
+  "Surfers who want a big, open beach outside town",
+  "Families happy to stay inside the flags",
+  "Dog owners, as dogs are welcome all year",
+  "Walkers combining the beach with the coast path"
+ ],
+ "notFor": [
+  "Swimming or wading anywhere near the Gannel",
+  "Car-free day trips without some walking",
+  "Anyone needing level, firm access onto the sand"
+ ],
+ "surf": {
+  "text": [
+   "Crantock picks up westerly Atlantic swell and has fairly consistent surf through the year. Waves break both left and right, often around a sandbar shaped by the river mouth, which shifts and can throw up some hollow waves. Low tide is usually best. South-easterly winds are offshore, and the beach gets a little shelter from north-north-easterly winds. On bigger days, the cliffs at the southern end offer more forgiving lefts.",
+   "The river current is the thing to understand here. Surf guides warn of dangerous rips, and the Gannel can pull hard when the tide is moving. Stay well away from the river flow, surf inside the lifeguarded zones when they're running, and be aware that it gets busy when the waves are good. If you're new, go with an instructor who knows the beach."
+  ],
+  "cards": [
+   {
+    "label": "Level",
+    "title": "Improvers, or beginners with a school",
+    "text": "A good open beach on smaller days, but the river currents make it a poor choice for unsupervised beginners."
+   },
+   {
+    "label": "Hazards",
+    "title": "The Gannel and quicksand",
+    "text": "The National Trust warns of dangerous river currents at certain stages of the tide and reported quicksand by the river and towards West Pentire."
+   },
+   {
+    "label": "Also watch for",
+    "title": "Weever fish",
+    "text": "Common here, especially at low tide. The National Trust suggests beach or wetsuit shoes when you go in around low water."
+   }
+  ]
+ },
+ "practical": [
+  {
+   "label": "Parking",
+   "title": "National Trust car park",
+   "text": "The main Crantock beach car park has a 2.1 m height barrier, seasonal opening and closes overnight. It fills up on busy days. Pay machines need exact coins, and signal is patchy, so download a parking app beforehand if you plan to use one."
+  },
+  {
+   "label": "Facilities",
+   "title": "Car park basics",
+   "text": "Toilets and baby change in the car park, plus a kiosk that isn't run by the National Trust. Access to the sand is uneven and soft underfoot."
+  },
+  {
+   "label": "Lifeguards",
+   "title": "Seasonal RNLI cover",
+   "text": "The RNLI advises swimming only when lifeguards are on duty and between the flags. Check the RNLI site for this year's dates."
+  },
+  {
+   "label": "Dogs",
+   "title": "Welcome all year",
+   "text": "The National Trust welcomes dogs year-round under control, especially around other visitors and on Rushy Green."
+  },
+  {
+   "label": "Getting there",
+   "title": "Bus, foot or seasonal ferry",
+   "text": "Buses between Newquay and Truro stop in Crantock village, about half a mile from the beach. Newquay station is around four miles away. A small seasonal foot ferry crosses the Gannel, and the coast path runs through the car park."
+  }
+ ],
+ "faqs": [
+  {
+   "q": "Can you cross the Gannel to Newquay?",
+   "a": "Only by the seasonal ferry or tidal footbridges when the tide allows. The South West Coast Path warns that it's dangerous to wade or swim in the Gannel, so check tide times and never improvise a crossing."
+  },
+  {
+   "q": "Is Crantock good for beginners?",
+   "a": "On smaller days with an instructor, yes. The river creates dangerous currents at certain stages of the tide, so beginners shouldn't head out alone or anywhere near the Gannel."
+  },
+  {
+   "q": "Are dogs allowed on Crantock Beach?",
+   "a": "Yes, the National Trust welcomes dogs all year as long as they're kept under control."
+  },
+  {
+   "q": "Can you get to Crantock without a car?",
+   "a": "Yes. Buses between Newquay and Truro stop in Crantock village, about half a mile away, and in season a small foot ferry crosses the Gannel from Newquay."
+  }
+ ],
+ "sources": [
+  {
+   "label": "National Trust — Planning your visit to Crantock Beach and Holywell",
+   "url": "https://www.nationaltrust.org.uk/crantock-beach/features/planning-your-visit-to-crantock-beach-and-holywell"
+  },
+  {
+   "label": "National Trust — Safety at Crantock Beach",
+   "url": "https://nationaltrust.org.uk/visit/cornwall/crantock-beach/beach-safety-at-crantock-beach"
+  },
+  {
+   "label": "National Trust — Things to see and do at Crantock Beach",
+   "url": "https://nationaltrust.org.uk/visit/cornwall/crantock-beach/things-to-see-and-do-at-crantock-beach"
+  },
+  {
+   "label": "South West Coast Path — Newquay and Fistral from Crantock walk",
+   "url": "https://www.southwestcoastpath.org.uk/walksdb/726/printable/"
+  },
+  {
+   "label": "Surf-forecast — Crantock",
+   "url": "https://www.surf-forecast.com/breaks/Crantock"
+  },
+  {
+   "label": "The Surf Atlas — Newquay surf",
+   "url": "https://thesurfatlas.com/surfing-england/newquay-surf/"
+  }
+ ],
+ "factCheck": [
+  {
+   "fact": "Golden sand, dramatic dunes, Rushy Green behind the dunes, West Pentire to the south, Gannel important for birds",
+   "url": "https://www.nationaltrust.org.uk/crantock-beach/features/planning-your-visit-to-crantock-beach-and-holywell"
+  },
+  {
+   "fact": "2.1 m height barrier, seasonal opening, closed overnight, gets very busy, cash-only machines needing exact change, patchy signal, JustPark",
+   "url": "https://www.nationaltrust.org.uk/crantock-beach/features/planning-your-visit-to-crantock-beach-and-holywell"
+  },
+  {
+   "fact": "Toilets and baby change in car park; kiosk not run by National Trust; uneven, soft access",
+   "url": "https://www.nationaltrust.org.uk/crantock-beach/features/planning-your-visit-to-crantock-beach-and-holywell"
+  },
+  {
+   "fact": "Dogs welcome all year under control, especially around visitors and on Rushy Green",
+   "url": "https://www.nationaltrust.org.uk/crantock-beach/features/planning-your-visit-to-crantock-beach-and-holywell"
+  },
+  {
+   "fact": "Buses 85/85A Newquay–Truro stop in Crantock village about half a mile away; Newquay station about 4 miles; seasonal foot ferry; coast path through car park",
+   "url": "https://www.nationaltrust.org.uk/crantock-beach/features/planning-your-visit-to-crantock-beach-and-holywell"
+  },
+  {
+   "fact": "Gannel creates dangerous currents at certain stages of tide; lifeguards advise against swimming near river flow",
+   "url": "https://nationaltrust.org.uk/visit/cornwall/crantock-beach/beach-safety-at-crantock-beach"
+  },
+  {
+   "fact": "Quicksand reported near river edge and towards West Pentire; steep dune drops; use access at lower right corner of car park; weever fish common at low tide",
+   "url": "https://nationaltrust.org.uk/visit/cornwall/crantock-beach/beach-safety-at-crantock-beach"
+  },
+  {
+   "fact": "RNLI advise swimming only when lifeguards are on duty",
+   "url": "https://nationaltrust.org.uk/visit/cornwall/crantock-beach/beach-safety-at-crantock-beach"
+  },
+  {
+   "fact": "Gannel separates Crantock from Pentire Point East; shipping used it until late 19th century; Penpol quays, steps and mooring rings at low tide",
+   "url": "https://nationaltrust.org.uk/visit/cornwall/crantock-beach/things-to-see-and-do-at-crantock-beach"
+  },
+  {
+   "fact": "Piper's Hole: deep cleft on west side, fulmars nest; cave carvings thought to be by Joseph Prater in the early 1900s",
+   "url": "https://nationaltrust.org.uk/visit/cornwall/crantock-beach/things-to-see-and-do-at-crantock-beach"
+  },
+  {
+   "fact": "Dangerous to wade or swim in the Gannel; tidal footbridges and ferry crossings",
+   "url": "https://www.southwestcoastpath.org.uk/walksdb/726/printable/"
+  },
+  {
+   "fact": "River break, SE offshore, some shelter from NNE winds, best swell W, best around low tide, fairly consistent, lefts and rights, dangerous rips, crowded when working",
+   "url": "https://www.surf-forecast.com/breaks/Crantock"
+  },
+  {
+   "fact": "Shifting river-mouth sandbar can produce hollow waves; south side lefts in cliff shelter when big",
+   "url": "https://thesurfatlas.com/surfing-england/newquay-surf/"
+  }
+ ],
+ "checked": "October 2026"
+}

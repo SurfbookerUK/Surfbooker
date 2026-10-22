@@ -1,0 +1,22 @@
+{
+ "name": "The Brookfield",
+ "officialUrl": "https://www.thebrookfield.co.uk/",
+ "trading": true,
+ "stayType": "Boutique B&B in a Georgian house",
+ "accommodation": "Five en-suite rooms for up to 10 guests",
+ "suitableFor": "Couples and friends; not suitable for pets",
+ "parking": "Free private car park",
+ "dogs": "Pets not accepted",
+ "beachAccess": "Saunton Sands about 4 miles",
+ "boardStorage": "Secure storage for surfboards, bikes and golf bags; wetsuit drying",
+ "confirmedFeatures": "Breakfast included, free WiFi, guest drawing room, garden and conservatory, e-bike charging",
+ "overview": "A B&B in a Georgian house built in 1798 on South Street, about 400 metres from Braunton village centre and close to the Tarka Trail. Its five en-suite rooms sleep up to ten, breakfast is included and there is a free private car park.",
+ "surfTripFit": "Secure board storage and wetsuit drying are rare in a B&B, and Saunton is about four miles away.",
+ "sources": [
+  {
+   "label": "The Brookfield",
+   "url": "https://www.thebrookfield.co.uk/"
+  }
+ ],
+ "slug": "the-brookfield"
+}

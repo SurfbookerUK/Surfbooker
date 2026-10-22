@@ -1,0 +1,22 @@
+{
+ "name": "Commodore Hotel",
+ "officialUrl": "https://www.commodore-instow.co.uk/",
+ "trading": true,
+ "stayType": "Waterfront hotel with restaurant",
+ "accommodation": "Side and rear rooms, sea-facing rooms with balconies, and Marine Rooms",
+ "suitableFor": "Couples and travellers wanting a hotel with dining on site",
+ "parking": null,
+ "dogs": null,
+ "beachAccess": "Overlooks the Instow waterfront; sandy beaches nearby",
+ "boardStorage": null,
+ "confirmedFeatures": "Strandfield Grill restaurant, sea-facing balcony rooms, estuary views, Tarka Trail access",
+ "overview": "A hotel in Instow village looking out over the waterfront where the Taw and Torridge estuaries meet, with views across to Appledore. Rooms range from side and rear rooms to sea-facing rooms with balconies, and the Strandfield Grill restaurant serves local produce with estuary views.",
+ "surfTripFit": "A comfortable hotel base close to Instow's sands, with the Tarka Trail on hand and the Westward Ho!, Saunton and Croyde breaks within a short drive.",
+ "sources": [
+  {
+   "label": "Commodore Hotel",
+   "url": "https://www.commodore-instow.co.uk/"
+  }
+ ],
+ "slug": "commodore-hotel"
+}

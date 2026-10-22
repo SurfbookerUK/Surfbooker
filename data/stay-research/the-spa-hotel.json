@@ -1,0 +1,26 @@
+{
+ "name": "The Spa Hotel",
+ "officialUrl": "https://thespahotelsaltburn.co.uk/",
+ "trading": true,
+ "stayType": "Clifftop hotel",
+ "accommodation": "Rooms including sea-view family and twin rooms, plus self-catering units The Outlook and Treetops",
+ "suitableFor": "Couples, families, dog owners and surfers",
+ "parking": null,
+ "dogs": "Dogs welcome",
+ "beachAccess": "A stone's throw from Saltburn beach",
+ "boardStorage": null,
+ "confirmedFeatures": "Spa treatments, open-top terrace, all-day food, EV charging, luggage storage, event venue",
+ "overview": "A hotel on Saltburn Bank with wide views over Huntcliff and the sea, a stone's throw from the beach and pier. Many rooms face the sea, and there are also two self-catering units. Food is served all day, there is a terrace for warmer weather, and dogs and surfers are both welcomed.",
+ "surfTripFit": "You can see the break from the terrace and walk down to the beach in minutes.",
+ "sources": [
+  {
+   "label": "Official website",
+   "url": "https://thespahotelsaltburn.co.uk/"
+  },
+  {
+   "label": "Redcar & Cleveland",
+   "url": "https://redcarcleveland.co.uk/enjoy/the-spa-hotel"
+  }
+ ],
+ "slug": "the-spa-hotel"
+}

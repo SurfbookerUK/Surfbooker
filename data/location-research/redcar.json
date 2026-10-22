@@ -1,0 +1,122 @@
+{
+ "slug": "redcar",
+ "schools": [],
+ "hire": [],
+ "shops": [],
+ "lessonsIntro": "We have not confirmed a surf school that teaches in Redcar itself. The nearest schools are a few miles down the coast in Saltburn.",
+ "learn": {
+  "text": [
+   "Redcar has a long sandy seafront, but we could not find a surf school that teaches here on any official or business website. If you want to learn, the closest confirmed lessons are at Saltburn, where Saltburn Surf School and Flow Surf School both teach beginners on the gentler waves by the pier.",
+   "Redcar's breaks include reefs (scars) that are better known to experienced local surfers than to learners. Without a school or confirmed lifeguard information to go on, we suggest you take your first lessons at Saltburn and only surf Redcar once you can read the conditions yourself."
+  ],
+  "cards": [
+   {
+    "label": "Level",
+    "title": "Learn elsewhere first",
+    "text": "Book lessons at nearby Saltburn rather than starting here alone."
+   },
+   {
+    "label": "Best time",
+    "title": "With local advice",
+    "text": "We have no confirmed tide or season guidance for learners at Redcar."
+   },
+   {
+    "label": "Watch out for",
+    "title": "Rocky scars",
+    "text": "Parts of Redcar break over rock reefs; check with locals before paddling out."
+   }
+  ]
+ },
+ "hireIntro": "We have not confirmed surf hire in Redcar; Saltburn Surf School hires a full range a short drive away.",
+ "kit": {
+  "text": [
+   "The beaches on this stretch are mostly sandy beach breaks, so a long foam board is the right start, moving on to a hard mini-mal or longboard as you improve. Scarborough Surf School hires only 5/4mm wetsuits because the North Sea stays cold, and adds boots, gloves and hoods for the cooler months."
+  ],
+  "cards": [
+   {
+    "label": "Board",
+    "title": "Soft-top for learners",
+    "text": "Beginners should stick to a large foam board on sandy sections and leave the reefs to experienced surfers."
+   },
+   {
+    "label": "Wetsuit",
+    "title": "5/4mm most of the year",
+    "text": "North Sea water stays cool. Scarborough Surf School hires only 5/4mm suits and treats them as year-round wear, adding boots, gloves and a hood in the colder months."
+   },
+   {
+    "label": "Other craft",
+    "title": "Bodyboard on sand",
+    "text": "Bodyboarding is best kept to sandy, patrolled beaches; hire is available in Saltburn."
+   }
+  ]
+ },
+ "shopsIntro": "We could not confirm a surf shop in Redcar.",
+ "shopsText": [
+  "We have not found a surf shop in Redcar. Saltburn, a few miles south, has Drift Surf Shop and Saltburn Surf School, which sell boards, wetsuits and accessories, including second-hand kit."
+ ],
+ "faqs": {
+  "lessons": [
+   {
+    "q": "Can I have surf lessons in Redcar?",
+    "a": "We have not confirmed any. The nearest schools are in Saltburn."
+   },
+   {
+    "q": "Is Redcar good for beginners?",
+    "a": "We have no official guidance confirming it; learners are better served at Saltburn's beginner waves."
+   },
+   {
+    "q": "Which schools are nearest?",
+    "a": "Saltburn Surf School and Flow Surf School, both in Saltburn."
+   }
+  ],
+  "hire": [
+   {
+    "q": "Can I hire a surfboard in Redcar?",
+    "a": "Not that we could confirm. Saltburn Surf School hires boards and wetsuits."
+   },
+   {
+    "q": "What does Saltburn Surf School hire?",
+    "a": "Wetsuits, surfboards, bodyboards, SUPs and sit-on-top kayaks."
+   }
+  ],
+  "shops": [
+   {
+    "q": "Where is the nearest surf shop to Redcar?",
+    "a": "Saltburn, which has Drift Surf Shop and Saltburn Surf School."
+   }
+  ]
+ },
+ "sources": [
+  {
+   "label": "Living North: watersports on the North East coast",
+   "url": "https://www.livingnorth.com/article/where-try-watersports-north-east-coast"
+  },
+  {
+   "label": "Saltburn Surf School: hire",
+   "url": "https://www.saltburn-surf.co.uk/surf-hire/"
+  },
+  {
+   "label": "Drift Surf Shop",
+   "url": "https://driftsurfshop.co.uk/pages/coming-up-surf-lessons"
+  },
+  {
+   "label": "Scarborough Surf School: equipment hire",
+   "url": "https://scarboroughsurfschool.co.uk/equipment-hire/"
+  }
+ ],
+ "factCheck": [
+  {
+   "fact": "No provider listed in Redcar; Flow Surf School nearby in Saltburn",
+   "url": "https://www.livingnorth.com/article/where-try-watersports-north-east-coast"
+  },
+  {
+   "fact": "Saltburn Surf School hire range",
+   "url": "https://www.saltburn-surf.co.uk/surf-hire/"
+  },
+  {
+   "fact": "Scarborough Surf School hires 5/4mm wetsuits only, described as suitable year round, plus boots, gloves and hoods",
+   "url": "https://scarboroughsurfschool.co.uk/equipment-hire/"
+  }
+ ],
+ "gaps": "No Redcar surf businesses confirmed. RNLI Redcar page was checked in an earlier pass but details not recorded here; lifeguard season unconfirmed. 'Scars' reef reference is from surf forecast site titles only - treat as general."
+}

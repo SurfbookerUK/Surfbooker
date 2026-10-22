@@ -1,0 +1,127 @@
+{
+ "overview": [
+  "Melvich Bay sits where the River Halladale reaches the north coast of Sutherland. The name comes from the Norse for 'sand dune bay', and it fits: a short walk through marram grass dunes leads to golden sand, sheltered by the pier at Portskerra to the west and the cliffs below Rubha an Tuir to the east.",
+  "It's on the North Coast 500 but most of the year it's very quiet. Look out for salmon jumping at the river mouth and seals in the bay; the village a few minutes away has toilets, a café, a shop and an inn. The A897 from Helmsdale through the Strath of Kildonan ends here, joining the A836 coast road, and the village has a well-known Gaelic choir.",
+  "The river feeds a sandbar that produces lefts and rights. That same river creates currents that change with rainfall and tide, and there are rocks to watch for, so it's a beach for confident intermediates rather than first-timers. Look at the river and the banks from the dunes before you paddle out, and give the river mouth a wide berth if the water is high."
+ ],
+ "suits": [
+  "Confident intermediate surfers",
+  "North Coast 500 travellers wanting a quiet beach",
+  "Wildlife watchers — seals and salmon",
+  "Picnics and paddling on calm days"
+ ],
+ "notFor": [
+  "Beginners without instruction",
+  "Swimmers near the river mouth"
+ ],
+ "surf": {
+  "text": [
+   "Melvich is a river-mouth break with lefts and rights, picking up both local windswell and distant groundswell. North-west swell is ideal, and southerly winds blow offshore. Bigger swells may be needed to wrap fully into the bay.",
+   "It can work year-round, with autumn the strongest season and February often the best month. Water is cold, so bring a winter suit, hood, gloves and boots, and watch out for rocks.",
+   "Melvich is a river-mouth break with lefts and rights, best on a north-westerly swell with a southerly offshore. Watch out for rocks. It works all year, autumn best, and February can have clean waves a good share of the time."
+  ],
+  "cards": [
+   {
+    "label": "Level",
+    "title": "Intermediates",
+    "text": "Confident beginners only on small, clean days."
+   },
+   {
+    "label": "Hazards",
+    "title": "River rips and rocks",
+    "text": "Rip currents near the river change with rain and tide; there are rocks too."
+   },
+   {
+    "label": "Crowds",
+    "title": "Quiet",
+    "text": "Busier in NC500 season, but rarely crowded."
+   }
+  ]
+ },
+ "practical": [
+  {
+   "label": "Parking",
+   "title": "Small beach car park",
+   "text": "Down a signed track from the main road through the village, then a short walk through the dunes."
+  },
+  {
+   "label": "Facilities",
+   "title": "In the village",
+   "text": "Public toilets, a café, shop, post office and the Halladale Inn, a few minutes' walk away. No showers."
+  },
+  {
+   "label": "Lifeguards",
+   "title": "None",
+   "text": "Call 999 or 112 and ask for the Coastguard in an emergency."
+  },
+  {
+   "label": "Access",
+   "title": "Dunes and sand",
+   "text": "The dune path makes wheelchair access to the beach difficult."
+  },
+  {
+   "label": "Check first",
+   "title": "Recent rain",
+   "text": "Heavy rain changes the river flow and the bank."
+  }
+ ],
+ "faqs": [
+  {
+   "q": "Where do I park for Melvich beach?",
+   "a": "In the small car park down a signed track from the A836 through the village."
+  },
+  {
+   "q": "Is Melvich good for beginners?",
+   "a": "Not on your own. River currents and rocks make it better for confident intermediates."
+  },
+  {
+   "q": "What swell works?",
+   "a": "North-west swell with a southerly offshore wind."
+  },
+  {
+   "q": "What wildlife might I see?",
+   "a": "Seals in the bay and, sometimes, salmon jumping at the river mouth."
+  }
+ ],
+ "sources": [
+  {
+   "label": "Venture North: Melvich Beach",
+   "url": "https://www.venture-north.co.uk/listing/melvich-beach/"
+  },
+  {
+   "label": "Surf-forecast: Melvich",
+   "url": "https://www.surf-forecast.com/breaks/Melvich"
+  },
+  {
+   "label": "Wikipedia: Melvich",
+   "url": "https://en.wikipedia.org/wiki/Melvich"
+  }
+ ],
+ "factCheck": [
+  {
+   "fact": "Mouth of River Halladale; sheltered by Portskerra pier and cliffs below Rubha an Tuir; car park down signed track; walk through marram dunes",
+   "url": "https://www.venture-north.co.uk/listing/melvich-beach/"
+  },
+  {
+   "fact": "Village has toilets, café, shop, post office, Halladale Inn; rip currents near river; salmon and seals",
+   "url": "https://www.venture-north.co.uk/listing/melvich-beach/"
+  },
+  {
+   "fact": "River break, lefts and rights, NW swell, S offshore, rocks, autumn best, February, winter wetsuit",
+   "url": "https://www.surf-forecast.com/breaks/Melvich"
+  },
+  {
+   "fact": "Name from Norse Mel Vik 'sand dune bay'; on A836",
+   "url": "https://en.wikipedia.org/wiki/Melvich"
+  },
+  {
+   "fact": "A897 from Helmsdale via Strath of Kildonan ends at Melvich; Gaelic choir",
+   "url": "https://en.wikipedia.org/wiki/Melvich"
+  },
+  {
+   "fact": "Melvich: river mouth, NW swell, S offshore, rocks",
+   "url": "https://www.surf-forecast.com/breaks/Melvich"
+  }
+ ],
+ "checked": "October 2026"
+}

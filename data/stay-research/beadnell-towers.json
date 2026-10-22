@@ -1,0 +1,26 @@
+{
+ "name": "Beadnell Towers",
+ "officialUrl": "https://www.beadnelltowers.co.uk/",
+ "trading": true,
+ "stayType": "Boutique hotel and restaurant",
+ "accommodation": "22 individually designed bedrooms including Coach House rooms",
+ "suitableFor": "Couples, families and dog owners",
+ "parking": null,
+ "dogs": "Pet-friendly accommodation",
+ "beachAccess": "In Beadnell village, a short walk from the beach",
+ "boardStorage": null,
+ "confirmedFeatures": "Beadnell Kitchen restaurant, Beadnell Bar, private dining and functions",
+ "overview": "A boutique hotel in the middle of Beadnell village with 22 individually styled bedrooms, a restaurant serving local produce and a bar. Pet-friendly rooms are available. Beadnell Bay's long sweep of sand is a short walk from the door, and Seahouses is a few minutes along the coast.",
+ "surfTripFit": "Walkable to the bay with good food on site, it suits surfers who want comfort after a session.",
+ "sources": [
+  {
+   "label": "Official website",
+   "url": "https://www.beadnelltowers.co.uk/"
+  },
+  {
+   "label": "Visit Northumberland listing",
+   "url": "https://www.visitnorthumberland.com/explore/things-to-do/stay/inns/beadnell-towers"
+  }
+ ],
+ "slug": "beadnell-towers"
+}

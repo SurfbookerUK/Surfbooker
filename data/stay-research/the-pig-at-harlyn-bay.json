@@ -1,0 +1,26 @@
+{
+ "name": "The Pig at Harlyn Bay",
+ "officialUrl": "https://www.thepighotel.com/at-harlyn-bay/",
+ "trading": true,
+ "stayType": "Country house hotel",
+ "accommodation": "30 bedrooms in the main house and Stonehouse, including four Garden Wagons",
+ "suitableFor": "Couples and food-focused stays",
+ "parking": "Parking listed by Visit Cornwall",
+ "dogs": null,
+ "beachAccess": "A short stroll from Harlyn Beach and Constantine Bay beaches (Visit Cornwall)",
+ "boardStorage": null,
+ "confirmedFeatures": "Restaurant, bar, seasonal Lobster Shed, kitchen garden, Potting Shed treatments, lounges with open fires, WiFi",
+ "overview": "A characterful country house hotel at Harlyn Bay, a few minutes from Constantine Bay and about ten minutes' drive from Padstow. Rooms are spread between the main house, a stone courtyard building and four wagons in the gardens. The restaurant serves Cornish produce, much of it from the hotel's own kitchen garden.",
+ "surfTripFit": "Within easy reach of both Harlyn and Constantine Bay, so you can choose whichever beach is working best.",
+ "sources": [
+  {
+   "label": "Official website",
+   "url": "https://www.thepighotel.com/at-harlyn-bay/"
+  },
+  {
+   "label": "Visit Cornwall listing",
+   "url": "https://www.visitcornwall.com/accommodation/hotel/padstow/the-pig-at-harlyn-bay"
+  }
+ ],
+ "slug": "the-pig-at-harlyn-bay"
+}

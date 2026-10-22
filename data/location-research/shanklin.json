@@ -1,0 +1,152 @@
+{
+ "slug": "shanklin",
+ "schools": [
+  {
+   "name": "Wight Water Adventure Watersports",
+   "type": "Surf school",
+   "url": "https://wightwaters.com/",
+   "base": "Beachfront centre on Dunroamin Beach, Lake, between Shanklin and Sandown",
+   "note": "Surf lessons and SUP tuition for adults, children and schools, with equipment provided. Call to check session times.",
+   "source": "https://wightwaters.com/"
+  },
+  {
+   "name": "iSurf",
+   "type": "Surf school",
+   "url": "https://www.iowsurf.com/",
+   "base": "Based in Sandown, with a hut in Sandown for summer sessions; mobile around the island",
+   "note": "Group and private surf lessons for ages 8 and up, plus a summer club for kids. Boards and wetsuits are supplied.",
+   "source": "https://www.iowsurf.com/"
+  }
+ ],
+ "hire": [
+  {
+   "name": "Wight Water Adventure Watersports",
+   "type": "Board & wetsuit hire",
+   "url": "https://wightwaters.com/",
+   "base": "Dunroamin Beach, Lake, just north of Shanklin along the same bay",
+   "note": "Lists surf, bodyboard, paddleboard and kayak hire. Wetsuit hire isn't spelled out, so ask.",
+   "source": "https://wightwaters.com/"
+  }
+ ],
+ "shops": [],
+ "lessonsIntro": "Shanklin sits on Sandown Bay, and two schools teach close by: Wight Water at Lake and iSurf in Sandown.",
+ "learn": {
+  "text": [
+   "Shanklin is at the southern end of Sandown Bay, a long sandy beach on the island's east coast. Wightlink describes the bay as having gentle waves suited to beginners, with local surf schools working there. Wight Water runs surf and SUP lessons from its centre on Dunroamin Beach at Lake, just along from Shanklin, and iSurf runs summer sessions from its hut in Sandown.",
+   "The east coast needs the right swell, so surfable days are less frequent than at Compton Bay, but when it works it's a friendly place to start. Spring and summer tend to be calmer, which suits learning. Tides change the beach a lot, so check the forecast and go with a school if you're new. Both schools supply boards and wetsuits for lessons."
+  ],
+  "cards": [
+   {
+    "label": "Level",
+    "title": "Beginner-friendly",
+    "text": "Long, sandy bay with gentle waves, and two schools close by."
+   },
+   {
+    "label": "Best time",
+    "title": "Spring and summer",
+    "text": "Calmer seasons suit learning. Ask the schools which days are working."
+   },
+   {
+    "label": "Watch out for",
+    "title": "Changing tides",
+    "text": "Conditions vary with the tide; check with the school before you go."
+   }
+  ]
+ },
+ "hireIntro": "Wight Water, a short way along the bay at Lake, hires surfboards, bodyboards and paddleboards.",
+ "kit": {
+  "text": [
+   "Sandown Bay's waves are usually small and gentle, so a big foam board is the best way to learn, and both schools supply one with lessons. Improvers will get more rides on a longboard. On flat days the bay is good for paddleboarding, and Wight Water both hires boards and teaches SUP from its base at Lake."
+  ],
+  "cards": [
+   {
+    "label": "Board",
+    "title": "Foamie or longboard",
+    "text": "Volume helps with the bay's gentle waves."
+   },
+   {
+    "label": "Wetsuit",
+    "title": "Season-dependent",
+    "text": "We couldn't confirm a sea-temperature source for this stretch of coast. As a general rule on the English Channel, most people wear a 4/3mm in late spring and autumn and a 5/4mm with boots in winter; check with the school or shop before you go."
+   },
+   {
+    "label": "Other craft",
+    "title": "SUP and bodyboards",
+    "text": "Wight Water hires paddleboards and bodyboards, and teaches SUP."
+   }
+  ]
+ },
+ "shopsIntro": "We couldn't confirm a surf shop in Shanklin.",
+ "shopsText": [
+  "We couldn't confirm a currently trading surf hardware shop in Shanklin or Sandown. For kit, Wight Water at Lake hires boards, and both Wight Water and iSurf supply equipment for lessons. iSurf sells branded clothing online. If you want to buy a board or wetsuit, plan to do it before you cross to the island."
+ ],
+ "faqs": {
+  "lessons": [
+   {
+    "q": "Where can I take a surf lesson near Shanklin?",
+    "a": "Wight Water teaches from Dunroamin Beach at Lake, between Shanklin and Sandown, and iSurf runs sessions from Sandown."
+   },
+   {
+    "q": "Is Shanklin good for beginners?",
+    "a": "Wightlink says Sandown Bay has gentle waves suited to beginners, when there's swell."
+   },
+   {
+    "q": "How old do kids need to be?",
+    "a": "iSurf lists surf lessons and its summer club for ages 8 and up. Wight Water doesn't publish a minimum, so ask."
+   }
+  ],
+  "hire": [
+   {
+    "q": "Can I hire a surfboard near Shanklin?",
+    "a": "Yes, Wight Water at Lake lists surf, bodyboard and paddleboard hire."
+   },
+   {
+    "q": "Can I hire a paddleboard?",
+    "a": "Yes, Wight Water hires paddleboards and teaches SUP."
+   }
+  ],
+  "shops": [
+   {
+    "q": "Is there a surf shop in Shanklin?",
+    "a": "We couldn't confirm one. Wight Water handles hire nearby."
+   }
+  ]
+ },
+ "sources": [
+  {
+   "label": "Wight Water",
+   "url": "https://wightwaters.com/"
+  },
+  {
+   "label": "iSurf",
+   "url": "https://www.iowsurf.com/"
+  },
+  {
+   "label": "Wightlink: surfing",
+   "url": "https://www.wightlink.co.uk/things-to-do-on-the-isle-of-wight/watersports/surfing"
+  },
+  {
+   "label": "Visit Isle of Wight: SUP spots",
+   "url": "https://www.visitisleofwight.co.uk/blog/read/2024/04/a-paddle-board-paradise-exploring-5-sup-spots-on-the-isle-of-wight-b419"
+  }
+ ],
+ "factCheck": [
+  {
+   "fact": "Wight Water at Dunroamin Beach, Lake, between Shanklin and Sandown; surf lessons, SUP, surf/bodyboard/SUP/kayak hire",
+   "url": "https://wightwaters.com/"
+  },
+  {
+   "fact": "iSurf based in Sandown, hut in Sandown, ages 8+",
+   "url": "https://www.iowsurf.com/"
+  },
+  {
+   "fact": "Sandown Bay gentle waves suited to beginners, schools operate there",
+   "url": "https://www.wightlink.co.uk/things-to-do-on-the-isle-of-wight/watersports/surfing"
+  },
+  {
+   "fact": "Wight Water SUP lessons at Dunroamin Beach next to Shanklin",
+   "url": "https://www.visitisleofwight.co.uk/blog/read/2024/04/a-paddle-board-paradise-exploring-5-sup-spots-on-the-isle-of-wight-b419"
+  }
+ ],
+ "gaps": "Wightlink describes Sandown Bay rather than Shanklin beach specifically. Wetsuit hire and kids' minimum at Wight Water not confirmed. No surf shop, lifeguard or sea-temperature info confirmed."
+}

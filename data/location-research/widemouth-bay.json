@@ -1,0 +1,213 @@
+{
+ "slug": "widemouth-bay",
+ "schools": [
+  {
+   "name": "OA Surf Club",
+   "type": "Surf school",
+   "url": "https://oasurfclub.co.uk/",
+   "base": "Widemouth Bay car park (EX23 0AW), trailers opposite the lifeguard hut",
+   "note": "Two-hour group sessions daily plus private and bespoke lessons, with multi-session packages. Coaches are qualified beach lifeguards and the club is Surfing England accredited.",
+   "source": "https://oasurfclub.co.uk/surfing-lessons/"
+  },
+  {
+   "name": "Freewave Surf Academy",
+   "type": "Surf school",
+   "url": "https://freewavesurfacademy.co.uk/surfing-lessons-widemouth-bay/",
+   "base": "Widemouth Bay Beach car park, two trailers by the RNLI lifeguard station",
+   "note": "Small-group lessons of two to two and a half hours, plus private and large-group bookings. Group lessons are from age 8, and under-16s need an adult on the beach.",
+   "source": "https://freewavesurfacademy.co.uk/surfing-lessons-widemouth-bay/"
+  },
+  {
+   "name": "The Bude Surfing Experience",
+   "type": "Surf school",
+   "url": "https://www.budesurfingexperience.co.uk/",
+   "base": "Widemouth Bay car park",
+   "note": "Daily group and private lessons for individuals, families and groups, on the dog-free (in peak season) Blue Flag beach.",
+   "source": "https://www.budesurfingexperience.co.uk/contact"
+  }
+ ],
+ "hire": [
+  {
+   "name": "OA Surf Club",
+   "type": "Board & wetsuit hire",
+   "url": "https://oasurfclub.co.uk/",
+   "base": "Trailer in Widemouth Bay car park",
+   "note": "Surf hire from the trailer on the beach car park, with wetsuits and boards in all sizes. Ask at the trailer for what's available on the day.",
+   "source": "https://oasurfclub.co.uk/surfing-lessons/"
+  },
+  {
+   "name": "Zuma Jay",
+   "type": "Board & wetsuit hire",
+   "url": "https://zumajay.co.uk/",
+   "base": "20 Belle Vue Lane, Bude (Widemouth is about 3 miles south of Bude)",
+   "note": "Year-round hire of soft and hard boards, wetsuits, bodyboards, inflatable SUPs and boots, gloves and hoods. You can borrow a soft roof rack to get boards to Widemouth.",
+   "source": "https://www.zumajay.co.uk/blog/zuma-jay-premium-surf-hire-and-surfboard-demo-centre"
+  }
+ ],
+ "shops": [
+  {
+   "name": "Zuma Jay",
+   "type": "Surf shop",
+   "url": "https://zumajay.co.uk/",
+   "town": "Bude (about 3 miles north)",
+   "note": "Bude's main surf shop, selling boards for all levels including custom boards, wetsuits for all ages, bodyboards, SUPs and accessories, with board and wetsuit repairs.",
+   "source": "https://zumajay.co.uk/"
+  }
+ ],
+ "lessonsIntro": "Widemouth Bay is Bude's main learner beach, with surf schools working from trailers in the beach car park right next to the lifeguard station. You'll find group lessons running daily in season.",
+ "learn": {
+  "text": [
+   "Widemouth is a long, sandy bay facing straight into the Atlantic, about three miles south of Bude. Visit Cornwall describes it as a favourite spot for learning to surf and bodyboard, and OA Surf Club says the waves suit both beginners and more advanced surfers. Schools meet in the main beach car park opposite the RNLI hut, then walk you down to teach close to the patrolled area.",
+   "Large rocky outcrops sit at both ends of the bay, and the southern end around Black Rock is very rocky, with reefs showing at low tide. Lessons usually stay on the open sand away from the rocks. The RNLI asks swimmers and bodyboarders to stay between the red and yellow flags and to check tides before you go, and schools start with a safety briefing on the sand."
+  ],
+  "cards": [
+   {
+    "label": "Level",
+    "title": "Great for first-timers",
+    "text": "A long sandy beach with waves suited to beginners and improvers, and several schools based right on the car park."
+   },
+   {
+    "label": "Best time",
+    "title": "May to September with lifeguards",
+    "text": "RNLI lifeguards patrol from 10am to 6pm daily from early May to late September, plus Easter and October half term. Schools teach through the year, with boots, gloves and hoods in colder months."
+   },
+   {
+    "label": "Watch out for",
+    "title": "Rocks at both ends",
+    "text": "Rocky outcrops and reefs frame the bay, especially at the southern Black Rock end. Keep to the sandy middle and inside the flags."
+   }
+  ]
+ },
+ "hireIntro": "You can hire kit from the school trailers in the Widemouth car park, or pick up boards and wetsuits from Zuma Jay in Bude on your way down.",
+ "kit": {
+  "text": [
+   "Widemouth's open, sandy bay is ideal for a big soft-top while you learn, and schools include boards and wetsuits in lessons. Because it takes the full Atlantic swell it can get powerful, so improvers may want a mid-length or entry-level hard board from Bude. Sea temperatures here drop to around 8 to 9°C in early March and reach about 15 to 18°C in August."
+  ],
+  "cards": [
+   {
+    "label": "Board",
+    "title": "Soft-top first",
+    "text": "Use a large foam board in the white water. Step up to an entry-level hard board once you're catching unbroken waves."
+   },
+   {
+    "label": "Wetsuit",
+    "title": "3/2 or 4/3 in summer, 5/4 in winter",
+    "text": "Surf-forecast suggests a 4/3 or 3/2 with boots in August and a 5/4 or thicker with boots, gloves and a hood in early March. OA provides boots, gloves and hoods in colder months."
+   },
+   {
+    "label": "Other craft",
+    "title": "Bodyboards welcome",
+    "text": "Visit Cornwall describes Widemouth as good for learning to bodyboard. The RNLI asks bodyboarders to stay between the red and yellow flags."
+   }
+  ]
+ },
+ "shopsIntro": "There's no dedicated surf shop on the beach at Widemouth, so most people use the shop in Bude, about three miles north.",
+ "shopsText": [
+  "The nearest surf shop we could confirm is Zuma Jay on Belle Vue Lane in Bude, about three miles north of Widemouth. It sells boards for all levels, including Cornish-made custom boards, along with wetsuits, bodyboards, SUPs and accessories, and handles board and wetsuit repairs. At the beach itself, the school trailers in the car park handle hire."
+ ],
+ "faqs": {
+  "lessons": [
+   {
+    "q": "Where do surf lessons at Widemouth meet?",
+    "a": "OA Surf Club, Freewave Surf Academy and the Bude Surfing Experience all meet in the Widemouth Bay Beach car park (EX23 0AW), near the RNLI lifeguard station. Don't confuse it with the Black Rock car park further south."
+   },
+   {
+    "q": "What's the minimum age for lessons?",
+    "a": "Freewave Surf Academy takes children from 8 in group lessons and asks you to contact them about younger keen children. Under-16s need an adult on the beach."
+   },
+   {
+    "q": "What should I bring to a lesson?",
+    "a": "Just swimwear, a towel and sun cream. OA Surf Club provides boards and wetsuits in all sizes, plus boots, gloves and hoods in colder months."
+   }
+  ],
+  "hire": [
+   {
+    "q": "Can I hire a board at Widemouth Bay?",
+    "a": "OA Surf Club offers surf hire from its trailer in the beach car park. For a wider choice, Zuma Jay in Bude hires boards, wetsuits, bodyboards and SUPs all year."
+   },
+   {
+    "q": "Can I take hired kit from Bude to Widemouth?",
+    "a": "Yes. Zuma Jay lends a soft roof rack so you can take boards to any beach, including Widemouth."
+   }
+  ],
+  "shops": [
+   {
+    "q": "Is there a surf shop at Widemouth Bay?",
+    "a": "We couldn't confirm one at the beach. The nearest surf shop is Zuma Jay in Bude, about three miles north."
+   }
+  ]
+ },
+ "sources": [
+  {
+   "label": "OA Surf Club lessons",
+   "url": "https://oasurfclub.co.uk/surfing-lessons/"
+  },
+  {
+   "label": "Freewave Surf Academy",
+   "url": "https://freewavesurfacademy.co.uk/surfing-lessons-widemouth-bay/"
+  },
+  {
+   "label": "Bude Surfing Experience",
+   "url": "https://www.budesurfingexperience.co.uk/"
+  },
+  {
+   "label": "Bude Surfing Experience contact",
+   "url": "https://www.budesurfingexperience.co.uk/contact"
+  },
+  {
+   "label": "Visit Bude: OA Surf Club",
+   "url": "https://www.visitbude.info/things-to-do/surfing-with-oa-surf-club/"
+  },
+  {
+   "label": "Visit Bude: Freewave",
+   "url": "https://www.visitbude.info/things-to-do/surfing-with-freewave-surf-academy/"
+  },
+  {
+   "label": "Zuma Jay",
+   "url": "https://zumajay.co.uk/"
+  },
+  {
+   "label": "Zuma Jay hire",
+   "url": "https://www.zumajay.co.uk/blog/zuma-jay-premium-surf-hire-and-surfboard-demo-centre"
+  },
+  {
+   "label": "RNLI: Widemouth Beach",
+   "url": "https://rnli.org/find-my-nearest/lifeguarded-beaches/widemouth-beach"
+  },
+  {
+   "label": "Visit Cornwall: Widemouth Bay",
+   "url": "https://www.visitcornwall.com/things-to-do/beaches/widemouth-bay-beach"
+  },
+  {
+   "label": "Surf-forecast: Bude sea temperature",
+   "url": "https://www.surf-forecast.com/breaks/Crooklets_Bude/seatemp"
+  }
+ ],
+ "factCheck": [
+  {
+   "fact": "OA meets at Widemouth Bay car park opposite the lifeguard hut; surf hire from trailer; boots/gloves/hoods in colder months",
+   "url": "https://oasurfclub.co.uk/surfing-lessons/"
+  },
+  {
+   "fact": "Freewave group lessons from age 8; under-16s need adult on beach; trailers by RNLI station",
+   "url": "https://freewavesurfacademy.co.uk/surfing-lessons-widemouth-bay/"
+  },
+  {
+   "fact": "Bude Surfing Experience meets at Widemouth Bay car park",
+   "url": "https://www.budesurfingexperience.co.uk/contact"
+  },
+  {
+   "fact": "Rocky outcrops at either end, southern end very rocky; about 3 miles south of Bude; good for learning to surf or bodyboard",
+   "url": "https://www.visitcornwall.com/things-to-do/beaches/widemouth-bay-beach"
+  },
+  {
+   "fact": "Lifeguards 10am-6pm, daily 2 May to 27 September 2026; rocky reefs; stay between flags",
+   "url": "https://rnli.org/find-my-nearest/lifeguarded-beaches/widemouth-beach"
+  },
+  {
+   "fact": "Zuma Jay soft roof rack, year-round hire",
+   "url": "https://www.zumajay.co.uk/blog/zuma-jay-premium-surf-hire-and-surfboard-demo-centre"
+  }
+ ],
+ "gaps": "No surf shop confirmed at Widemouth itself. Freewave's site footer still says 2024, though the page was updated in December 2025. OA's separate hire details weren't on the lessons page. No school mentions adaptive surfing. No official source on rips or best tide at Widemouth."
+}

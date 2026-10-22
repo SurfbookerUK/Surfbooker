@@ -1,0 +1,26 @@
+{
+ "name": "Golden Sands Holiday Park",
+ "officialUrl": "https://www.northumbrianleisure.co.uk/our-parks/golden-sands/",
+ "trading": true,
+ "stayType": "Beachfront caravan park",
+ "accommodation": "Caravan holidays and short breaks, plus holiday homes for sale",
+ "suitableFor": "Families and dog owners",
+ "parking": null,
+ "dogs": "Described as suitable for dog owners",
+ "beachAccess": "Overlooks Cresswell Beach",
+ "boardStorage": null,
+ "confirmedFeatures": "Clubhouse with licensed bar, games room, play area, skate park, sports pitch, small gym, cycle hire, laundry, 12-month season",
+ "overview": "A beachfront park at Cresswell run by Northumbrian Leisure, overlooking the sand at the southern end of Druridge Bay. It offers caravan holidays and short breaks year-round, with a clubhouse bar, play area and small gym. The beach is right in front of the park.",
+ "surfTripFit": "Year-round stays overlooking the beach mean you can watch the bay and paddle out with little effort.",
+ "sources": [
+  {
+   "label": "Official website",
+   "url": "https://www.northumbrianleisure.co.uk/our-parks/golden-sands/"
+  },
+  {
+   "label": "Visit Northumberland listing",
+   "url": "https://www.visitnorthumberland.com/explore/things-to-do/stay/camping-sites/golden-sands-holiday-park"
+  }
+ ],
+ "slug": "golden-sands-holiday-park"
+}

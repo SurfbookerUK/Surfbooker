@@ -1,0 +1,128 @@
+{
+ "overview": [
+  "Polzeath sits on the north side of the Camel estuary mouth, about six miles north-west of Wadebridge in the parish of St Minver. The beach is wide and flat at low tide, but most of the sand is covered at high tide, and exceptionally high spring tides can even reach the car park at the top of the beach. Two streams, the Polzeath Brook and the Trenant Stream, run across the sand to the sea.",
+  "It has been a surfing village for a long time. Shops, cafés, pubs and surf hire line the seafront, and the old Methodist chapel has been the Tubestation, a church on Sundays and a surfers' café the rest of the week, since 2006. The RNLI describes it as a wide, flat beach with some shelter from the wind and good surf, and adds that it is often very crowded.",
+  "Walk north and the coast path leads past Pentireglaze, known as Baby Bay, and Slipper Point to Pentire Head, where Laurence Binyon wrote For the Fallen in 1914. Head south and the path follows the estuary to Daymer Bay. Look out for dolphins in the bay; the coast to the north is good for birdwatching, especially during migration. Walk the coast path at low tide and you'll see how far the bay really stretches."
+ ],
+ "suits": [
+  "Complete beginners and families",
+  "Longboarders on small, clean days",
+  "Park-once days with everything on foot",
+  "Walkers heading for Pentire Head"
+ ],
+ "notFor": [
+  "Quiet water around high tide in summer",
+  "Summer daytime dog walks",
+  "Anyone wanting a hollow, powerful wave"
+ ],
+ "surf": {
+  "text": [
+   "The bay faces west and the beach slopes gently, so waves tend to break slowly and roll through to the shallows, which is why it suits learners. Surf-forecast lists it as a beach and point break with lefts and rights, working best on a west-north-west groundswell with easterly offshore winds. It gets some shelter from north-west winds.",
+   "It is surfable through the tide, but the beach shrinks dramatically as the water comes in and the crowd gets squeezed into a smaller area. Surf-forecast warns of dangerous rips, and the rocky edges at each side need care. Banks shift, especially after winter storms; the 2014 storms built a sand bar that had gone by 2019.",
+   "Polzeath is a beach and point break with lefts and rights, and it works on a west-north-westerly swell with an easterly offshore, with some shelter from the north-west. It's surfable at all tides, which is why it's such a good learning beach, but watch out for dangerous rips and expect it to be crowded. Winter gives the most consistent clean waves."
+  ],
+  "cards": [
+   {
+    "label": "Level",
+    "title": "Classic learner beach",
+    "text": "Gentle, rolling waves on most days, plus a seasonal lifeguard patrol."
+   },
+   {
+    "label": "Best conditions",
+    "title": "WNW swell, east wind",
+    "text": "Easterlies are offshore and north-westerlies are partly sheltered."
+   },
+   {
+    "label": "Crowds",
+    "title": "Busiest at high tide",
+    "text": "The sand narrows fast as the tide rises — give lesson groups room and follow the zones."
+   }
+  ]
+ },
+ "practical": [
+  {
+   "label": "Parking",
+   "title": "Beach car park",
+   "text": "Cornwall Council's beach car park has a sand surface and tide-dependent capacity of up to about 260 spaces; very high spring tides can flood it."
+  },
+  {
+   "label": "Facilities",
+   "title": "Village on the beach",
+   "text": "Toilets, cafés, pubs, restaurants and surf shops are a short walk from the sand."
+  },
+  {
+   "label": "Lifeguards",
+   "title": "Seasonal RNLI patrol",
+   "text": "Surf between the black and white flags; swim between the red and yellow flags."
+  },
+  {
+   "label": "Dogs",
+   "title": "Summer daytime ban",
+   "text": "Cornwall Council prohibits dogs from 10am to 6pm between 15 May and 30 September."
+  },
+  {
+   "label": "Getting there",
+   "title": "Steep roads in",
+   "text": "Both roads into the village are steep and narrow in summer; the 96 bus also serves Polzeath."
+  }
+ ],
+ "faqs": [
+  {
+   "q": "Is Polzeath good for beginners?",
+   "a": "It's one of Cornwall's classic learner beaches, with gentle waves on most days and a seasonal lifeguard patrol. It does get very busy."
+  },
+  {
+   "q": "Can dogs go on Polzeath beach?",
+   "a": "Not between 10am and 6pm from 15 May to 30 September, under Cornwall Council's restrictions."
+  },
+  {
+   "q": "Can you park on the beach at Polzeath?",
+   "a": "Yes — the council beach car park has a sand surface. Its capacity depends on the tide, and the biggest spring tides can flood it."
+  },
+  {
+   "q": "Does the beach disappear at high tide?",
+   "a": "Most of the sand is covered at high tide, so plan longer beach days around low water."
+  }
+ ],
+ "sources": [
+  {
+   "label": "Cornwall Council — dogs on beaches",
+   "url": "https://www.cornwall.gov.uk/environment/animal-welfare-and-enforcement/dogs-on-beaches/"
+  },
+  {
+   "label": "Wikipedia — Polzeath",
+   "url": "https://en.wikipedia.org/wiki/Polzeath"
+  },
+  {
+   "label": "Surf-forecast — Polzeath",
+   "url": "https://www.surf-forecast.com/breaks/Polzeath"
+  },
+  {
+   "label": "The Beach Guide — Polzeath",
+   "url": "https://www.thebeachguide.co.uk/south-west-england/cornwall/polzeath.htm"
+  },
+  {
+   "label": "RNLI — lifeguarded beaches",
+   "url": "https://rnli.org/find-my-nearest/lifeguarded-beaches"
+  }
+ ],
+ "factCheck": [
+  {
+   "fact": "Dogs prohibited 15 May–30 Sep, 10am–6pm",
+   "url": "https://www.cornwall.gov.uk/environment/animal-welfare-and-enforcement/dogs-on-beaches/"
+  },
+  {
+   "fact": "6 miles NW of Wadebridge; sand mostly covered at high tide; streams; Tubestation; Binyon; dolphins; 2014 sand bar; steep roads",
+   "url": "https://en.wikipedia.org/wiki/Polzeath"
+  },
+  {
+   "fact": "Beach and point break; WNW swell, east wind; rips; crowds",
+   "url": "https://www.surf-forecast.com/breaks/Polzeath"
+  },
+  {
+   "fact": "Polzeath: beach and point, WNW swell, E offshore, all tides, rips, crowded",
+   "url": "https://www.surf-forecast.com/breaks/Polzeath"
+  }
+ ],
+ "checked": "October 2026"
+}

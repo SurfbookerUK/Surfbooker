@@ -1,0 +1,156 @@
+{
+ "overview": [
+  "Sandsend is the small village at the north-western end of the long sands from Whitby, sitting at the foot of Lythe Bank. Two streams, Sandsend Beck and East Row Beck, run down through Mulgrave Woods and out across the sand. The two hamlets of Sandsend and East Row grew together when cottages were built for workers in the local alum industry.",
+  "The coastal railway between Whitby and Middlesbrough once ran through here on high viaducts over the becks, and the Cleveland Way now follows the old line north out of the village. The RNLI describes it as a small, picturesque beach on Yorkshire's heritage coast, popular with fossil hunters and anglers, with the cliffs giving some shelter.",
+  "For surfers, the appeal is a friendly beach break that the National Park lists among the good spots for beginners, with cafés, a shop and a pub close to the sand and lifeguards in high summer. It's also handy as a quieter alternative to Whitby when West Cliff is busy, and you can walk back along the sands to Whitby when the tide allows."
+ ],
+ "suits": [
+  "Beginners",
+  "Families wanting a smaller village beach",
+  "A quieter alternative to Whitby's West Cliff",
+  "Fossil hunters and walkers"
+ ],
+ "notFor": [
+  "Experienced surfers looking for power",
+  "Dog walkers wanting the southern beach near the village in summer"
+ ],
+ "surf": {
+  "text": [
+   "Sandsend is a sandy beach break. Surf-forecast calls it reasonably exposed with quite reliable surf, best on a north-north-east swell with westerly offshore winds, and surfable at all stages of the tide. That consistency, plus the gentle sand, is why the National Park recommends it for beginners.",
+   "Surf-forecast also says it's often crowded when there's a wave, so give learners space. Lifeguard cover here is more limited than in Whitby outside the school holidays, so check the RNLI dates before you paddle out.",
+   "Sandsend is the punchy one. The sand shifts, so the waves can be hollow and powerful over the banks and it picks up north swell well, from around two feet to ten. A south-westerly wind is offshore and it works on most tides, rising being a touch better. When it fires it fills up quickly, and it gets busy through the warmer months. Round the headland at the Caves there's a point break for experienced surfers on a north swell with a westerly wind, with rocks to respect."
+  ],
+  "cards": [
+   {
+    "label": "Level",
+    "title": "Beginners",
+    "text": "The National Park lists Sandsend among the good beginner beach breaks."
+   },
+   {
+    "label": "Conditions",
+    "title": "NNE swell, westerly wind",
+    "text": "Surf-forecast rates north-north-east swell with west winds best; works at all tides."
+   },
+   {
+    "label": "Hazards",
+    "title": "Becks and tide",
+    "text": "Two becks cross the beach, and the walk along the sands to Whitby depends on the tide."
+   }
+  ]
+ },
+ "practical": [
+  {
+   "label": "Lifeguards",
+   "title": "RNLI, 10am–6pm",
+   "text": "In 2026 the RNLI covered weekends from 2 to 17 May, daily over May half term (23–31 May), weekends only from 6 June to 5 July, and daily from 11 July to 6 September."
+  },
+  {
+   "label": "Dogs",
+   "title": "Partly banned 1 May–30 Sep",
+   "text": "Dogs are banned from the beach between the steps below the public toilets at Sandhills and the slipway at the south end of Bank Bottom car park, every year from 1 May to 30 September."
+  },
+  {
+   "label": "Facilities",
+   "title": "In the village",
+   "text": "The council lists a café, toilets, a shop and a nearby pub."
+  },
+  {
+   "label": "Walks",
+   "title": "Cleveland Way",
+   "text": "The Cleveland Way runs through the village and follows the old railway line north towards Runswick Bay, five miles away."
+  },
+  {
+   "label": "Getting here",
+   "title": "A174",
+   "text": "Sandsend is on the A174 coast road just north of Whitby; parking is in the village and at Lythe Bank."
+  },
+  {
+   "label": "Parking",
+   "title": "Roadside and pay car park",
+   "text": "There is roadside parking along the beach and a pay car park at the north end."
+  }
+ ],
+ "faqs": [
+  {
+   "q": "Is Sandsend good for beginners?",
+   "a": "Yes. The North York Moors National Park lists Sandsend as having good beach breaks for beginners, and surf-forecast describes the surf as quite reliable at all stages of the tide."
+  },
+  {
+   "q": "When is Sandsend lifeguarded?",
+   "a": "In 2026, daily from 11 July to 6 September, plus weekends in May and June and daily over May half term, 10am to 6pm."
+  },
+  {
+   "q": "Can I bring my dog?",
+   "a": "Yes, except on the section between the Sandhills toilet steps and the Bank Bottom car park slipway from 1 May to 30 September."
+  },
+  {
+   "q": "Can I walk from Whitby to Sandsend?",
+   "a": "Yes, along the sands from West Cliff Beach — check tide times first."
+  }
+ ],
+ "sources": [
+  {
+   "label": "RNLI — Sandsend Beach",
+   "url": "https://rnli.org/find-my-nearest/lifeguarded-beaches/whitby-sandsend-beach"
+  },
+  {
+   "label": "North York Moors National Park — surfing and paddle boarding",
+   "url": "https://www.northyorkmoors.org.uk/things-to-do/coast/surfing-and-paddle-boarding"
+  },
+  {
+   "label": "North Yorkshire Council — Sandsend Beach",
+   "url": "https://www.northyorks.gov.uk/leisure-tourism-and-culture/beaches/beach-locations/beach-locations/sandsend-beach"
+  },
+  {
+   "label": "North Yorkshire Council — dog control PSPO 2024",
+   "url": "https://www.northyorks.gov.uk/environment-and-neighbourhoods/animals/dogs/dog-walking-bans-scarborough-area/dog-control-public-spaces-protection-order-2024"
+  },
+  {
+   "label": "Surf-forecast — Sandsend Bay",
+   "url": "https://www.surf-forecast.com/breaks/Sandsend-Bay"
+  },
+  {
+   "label": "Wikipedia — Sandsend",
+   "url": "https://en.wikipedia.org/wiki/Sandsend"
+  },
+  {
+   "label": "North York Moors National Park — Runswick Bay",
+   "url": "https://www.northyorkmoors.org.uk/places-to-go/runswick-bay"
+  }
+ ],
+ "factCheck": [
+  {
+   "fact": "Foot of Lythe Bank; café, toilets, shop, pub nearby",
+   "url": "https://www.northyorks.gov.uk/leisure-tourism-and-culture/beaches/beach-locations/beach-locations/sandsend-beach"
+  },
+  {
+   "fact": "Sandsend Beck and East Row Beck; alum workers' cottages; railway viaducts 1855–1958; Cleveland Way follows old line",
+   "url": "https://en.wikipedia.org/wiki/Sandsend"
+  },
+  {
+   "fact": "Small picturesque beach, heritage coast, fossils, anglers, cliffs shelter; 2026 patrol schedule",
+   "url": "https://rnli.org/find-my-nearest/lifeguarded-beaches/whitby-sandsend-beach"
+  },
+  {
+   "fact": "Good beach breaks for beginners",
+   "url": "https://www.northyorkmoors.org.uk/things-to-do/coast/surfing-and-paddle-boarding"
+  },
+  {
+   "fact": "Beach break, reliable, NNE swell, W wind, all tides, often crowded",
+   "url": "https://www.surf-forecast.com/breaks/Sandsend-Bay"
+  },
+  {
+   "fact": "Dog ban zone Sandhills steps to Bank Bottom slipway",
+   "url": "https://www.northyorks.gov.uk/environment-and-neighbourhoods/animals/dogs/dog-walking-bans-scarborough-area/dog-control-public-spaces-protection-order-2024"
+  },
+  {
+   "fact": "Runswick 5 miles from Sandsend",
+   "url": "https://www.northyorkmoors.org.uk/places-to-go/runswick-bay"
+  },
+  {
+   "fact": "Sandsend: N swell, SW offshore, Caves point nearby",
+   "url": "https://www.surfnerd.com/surf-forecast/sandsend"
+  }
+ ],
+ "checked": "October 2026"
+}

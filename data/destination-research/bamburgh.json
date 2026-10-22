@@ -1,0 +1,119 @@
+{
+ "overview": [
+  "Bamburgh's beach runs for miles beneath the castle, a broad sweep of pale sand with the Bamburgh Dunes behind it and the Farne Islands out to sea. The dunes are a Site of Special Scientific Interest and the whole stretch lies within the Northumberland Coast Area of Outstanding Natural Beauty, so it feels far wilder than its fame suggests.",
+  "The castle on its rock has a long story: the site was an Anglo-Saxon fort before the Normans built on it, and it's first mentioned in writing in 547. In the village, St Aidan's church stands where Aidan built a wooden church in 635, and Grace Darling, the Victorian lifeboat heroine, is buried in its churchyard, with a museum opposite.",
+  "For surfers, Bamburgh is one of the most consistent and scenic breaks on this coast. The sand slopes gently, which suits a wide range of abilities, and surf schools meet at the North Car Park in spring, summer and autumn. There are no lifeguards, though, so come prepared."
+ ],
+ "suits": [
+  "Mixed-ability groups on smaller days",
+  "Scenic surf trips with castle views",
+  "Learners with a seasonal school",
+  "Dog walkers year-round"
+ ],
+ "notFor": [
+  "Anyone who needs lifeguard cover",
+  "Big-town facilities on the beach"
+ ],
+ "surf": {
+  "text": [
+   "Bamburgh faces the North Sea and needs swell from the north or east to work. A rocky outcrop at the north end of the beach produces good left-handers on a northerly swell, while the main stretch offers sandy peaks with a gradual slope. Westerly winds blow offshore.",
+   "Bamburgh's local surfing guide warns that rip currents form in bigger surf. With no lifeguards, it's worth knowing the RNLI's rip-current advice before you go, and if you or anyone else gets into difficulty, call 999 and ask for the Coastguard.",
+   "Bamburgh is forgiving and versatile, with a castle backdrop and resident seals. Beach break peaks work on a north-east swell between about two and six feet with a south-westerly offshore wind, and a reef north of the castle can serve up fun lefts. Autumn to February is the season, and summer is often flat. Rips form once the waves get above waist high, and the lineup is quiet and welcoming. Car parks sit north and south of the castle behind the dunes."
+  ],
+  "cards": [
+   {
+    "label": "Level",
+    "title": "All levels",
+    "text": "The gentle sandy slope suits learners on small days; the north-end left suits better surfers."
+   },
+   {
+    "label": "Hazards",
+    "title": "Rips in bigger surf",
+    "text": "No lifeguards. Call 999 and ask for the Coastguard in an emergency."
+   },
+   {
+    "label": "Season",
+    "title": "Autumn to spring",
+    "text": "North Sea swell is most reliable outside summer; summer is often small but good for lessons."
+   }
+  ]
+ },
+ "practical": [
+  {
+   "label": "Parking",
+   "title": "North Car Park",
+   "text": "On The Wynding, the main meeting point for surf schools, with a short walk through the dunes to the beach."
+  },
+  {
+   "label": "Lifeguards",
+   "title": "None",
+   "text": "Bamburgh isn't RNLI-lifeguarded."
+  },
+  {
+   "label": "Dogs",
+   "title": "Year-round",
+   "text": "Northumberland's beaches have no seasonal dog ban. Keep dogs under control near nesting birds in the dunes."
+  },
+  {
+   "label": "Facilities",
+   "title": "In the village",
+   "text": "Toilets, cafés and pubs are in Bamburgh village rather than on the beach."
+  },
+  {
+   "label": "Wildlife",
+   "title": "Protected dunes",
+   "text": "The Bamburgh Dunes are a Site of Special Scientific Interest, so stick to the paths through them."
+  }
+ ],
+ "faqs": [
+  {
+   "q": "Is Bamburgh good for surfing?",
+   "a": "Yes. It's one of Northumberland's most consistent breaks, with a gentle sandy slope and lefts off the rocks at the north end on a northerly swell."
+  },
+  {
+   "q": "Is Bamburgh beach lifeguarded?",
+   "a": "No. Call 999 and ask for the Coastguard if anyone gets into difficulty."
+  },
+  {
+   "q": "Where do surfers park at Bamburgh?",
+   "a": "The North Car Park on The Wynding, a short walk through the dunes."
+  },
+  {
+   "q": "Can I take my dog on Bamburgh beach?",
+   "a": "Yes, year-round. Keep it under control near nesting birds."
+  }
+ ],
+ "sources": [
+  {
+   "label": "Bamburgh.org.uk — surfing",
+   "url": "https://www.bamburgh.org.uk/sport-and-leisure/surfing/"
+  },
+  {
+   "label": "Wikipedia — Bamburgh",
+   "url": "https://en.wikipedia.org/wiki/Bamburgh"
+  },
+  {
+   "label": "NewcastleWorld — North East beach dog rules",
+   "url": "https://www.newcastleworld.com/lifestyle/outdoors/when-does-the-annual-dog-beach-ban-begin-and-which-north-tyneside-northumberland-sites-can-dogs-be-walked-on-3626368"
+  }
+ ],
+ "factCheck": [
+  {
+   "fact": "Consistent break; all abilities; north-end lefts on northerly swell; rips in bigger surf; North Car Park on The Wynding; schools spring–autumn",
+   "url": "https://www.bamburgh.org.uk/sport-and-leisure/surfing/"
+  },
+  {
+   "fact": "Castle on Anglo-Saxon fort site, first mentioned 547; St Aidan 635; Grace Darling buried, museum opposite; dunes SSSI; within AONB",
+   "url": "https://en.wikipedia.org/wiki/Bamburgh"
+  },
+  {
+   "fact": "No seasonal dog ban in Northumberland (kept from current data; not re-opened)",
+   "url": "https://www.newcastleworld.com/lifestyle/outdoors/when-does-the-annual-dog-beach-ban-begin-and-which-north-tyneside-northumberland-sites-can-dogs-be-walked-on-3626368"
+  },
+  {
+   "fact": "Bamburgh: NE swell, SW offshore, reef lefts, rips",
+   "url": "https://www.surfnerd.com/surf-forecast/bamburgh"
+  }
+ ],
+ "checked": "October 2026"
+}

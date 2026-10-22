@@ -1,0 +1,22 @@
+{
+ "name": "The Pentland Hotel",
+ "officialUrl": "https://www.pentlandhotel.co.uk/",
+ "trading": true,
+ "stayType": "Town-centre hotel",
+ "accommodation": "Hotel rooms and bed and breakfast (room count not stated)",
+ "suitableFor": "Travellers wanting a central hotel with bar and restaurant",
+ "parking": null,
+ "dogs": null,
+ "beachAccess": null,
+ "boardStorage": null,
+ "confirmedFeatures": "Restaurant, bar, two lounges, night porter, early continental breakfast",
+ "overview": "The Pentland Hotel is on Princes Street in the centre of Thurso, close to shops and public transport. It offers rooms on a bed-and-breakfast basis, with a restaurant and bar, two lounges and a night porter. Early risers can have a continental breakfast.",
+ "surfTripFit": "Its central position keeps the river-mouth reef at Thurso East within easy reach, and the early breakfast suits dawn sessions.",
+ "sources": [
+  {
+   "label": "Pentland Hotel official site",
+   "url": "https://www.pentlandhotel.co.uk/"
+  }
+ ],
+ "slug": "the-pentland-hotel"
+}

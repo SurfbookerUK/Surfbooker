@@ -1,0 +1,22 @@
+{
+ "slug": "the-porthtowan-eco-park",
+ "officialUrl": null,
+ "trading": "unclear",
+ "stayType": null,
+ "accommodation": null,
+ "suitableFor": null,
+ "parking": null,
+ "dogs": null,
+ "beachAccess": null,
+ "boardStorage": null,
+ "confirmedFeatures": null,
+ "overview": null,
+ "surfTripFit": null,
+ "sources": [
+  {
+   "label": "Quirky Campers",
+   "url": "https://www.quirkycampers.com/uk/campsites/campsite/the-eco-park/"
+  }
+ ],
+ "gaps": "Appears to be the same business as Mount Pleasant Eco Park (listed as 'The Eco Park', Porthtowan). Likely duplicate - consider merging with mount-pleasant-eco-park."
+}

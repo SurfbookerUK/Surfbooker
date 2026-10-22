@@ -1,0 +1,189 @@
+{
+ "slug": "broad-haven",
+ "schools": [
+  {
+   "name": "Pembrokeshire Surf School",
+   "type": "Surf school",
+   "url": "https://pembrokeshiresurfschool.co.uk/",
+   "base": "Keeston, near Haverfordwest; beach chosen the evening before from the forecast",
+   "note": "Names Broad Haven as one of its teaching beaches, best around mid to high tide. Beginner/improver lessons, one-to-one and small-group coaching, minimum age 8.",
+   "source": "https://pembrokeshiresurfschool.co.uk/learn-to-surf/"
+  },
+  {
+   "name": "Blue Horizons",
+   "type": "Surf school",
+   "url": "https://bluehorizonssurfclub.co.uk/",
+   "base": "South Pembrokeshire; meets you at the beach with the best conditions on the day",
+   "note": "Non-profit surf school offering beginner and intermediate lessons plus adaptive surfing with seated boards, beach wheelchairs and specialist instructors. Broad Haven is one of the beaches it uses.",
+   "source": "https://bluehorizonssurfclub.co.uk/"
+  }
+ ],
+ "hire": [
+  {
+   "name": "Haven Sports",
+   "type": "Board & wetsuit hire",
+   "url": "http://www.havensports.co.uk/",
+   "base": "Marine Road, on the Broad Haven seafront",
+   "note": "The RNLI says surfboards, paddleboards, kayaks and wetsuits can be hired from the watersports shop near the seafront. Haven Sports' own site doesn't list hire, so ring the shop to check what's available.",
+   "source": "https://rnli.org/find-my-nearest/lifeguarded-beaches/broad-haven-beach"
+  }
+ ],
+ "shops": [
+  {
+   "name": "Haven Sports",
+   "type": "Surf shop",
+   "url": "http://www.havensports.co.uk/",
+   "town": "Broad Haven",
+   "note": "Seafront watersports shop selling wetsuits for all ages, surfboards, bodyboards, paddleboards, accessories and surfwear. Open seven days a week.",
+   "source": "http://www.havensports.co.uk/"
+  }
+ ],
+ "lessonsIntro": "Broad Haven is a wide, family-friendly sandy bay in St Brides Bay, and local schools bring lessons here when the swell and tide line up.",
+ "learn": {
+  "text": [
+   "Broad Haven North is a large, west-facing sandy beach with a Blue Flag, known for safe bathing and popular with families. Surfers and windsurfers use it when conditions are right, and schools that move between beaches pick it on suitable days. Pembrokeshire Surf School says Broad Haven tends to be best from mid to high tide, so lessons are usually timed around that.",
+   "RNLI lifeguards patrol daily in the summer holidays, from 4 July to 6 September in 2026, 10am to 6pm; swim and bodyboard between the red and yellow flags. The National Park warns that it's easy to get stranded by the tide around the rocks at the northern end, such as Den's Door and the Sleek Stone, so check tide times before exploring. Dogs are restricted on the north of the beach in summer."
+  ],
+  "cards": [
+   {
+    "label": "Level",
+    "title": "Beginner friendly",
+    "text": "A wide sandy bay with a reputation for safe bathing. Visit Pembrokeshire describes it as suitable for beginners as well as experienced surfers."
+   },
+   {
+    "label": "Best time",
+    "title": "Mid to high tide",
+    "text": "Local coaching advice is that Broad Haven works best from mid to high tide. Lifeguards are on duty daily through July and August."
+   },
+   {
+    "label": "Watch out for",
+    "title": "Tide around the northern rocks",
+    "text": "The National Park warns it's easy to get cut off by the tide near Den's Door and the Sleek Stone at the north end."
+   }
+  ]
+ },
+ "hireIntro": "Kit hire in Broad Haven is from the watersports shop on the seafront, a short walk from the sand.",
+ "kit": {
+  "text": [
+   "Broad Haven usually has gentler, smaller surf than the more exposed beaches, so a large soft-top is the best board for learning and a longer board helps improvers catch more waves. You'll need a full wetsuit all year, with boots, gloves and a hood in the colder months. On flat days the bay is good for paddleboarding and kayaking, and bodyboarding works well inside the flagged area."
+  ],
+  "cards": [
+   {
+    "label": "Board",
+    "title": "Big soft-top or longboard",
+    "text": "Pick a wide, buoyant board while you're learning. Improvers can move to a mid-length or longboard to make the most of smaller waves."
+   },
+   {
+    "label": "Wetsuit",
+    "title": "4/3mm in summer, 5mm or more in winter",
+    "text": "Sea temperature data for the south Pembrokeshire coast suggests a 4/3 or 3/2 in mid-August and a 5/4 or thicker with boots, gloves and a hood around late February, when the water drops to roughly 7 to 9°C. Spring and autumn sit in between."
+   },
+   {
+    "label": "Other craft",
+    "title": "SUP, kayak and bodyboard",
+    "text": "The RNLI notes paddleboard and kayak hire near the seafront. Bodyboarders should stay between the red and yellow flags when lifeguards are on."
+   }
+  ]
+ },
+ "shopsIntro": "Broad Haven has a long-established watersports shop right on the seafront.",
+ "shopsText": [
+  "Haven Sports is on Marine Road, along the seafront behind the beach. It stocks wetsuits for children and adults, surfboards, bodyboards, paddleboards, windsurf kit, accessories and surfwear, and opens seven days a week. There's also a village shop and post office near the southern slipway car park for snacks and essentials. Newsurf at Newgale is the next surf shop north along the bay."
+ ],
+ "faqs": {
+  "lessons": [
+   {
+    "q": "Can you take surf lessons at Broad Haven?",
+    "a": "Yes. Pembrokeshire Surf School and Blue Horizons both use Broad Haven, choosing it on days when the swell and tide suit. You'll be told the beach the day before or on the day."
+   },
+   {
+    "q": "When is Broad Haven best for learning?",
+    "a": "Pembrokeshire Surf School says mid to high tide is best here. In summer, lifeguards patrol daily from early July to early September."
+   },
+   {
+    "q": "Are there adaptive surf lessons near Broad Haven?",
+    "a": "Blue Horizons offers adaptive lessons with seated boards, boards with handles and beach wheelchairs, and uses Broad Haven among other beaches. Contact them to check which beach suits."
+   }
+  ],
+  "hire": [
+   {
+    "q": "Can I hire a surfboard in Broad Haven?",
+    "a": "The RNLI says surfboards, paddleboards, kayaks and wetsuits can be hired from the watersports shop near the seafront. Call Haven Sports to check current hire."
+   },
+   {
+    "q": "Is hire suitable for complete beginners?",
+    "a": "Broad Haven is a gentle beach, but if you've never surfed, a lesson first is the safer option. If you hire, stay between the flags while lifeguards are on duty."
+   }
+  ],
+  "shops": [
+   {
+    "q": "Is there a surf shop in Broad Haven?",
+    "a": "Yes. Haven Sports on Marine Road sells wetsuits, surfboards, bodyboards, paddleboards and accessories, and opens seven days a week."
+   }
+  ]
+ },
+ "sources": [
+  {
+   "label": "Haven Sports",
+   "url": "http://www.havensports.co.uk/"
+  },
+  {
+   "label": "Visit Pembrokeshire: Haven Sports",
+   "url": "https://www.visitpembrokeshire.com/activity-listing/haven-sports"
+  },
+  {
+   "label": "RNLI: Broad Haven",
+   "url": "https://rnli.org/find-my-nearest/lifeguarded-beaches/broad-haven-beach"
+  },
+  {
+   "label": "Pembrokeshire Coast National Park: Broad Haven North",
+   "url": "https://www.pembrokeshirecoast.wales/things-to-do/outdoor-activities/beaches/find-a-beach/broad-haven-north/"
+  },
+  {
+   "label": "Pembrokeshire Surf School: learn to surf",
+   "url": "https://pembrokeshiresurfschool.co.uk/learn-to-surf/"
+  },
+  {
+   "label": "Blue Horizons",
+   "url": "https://bluehorizonssurfclub.co.uk/"
+  },
+  {
+   "label": "Visit Pembrokeshire: Blue Horizons",
+   "url": "https://www.visitpembrokeshire.com/activity-listing/surfing-for-everyone"
+  },
+  {
+   "label": "Visit Pembrokeshire: surfing",
+   "url": "https://www.visitpembrokeshire.com/activities-and-attractions/surfing"
+  },
+  {
+   "label": "Surf-forecast: sea temperature",
+   "url": "https://www.surf-forecast.com/breaks/Manorbier/seatemp"
+  }
+ ],
+ "factCheck": [
+  {
+   "fact": "Haven Sports, Marine Road, sells wetsuits, surfboards, bodyboards, paddleboards, accessories; open 7 days",
+   "url": "http://www.havensports.co.uk/"
+  },
+  {
+   "fact": "Surfboards, paddleboards, kayaks and wetsuits can be hired from a watersports shop near the seafront; lifeguards 4 July to 6 September 2026",
+   "url": "https://rnli.org/find-my-nearest/lifeguarded-beaches/broad-haven-beach"
+  },
+  {
+   "fact": "Easy to get stranded by tide near Den's Door and Sleek Stone; shop and post office near southern car park; dogs restricted north end",
+   "url": "https://www.pembrokeshirecoast.wales/things-to-do/outdoor-activities/beaches/find-a-beach/broad-haven-north/"
+  },
+  {
+   "fact": "Broadhaven best at mid to high tide; min age 8",
+   "url": "https://pembrokeshiresurfschool.co.uk/learn-to-surf/"
+  },
+  {
+   "fact": "Blue Horizons adaptive equipment; meets at beach with best conditions",
+   "url": "https://www.visitpembrokeshire.com/activity-listing/surfing-for-everyone"
+  },
+  {
+   "fact": "Broad Haven suits beginners and experienced enthusiasts",
+   "url": "https://www.visitpembrokeshire.com/activities-and-attractions/surfing"
+  }
+ ],
+ "gaps": "Haven Sports' own website doesn't mention hire; the hire entry relies on the RNLI beach page, which doesn't name the shop. Blue Horizons only names Broad Haven in a customer review on its site. No repair service confirmed. Pembrokeshire Surf School's site shows no recent dates."
+}

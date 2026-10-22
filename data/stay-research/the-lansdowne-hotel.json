@@ -1,0 +1,26 @@
+{
+ "name": "The Lansdowne Hotel",
+ "officialUrl": "https://lansdowne-hotel.co.uk/",
+ "trading": true,
+ "stayType": "Family-owned seafront hotel",
+ "accommodation": "Around 98 bedrooms from cosy doubles to family rooms and a junior suite, some with sea views",
+ "suitableFor": "Families, groups and dog owners wanting a full-service seafront hotel",
+ "parking": "On-street or public parking only (Visit Eastbourne listing)",
+ "dogs": "Pet-friendly (Visit Eastbourne listing)",
+ "beachAccess": "Directly opposite the beach and Western Lawns on King Edward's Parade",
+ "boardStorage": null,
+ "confirmedFeatures": "1912 Seafood & Steak restaurant, bar, afternoon tea, lounge, lift, games room, free Wi-Fi, sea-view rooms",
+ "overview": "The Lansdowne is a family-owned hotel on King Edward's Parade, at the western end of Eastbourne seafront, where it has traded since 1912. It faces the beach and Western Lawns and has around 98 rooms, some with sea views, along with its own seafood and steak restaurant, a bar and a games room.",
+ "surfTripFit": "Directly opposite the beach with a restaurant on site, and dogs are welcome.",
+ "sources": [
+  {
+   "label": "Official website",
+   "url": "https://lansdowne-hotel.co.uk/"
+  },
+  {
+   "label": "Visit Eastbourne listing",
+   "url": "https://www.visiteastbourne.com/accommodation/the-lansdowne-hotel-p1234641"
+  }
+ ],
+ "slug": "the-lansdowne-hotel"
+}

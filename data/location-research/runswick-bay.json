@@ -1,0 +1,118 @@
+{
+ "slug": "runswick-bay",
+ "schools": [],
+ "hire": [],
+ "shops": [],
+ "lessonsIntro": "We have not confirmed a surf school that teaches at Runswick Bay. The nearest confirmed lessons are at Whitby and Saltburn.",
+ "learn": {
+  "text": [
+   "Runswick Bay is a sheltered sandy bay below the old fishing village. RNLI lifeguards patrol it in summer (daily from 11 July to 6 September 2026, 10am to 6pm), but we could not find a surf school that teaches here or any official guidance on surfing the bay.",
+   "If you are new to surfing, book a lesson at Whitby or Saltburn first. Here, swim or bodyboard between the red and yellow flags when lifeguards are on duty, never go in alone, and check the forecast and tides before you visit."
+  ],
+  "cards": [
+   {
+    "label": "Level",
+    "title": "Learn nearby first",
+    "text": "No school is confirmed here; book at Whitby or Saltburn."
+   },
+   {
+    "label": "Best time",
+    "title": "Lifeguard season",
+    "text": "Lifeguards patrol 11 July to 6 September 2026, 10am to 6pm."
+   },
+   {
+    "label": "Watch out for",
+    "title": "No flags, no lifeguards",
+    "text": "Outside patrol times there is no cover."
+   }
+  ]
+ },
+ "hireIntro": "We have not confirmed surf hire at Runswick Bay.",
+ "kit": {
+  "text": [
+   "The beaches on this stretch are mostly sandy beach breaks, so a long foam board is the right start, moving on to a hard mini-mal or longboard as you improve. Scarborough Surf School hires only 5/4mm wetsuits because the North Sea stays cold, and adds boots, gloves and hoods for the cooler months."
+  ],
+  "cards": [
+   {
+    "label": "Board",
+    "title": "Soft-top",
+    "text": "Start on a big foam board in small waves."
+   },
+   {
+    "label": "Wetsuit",
+    "title": "5/4mm most of the year",
+    "text": "North Sea water stays cool. Scarborough Surf School hires only 5/4mm suits and treats them as year-round wear, adding boots, gloves and a hood in the colder months."
+   },
+   {
+    "label": "Other craft",
+    "title": "Bodyboard between flags",
+    "text": "The RNLI advises bodyboarding between the red and yellow flags."
+   }
+  ]
+ },
+ "shopsIntro": "We could not confirm a surf shop at Runswick Bay.",
+ "shopsText": [
+  "There is no surf shop at Runswick Bay that we could confirm. Saltburn to the north has Drift Surf Shop and Saltburn Surf School, and Whitby Surf School hires kit to the south."
+ ],
+ "faqs": {
+  "lessons": [
+   {
+    "q": "Are there surf lessons at Runswick Bay?",
+    "a": "We have not confirmed any; try Whitby Surf School or the Saltburn schools."
+   },
+   {
+    "q": "When are lifeguards on duty?",
+    "a": "Daily from 11 July to 6 September 2026, 10am to 6pm."
+   },
+   {
+    "q": "Where should I bodyboard?",
+    "a": "Between the red and yellow flags when lifeguards are patrolling."
+   }
+  ],
+  "hire": [
+   {
+    "q": "Can I hire a surfboard at Runswick?",
+    "a": "Not that we could confirm. Whitby and Saltburn both have hire."
+   },
+   {
+    "q": "What wetsuit should I bring?",
+    "a": "A 5/4mm suit suits North Sea water for most of the year."
+   }
+  ],
+  "shops": [
+   {
+    "q": "Where is the nearest surf shop?",
+    "a": "Saltburn, with Drift Surf Shop and Saltburn Surf School."
+   }
+  ]
+ },
+ "sources": [
+  {
+   "label": "RNLI: Runswick Bay Beach",
+   "url": "https://rnli.org/find-my-nearest/lifeguarded-beaches/runswick-bay-beach"
+  },
+  {
+   "label": "Saltburn Surf School",
+   "url": "https://www.saltburn-surf.co.uk/"
+  },
+  {
+   "label": "Whitby Surf School",
+   "url": "https://whitbysurf.co.uk/"
+  },
+  {
+   "label": "Scarborough Surf School: equipment hire",
+   "url": "https://scarboroughsurfschool.co.uk/equipment-hire/"
+  }
+ ],
+ "factCheck": [
+  {
+   "fact": "RNLI patrols 11 Jul-6 Sep 2026, 10am-6pm; swim/bodyboard between flags",
+   "url": "https://rnli.org/find-my-nearest/lifeguarded-beaches/runswick-bay-beach"
+  },
+  {
+   "fact": "Scarborough Surf School hires 5/4mm wetsuits only, described as suitable year round, plus boots, gloves and hoods",
+   "url": "https://scarboroughsurfschool.co.uk/equipment-hire/"
+  }
+ ],
+ "gaps": "No Runswick surf business, hazards or surf guidance confirmed. A Yumping deal for one-to-one surfing at Runswick appeared in search but the provider was not verified."
+}

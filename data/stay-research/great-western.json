@@ -1,0 +1,26 @@
+{
+ "name": "Great Western",
+ "officialUrl": "https://www.greatwesternnewquay.co.uk/",
+ "trading": true,
+ "stayType": "Clifftop inn with rooms",
+ "accommodation": "En-suite hotel bedrooms, including family and dog-friendly rooms",
+ "suitableFor": "Families, couples and dog owners",
+ "parking": "Parking available (Visit Cornwall)",
+ "dogs": "Dogs welcome in dog-friendly rooms",
+ "beachAccess": "Clifftop on Cliff Road, just steps from the beach",
+ "boardStorage": null,
+ "confirmedFeatures": "Bar, dining, pub garden, ocean-view terrace, WiFi",
+ "overview": "A St Austell Brewery inn on Cliff Road, set on the clifftop above Great Western Beach and just steps from the sand. It has en-suite rooms, including family and dog-friendly options. Downstairs there is an open-plan bar and dining area with a terrace looking out to sea.",
+ "surfTripFit": "You can walk straight down to Great Western, and Towan and Tolcarne are both close by.",
+ "sources": [
+  {
+   "label": "Official website",
+   "url": "https://www.greatwesternnewquay.co.uk/"
+  },
+  {
+   "label": "Visit Cornwall listing",
+   "url": "https://www.visitcornwall.com/accommodation/hotel/newquay/great-western-hotel"
+  }
+ ],
+ "slug": "great-western"
+}

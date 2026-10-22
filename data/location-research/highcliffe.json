@@ -1,0 +1,122 @@
+{
+ "slug": "highcliffe",
+ "schools": [],
+ "hire": [],
+ "shops": [],
+ "lessonsIntro": "We couldn't confirm any surf school teaching at Highcliffe. The nearest lessons we found are with Surf Steps in Boscombe, about 20 minutes' drive west.",
+ "learn": {
+  "text": [
+   "Highcliffe is a south-facing beach of sand and pebbles below the cliffs, reached by walking down from the clifftop car park. Windsurf guide boards.co.uk says it can pick up swell when neighbouring beaches are small, and that surfers use it when the wind is offshore. It works best on a south-westerly swell with the tide pushing in, and waves lose their shape near high tide.",
+   "It isn't an obvious place to learn. The same guide warns of a strong shorebreak and rocky breakwaters, and Highcliffe isn't on BCP Council's list of lifeguarded beaches. If you're new to surfing, take a lesson on a patrolled beach first, such as with Surf Steps near Boscombe Pier, and only try Highcliffe on small days once you're confident."
+  ],
+  "cards": [
+   {
+    "label": "Level",
+    "title": "Not for first-timers",
+    "text": "Shorebreak and rock groynes make it better suited to surfers with some experience."
+   },
+   {
+    "label": "Best time",
+    "title": "SW swell, rising tide",
+    "text": "South-westerly swell on the push is best; waves soften near high tide."
+   },
+   {
+    "label": "Watch out for",
+    "title": "Shorebreak and breakwaters",
+    "text": "A strong shorebreak and rocky breakwaters, with no lifeguard cover listed by BCP Council."
+   }
+  ]
+ },
+ "hireIntro": "We couldn't confirm surf hire at Highcliffe. Bring your own kit or hire from Surf Steps in Boscombe.",
+ "kit": {
+  "text": [
+   "On small days a longer board or mid-length helps you catch Highcliffe's waves before they dump on the shore. Because of the shorebreak, a board you can handle confidently when getting in and out matters more than performance. Bodyboarders can have fun here on the right day, but the rocky breakwaters mean you need to keep clear of the groynes."
+  ],
+  "cards": [
+   {
+    "label": "Board",
+    "title": "Mid-length or longboard",
+    "text": "Volume helps in weaker surf; beginners should learn elsewhere first."
+   },
+   {
+    "label": "Wetsuit",
+    "title": "Season-dependent",
+    "text": "We couldn't confirm a sea-temperature source for this stretch of coast. As a general rule on the English Channel, most people wear a 4/3mm in late spring and autumn and a 5/4mm with boots in winter; check with the school or shop before you go."
+   },
+   {
+    "label": "Other craft",
+    "title": "Windsurfers and kites",
+    "text": "boards.co.uk notes windsurfers and occasional kitesurfers use Highcliffe, so give them space."
+   }
+  ]
+ },
+ "shopsIntro": "We couldn't confirm a surf shop in Highcliffe; the nearest we found is in Boscombe.",
+ "shopsText": [
+  "We couldn't confirm a currently trading surf shop in Highcliffe or Christchurch. The closest we verified is Down The Line Surf on Sea Road in Boscombe, about 20 minutes' drive west, which stocks surfboards and offers trade-ins and custom builds. Surf Steps, also near Boscombe Pier, offers hire and lessons."
+ ],
+ "faqs": {
+  "lessons": [
+   {
+    "q": "Can I take a surf lesson at Highcliffe?",
+    "a": "We couldn't confirm any school teaching here. Surf Steps near Boscombe Pier is the nearest we found."
+   },
+   {
+    "q": "Is Highcliffe good for beginners?",
+    "a": "Not really. There's a strong shorebreak and rocky breakwaters, and it isn't on BCP Council's lifeguarded beach list."
+   },
+   {
+    "q": "When does Highcliffe work?",
+    "a": "According to boards.co.uk, a south-westerly swell on the incoming tide gives the best waves."
+   }
+  ],
+  "hire": [
+   {
+    "q": "Is there surf hire at Highcliffe?",
+    "a": "We couldn't find any. Surf Steps in Boscombe offers hire."
+   },
+   {
+    "q": "Where do I park?",
+    "a": "There's a paid clifftop car park, and you walk down to the beach."
+   }
+  ],
+  "shops": [
+   {
+    "q": "Where's the nearest surf shop to Highcliffe?",
+    "a": "The nearest we could confirm is Down The Line Surf, 42 Sea Road, Boscombe."
+   }
+  ]
+ },
+ "sources": [
+  {
+   "label": "boards.co.uk: Highcliffe guide",
+   "url": "https://boards.co.uk/travel/uk-travel/highcliffe-dorset.html"
+  },
+  {
+   "label": "BCP Council: lifeguards and beach safety",
+   "url": "https://bcpcouncil.gov.uk/beaches-and-seafront/what-you-need-to-know-before-visiting-one-of-our-beaches/lifeguards-and-beach-safety"
+  },
+  {
+   "label": "Down The Line Surf: contact",
+   "url": "https://downthelinesurf.co.uk/pages/contact"
+  },
+  {
+   "label": "Visit Bournemouth: Surf Steps",
+   "url": "https://www.visitbournemouth.com/attractions/surf-steps-bournemouth-surf-school"
+  }
+ ],
+ "factCheck": [
+  {
+   "fact": "South-facing sand/pebble beach, picks up swell, SW swell and rising tide best, shorebreak and rocky breakwaters, clifftop paid car park",
+   "url": "https://boards.co.uk/travel/uk-travel/highcliffe-dorset.html"
+  },
+  {
+   "fact": "Highcliffe not on BCP lifeguarded beach list",
+   "url": "https://bcpcouncil.gov.uk/beaches-and-seafront/what-you-need-to-know-before-visiting-one-of-our-beaches/lifeguards-and-beach-safety"
+  },
+  {
+   "fact": "Down The Line Bournemouth store at 42 Sea Road",
+   "url": "https://downthelinesurf.co.uk/pages/contact"
+  }
+ ],
+ "gaps": "No school, hire or shop confirmed at Highcliffe. boards.co.uk guide is from 2012 and lists Spot on Water (312 Lymington Road), but its website couldn't be checked, so it's left out. Drive time to Boscombe is an estimate. No sea-temperature source."
+}

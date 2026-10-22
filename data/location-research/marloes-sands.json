@@ -1,0 +1,135 @@
+{
+ "slug": "marloes-sands",
+ "schools": [],
+ "hire": [],
+ "shops": [
+  {
+   "name": "Haven Sports",
+   "type": "Surf shop",
+   "url": "http://www.havensports.co.uk/",
+   "town": "Broad Haven",
+   "note": "The closest dedicated surf and watersports shop we could confirm, on Broad Haven seafront; sells wetsuits, surfboards, bodyboards and accessories.",
+   "source": "http://www.havensports.co.uk/"
+  }
+ ],
+ "lessonsIntro": "Marloes Sands is a remote National Trust beach with no surf school, and it's better suited to experienced surfers than to learners.",
+ "learn": {
+  "text": [
+   "Marloes Sands is a long, isolated beach at the end of the Marloes peninsula, reached by a half-mile walk down a gravel track from the National Trust car park. Visit Pembrokeshire's surf guide rates it for intermediate to experienced surfers, working on solid swells with north-easterly winds and generally best from mid to low tide. The long walk keeps crowds away. None of the local schools list it as a lesson beach.",
+   "There are no lifeguards, and mobile signal can be patchy. Visit Pembrokeshire warns of rip currents, rocks and a rising tide that can cut you off; at high tide the beach can disappear completely. Some of the rocks are sharp, so take care scrambling. If you're learning, book a lesson at Broad Haven or Newgale and save Marloes for when you're more confident."
+  ],
+  "cards": [
+   {
+    "label": "Level",
+    "title": "Intermediate to experienced",
+    "text": "Visit Pembrokeshire's surf guide doesn't describe it as a beginner beach. Learn elsewhere first."
+   },
+   {
+    "label": "Best time",
+    "title": "Mid to low tide on a solid swell",
+    "text": "It breaks over sand on solid swells with north-easterly winds. Check the tide: high tide can cover the whole beach."
+   },
+   {
+    "label": "Watch out for",
+    "title": "Rips, rocks, tide and no lifeguards",
+    "text": "There's no lifeguard cover, rips and rocks are listed hazards, and the rising tide can cut you off. Don't surf alone."
+   }
+  ]
+ },
+ "hireIntro": "There's no surf hire at Marloes Sands, so you'll need to bring your own kit.",
+ "kit": {
+  "text": [
+   "Marloes Sands suits surfers who already have their own gear and can handle a remote beach. Intermediate surfers usually bring a mid-length or longboard, and experienced surfers a shortboard on solid swells. Remember you'll be carrying everything half a mile down a gravel track and back up. A full wetsuit is needed all year, with boots, gloves and a hood in winter."
+  ],
+  "cards": [
+   {
+    "label": "Board",
+    "title": "Bring your own",
+    "text": "There's no hire here. Intermediates often choose a mid-length; beginners should learn at a lesson beach first."
+   },
+   {
+    "label": "Wetsuit",
+    "title": "4/3mm in summer, 5mm or more in winter",
+    "text": "Sea temperature data for the south Pembrokeshire coast suggests a 4/3 or 3/2 in mid-August and a 5/4 or thicker with boots, gloves and a hood around late February, when the water drops to roughly 7 to 9°C. Spring and autumn sit in between."
+   },
+   {
+    "label": "Other craft",
+    "title": "Bodyboards for confident swimmers",
+    "text": "Bodyboarders use the beach, but with no lifeguards and rip currents, it's only for strong swimmers."
+   }
+  ]
+ },
+ "shopsIntro": "There's no surf shop near Marloes Sands; the village store sells groceries only.",
+ "shopsText": [
+  "Marloes Village Stores and Post Office, about a mile inland, sells groceries and newspapers, and the Runwayskiln café near the beach path serves food and drinks. For surf kit, the closest dedicated shop we could confirm is Haven Sports on Broad Haven seafront, further round St Brides Bay. Newsurf at Newgale also sells boards and accessories."
+ ],
+ "faqs": {
+  "lessons": [
+   {
+    "q": "Can I take surf lessons at Marloes Sands?",
+    "a": "We found no school that teaches here. Broad Haven and Newgale, further round St Brides Bay, are the nearest lesson beaches."
+   },
+   {
+    "q": "Is Marloes Sands good for beginners?",
+    "a": "No. Visit Pembrokeshire's surf guide rates it for intermediate to experienced surfers, and there are rip currents, rocks and no lifeguards."
+   },
+   {
+    "q": "Are there lifeguards at Marloes Sands?",
+    "a": "No. There's no lifeguard service, and mobile signal can be unreliable, so never surf alone."
+   }
+  ],
+  "hire": [
+   {
+    "q": "Can I hire a surfboard at Marloes Sands?",
+    "a": "No. There's no hire on the beach or in the village, so bring your own kit."
+   },
+   {
+    "q": "How far is it to carry my board?",
+    "a": "The National Trust car park is about half a mile from the beach, down a gravelled track."
+   }
+  ],
+  "shops": [
+   {
+    "q": "Where's the nearest surf shop to Marloes Sands?",
+    "a": "Haven Sports in Broad Haven is the closest dedicated surf shop we could confirm. Marloes village store sells groceries only."
+   }
+  ]
+ },
+ "sources": [
+  {
+   "label": "Visit Pembrokeshire: Marloes Sands beach",
+   "url": "https://www.visitpembrokeshire.com/explore-pembrokeshire/beaches/marloes-sands"
+  },
+  {
+   "label": "Visit Pembrokeshire: where to surf",
+   "url": "https://www.visitpembrokeshire.com/articles/surfing-in-pembrokeshire-where-best"
+  },
+  {
+   "label": "Coastal Cottages: Marloes Sands",
+   "url": "https://www.coastalcottages.co.uk/beaches-in-pembrokeshire/marloes-sands/"
+  },
+  {
+   "label": "Haven Sports",
+   "url": "http://www.havensports.co.uk/"
+  },
+  {
+   "label": "Surf-forecast: sea temperature",
+   "url": "https://www.surf-forecast.com/breaks/Manorbier/seatemp"
+  }
+ ],
+ "factCheck": [
+  {
+   "fact": "Intermediate to experienced; solid swells, NE winds; best mid to low tide; sand; rips, rocks, rising tide; rarely crowded due to walk",
+   "url": "https://www.visitpembrokeshire.com/articles/surfing-in-pembrokeshire-where-best"
+  },
+  {
+   "fact": "High tide can cover beach; no lifeguards; unreliable mobile signal; sharp rocks; car park half a mile down gravel track; Runwayskiln café; Marloes Village Stores about a mile inland",
+   "url": "https://www.coastalcottages.co.uk/beaches-in-pembrokeshire/marloes-sands/"
+  },
+  {
+   "fact": "At high tide the beach can disappear; NT car park half a mile, members free",
+   "url": "https://www.visitpembrokeshire.com/explore-pembrokeshire/beaches/marloes-sands"
+  }
+ ],
+ "gaps": "No surf school, hire or surf shop at or near Marloes. Haven Sports is listed as the nearest dedicated shop but no source gives the distance. No RNLI or National Trust surf-specific safety page opened."
+}

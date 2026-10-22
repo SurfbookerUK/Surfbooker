@@ -1,0 +1,268 @@
+.sb-primary-nav {
+  display: flex;
+  width: fit-content;
+  max-width: calc(100% - 24px);
+  align-items: center;
+  justify-content: center;
+  gap: 6px;
+  margin: 0 auto;
+  padding: 7px;
+  border: 1px solid rgba(255, 255, 255, 0.24);
+  border-radius: 999px;
+  background: rgba(15, 42, 51, 0.88);
+  box-shadow: 0 10px 30px rgba(7, 28, 35, 0.16);
+  color: #fff;
+  font: 600 13px/1.2 "Space Grotesk", sans-serif;
+  white-space: nowrap;
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  position: relative;
+  z-index: 20;
+}
+
+.sb-primary-nav a {
+  display: inline-flex;
+  min-width: 0;
+  min-height: 36px;
+  align-items: center;
+  padding: 8px 12px;
+  border-radius: 999px;
+  color: inherit;
+  text-decoration: none;
+}
+
+.sb-primary-nav a:hover,
+.sb-primary-nav a:focus-visible,
+.sb-primary-nav a[aria-current="page"] {
+  background: #fff;
+  color: #0f2a33;
+  outline: none;
+}
+
+.sb-nav-header {
+  width: min(1180px, calc(100% - 32px));
+  margin: 16px auto;
+  position: relative;
+  z-index: 30;
+}
+
+.school-hero,
+.lesson-hero,
+.area-hero,
+.hire-hero,
+header.hero {
+  position: relative;
+}
+
+.school-hero > .sb-primary-nav,
+.lesson-hero > .sb-primary-nav,
+.area-hero > .sb-primary-nav,
+.hire-hero > .sb-primary-nav,
+header.hero > .sb-primary-nav {
+  position: absolute;
+  top: 90px;
+  left: 50%;
+  transform: translateX(-50%);
+}
+
+.site-header .sb-primary-nav,
+.home-header .sb-primary-nav,
+.topbar .sb-primary-nav {
+  margin-top: 12px;
+}
+
+.home-header .sb-primary-nav {
+  display: grid;
+  width: min(620px, calc(100% - 24px));
+  max-width: 620px;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 7px;
+  padding: 0;
+  border: 0;
+  border-radius: 0;
+  background: transparent;
+  box-shadow: none;
+  backdrop-filter: none;
+  -webkit-backdrop-filter: none;
+}
+
+.home-header .sb-primary-nav a {
+  min-height: 38px;
+  justify-content: center;
+  padding: 8px 10px;
+  border-radius: 0;
+  text-align: center;
+}
+
+.home-header .sb-primary-nav a:hover,
+.home-header .sb-primary-nav a:focus-visible,
+.home-header .sb-primary-nav a[aria-current="page"] {
+  background: transparent;
+  color: #fff;
+  text-decoration: underline;
+  text-underline-offset: 4px;
+  outline: none;
+}
+
+.sb-site-footer {
+  display: flex !important;
+  width: min(1180px, calc(100% - 32px)) !important;
+  flex-direction: column !important;
+  align-items: center !important;
+  gap: 14px !important;
+  margin: 30px auto 24px !important;
+  padding: 32px 24px !important;
+  border: 0 !important;
+  border-radius: 30px !important;
+  background: #0f2a33 !important;
+  color: #fff !important;
+  text-align: center !important;
+  font: 500 14px/1.5 "Space Grotesk", sans-serif !important;
+}
+
+.sb-accommodation-crosslink {
+  display: flex;
+  width: min(1180px, calc(100% - 32px));
+  align-items: center;
+  justify-content: space-between;
+  gap: 18px;
+  margin: 24px auto;
+  padding: 22px 26px;
+  border-radius: 22px;
+  color: #fff;
+  background: #0f2a33;
+  font: 600 14px/1.4 "Space Grotesk", sans-serif;
+}
+
+.sb-accommodation-crosslink span {
+  color: rgba(255, 255, 255, .68);
+  font-size: 12px;
+  letter-spacing: .1em;
+  text-transform: uppercase;
+}
+
+.sb-accommodation-crosslink a {
+  color: #fff;
+  text-decoration: underline;
+  text-underline-offset: 4px;
+}
+
+.sb-footer-group {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 8px 18px;
+}
+
+.sb-site-footer a {
+  margin: 0 !important;
+  color: #fff !important;
+  text-decoration: underline;
+  text-decoration-color: rgba(255, 255, 255, 0.38);
+  text-underline-offset: 3px;
+}
+
+.sb-footer-business {
+  padding: 9px 15px;
+  border: 1px solid rgba(255, 255, 255, 0.2);
+  border-radius: 999px;
+  font-size: 13px;
+}
+
+.sb-footer-credit,
+.sb-footer-meta {
+  margin: 0;
+}
+
+.sb-footer-credit {
+  max-width: 760px;
+  color: rgba(255, 255, 255, 0.76);
+  font-size: 12px;
+}
+
+.sb-footer-meta {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 6px 12px;
+  color: rgba(255, 255, 255, 0.74);
+  font-size: 12px;
+}
+
+@media (max-width: 720px) {
+  .sb-accommodation-crosslink {
+    width: calc(100% - 24px);
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 20px;
+  }
+  .sb-primary-nav {
+    width: calc(100% - 20px);
+    max-width: none;
+    display: grid;
+    grid-template-columns: repeat(6, minmax(0, 1fr));
+    gap: 3px;
+    white-space: normal;
+  }
+
+  .sb-primary-nav a {
+    min-height: 32px;
+    justify-content: center;
+    padding: 6px 5px;
+    text-align: center;
+  }
+
+  .sb-primary-nav a:nth-child(-n + 3) {
+    grid-column: span 2;
+  }
+
+  .sb-primary-nav a:nth-child(n + 4) {
+    grid-column: span 3;
+  }
+
+  .home-header .sb-primary-nav {
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    row-gap: 0;
+    margin-top: -4px;
+  }
+
+  .home-header .sb-primary-nav a:nth-child(n) {
+    grid-column: auto;
+  }
+
+  .school-hero > .sb-primary-nav,
+  .lesson-hero > .sb-primary-nav,
+  .area-hero > .sb-primary-nav,
+  .hire-hero > .sb-primary-nav,
+  header.hero > .sb-primary-nav {
+    top: 76px !important;
+    right: 10px !important;
+    left: 10px !important;
+    width: auto !important;
+    min-width: 0 !important;
+    max-width: none !important;
+    transform: none !important;
+  }
+
+  .sb-site-footer {
+    width: calc(100% - 24px) !important;
+    padding: 28px 18px !important;
+    border-radius: 24px !important;
+  }
+}
+
+/* Researched "About this school / hire provider" block on business profiles */
+.sb-about-business { box-sizing: border-box; max-width: 1100px !important; margin: 48px auto !important; padding: 34px 38px !important; background: #fff; border: 1px solid rgba(15,42,51,.12); border-radius: 24px; color: #17343d; font-family: "Space Grotesk", sans-serif; box-shadow: 0 16px 45px rgba(7,28,35,.08); }
+.sb-about-business .section-label { margin: 0 0 6px; font-size: 12px; letter-spacing: .12em; text-transform: uppercase; color: #55b8c8; font-weight: 600; }
+.sb-about-business h2 { font-family: "Instrument Serif", serif; font-weight: 400; font-size: clamp(30px, 4vw, 42px); line-height: 1.05; margin: 0 0 16px; color: #0f2a33; }
+.sb-about-business h3 { font-size: 16px; margin: 22px 0 8px; color: #0f2a33; }
+.sb-about-business p, .sb-about-business li { font-size: 15.5px; line-height: 1.6; }
+.sb-about-business ul { margin: 0; padding-left: 20px; display: grid; gap: 4px; }
+.sb-about-business p:last-child { margin-top: 22px; padding-top: 16px; border-top: 1px solid rgba(15,42,51,.1); color: #6d7b7f; font-size: 13.5px !important; opacity: 1 !important; }
+.sb-about-business a { color: #0f2a33; }
+@media (max-width: 640px) { .sb-about-business { margin: 28px 16px !important; padding: 24px 20px !important; border-radius: 18px; } }
+/* Region comparison tables */
+.sb-hub-table h2 { font-family: "Instrument Serif", serif; font-weight: 400; font-size: clamp(28px, 4vw, 40px); margin: 0 0 10px; color: #0f2a33; }
+.sb-hub-table table { border-radius: 14px; overflow: hidden; }
+.sb-hub-table a { color: #0f2a33; font-weight: 600; }
+.sb-domain { font-size: 13px; color: #4b6268; word-break: break-all; }

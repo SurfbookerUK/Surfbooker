@@ -1,0 +1,22 @@
+{
+ "slug": "the-park-cornwall",
+ "officialUrl": "https://www.theparkcornwall.co.uk",
+ "trading": true,
+ "stayType": "Holiday park with lodges, cottages, yurts and cabins",
+ "accommodation": "Luxury lodges, cottages, yurts and Park Cabins across 27 acres (number not stated)",
+ "suitableFor": "Families, groups and dog owners",
+ "parking": "Parking available",
+ "dogs": "Dog-friendly properties available",
+ "beachAccess": "Less than 300 yards from Mawgan Porth beach (Visit Cornwall)",
+ "boardStorage": null,
+ "confirmedFeatures": "Heated indoor pool, sauna, steam room, heated outdoor pool with pool bar, restaurant and café (The Kitchen by the Beach), licensed bar, laundry, Wi-Fi, children's play areas",
+ "overview": "The Park is a 27-acre holiday park a short walk from the beach at Mawgan Porth, with lodges, cottages, yurts and cabins set among gardens. On-site facilities include indoor and outdoor heated pools, a sauna and steam room, a restaurant and café, a bar and children's play areas, and some properties take dogs.",
+ "surfTripFit": "Strong surf-trip base: under 300 yards from Mawgan Porth beach with self-catering units and on-site food; board storage is not stated.",
+ "sources": [
+  {
+   "label": "Visit Cornwall listing",
+   "url": "https://www.visitcornwall.com/accommodation/self-catering-and-resorts/mawgan-porth/the-park-mawgan-porth"
+  }
+ ],
+ "gaps": "Official site would not render for fetching; facts from Visit Cornwall only. Unit numbers and board storage unknown."
+}

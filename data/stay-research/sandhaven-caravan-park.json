@@ -1,0 +1,22 @@
+{
+ "name": "Sandhaven Caravan Park",
+ "officialUrl": "https://www.northumbrianleisure.co.uk/our-parks/sandhaven/",
+ "trading": true,
+ "stayType": "Seafront caravan park with touring pitches",
+ "accommodation": "Touring pitches, holiday hire and holiday homes for sale",
+ "suitableFor": "Tourers, campervans and caravan holidaymakers",
+ "parking": null,
+ "dogs": null,
+ "beachAccess": "Direct beach access; a step from a Blue Flag beach",
+ "boardStorage": null,
+ "confirmedFeatures": "On-site wardens, refurbished shower and toilet block, near the promenade and Ocean Road",
+ "overview": "A Northumbrian Leisure park on the South Shields seafront with direct access to the beach. It offers touring pitches and holiday hire, and the promenade, Ocean Road and its restaurants are around five minutes' walk. The season runs for most of the year.",
+ "surfTripFit": "Direct beach access and touring pitches make it a straightforward base for campervan surf trips.",
+ "sources": [
+  {
+   "label": "Official website",
+   "url": "https://www.northumbrianleisure.co.uk/our-parks/sandhaven/"
+  }
+ ],
+ "slug": "sandhaven-caravan-park"
+}

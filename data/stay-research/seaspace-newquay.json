@@ -1,0 +1,26 @@
+{
+ "slug": "seaspace-newquay",
+ "officialUrl": "https://sea.space/",
+ "trading": true,
+ "stayType": "Aparthotel with studios and apartments",
+ "accommodation": "Studios, large studios, accessible studios, and two- and three-bedroom apartments with kitchens (numbers not stated)",
+ "suitableFor": "Families, groups, couples, surfers and dog owners",
+ "parking": "Parking and disabled parking listed (Visit Cornwall); details not stated",
+ "dogs": "Dog-friendly (details not stated)",
+ "beachAccess": "Short walk to Porth Beach and about five minutes' drive to Watergate Bay (Visit Cornwall)",
+ "boardStorage": null,
+ "confirmedFeatures": "Pool, hot tub, gym, padel courts, fitness classes, playgrounds, games room, café, Tallo restaurant, larder/deli, surf board hire, Wi-Fi, accessible units",
+ "overview": "SeaSpace is an aparthotel on Watergate Road at Porth, on the edge of Newquay, overlooking the Atlantic. It offers studios and two- and three-bedroom apartments with their own kitchens, plus a pool, hot tub, gym, padel courts, play areas, a café and a restaurant. Porth Beach is a short walk away and Watergate Bay is about five minutes by car.",
+ "surfTripFit": "Self-catering units, on-site board hire and surf coaching packages, and quick access to Porth, Watergate and Fistral make it a flexible surf base.",
+ "sources": [
+  {
+   "label": "SeaSpace official site",
+   "url": "https://sea.space/"
+  },
+  {
+   "label": "Visit Cornwall listing",
+   "url": "https://www.visitcornwall.com/accommodation/hotel/newquay/sea-space"
+  }
+ ],
+ "gaps": "Unit numbers, board storage, EV charging and dog rules not stated."
+}

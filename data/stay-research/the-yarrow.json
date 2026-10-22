@@ -1,0 +1,22 @@
+{
+ "name": "The Yarrow",
+ "officialUrl": "https://www.yarrowhotel.co.uk/",
+ "trading": true,
+ "stayType": "Hotel with restaurant and spa",
+ "accommodation": "Hotel bedrooms (numbers not stated)",
+ "suitableFor": "Couples and groups wanting a hotel with a spa in Broadstairs",
+ "parking": null,
+ "dogs": null,
+ "beachAccess": null,
+ "boardStorage": null,
+ "confirmedFeatures": "Restaurant, bar, spa, hair and beauty salon",
+ "overview": "The Yarrow is a hotel on Ramsgate Road in Broadstairs, a short drive from Joss Bay. It has a restaurant serving lunch and dinner on set days, a bar menu through the week, and an on-site spa with a hair and beauty salon, so there is somewhere to eat and recover without going back out.",
+ "surfTripFit": "A comfortable hotel base in Broadstairs within a short drive of Joss Bay, with a spa for after cold-water sessions.",
+ "sources": [
+  {
+   "label": "Official website",
+   "url": "https://www.yarrowhotel.co.uk/"
+  }
+ ],
+ "slug": "the-yarrow"
+}

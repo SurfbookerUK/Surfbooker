@@ -1,0 +1,22 @@
+{
+ "slug": "the-merrymoor-inn-rooms",
+ "officialUrl": "https://www.merrymoorinn.com",
+ "trading": true,
+ "stayType": "Pub with B&B rooms",
+ "accommodation": "Bed and breakfast rooms (number and types not stated)",
+ "suitableFor": "Couples and visitors wanting pub food on site",
+ "parking": null,
+ "dogs": null,
+ "beachAccess": "Described as 'by the beach' at Mawgan Porth; no distance given",
+ "boardStorage": null,
+ "confirmedFeatures": "Pub food seven days, bar, breakfast, events, beach webcam",
+ "overview": "The Merrymoor Inn is a pub with bed-and-breakfast rooms beside the beach at Mawgan Porth, near Newquay. It serves breakfast, lunch and dinner seven days a week and runs a bar through the day and evening. Rooms are booked through an online booking link from the inn's website.",
+ "surfTripFit": "Its beachside position at Mawgan Porth and on-site food make it a simple surf base; parking, dogs and board storage are not stated.",
+ "sources": [
+  {
+   "label": "Official site",
+   "url": "https://www.merrymoorinn.com"
+  }
+ ],
+ "gaps": "Room count/types, parking, dogs, board storage not stated; trading inferred from published opening hours."
+}

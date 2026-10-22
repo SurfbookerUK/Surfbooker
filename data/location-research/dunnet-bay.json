@@ -1,0 +1,169 @@
+{
+ "slug": "dunnet-bay",
+ "schools": [
+  {
+   "name": "North Coast Watersports",
+   "type": "Surf school",
+   "url": "https://www.northcoastwatersports.com/surf",
+   "base": "Main car park at Dunnet beach, next to Dunnet Bay caravan site",
+   "note": "Group lessons for complete beginners to intermediates from age 4 (under-8s need an adult in the water), private lessons, and a kids' holiday programme for 8-16s in the Easter, summer and October holidays. Wetsuit, boots and board are included.",
+   "source": "https://www.northcoastwatersports.com/groupsurflesson"
+  }
+ ],
+ "hire": [
+  {
+   "name": "North Coast Watersports",
+   "type": "Board & wetsuit hire",
+   "url": "https://www.northcoastwatersports.com/equipment-hire",
+   "base": "Collect from Dunnet beach car park, next to Dunnet Bay caravan site, or from their base about 5 minutes away",
+   "note": "Hires 5/4mm wetsuits with boots, gloves and hoods, 7-9ft foam boards, hardboards from shortboards to longboards, bodyboards, sit-on-top kayaks and SUPs (SUPs by arrangement, calm days only). Free foam roof racks are included.",
+   "source": "https://www.northcoastwatersports.com/equipment-hire"
+  }
+ ],
+ "shops": [
+  {
+   "name": "North Coast Watersports",
+   "type": "Surf kit sales (collection only)",
+   "url": "https://www.northcoastwatersports.com/buy-equipment",
+   "town": "Dunnet",
+   "note": "Not a walk-in shop: you can buy wax, leashes and some second-hand wetsuits, boots and gloves for collection from their Dunnet base, or ask them to order boards and wetsuits from their trade brands.",
+   "source": "https://www.northcoastwatersports.com/buy-equipment"
+  }
+ ],
+ "lessonsIntro": "Dunnet Bay is where the north coast's surf school runs its regular lessons, and the school describes it as the best beginner spot in the area.",
+ "learn": {
+  "text": [
+   "Dunnet is a two-mile sandy bay east of Thurso with a shallow, gently sloping sand bottom and few rocks, which is why North Coast Watersports runs its beginner lessons here. Because it faces slightly west it picks up North Atlantic swell easily, and the school describes the waves as mellow and forgiving. Lessons meet in the main car park beside the Dunnet Bay caravan site, and the school says it's on the beach every day through the summer.",
+   "We couldn't find any lifeguard cover listed for Dunnet, so a lesson is the sensible way to start. The school asks that you can swim 50m, though non-swimmers can stay in the shallows if they tell the instructor. Wind or rain won't usually stop a session, but very big swell, extreme wind or flat calm can mean a move to a backup spot or another activity. There are no changing rooms or showers on the beach, so come dressed for it."
+  ],
+  "cards": [
+   {
+    "label": "Level",
+    "title": "Beginner-friendly",
+    "text": "The local school calls Dunnet the best beginner spot on this coast, with a sandy bottom and gentle currents."
+   },
+   {
+    "label": "Best time",
+    "title": "Summer for learning",
+    "text": "Beach breaks here are most consistent and mellow in summer. Winter brings big swells that push the beaches to their limits."
+   },
+   {
+    "label": "Watch out for",
+    "title": "Cold water and no lifeguards",
+    "text": "We couldn't find lifeguard cover for Dunnet. Water sits around 6-10°C in winter and spring, so wear full winter kit."
+   }
+  ]
+ },
+ "hireIntro": "You can hire boards and full winter wetsuits right at Dunnet, collected from the beach car park beside the caravan site.",
+ "kit": {
+  "text": [
+   "Dunnet's sand bottom and softer waves suit a foam board while you're learning, moving to a hardboard once you can catch and ride unbroken waves. The water is cold all year: the local school quotes roughly 6-10°C in winter and spring and 11-15°C in summer, and its lessons and hire use 5/4mm wetsuits with boots and gloves. Bodyboards are available for hire, and SUPs only on very calm days."
+  ],
+  "cards": [
+   {
+    "label": "Board",
+    "title": "Foamie to start",
+    "text": "Hire 7-9ft foam boards for learning, or a hardboard from shortboard to longboard once you're improving."
+   },
+   {
+    "label": "Wetsuit",
+    "title": "5/4mm with boots and gloves",
+    "text": "That's what the school issues for lessons and hire, with hoods available, given water of roughly 6-15°C through the year."
+   },
+   {
+    "label": "Other craft",
+    "title": "Bodyboards and calm-day SUP",
+    "text": "Bodyboards and sit-on-top kayaks can be hired. Paddleboards need booking direct and very calm conditions."
+   }
+  ]
+ },
+ "shopsIntro": "There's no walk-in surf shop at Dunnet, but the local school sells some kit for collection from its base.",
+ "shopsText": [
+  "Dunnet village is small and we couldn't confirm a walk-in surf shop here or in Thurso. North Coast Watersports, based about five minutes from the beach, sells wax, leashes and some second-hand wetsuits, boots and gloves for collection, and can order in boards and wetsuits from brands it holds trade accounts with. Get in touch first to arrange a time."
+ ],
+ "faqs": {
+  "lessons": [
+   {
+    "q": "Where do surf lessons meet at Dunnet Bay?",
+    "a": "In the main car park at Dunnet beach, next to the Dunnet Bay caravan site."
+   },
+   {
+    "q": "How old do my children need to be?",
+    "a": "North Coast Watersports teaches from age 4, with an adult in the water for under-8s. Its school-holiday kids' programme is for ages 8 to 16."
+   },
+   {
+    "q": "Is there a lifeguard at Dunnet Bay?",
+    "a": "We couldn't find any lifeguard cover listed for Dunnet, so beginners are best off learning with the school."
+   }
+  ],
+  "hire": [
+   {
+    "q": "Where do I collect hire kit?",
+    "a": "From the beach car park next to the caravan site. On days with no lessons, the school arranges collection from its base about 5 minutes away."
+   },
+   {
+    "q": "Can I hire a winter wetsuit?",
+    "a": "Yes. Hire wetsuits are 5/4mm, with boots, gloves and hoods available."
+   }
+  ],
+  "shops": [
+   {
+    "q": "Is there a surf shop at Dunnet?",
+    "a": "Not a walk-in one. North Coast Watersports sells some kit for collection from its base and can order boards and wetsuits in."
+   }
+  ]
+ },
+ "sources": [
+  {
+   "label": "North Coast Watersports: north coast surf guide",
+   "url": "https://www.northcoastwatersports.com/northcoastofscotlandsurfguide"
+  },
+  {
+   "label": "North Coast Watersports: group lessons",
+   "url": "https://www.northcoastwatersports.com/groupsurflesson"
+  },
+  {
+   "label": "North Coast Watersports: kids' programme",
+   "url": "https://www.northcoastwatersports.com/kidssurfprogramme"
+  },
+  {
+   "label": "North Coast Watersports: equipment hire",
+   "url": "https://www.northcoastwatersports.com/equipment-hire"
+  },
+  {
+   "label": "North Coast Watersports: FAQs",
+   "url": "https://www.northcoastwatersports.com/questions-policys"
+  },
+  {
+   "label": "North Coast Watersports: buy equipment",
+   "url": "https://www.northcoastwatersports.com/buy-equipment"
+  }
+ ],
+ "factCheck": [
+  {
+   "fact": "Dunnet is a two-mile sandy beach with minimal rocks and gentle currents, described as the best beginner spot in the area.",
+   "url": "https://www.northcoastwatersports.com/northcoastofscotlandsurfguide"
+  },
+  {
+   "fact": "Lessons meet at the car park next to Dunnet Bay caravan site; ages 4+, under-8s accompanied by an adult; beginners to intermediates.",
+   "url": "https://www.northcoastwatersports.com/groupsurflesson"
+  },
+  {
+   "fact": "Kids' programme ages 8-16 in Easter, summer and October holidays.",
+   "url": "https://www.northcoastwatersports.com/kidssurfprogramme"
+  },
+  {
+   "fact": "Hire: 5/4mm wetsuits, boots, gloves, 7-9ft foam boards, hardboards, bodyboards, kayaks, SUPs by arrangement; collection at Dunnet beach car park.",
+   "url": "https://www.northcoastwatersports.com/equipment-hire"
+  },
+  {
+   "fact": "Must be able to swim 50m; lessons may move or change for extreme wind, large swell or flat conditions.",
+   "url": "https://www.northcoastwatersports.com/questions-policys"
+  },
+  {
+   "fact": "North Coast Watersports quotes water of 6-10°C in winter and spring, 11-15°C in summer and 10-15°C in autumn; its FAQ gives 7-13°C.",
+   "url": "https://www.northcoastwatersports.com/northcoastofscotlandsurfguide"
+  }
+ ],
+ "gaps": "No lifeguard information found (none listed). Couldn't confirm a walk-in surf shop in Dunnet or Thurso (Tempest Surf's site blocked our fetch). No RNLI or Highland Council beach safety page opened. Private lesson page had no details."
+}

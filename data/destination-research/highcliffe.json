@@ -1,0 +1,119 @@
+{
+ "overview": [
+  "Highcliffe is the most easterly beach in Bournemouth, Christchurch and Poole, right on the Dorset–Hampshire border. It's a Blue Flag beach of sand and shingle held in place by breakwaters, backed by grassy dunes, scrub, trees and low cliffs, with the Isle of Wight and the Needles in clear view across the water. Steamer Point Nature Reserve fills the western end.",
+  "Above the beach stands Highcliffe Castle, a Grade I listed Gothic Revival mansion built for Lord Stuart de Rothesay in the 1830s. A recently rebuilt zig-zag drops from the castle car park to the shore, while the much larger Cliff Top car park has the Cliffhanger Café, toilets and baby changing beside it, so it's straightforward for families. Hinton Admiral station is about two miles away.",
+  "The council notes the beach is popular with swimmers and surfers, especially bodyboarders. Waves only arrive with a good south-westerly swell, and the shingle and groynes make it less forgiving than a sandy beach, so it suits people who already know what they're doing. On flat days it's a lovely spot for a long walk along the shore towards Chewton Bunny."
+ ],
+ "suits": [
+  "Bodyboarders on a good south-westerly swell",
+  "Beach walks with Needles views",
+  "Families wanting big car parks and a café",
+  "Dog walkers outside the summer zone"
+ ],
+ "notFor": [
+  "Regular surf",
+  "Sandy-beach first lessons"
+ ],
+ "surf": {
+  "text": [
+   "Small, occasional waves on a south-westerly swell, breaking between the breakwaters onto sand and shingle. It's better known locally for bodyboarding than stand-up surfing.",
+   "Shingle can shelve steeply in places and the groynes are solid obstacles, so pick a gap well away from them. Check the forecast and local hazard signs before you go in.",
+   "Highcliffe is often messy and inconsistent, and tides change quickly. A south-westerly swell with a northerly wind is the best match. Winter is best, though clean days are uncommon."
+  ],
+  "cards": [
+   {
+    "label": "Level",
+    "title": "Bodyboarders and improvers",
+    "text": "Not the place for a first lesson."
+   },
+   {
+    "label": "Hazards",
+    "title": "Groynes and shingle",
+    "text": "Steeply shelving shingle in places, with solid groynes."
+   },
+   {
+    "label": "Season",
+    "title": "Autumn and winter",
+    "text": "Channel swell is most likely from autumn to early spring; summer is usually small and much busier."
+   }
+  ]
+ },
+ "practical": [
+  {
+   "label": "Parking",
+   "title": "Two car parks",
+   "text": "Highcliffe Cliff Top car park (just over 400 spaces, including 26 disabled bays) and Highcliffe Castle car park (100+ spaces)."
+  },
+  {
+   "label": "Facilities",
+   "title": "Cliffhanger Café",
+   "text": "Toilets and baby changing at the cliff top, with a RADAR-key accessible toilet next to the café."
+  },
+  {
+   "label": "Access",
+   "title": "Zig-zags and Chewton Bunny",
+   "text": "Slopes and paths lead down to the beach; the eastern end via Chewton Bunny is mainly tarmac."
+  },
+  {
+   "label": "Dogs",
+   "title": "Zoned",
+   "text": "No dogs between groynes H4 and H8 from 1 May to 30 September; elsewhere dogs are welcome all year and can be off lead. Leads are needed on the promenade."
+  },
+  {
+   "label": "Getting here",
+   "title": "Rail and bus",
+   "text": "Hinton Admiral station is about two miles away; morebus services run nearby. The promenade is too narrow for cycling in places."
+  }
+ ],
+ "faqs": [
+  {
+   "q": "Can dogs go on Highcliffe beach?",
+   "a": "Yes, except between groynes H4 and H8 from 1 May to 30 September."
+  },
+  {
+   "q": "Is Highcliffe good for surfing?",
+   "a": "Only on a good south-westerly swell; it's popular with bodyboarders."
+  },
+  {
+   "q": "Where do you park at Highcliffe?",
+   "a": "Cliff Top car park (400+ spaces) by the Cliffhanger Café, or Highcliffe Castle car park with a zig-zag to the beach."
+  },
+  {
+   "q": "What's the nearest station?",
+   "a": "Hinton Admiral, about two miles away."
+  }
+ ],
+ "sources": [
+  {
+   "label": "BCP Council — Highcliffe beach",
+   "url": "https://www.bcpcouncil.gov.uk/beaches-and-seafront/visit-a-beach/highcliffe-beach"
+  },
+  {
+   "label": "BCP Council — dogs on the beach",
+   "url": "https://www.bcpcouncil.gov.uk/beaches-and-seafront/what-you-need-to-know-before-visiting-one-of-our-beaches/where-and-when-you-can-bring-your-dog-to-the-beach"
+  },
+  {
+   "label": "Wikipedia — Highcliffe",
+   "url": "https://en.wikipedia.org/wiki/Highcliffe"
+  }
+ ],
+ "factCheck": [
+  {
+   "fact": "Most easterly BCP beach; Blue Flag; breakwaters; dunes; Steamer Point; bodyboarders; car parks; café; Chewton Bunny; Hinton Admiral ~2mi",
+   "url": "https://www.bcpcouncil.gov.uk/beaches-and-seafront/visit-a-beach/highcliffe-beach"
+  },
+  {
+   "fact": "No dogs H4–H8 1 May–30 Sep",
+   "url": "https://www.bcpcouncil.gov.uk/beaches-and-seafront/what-you-need-to-know-before-visiting-one-of-our-beaches/where-and-when-you-can-bring-your-dog-to-the-beach"
+  },
+  {
+   "fact": "Castle built 1831–35 for Lord Stuart de Rothesay, Grade I, Gothic Revival",
+   "url": "https://en.wikipedia.org/wiki/Highcliffe"
+  },
+  {
+   "fact": "Highcliffe: SW swell, N offshore, inconsistent",
+   "url": "https://www.surf-forecast.com/breaks/Highcliffe"
+  }
+ ],
+ "checked": "October 2026"
+}

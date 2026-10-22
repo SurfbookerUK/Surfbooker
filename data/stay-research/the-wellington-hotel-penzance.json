@@ -1,0 +1,22 @@
+{
+ "slug": "the-wellington-hotel-penzance",
+ "officialUrl": null,
+ "trading": "unclear",
+ "stayType": "Village pub with rooms",
+ "accommodation": "11 ensuite rooms (per CAMRA)",
+ "suitableFor": "Walkers, couples and families (no children after 8pm, per CAMRA)",
+ "parking": "Limited parking (per CAMRA)",
+ "dogs": "Dog friendly (per CAMRA)",
+ "beachAccess": null,
+ "boardStorage": null,
+ "confirmedFeatures": "Food at lunch and evening, cask ale, garden, Wi-Fi, sports TV, live music, pool table",
+ "overview": "The Wellington is a pub with rooms on Market Square in St Just (TR19 7HD), west of Penzance despite OTA listings giving a Penzance address. CAMRA lists 11 ensuite rooms, food at lunchtime and evenings, a garden and limited parking.",
+ "surfTripFit": "A sociable, dog-friendly pub base in St Just within driving distance of Sennen, but no beach distance or surf facilities are stated.",
+ "sources": [
+  {
+   "label": "CAMRA WhatPub listing",
+   "url": "https://camra.org.uk/pubs/wellington-hotel-st-just-139239"
+  }
+ ],
+ "gaps": "Official site (wellington-hotel.co.uk) blocked by robots.txt; CAMRA has no website and was last surveyed 2019, so current trading unconfirmed. Batch name says Penzance but the hotel is in St Just."
+}

@@ -1,0 +1,22 @@
+{
+ "slug": "the-seawood-hotel",
+ "officialUrl": "https://www.seawoodhotel.co.uk/",
+ "trading": true,
+ "stayType": "Small Victorian hotel",
+ "accommodation": "8 en-suite suites and bedrooms, with sea views",
+ "suitableFor": "Couples and dog owners",
+ "parking": null,
+ "dogs": "Dogs welcome at no extra charge",
+ "beachAccess": null,
+ "boardStorage": null,
+ "confirmedFeatures": "Dinner available, garden path to the cliff railway",
+ "overview": "A grade II listed Victorian house on North Walk in Lynton, within Exmoor National Park, with eight individually decorated rooms looking out over the Bristol Channel. A garden path leads to the cliff railway down to Lynmouth.",
+ "surfTripFit": "A comfortable, dog-friendly base, though it is in Lynton above Lynmouth and offers nothing surf-specific.",
+ "sources": [
+  {
+   "label": "Seawood Hotel official site",
+   "url": "https://www.seawoodhotel.co.uk/"
+  }
+ ],
+ "gaps": "Located in Lynton rather than Lynmouth; parking and board storage not stated; trading inferred from live booking."
+}

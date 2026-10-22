@@ -1,0 +1,32 @@
+{
+ "slug": "surfing-croyde-bay",
+ "kind": "surf-schools",
+ "officialUrl": "https://surfingcroydebay.zenfoliosite.com/",
+ "trading": true,
+ "about": "Surfing Croyde Bay is a Surfing England Centre of Excellence run by Damon Beveridge, a former head coach for Team GB and England. It teaches at Croyde Bay in North Devon and offers daily lessons and longer development programmes for all ages and abilities, from first-timers to pros. Groups are kept small.",
+ "offers": [
+  "Daily surf lessons for all ages and abilities",
+  "Structured surf development programmes",
+  "Taster sessions, day courses and multi-day courses",
+  "Equipment hire for independent surfers"
+ ],
+ "where": "Hobbs Hill, Croyde, overlooking Croyde Bay",
+ "goodToKnow": [
+  "No more than six students per coach",
+  "Hot showers, heated changing rooms, lockers and a cafe/bar on site",
+  "States it is a Surfing England Centre of Excellence",
+  "Some multi-day courses include lunch"
+ ],
+ "season": "Open all year",
+ "sources": [
+  {
+   "label": "Surfing Croyde Bay about page",
+   "url": "https://surfingcroydebay.zenfoliosite.com/about"
+  },
+  {
+   "label": "Yumping listing",
+   "url": "https://www.yumping.com/en/surfing/surfing-croyde-bay--e14510"
+  }
+ ],
+ "gaps": "The main domain (surfingcroydebay.co.uk) failed to load; the about page is on a Zenfolio photo site, and course types and hire come from the Yumping listing. No cancellation terms or what to bring"
+}

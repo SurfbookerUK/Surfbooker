@@ -1,0 +1,22 @@
+{
+ "name": "Pedn Olva",
+ "officialUrl": "https://www.pednolva.co.uk/",
+ "trading": true,
+ "stayType": "Hotel with bar and restaurant",
+ "accommodation": "En-suite rooms with harbour and ocean views",
+ "suitableFor": "Solo travellers, couples and families",
+ "parking": null,
+ "dogs": "Listed as dog friendly",
+ "beachAccess": "Set on rocks above St Ives Bay at Porthminster; the website highlights Porthmeor for surfing",
+ "boardStorage": null,
+ "confirmedFeatures": "Bar, restaurant, terraces, pub garden, WiFi",
+ "overview": "A hotel built on granite rocks above St Ives Bay, with en-suite rooms looking out over the harbour and the ocean. It has a bar and restaurant and terraces right above the sea. The town's beaches are close by, and the hotel's own website points surfers to Porthmeor.",
+ "surfTripFit": "It is a central base, a walk away from Porthmeor and the town's other beaches.",
+ "sources": [
+  {
+   "label": "Official website",
+   "url": "https://www.pednolva.co.uk/"
+  }
+ ],
+ "slug": "pedn-olva"
+}

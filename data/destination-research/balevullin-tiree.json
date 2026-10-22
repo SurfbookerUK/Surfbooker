@@ -1,0 +1,136 @@
+{
+ "overview": [
+  "Balevullin is a sandy bay on the north-west corner of Tiree, the most westerly island in the Inner Hebrides. It faces straight out into the Atlantic, and the island's surf school works from a beach hut right beside the sand. That makes it the natural starting point for most surf trips here, whether you're booking your first lesson or bringing your own board and want to get a feel for the island before exploring further.",
+  "Tiree is small and low-lying, about thirty square miles, with Ben Hynish in the south the highest point at only 141 metres. Fertile machair and crofts run right down to the beaches. Because the island has sand facing almost every direction and nowhere is far away by car, you can usually find a cleaner option on another coast when Balevullin is blown out or too big.",
+  "It isn't a resort. About 700 people live on Tiree, services are spread across small townships, and there are no beach lifeguards. The wind that makes the island famous with windsurfers, who know it as the 'Hawaii of the north' and come for the Tiree Wave Classic, also changes surf conditions quickly. Plan ahead, check the forecast often, and you'll get the most from a very special place."
+ ],
+ "suits": [
+  "Learners with a lesson booked at the beach hut",
+  "Improvers looking for uncrowded Atlantic waves",
+  "Families happy with a simple, outdoor island holiday",
+  "Surfers who like to move around with the wind"
+ ],
+ "notFor": [
+  "Anyone who wants lifeguarded beaches",
+  "Last-minute peak-season trips, when ferries and beds fill up",
+  "People who want a lively resort with nightlife"
+ ],
+ "surf": {
+  "text": [
+   "Balevullin picks up west to north-north-west swell, with north-west usually the best direction, and east to south-east winds blow offshore. Most of the bay is sand with some reef and rock influence, and the banks move, so the best stage of tide changes. The surf school runs lessons twice a day according to the tides, which is a good hint that you should ask on the day rather than follow a fixed rule.",
+   "Tiree is exposed to North Atlantic weather systems, so surf is possible all year. Autumn to spring brings more swell; summer is often smaller and better for beginners. Around the island, conditions can range from hollow beach break to long, gentle longboard waves on the same day, depending on which beach you pick.",
+   "Balevullin is an exposed beach and reef break on Tiree that breaks left. Northwest swell with a south-easterly offshore works best, around low tide, with some shelter from south-south-westerlies. It very rarely gets crowded. Spring, April especially, gives the most clean days, and the water is cool, so wear a spring wetsuit and boots."
+  ],
+  "cards": [
+   {
+    "label": "Level",
+    "title": "Beginners to experienced",
+    "text": "Learners should be in a lesson; experienced surfers will find quality on the right day."
+   },
+   {
+    "label": "Hazards",
+    "title": "Rips, cold and remoteness",
+    "text": "Moving banks, rip currents, strong wind and fast weather changes, with no lifeguards."
+   },
+   {
+    "label": "Crowds",
+    "title": "Usually quiet",
+    "text": "Busier near the school in summer, but rarely crowded by mainland standards."
+   }
+  ]
+ },
+ "practical": [
+  {
+   "label": "Parking",
+   "title": "Use the permitted parking",
+   "text": "Park where signed near the beach and the surf hut. Don't park on the machair, croft access or passing places."
+  },
+  {
+   "label": "Facilities",
+   "title": "Plan for very little",
+   "text": "Public toilets on Tiree are mainly in Scarinish and Crossapol, and there's no public beach shower. Ask the surf school what changing space there is at the hut."
+  },
+  {
+   "label": "Lifeguards",
+   "title": "None",
+   "text": "Balevullin isn't on the RNLI's lifeguarded beach list. In an emergency call 999 or 112 and ask for the Coastguard."
+  },
+  {
+   "label": "Dogs",
+   "title": "Close control",
+   "text": "Tiree is a working crofting island with livestock and ground-nesting birds, so keep dogs under close control and follow any seasonal notices."
+  },
+  {
+   "label": "Getting there",
+   "title": "Ferry or plane",
+   "text": "CalMac sails from Oban to Scarinish in about four hours, calling at Coll. Tiree Airport at Crossapol has daily flights from Glasgow. Winter sailings are more limited."
+  }
+ ],
+ "faqs": [
+  {
+   "q": "Is Balevullin good for beginners?",
+   "a": "Yes, with a lesson. The surf school teaches from the beach hut and can move to a more suitable bay when Balevullin is too big. There are no lifeguards."
+  },
+  {
+   "q": "What's the best tide at Balevullin?",
+   "a": "It depends on the banks at the time. Lessons are timed around the tide, so ask the school on the day."
+  },
+  {
+   "q": "What if Balevullin is blown out?",
+   "a": "Tiree has beaches facing many directions and is small, so check another coast; most are a short drive away."
+  },
+  {
+   "q": "How do I get to Tiree?",
+   "a": "By CalMac ferry from Oban, about four hours, or by plane from Glasgow to Tiree Airport at Crossapol."
+  }
+ ],
+ "sources": [
+  {
+   "label": "Wikipedia — Tiree",
+   "url": "https://en.wikipedia.org/wiki/Tiree"
+  },
+  {
+   "label": "Blackhouse Watersports — Surf Tiree",
+   "url": "https://www.blackhouse-watersports.co.uk/surf-tiree/"
+  },
+  {
+   "label": "RNLI — find a lifeguarded beach",
+   "url": "https://rnli.org/find-my-nearest/lifeguarded-beaches"
+  }
+ ],
+ "factCheck": [
+  {
+   "fact": "Tiree is the most westerly island in the Inner Hebrides; about 700 residents (2022 census)",
+   "url": "https://en.wikipedia.org/wiki/Tiree"
+  },
+  {
+   "fact": "Ben Hynish, 141 m, is the highest point; area about 30 square miles",
+   "url": "https://en.wikipedia.org/wiki/Tiree"
+  },
+  {
+   "fact": "CalMac ferry Oban–Scarinish takes about four hours and calls at Coll; winter services limited",
+   "url": "https://en.wikipedia.org/wiki/Tiree"
+  },
+  {
+   "fact": "Tiree Airport at Crossapol, daily Loganair flights to Glasgow",
+   "url": "https://en.wikipedia.org/wiki/Tiree"
+  },
+  {
+   "fact": "Windsurfing venue nicknamed 'Hawaii of the north'; hosts Tiree Wave Classic",
+   "url": "https://en.wikipedia.org/wiki/Tiree"
+  },
+  {
+   "fact": "Surf school based at Balevullin Beach Hut; lessons twice daily depending on tides",
+   "url": "https://www.blackhouse-watersports.co.uk/surf-tiree/"
+  },
+  {
+   "fact": "Tiree picks up swell from North Atlantic systems; conditions range from barrelling beach break to peeling longboard waves",
+   "url": "https://www.blackhouse-watersports.co.uk/surf-tiree/"
+  },
+  {
+   "fact": "Balevullin: NW swell, SE offshore, low tide, rarely crowded",
+   "url": "https://www.surf-forecast.com/breaks/Balevullin"
+  }
+ ],
+ "checked": "October 2026"
+}

@@ -1,0 +1,265 @@
+{
+ "slug": "great-western-beach",
+ "schools": [
+  {
+   "name": "Newquay Surfing School (NQY Surf School)",
+   "type": "Surf school",
+   "url": "https://www.newquaysurfingschool.com/",
+   "base": "On Great Western Beach (TR7 2NE); surf centre with changing room and lockers a few steps from the sand",
+   "note": "Runs standard, friends and family, private, junior and bodyboard lessons, plus coasteering. A Cornish Secrets guide describes it as the only school operating on this beach.",
+   "source": "https://www.newquaysurfingschool.com/"
+  },
+  {
+   "name": "Newquay Activity Centre",
+   "type": "Surf school",
+   "url": "https://newquayactivitycentre.co.uk/",
+   "base": "60 Fore Street, Newquay (TR7 1LW); park nearby and walk down",
+   "note": "Most of its lessons run at Great Western, switching to Fistral or Towan when conditions suit. Public group lessons are 8+, private and family lessons from 3+, with winter kit (hood, gloves, boots) supplied.",
+   "source": "https://newquayactivitycentre.co.uk/surf-lessons/"
+  }
+ ],
+ "hire": [
+  {
+   "name": "Surf Hire Newquay",
+   "type": "Board & wetsuit hire",
+   "url": "https://www.surfhirenewquay.co.uk/",
+   "base": "On the sand at Great Western Beach",
+   "note": "Hires beginner and progression surfboards, bodyboards and full-length wetsuits for all ages with boots, gloves and hoods. You reserve online and collect from the beach, as vehicles can't get down the cliff road.",
+   "source": "https://www.surfhirenewquay.co.uk/"
+  },
+  {
+   "name": "Newquay Activity Centre",
+   "type": "Board & wetsuit hire",
+   "url": "https://newquayactivitycentre.co.uk/",
+   "base": "60 Fore Street, Newquay",
+   "note": "Offers a lesson-plus-hire session and discounted hire as a bolt-on after a lesson.",
+   "source": "https://newquayactivitycentre.co.uk/surf-lessons/"
+  }
+ ],
+ "shops": [
+  {
+   "name": "Ann's Cottage",
+   "type": "Surf shop",
+   "url": "https://www.annscottage.com/",
+   "town": "Newquay (Fistral Beach and Central Square)",
+   "note": "A Cornish surf retailer with two shops at Fistral Beach, one of them focused on wetsuits and surf gear, plus a town-centre store. The range covers soft and hard surfboards, bodyboards, SUPs and summer, winter and spring/autumn wetsuits with boots, gloves and hoods.",
+   "source": "https://www.findingouradventure.com/travel-diaries/best-shopping-newquay-guide-cornwall"
+  },
+  {
+   "name": "Sunset Surf",
+   "type": "Surf shop",
+   "url": "https://sunsetsurfnewquay.co.uk/",
+   "town": "Newquay town centre (Fore Street)",
+   "note": "Stocks foam boards, mini mals and longboards, bodyboards, wetsuits for adults and kids with boots, gloves and hoods, plus its own Cornish-printed clothing. Board and wetsuit hire is also listed, including winter wetsuits.",
+   "source": "https://directory.cornishsecrets.co.uk/listing/sunset-surf-newquay/"
+  },
+  {
+   "name": "Slide and Glide Surf",
+   "type": "Surf shop",
+   "url": "https://slideandglidesurf.co.uk/",
+   "town": "Newquay town centre (70 Fore Street)",
+   "note": "Sells its own custom surfboards plus leashes, wax, ding repair kits and clothing, and offers surfboard and wetsuit hire. The site says new board stock is on the way, so ring ahead if you're after a specific board.",
+   "source": "https://slideandglidesurf.co.uk/"
+  }
+ ],
+ "lessonsIntro": "Great Western is a small, cliff-backed beach in the middle of Newquay with a surf school right on the sand. It tends to be quieter in the water than Fistral or Towan, which makes it a relaxed place to learn.",
+ "learn": {
+  "text": [
+   "Great Western has a sandy bottom and shifting peaks, and Newquay Activity Centre notes it gets a slightly bigger wave than neighbouring Towan. Visit Cornwall describes it as popular with novice surfers. Because only one school is based on the beach, there are usually fewer boards in the water than at Fistral. Newquay Activity Centre runs most of its own lessons here too, moving to Fistral or Towan when the tide or swell suits them better.",
+   "Tide makes a big difference. At high tide the beach shrinks to a small cove and isn't a good time to surf; at mid to low tide it joins Towan and Tolcarne to form one long stretch of sand. RNLI lifeguards patrol daily from 16 May to 27 September 2026, 10am to 6pm. Surfers use the black and white flagged zone, swimmers and bodyboarders the red and yellow. Visit Cornwall has reported a section cordoned off after a cliff fall, so keep away from the cliff base."
+  ],
+  "cards": [
+   {
+    "label": "Level",
+    "title": "Good for first-timers",
+    "text": "Popular with novice surfers and usually less crowded than Fistral, with a sandy bottom."
+   },
+   {
+    "label": "Best time",
+    "title": "Mid to low tide",
+    "text": "Avoid high tide, when the beach shrinks right back. It can also be a good option in winter when there's decent swell."
+   },
+   {
+    "label": "Watch out for",
+    "title": "High tide and the cliffs",
+    "text": "The beach nearly disappears at high tide, and cliff falls have closed parts of it before; check signs on arrival."
+   }
+  ]
+ },
+ "hireIntro": "Great Western has hire right on the sand, which is handy because the beach is reached by a steep walk down from Cliff Road.",
+ "kit": {
+  "text": [
+   "A soft-top is the right board for learning here, and you can hire beginner foamies on the beach. As you progress, the hire centre also has boards in a range of volumes. Sea temperatures in this area run from about 9-10C in early March to 15-18C in August, so even in summer a full-length wetsuit makes sense."
+  ],
+  "cards": [
+   {
+    "label": "Board",
+    "title": "Foam board to start",
+    "text": "Beginner soft-tops for first lessons; lower-volume boards once you're catching waves on your own."
+   },
+   {
+    "label": "Wetsuit",
+    "title": "Full suit year round",
+    "text": "A 4/3mm or 3/2mm with boots in summer; a 5/4mm or 5/3mm with gloves, boots and a hood in late winter."
+   },
+   {
+    "label": "Other craft",
+    "title": "Bodyboards welcome",
+    "text": "Bodyboards can be hired on the beach and Newquay Surfing School runs bodyboard lessons; stay between the red and yellow flags."
+   }
+  ]
+ },
+ "shopsIntro": "There's no surf shop on the beach itself, but Newquay town centre is just up the hill.",
+ "shopsText": [
+  "Great Western is reached from Cliff Road, close to the town centre. Fore Street has Sunset Surf and Slide and Glide, both selling boards, wetsuits and accessories, and Ann's Cottage has a store in Central Square plus two shops at Fistral Beach on the other side of town."
+ ],
+ "faqs": {
+  "lessons": [
+   {
+    "q": "Is Great Western a good beach to learn to surf?",
+    "a": "Yes. It's popular with novice surfers, has a sandy bottom and is usually quieter in the water than Fistral. Aim for mid to low tide."
+   },
+   {
+    "q": "Which surf schools teach at Great Western?",
+    "a": "Newquay Surfing School (NQY Surf School) is based on the beach, and Newquay Activity Centre on Fore Street runs most of its lessons here."
+   },
+   {
+    "q": "Can I surf Great Western at high tide?",
+    "a": "It isn't recommended. The beach almost disappears at high tide and the surf is better from mid to low tide."
+   }
+  ],
+  "hire": [
+   {
+    "q": "Can I hire a board on Great Western Beach?",
+    "a": "Yes. Surf Hire Newquay is on the sand and hires surfboards, bodyboards and wetsuits. You can reserve online and collect on the beach."
+   },
+   {
+    "q": "Can I drive down to collect hire kit?",
+    "a": "No. Vehicle access down the steep road beside the Great Western Hotel is limited to emergency services and deliveries, so you'll need to walk down."
+   }
+  ],
+  "shops": [
+   {
+    "q": "Where's the nearest surf shop to Great Western?",
+    "a": "In Newquay town centre, a short walk away. Sunset Surf and Slide and Glide are on Fore Street, and Ann's Cottage is in Central Square."
+   }
+  ]
+ },
+ "sources": [
+  {
+   "label": "RNLI: Great Western Beach",
+   "url": "https://rnli.org/find-my-nearest/lifeguarded-beaches/newquay-great-western-beach"
+  },
+  {
+   "label": "Newquay Activity Centre: Great Western guide",
+   "url": "https://newquayactivitycentre.co.uk/cornwall-surfing-beaches/great-western-beach-a-complete-guide/"
+  },
+  {
+   "label": "Newquay Activity Centre: surf lessons",
+   "url": "https://newquayactivitycentre.co.uk/surf-lessons/"
+  },
+  {
+   "label": "Visit Cornwall: Great Western Beach",
+   "url": "https://www.visitcornwall.com/things-to-do/beaches/great-western-beach"
+  },
+  {
+   "label": "Cornish Secrets: best Newquay beaches for beginners",
+   "url": "https://www.cornishsecrets.co.uk/guide/best-surfing-beaches-in-newquay-for-beginners/"
+  },
+  {
+   "label": "Newquay Surfing School",
+   "url": "https://www.newquaysurfingschool.com/"
+  },
+  {
+   "label": "Surf Hire Newquay",
+   "url": "https://www.surfhirenewquay.co.uk/"
+  },
+  {
+   "label": "Surf-forecast.com: sea temperature",
+   "url": "https://www.surf-forecast.com/breaks/Holywell-Bay/seatemp"
+  },
+  {
+   "label": "Finding Our Adventure: Newquay shops",
+   "url": "https://www.findingouradventure.com/travel-diaries/best-shopping-newquay-guide-cornwall"
+  },
+  {
+   "label": "Sunset Surf",
+   "url": "https://sunsetsurfnewquay.co.uk/"
+  },
+  {
+   "label": "Slide and Glide Surf",
+   "url": "https://slideandglidesurf.co.uk/"
+  }
+ ],
+ "factCheck": [
+  {
+   "fact": "Lifeguards daily 16 May-27 September 2026, 10am-6pm",
+   "url": "https://rnli.org/find-my-nearest/lifeguarded-beaches/newquay-great-western-beach"
+  },
+  {
+   "fact": "Backed by high cliffs; links with Towan and Tolcarne at low tide",
+   "url": "https://rnli.org/find-my-nearest/lifeguarded-beaches/newquay-great-western-beach"
+  },
+  {
+   "fact": "Slightly bigger wave than Towan; sand bottom, shifting peaks; not high tide; good in winter with decent swell",
+   "url": "https://newquayactivitycentre.co.uk/cornwall-surfing-beaches/great-western-beach-a-complete-guide/"
+  },
+  {
+   "fact": "Surfers between black and white flags; swimmers and bodyboarders between red and yellow",
+   "url": "https://newquayactivitycentre.co.uk/cornwall-surfing-beaches/great-western-beach-a-complete-guide/"
+  },
+  {
+   "fact": "Access via steep tarmac road beside Great Western Hotel; vehicles limited to emergency and deliveries",
+   "url": "https://newquayactivitycentre.co.uk/cornwall-surfing-beaches/great-western-beach-a-complete-guide/"
+  },
+  {
+   "fact": "Popular with novice surfers; section cordoned off after cliff fall",
+   "url": "https://www.visitcornwall.com/things-to-do/beaches/great-western-beach"
+  },
+  {
+   "fact": "Generally quieter with one surf school (NQY) operating there",
+   "url": "https://www.cornishsecrets.co.uk/guide/best-surfing-beaches-in-newquay-for-beginners/"
+  },
+  {
+   "fact": "NQY Surf School on Great Western Beach TR7 2NE, surf centre with changing room and lockers; standard, family, private, junior, bodyboard lessons; hire via surfhirenewquay.co.uk",
+   "url": "https://www.newquaysurfingschool.com/"
+  },
+  {
+   "fact": "Surf Hire Newquay is on the sand at Great Western; beginner boards, bodyboards, wetsuits with boots/gloves/hoods; reserve and collect",
+   "url": "https://www.surfhirenewquay.co.uk/"
+  },
+  {
+   "fact": "Newquay Activity Centre: most lessons at Great Western; group 8+, private/family 3+; winter kit; Surf Lesson & Hire option",
+   "url": "https://newquayactivitycentre.co.uk/surf-lessons/"
+  },
+  {
+   "fact": "Ann's Cottage has two shops at Fistral Beach (one for wetsuits and surf gear) and a store at 14 Central Square, Newquay",
+   "url": "https://www.findingouradventure.com/travel-diaries/best-shopping-newquay-guide-cornwall"
+  },
+  {
+   "fact": "Ann's Cottage sells soft and hard surfboards, bodyboards, SUPs and seasonal wetsuits with accessories",
+   "url": "https://www.annscottage.com/"
+  },
+  {
+   "fact": "Sunset Surf is at 106 Fore St, Newquay and offers surfboard and wetsuit hire, including winter wetsuits",
+   "url": "https://directory.cornishsecrets.co.uk/listing/sunset-surf-newquay/"
+  },
+  {
+   "fact": "Sunset Surf stocks foam boards, mini mals, longboards, bodyboards and wetsuits for men, women and kids",
+   "url": "https://sunsetsurfnewquay.co.uk/"
+  },
+  {
+   "fact": "Slide and Glide is at 70 Fore Street, Newquay, sells custom surfboards and accessories and offers wetsuit and surfboard hire",
+   "url": "https://slideandglidesurf.co.uk/"
+  },
+  {
+   "fact": "Sea temperature near Newquay peaks around 15-18C in mid August and drops to about 9-10C around 1 March",
+   "url": "https://www.surf-forecast.com/breaks/Holywell-Bay/seatemp"
+  },
+  {
+   "fact": "Suggested wetsuits: 4/3mm or 3/2mm with boots in summer; 5/4mm or 5/3mm with gloves and boots in late winter; add a hood when windy",
+   "url": "https://www.surf-forecast.com/breaks/Holywell-Bay/seatemp"
+  }
+ ],
+ "gaps": "Cliff-fall closure status is unclear: Visit Cornwall reports a cordoned-off section and a We Are Cornwall listing mentions an earlier landslide affecting the access road, but neither is dated reliably, so check current status before publishing. No adaptive surfing offer found. Minimum age for NQY junior lessons not stated."
+}

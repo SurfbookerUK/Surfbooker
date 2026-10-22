@@ -1,0 +1,193 @@
+{
+ "slug": "benone-strand",
+ "schools": [
+  {
+   "name": "Long Line Surf School",
+   "type": "Surf school",
+   "url": "https://longlinesurfschool.co.uk/",
+   "base": "Long Line Surf Cabin on the boardwalk, left of Benone Tourist Complex",
+   "note": "WSA-accredited school running from Benone since 2012: 90-minute adult lessons, private groups, kids' lessons for ages 6-14 and school groups. Coaches are qualified lifeguards, and the school has special provisions and custom boards for people with disabilities.",
+   "source": "https://longlinesurfschool.co.uk/faq-long-line-surf-school-northern-ireland/"
+  }
+ ],
+ "hire": [
+  {
+   "name": "Long Line / Sea Shed Coffee & Surf hire",
+   "type": "Board & wetsuit hire",
+   "url": "https://longlinesurfschool.co.uk/portfolio-item/surf-hire-northern-ireland/",
+   "base": "Sea Shed Coffee & Surf, entrance to Benone beach",
+   "note": "Surfboards (8ft softboards), bodyboards and 5/3mm wetsuits from junior to adult sizes, for up to three hours. At the time of checking the site said hire was not available, so check Sea Shed's Instagram or contact the school first.",
+   "source": "https://longlinesurfschool.co.uk/portfolio-item/surf-hire-northern-ireland/"
+  }
+ ],
+ "shops": [
+  {
+   "name": "Sea Shed Coffee & Surf",
+   "type": "Surf shop",
+   "url": "https://longlinesurfschool.co.uk/portfolio-item/sea-shed-coffee-surf/",
+   "town": "Benone (beachfront) and Downhill Forest",
+   "note": "A café run by the Long Line team that combines coffee with surf rental and retail, including locally made surfboards, with a beachfront spot at Benone and a second shop in Downhill Forest.",
+   "source": "https://longlinesurfschool.co.uk/portfolio-item/sea-shed-coffee-surf/"
+  }
+ ],
+ "lessonsIntro": "Benone is a seven-mile beach with its own surf school, Long Line, which teaches beginners, kids and groups from a cabin beside the tourist complex.",
+ "learn": {
+  "text": [
+   "Benone Strand runs for about seven miles below Binevenagh, and its size means there's usually plenty of room for a lesson. Long Line Surf School meets you at its cabin on the boardwalk, left of the Benone Tourist Complex, then walks you to the sand. Lessons last 90 minutes in waist-deep water, with up to eight learners per instructor. You should ideally be able to swim 50 metres, or at least be confident in open water.",
+   "The beach has RNLI lifeguards daily from 10am to 6pm in July and August and is zoned for swimming, jet skis and dogs, so stick to the right area. Long Line doesn't cancel just because the forecast looks small: kids' lessons use small-wave boards, and if it's flat or dangerous the school rearranges or offers a voucher. Access towards Magilligan Point can be restricted when the firing range is in use."
+  ],
+  "cards": [
+   {
+    "label": "Level",
+    "title": "Beginners and kids",
+    "text": "Adult lessons are from age 8 (6-7 with an adult in the water). Kids' lessons are for ages 6 to 14."
+   },
+   {
+    "label": "Best time",
+    "title": "Summer for lifeguards",
+    "text": "RNLI lifeguards patrol 10am-6pm daily in July and August. Long Line provides winter wetsuits all year."
+   },
+   {
+    "label": "Watch out for",
+    "title": "Zones and the firing range",
+    "text": "Use the swimming and surf areas, not the jet ski zone. Access to Magilligan Point may close when the range is firing."
+   }
+  ]
+ },
+ "hireIntro": "Long Line hires boards and wetsuits from Sea Shed Coffee & Surf at the beach entrance, when the service is running.",
+ "kit": {
+  "text": [
+   "Long Line's hire and lesson boards are 8ft Vision softboards, a good size for catching small, gentle waves while you learn. Wetsuits are 5/3mm, and if you bring your own for a lesson it needs to be at least that thick. In winter, add boots, gloves and a hood. Bodyboards are available to hire, and stand-up paddleboarding lessons take place on the nearby River Roe rather than the sea."
+  ],
+  "cards": [
+   {
+    "label": "Board",
+    "title": "8ft softboard",
+    "text": "Long Line uses 8ft Vision softboards for learners, built to help you catch plenty of waves as you progress."
+   },
+   {
+    "label": "Wetsuit",
+    "title": "5/3mm most of the year, thicker in winter",
+    "text": "North Coast sea temperature data shows roughly 13-16°C in late summer (a 4/3mm or 5/3mm) and about 7-9°C in late winter, when a 5/4mm or 6/5/4mm with boots, gloves and a hood is advised. Local schools supply 5/3mm or 5mm suits."
+   },
+   {
+    "label": "Other craft",
+    "title": "Bodyboards here, SUP on the river",
+    "text": "Bodyboards can be hired at Benone. Long Line's SUP sessions run on the River Roe at Swanns Bridge. Jet skis have their own zone."
+   }
+  ]
+ },
+ "shopsIntro": "The surf shop at Benone is Sea Shed Coffee & Surf, right at the beach entrance.",
+ "shopsText": [
+  "Sea Shed Coffee & Surf sits by the dunes at the Benone entrance and combines a café with surf retail and rental, including locally made boards. It's run by the same couple as Long Line Surf School. There's a second Sea Shed in Downhill Forest. For a bigger range of boards and wetsuits, Troggs in Portrush is the main surf shop on the North Coast."
+ ],
+ "faqs": {
+  "lessons": [
+   {
+    "q": "Where do Benone surf lessons meet?",
+    "a": "At the Long Line Surf Cabin on the boardwalk, to the left of the Benone Tourist Complex. You change there, then walk to the beach."
+   },
+   {
+    "q": "How old do children need to be for a lesson at Benone?",
+    "a": "Long Line's kids' lessons are for ages 6 to 14. Under-8s need a parent or guardian on the beach for the whole lesson."
+   },
+   {
+    "q": "Is there inclusive surfing at Benone?",
+    "a": "Long Line says it has special provisions for people with disabilities, including custom boards for specific needs. Benone also works with the Mae Murray Foundation, with beach wheelchairs to book in July and August."
+   }
+  ],
+  "hire": [
+   {
+    "q": "Can I hire a surfboard at Benone?",
+    "a": "Long Line hires softboards, bodyboards and wetsuits from Sea Shed at the beach entrance, but when we checked the hire page said it wasn't available. Check before you travel."
+   },
+   {
+    "q": "Do I need to book hire in advance?",
+    "a": "Long Line asks for 24 hours' notice; walk-ins are taken between 10am and 3pm if kit is free. Hire is day-only, for up to three hours."
+   }
+  ],
+  "shops": [
+   {
+    "q": "Is there a surf shop at Benone?",
+    "a": "Sea Shed Coffee & Surf at the beach entrance sells surf gear alongside coffee. Troggs in Portrush has a wider range."
+   }
+  ]
+ },
+ "sources": [
+  {
+   "label": "Long Line Surf School",
+   "url": "https://longlinesurfschool.co.uk/"
+  },
+  {
+   "label": "Long Line surf lessons",
+   "url": "https://longlinesurfschool.co.uk/portfolio-item/surf-lessons-northern-ireland/"
+  },
+  {
+   "label": "Long Line kids surf lessons",
+   "url": "https://longlinesurfschool.co.uk/portfolio-item/kids-surfing-lessons/"
+  },
+  {
+   "label": "Long Line Surf School FAQs",
+   "url": "https://longlinesurfschool.co.uk/faq-long-line-surf-school-northern-ireland/"
+  },
+  {
+   "label": "Long Line surf hire",
+   "url": "https://longlinesurfschool.co.uk/portfolio-item/surf-hire-northern-ireland/"
+  },
+  {
+   "label": "Sea Shed Coffee & Surf (Long Line)",
+   "url": "https://longlinesurfschool.co.uk/portfolio-item/sea-shed-coffee-surf/"
+  },
+  {
+   "label": "Visit Causeway Coast and Glens: Benone Strand",
+   "url": "https://www.visitcausewaycoastandglens.com/things-to-do/benone-strand-p675611"
+  },
+  {
+   "label": "Council news: RNLI lifeguards peak season",
+   "url": "https://causewaycoastandglens.gov.uk/news/rnli-lifeguards-kick-off-peak-season-on-the-causeway-coast-and-county-down-beaches"
+  },
+  {
+   "label": "Surf-Forecast: Portrush East Strand sea temperature",
+   "url": "https://www.surf-forecast.com/breaks/Portrush_East-Strand/seatemp"
+  },
+  {
+   "label": "About Troggs",
+   "url": "https://www.troggs.com/pages/about-troggs"
+  }
+ ],
+ "factCheck": [
+  {
+   "fact": "Long Line established 2012, WSA accredited, lifeguard-qualified coaches, provisions for disabilities and custom boards",
+   "url": "https://longlinesurfschool.co.uk/"
+  },
+  {
+   "fact": "Lessons 90 minutes, 1:8 ratio, max 16, waist-deep, minimum age 8 (6-7 with non-surfing adult in water), winter wetsuits year-round, own wetsuit must be 5:3mm",
+   "url": "https://longlinesurfschool.co.uk/portfolio-item/surf-lessons-northern-ireland/"
+  },
+  {
+   "fact": "Kids' lessons ages 6-14, two hours, small-wave boards, under-8s need parent on the beach",
+   "url": "https://longlinesurfschool.co.uk/portfolio-item/kids-surfing-lessons/"
+  },
+  {
+   "fact": "Meeting point: Long Line Surf Cabin left of Benone Tourist Complex; 50m swim ideal; flat or dangerous surf rearranged or voucher; SUP on River Roe",
+   "url": "https://longlinesurfschool.co.uk/faq-long-line-surf-school-northern-ireland/"
+  },
+  {
+   "fact": "Hire from Sea Shed at Benone entrance: 8ft Vision softboards, 5:3mm wetsuits Junior XS-Adult XXXL, up to 3 hours, 24h booking, walk-ins 10am-3pm; page said 'not available at this time'",
+   "url": "https://longlinesurfschool.co.uk/portfolio-item/surf-hire-northern-ireland/"
+  },
+  {
+   "fact": "Sea Shed Coffee & Surf founded 2016, surf rental and retail, Benone and Downhill Forest stores",
+   "url": "https://longlinesurfschool.co.uk/portfolio-item/sea-shed-coffee-surf/"
+  },
+  {
+   "fact": "Benone seven miles, RNLI July-August 10am-6pm, zones for swimming/jet skis/dogs, Mae Murray Foundation equipment, Magilligan firing range restriction",
+   "url": "https://www.visitcausewaycoastandglens.com/things-to-do/benone-strand-p675611"
+  },
+  {
+   "fact": "Sea temperature and wetsuit guidance",
+   "url": "https://www.surf-forecast.com/breaks/Portrush_East-Strand/seatemp"
+  }
+ ],
+ "gaps": "Long Line's hire page says hire is 'not available at this time'; current status unknown. Sea Shed's own website/Instagram wasn't checked, so its opening hours and stock aren't confirmed. No source describes rips or other surf hazards at Benone specifically. Long Line doesn't state where on the beach lessons take place beyond walking from the cabin."
+}

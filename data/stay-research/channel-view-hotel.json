@@ -1,0 +1,26 @@
+{
+ "name": "Channel View Hotel",
+ "officialUrl": "https://www.channelviewhotel.co.uk/",
+ "trading": true,
+ "stayType": "Clifftop hotel with pool",
+ "accommodation": "Over 50 en-suite rooms, including sea-view and ground-floor rooms",
+ "suitableFor": "Families and groups wanting a full-service hotel with evening entertainment",
+ "parking": "Free off-road parking and secure cycle parking (Visit Isle of Wight listing)",
+ "dogs": "Pets by arrangement (Visit Isle of Wight listing)",
+ "beachAccess": "Shanklin Beach about 0.23 miles; beach and esplanade a short walk (Visit Isle of Wight listing)",
+ "boardStorage": null,
+ "confirmedFeatures": "Indoor heated pool, spa bath, sauna, restaurant, bar, live music, lift, Wi-Fi, packed lunches",
+ "overview": "Channel View Hotel stands in a raised clifftop position on Hope Road, looking over Shanklin Bay. It has over 50 en-suite rooms, a restaurant, a bar with regular live music, and an indoor heated pool with a spa bath and sauna. The beach and esplanade are a short walk down from the hotel.",
+ "surfTripFit": "Close to the beach with an indoor pool and sauna for warming up, packed lunches, and free parking.",
+ "sources": [
+  {
+   "label": "Official website",
+   "url": "https://www.channelviewhotel.co.uk/"
+  },
+  {
+   "label": "Visit Isle of Wight listing",
+   "url": "https://www.visitisleofwight.co.uk/accommodation/channel-view-hotel-shanklin-p138251"
+  }
+ ],
+ "slug": "channel-view-hotel"
+}

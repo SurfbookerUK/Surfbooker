@@ -1,0 +1,22 @@
+{
+ "slug": "mount-haven-hotel",
+ "officialUrl": "https://www.mounthaven.co.uk/",
+ "trading": true,
+ "stayType": "Boutique hotel",
+ "accommodation": "Bedrooms including 'Blissful Bay' rooms (one refurbished on the ground floor), some with balconies or private courtyards. Room count not stated.",
+ "suitableFor": "Couples and adults seeking a quiet bay-view hotel",
+ "parking": null,
+ "dogs": null,
+ "beachAccess": null,
+ "boardStorage": null,
+ "confirmedFeatures": "Terrace Bar, garden, breakfast, bookable treatments",
+ "overview": "A boutique hotel on the edge of Marazion looking across Mount's Bay to St Michael's Mount. It has a terrace bar and garden, rooms with balconies or courtyards, and offers treatments that can be booked online.",
+ "surfTripFit": "Better as a comfortable couples' base than a surf camp; Praa Sands and Perranuthnoe are nearby by car, but the site states no beach distance or surf facilities.",
+ "sources": [
+  {
+   "label": "Mount Haven Hotel",
+   "url": "https://www.mounthaven.co.uk/"
+  }
+ ],
+ "gaps": "Room count, parking, dogs, beach distance and restaurant details not stated on homepage. Located in Marazion, not Praa Sands."
+}

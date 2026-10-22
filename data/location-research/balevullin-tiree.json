@@ -1,0 +1,173 @@
+{
+ "slug": "balevullin-tiree",
+ "schools": [
+  {
+   "name": "Blackhouse Watersports",
+   "type": "Surf school",
+   "url": "https://www.blackhouse-watersports.co.uk/",
+   "base": "Beach huts at Balevullin beach",
+   "note": "Surf lessons for all ages and abilities from May to October, with ASI-qualified instructors who are also qualified surf lifesavers. In July and August lessons run with Suds Surf School, and it's home to Tiree Surf Club.",
+   "source": "https://www.isleoftiree.com/attractions/146215-blackhouse-watersports-and-bike-rental"
+  },
+  {
+   "name": "Wild Diamond",
+   "type": "Watersports centre",
+   "url": "https://wilddiamond.co.uk/",
+   "base": "Loch Bhasapol, Cornaig",
+   "note": "Tiree's longest-running watersports business offers surfing alongside windsurfing, kitesurfing and SUP, from beginner to advanced. The 2026 season runs from early April to late October, daily except Fridays.",
+   "source": "https://www.isleoftiree.com/attractions/146217-wild-diamond-watersports"
+  }
+ ],
+ "hire": [
+  {
+   "name": "Wild Diamond",
+   "type": "Surf, bodyboard & SUP hire",
+   "url": "https://wilddiamond.co.uk/",
+   "base": "Loch Bhasapol, Cornaig",
+   "note": "Hires surf kit including bodyboards, plus SUP, windsurf and kite gear, by arrangement.",
+   "source": "https://www.isleoftiree.com/attractions/146217-wild-diamond-watersports"
+  }
+ ],
+ "shops": [
+  {
+   "name": "Wild Diamond",
+   "type": "Surf shop",
+   "url": "https://wilddiamond.co.uk/",
+   "town": "Cornaig, Isle of Tiree",
+   "note": "Its shop sells watersports equipment, beachwear and locally branded clothing, and offers a wetsuit fitting and advice service. It's closed on Fridays.",
+   "source": "https://www.isleoftiree.com/attractions/146217-wild-diamond-watersports"
+  }
+ ],
+ "lessonsIntro": "Balevullin has its own surf school working from beach huts on the sand, and Wild Diamond also offers surfing elsewhere on the island.",
+ "learn": {
+  "text": [
+   "Blackhouse Watersports runs surf lessons from two beach huts at Balevullin, on Tiree's west side, between May and October. Its instructors hold ASI qualifications and are trained surf lifesavers, and the school welcomes all ages and abilities, from first-timers to surfers wanting coaching. In July and August lessons run together with Suds Surf School. Tiree Surf Club is also based here.",
+   "We couldn't find any lifeguard cover listed for Balevullin, so learning with an instructor is the safe way to start. Tiree is exposed to Atlantic weather, and Blackhouse mentions surfing on both the west and south coasts of the island. Wild Diamond at Loch Bhasapol also offers surf courses for beginners to advanced as part of a wider watersports programme, so it's worth comparing both before you book."
+  ],
+  "cards": [
+   {
+    "label": "Level",
+    "title": "Beginners with a school",
+    "text": "Blackhouse teaches all ages and abilities here. Without an instructor, you'd be surfing with no lifeguard cover that we could find."
+   },
+   {
+    "label": "Best time",
+    "title": "May to October",
+    "text": "That's Blackhouse's lesson season, with extra capacity in July and August. Wild Diamond runs from early April to late October."
+   },
+   {
+    "label": "Watch out for",
+    "title": "No lifeguards found",
+    "text": "We couldn't confirm lifeguard cover or official hazard information for Balevullin, so ask your instructor about the day's conditions."
+   }
+  ]
+ },
+ "hireIntro": "Surf hire on Tiree is by arrangement, so book ahead before you travel to the island.",
+ "kit": {
+  "text": [
+   "Tiree is an Atlantic island and the water is cold, so plan on a thick wetsuit with boots outside high summer. We couldn't find a Tiree-specific water temperature source; on Scotland's north coast, the local school quotes roughly 6-10°C in winter and spring and 11-15°C in summer, which gives you an idea. Wild Diamond offers wetsuit fitting and advice if you're buying, and hires bodyboards and SUPs as well as surf kit."
+  ],
+  "cards": [
+   {
+    "label": "Board",
+    "title": "Ask your school",
+    "text": "We couldn't confirm the board range used in lessons. Wild Diamond hires surf kit by arrangement once you're ready to go it alone."
+   },
+   {
+    "label": "Wetsuit",
+    "title": "Thick, with boots",
+    "text": "We couldn't find Tiree temperature data. North coast schools use 5/4mm with boots and gloves for water of roughly 6-15°C, so plan along those lines."
+   },
+   {
+    "label": "Other craft",
+    "title": "Bodyboards and SUP",
+    "text": "Wild Diamond hires bodyboards and SUPs by arrangement. We found no craft rules for Balevullin."
+   }
+  ]
+ },
+ "shopsIntro": "Tiree's surf shop is at Wild Diamond on Loch Bhasapol, in the north-west of the island.",
+ "shopsText": [
+  "There's no shop at Balevullin itself beyond the Blackhouse beach huts. Wild Diamond at Loch Bhasapol, Cornaig, runs a shop selling watersports equipment, beachwear and its own clothing, with a wetsuit fitting and advice service. Its hours are shorter in spring and autumn, and it's closed on Fridays, so check before you go."
+ ],
+ "faqs": {
+  "lessons": [
+   {
+    "q": "Can I have a surf lesson at Balevullin?",
+    "a": "Yes. Blackhouse Watersports teaches from beach huts at Balevullin between May and October."
+   },
+   {
+    "q": "Who are the instructors?",
+    "a": "Blackhouse says its instructors hold ASI qualifications and are fully qualified surf lifesavers."
+   },
+   {
+    "q": "Are there lifeguards at Balevullin?",
+    "a": "We couldn't find any lifeguard cover listed, so learn with a school."
+   }
+  ],
+  "hire": [
+   {
+    "q": "Can I hire a surfboard on Tiree?",
+    "a": "Yes. Wild Diamond hires surf kit, bodyboards and SUPs by arrangement, so book ahead."
+   },
+   {
+    "q": "Should I bring my own wetsuit?",
+    "a": "If you have a winter-weight suit, it's worth packing. Check with your school or Wild Diamond what kit is included or available when you book."
+   }
+  ],
+  "shops": [
+   {
+    "q": "Is there a surf shop on Tiree?",
+    "a": "Yes, Wild Diamond at Loch Bhasapol, Cornaig, sells watersports equipment and offers wetsuit fitting. It's closed on Fridays."
+   }
+  ]
+ },
+ "sources": [
+  {
+   "label": "Isle of Tiree: Blackhouse Watersports listing",
+   "url": "https://www.isleoftiree.com/attractions/146215-blackhouse-watersports-and-bike-rental"
+  },
+  {
+   "label": "Isle of Tiree: Wild Diamond Watersports listing",
+   "url": "https://www.isleoftiree.com/attractions/146217-wild-diamond-watersports"
+  },
+  {
+   "label": "Isle of Tiree: sports listings",
+   "url": "https://www.isleoftiree.com/sports"
+  },
+  {
+   "label": "Blackhouse Watersports",
+   "url": "https://www.blackhouse-watersports.co.uk/"
+  },
+  {
+   "label": "Wild Diamond",
+   "url": "https://wilddiamond.co.uk/"
+  },
+  {
+   "label": "North Coast Watersports surf guide (north coast water temperatures)",
+   "url": "https://www.northcoastwatersports.com/northcoastofscotlandsurfguide"
+  }
+ ],
+ "factCheck": [
+  {
+   "fact": "Blackhouse Watersports: two beach huts at Balevullin; surf lessons all ages/abilities 1 May-31 Oct; with Suds Surf School in July/August; ASI-qualified, qualified surf lifesavers; home of Tiree Surf Club.",
+   "url": "https://www.isleoftiree.com/attractions/146215-blackhouse-watersports-and-bike-rental"
+  },
+  {
+   "fact": "Blackhouse offers beginner lessons for all ages and coaching for intermediate and advanced surfers.",
+   "url": "https://www.blackhouse-watersports.co.uk/"
+  },
+  {
+   "fact": "Wild Diamond: est. 1998, Loch Bhasapol, Cornaig; surfing, windsurf, kite, SUP lessons; hire of surf incl. bodyboards and SUP by arrangement; shop with wetsuit fitting; season 4 Apr-24 Oct 2026, closed Fridays.",
+   "url": "https://www.isleoftiree.com/attractions/146217-wild-diamond-watersports"
+  },
+  {
+   "fact": "Wild Diamond describes itself as the best stocked surf shop in the Hebrides.",
+   "url": "https://wilddiamond.co.uk/"
+  },
+  {
+   "fact": "North Coast Watersports quotes water of 6-10°C in winter and spring, 11-15°C in summer and 10-15°C in autumn; its FAQ gives 7-13°C.",
+   "url": "https://www.northcoastwatersports.com/northcoastofscotlandsurfguide"
+  }
+ ],
+ "gaps": "Blackhouse's surf and hire pages blocked our fetch, so its surf hire range (listed in existing data) isn't re-confirmed here. VisitScotland's Balevullin page was rate-limited. No lifeguard, hazard (rips/rocks), tide or Tiree water-temperature source found. Suds Surf School's own site not checked. Distance from Cornaig to Balevullin not confirmed."
+}

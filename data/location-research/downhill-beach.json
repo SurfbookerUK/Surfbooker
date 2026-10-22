@@ -1,0 +1,217 @@
+{
+ "slug": "downhill-beach",
+ "schools": [
+  {
+   "name": "Long Line Surf School",
+   "type": "Surf school",
+   "url": "https://longlinesurfschool.co.uk/",
+   "base": "Long Line Surf Cabin on the boardwalk, left of Benone Tourist Complex",
+   "note": "Downhill is the eastern end of the same long strand as Benone; Long Line teaches from its cabin at the Benone end, with adult, private, kids' (6-14) and group lessons and provisions for people with disabilities.",
+   "source": "https://longlinesurfschool.co.uk/faq-long-line-surf-school-northern-ireland/"
+  },
+  {
+   "name": "Shack Dogs Surf School (Surf Shack Castlerock)",
+   "type": "Surf school",
+   "url": "https://www.surfshackcastlerock.com/shack-dogs-surf-school",
+   "base": "Surf Shack, 11 Main Street, Castlerock",
+   "note": "Based in nearby Castlerock village, the school runs kids' summer camps (ages 8-15), a surf and yoga camp and private group lessons on Castlerock beach, with lifeguard-qualified coaches.",
+   "source": "https://www.surfshackcastlerock.com/shack-dogs-surf-school"
+  }
+ ],
+ "hire": [
+  {
+   "name": "Sea Shed Coffee & Surf (Downhill)",
+   "type": "Board & wetsuit hire",
+   "url": "https://longlinesurfschool.co.uk/portfolio-item/sea-shed-coffee-surf/",
+   "base": "Downhill Forest",
+   "note": "The Long Line team's second Sea Shed, in Downhill Forest, which combines coffee with surf rental and retail. Check what's available before you go.",
+   "source": "https://longlinesurfschool.co.uk/portfolio-item/sea-shed-coffee-surf/"
+  },
+  {
+   "name": "Surf Shack Castlerock hire",
+   "type": "Board & wetsuit hire",
+   "url": "https://www.surfshackcastlerock.com/shack-dogs-surf-school",
+   "base": "11 Main Street, Castlerock",
+   "note": "Surfboard, bodyboard and wetsuit hire in two-hour slots from the Surf Shack café in Castlerock village.",
+   "source": "https://www.surfshackcastlerock.com/shack-dogs-surf-school"
+  }
+ ],
+ "shops": [
+  {
+   "name": "Sea Shed Coffee & Surf",
+   "type": "Surf shop",
+   "url": "https://longlinesurfschool.co.uk/portfolio-item/sea-shed-coffee-surf/",
+   "town": "Benone (beachfront) and Downhill Forest",
+   "note": "A café and surf shop with a branch in Downhill Forest, selling surf gear including locally made boards, plus rental.",
+   "source": "https://longlinesurfschool.co.uk/portfolio-item/sea-shed-coffee-surf/"
+  },
+  {
+   "name": "Surf Shack Castlerock",
+   "type": "Surf shop",
+   "url": "https://www.surfshackcastlerock.com/",
+   "town": "Castlerock (11 Main Street)",
+   "note": "A café on Castlerock's Main Street that sells surf apparel and runs the Shack Dogs surf school and hire.",
+   "source": "https://www.surfshackcastlerock.com/"
+  }
+ ],
+ "lessonsIntro": "No surf school is based on Downhill beach itself, but you're between two: Long Line at the Benone end of the strand and Shack Dogs in Castlerock village.",
+ "learn": {
+  "text": [
+   "Downhill beach sits below Mussenden Temple at the eastern end of the long stretch of sand that runs west to Benone and Magilligan. The council treats Downhill and Benone as one protected dune system. If you want a lesson, Long Line Surf School meets at the Benone end, and Shack Dogs Surf School teaches on Castlerock beach just to the east. Both keep beginners in shallow water with qualified coaches and lifeguards.",
+   "RNLI lifeguards cover Downhill daily from 10am to 6pm in July and August. You can drive onto the beach most of the year, except to the right of the wooden posts at the entrance, but the council warns that tides and soft wind-blown sand can catch drivers out, so follow the signs. Horses are allowed before 11am and after 7pm in summer. Outside lifeguard season, check the weather and tides before you go."
+  ],
+  "cards": [
+   {
+    "label": "Level",
+    "title": "Learn with a nearby school",
+    "text": "No school is based here. Long Line (Benone) and Shack Dogs (Castlerock) both teach beginners."
+   },
+   {
+    "label": "Best time",
+    "title": "July and August",
+    "text": "Daily RNLI cover runs 10am-6pm in the summer holidays, which is also when kids' camps run nearby."
+   },
+   {
+    "label": "Watch out for",
+    "title": "Cars, tides and soft sand",
+    "text": "Vehicles use the beach. Follow the entrance signage on tides and soft sand, and keep clear of the vehicle-free area if you're parking."
+   }
+  ]
+ },
+ "hireIntro": "Downhill has a Sea Shed in the forest, and there's more hire a short way along the coast in Castlerock and at Benone.",
+ "kit": {
+  "text": [
+   "As on the rest of this coast, start on a long soft-top: Long Line uses 8ft softboards for lessons and hire. The water is cold for most of the year, so a 5/3mm full suit is the baseline and you'll want boots, gloves and a hood in winter. Bodyboards are available to hire nearby, and the council doesn't list craft restrictions for Downhill beyond the beach vehicle rules."
+  ],
+  "cards": [
+   {
+    "label": "Board",
+    "title": "8ft softboard",
+    "text": "The Long Line and Shack Dogs schools both supply boards for lessons; hire a soft-top until you can catch green waves."
+   },
+   {
+    "label": "Wetsuit",
+    "title": "5/3mm most of the year, thicker in winter",
+    "text": "North Coast sea temperature data shows roughly 13-16°C in late summer (a 4/3mm or 5/3mm) and about 7-9°C in late winter, when a 5/4mm or 6/5/4mm with boots, gloves and a hood is advised. Local schools supply 5/3mm or 5mm suits."
+   },
+   {
+    "label": "Other craft",
+    "title": "Bodyboards",
+    "text": "Surf Shack in Castlerock and Long Line both list bodyboard hire. Long Line's SUP sessions are on the River Roe, not the sea."
+   }
+  ]
+ },
+ "shopsIntro": "The surf shops nearest Downhill are small café-and-surf spots rather than big stores.",
+ "shopsText": [
+  "Sea Shed Coffee & Surf has a shop in Downhill Forest that sells surf gear and locally made boards alongside coffee, with another at the Benone entrance. In Castlerock village, Surf Shack sells surf apparel and runs hire. For a full range of boards and wetsuits, the closest big surf shop is Troggs in Portrush."
+ ],
+ "faqs": {
+  "lessons": [
+   {
+    "q": "Can I take a surf lesson at Downhill?",
+    "a": "No school is based on Downhill beach. Long Line Surf School meets at the Benone end of the same strand, and Shack Dogs Surf School teaches on Castlerock beach next door."
+   },
+   {
+    "q": "Is Downhill beach lifeguarded?",
+    "a": "Yes, RNLI lifeguards patrol daily from 10am to 6pm in July and August."
+   },
+   {
+    "q": "What age can kids start surfing near Downhill?",
+    "a": "Long Line's kids' lessons at Benone are for ages 6 to 14, and Shack Dogs' summer camps in Castlerock are for ages 8 to 15."
+   }
+  ],
+  "hire": [
+   {
+    "q": "Where can I hire surf kit near Downhill?",
+    "a": "Sea Shed in Downhill Forest offers surf rental, Surf Shack in Castlerock hires boards, bodyboards and wetsuits, and Long Line hires at Benone when its service is running."
+   },
+   {
+    "q": "Can I park on Downhill beach with my board?",
+    "a": "Yes, cars are allowed on the sand year-round except to the right of the wooden posts at the entrance. Watch the tide and soft sand, and follow the signs."
+   }
+  ],
+  "shops": [
+   {
+    "q": "Is there a surf shop at Downhill?",
+    "a": "Sea Shed Coffee & Surf has a shop in Downhill Forest. For a bigger range, Troggs in Portrush is the main surf store."
+   }
+  ]
+ },
+ "sources": [
+  {
+   "label": "Causeway Coast and Glens Council: Downhill Beach",
+   "url": "https://www.causewaycoastandglens.gov.uk/see-do/beaches/downhill-beach"
+  },
+  {
+   "label": "Long Line Surf School",
+   "url": "https://longlinesurfschool.co.uk/"
+  },
+  {
+   "label": "Long Line Surf School FAQs",
+   "url": "https://longlinesurfschool.co.uk/faq-long-line-surf-school-northern-ireland/"
+  },
+  {
+   "label": "Long Line kids surf lessons",
+   "url": "https://longlinesurfschool.co.uk/portfolio-item/kids-surfing-lessons/"
+  },
+  {
+   "label": "Long Line surf hire",
+   "url": "https://longlinesurfschool.co.uk/portfolio-item/surf-hire-northern-ireland/"
+  },
+  {
+   "label": "Sea Shed Coffee & Surf (Long Line)",
+   "url": "https://longlinesurfschool.co.uk/portfolio-item/sea-shed-coffee-surf/"
+  },
+  {
+   "label": "Surf Shack Castlerock",
+   "url": "https://www.surfshackcastlerock.com/"
+  },
+  {
+   "label": "Shack Dogs Surf School",
+   "url": "https://www.surfshackcastlerock.com/shack-dogs-surf-school"
+  },
+  {
+   "label": "Council news: RNLI lifeguards peak season",
+   "url": "https://causewaycoastandglens.gov.uk/news/rnli-lifeguards-kick-off-peak-season-on-the-causeway-coast-and-county-down-beaches"
+  },
+  {
+   "label": "Surf-Forecast: Portrush East Strand sea temperature",
+   "url": "https://www.surf-forecast.com/breaks/Portrush_East-Strand/seatemp"
+  },
+  {
+   "label": "About Troggs",
+   "url": "https://www.troggs.com/pages/about-troggs"
+  }
+ ],
+ "factCheck": [
+  {
+   "fact": "Downhill: RNLI July-August 10am-6pm; cars on beach except right of wooden posts; tidal and soft sand warnings; Downhill, Benone and Magilligan form an ASSI/SAC; 11km stretch; horses before 11am/after 7pm",
+   "url": "https://www.causewaycoastandglens.gov.uk/see-do/beaches/downhill-beach"
+  },
+  {
+   "fact": "Sea Shed Coffee & Surf has a store in Downhill Forest (opened 2022) offering surf rental and retail",
+   "url": "https://longlinesurfschool.co.uk/portfolio-item/sea-shed-coffee-surf/"
+  },
+  {
+   "fact": "Long Line meets at cabin by Benone Tourist Complex",
+   "url": "https://longlinesurfschool.co.uk/faq-long-line-surf-school-northern-ireland/"
+  },
+  {
+   "fact": "Long Line kids' lessons ages 6-14",
+   "url": "https://longlinesurfschool.co.uk/portfolio-item/kids-surfing-lessons/"
+  },
+  {
+   "fact": "Shack Dogs Surf School teaches on Castlerock beach; kids' camps ages 8-15; lifeguard-qualified coaches; surfboard, bodyboard and wetsuit hire",
+   "url": "https://www.surfshackcastlerock.com/shack-dogs-surf-school"
+  },
+  {
+   "fact": "Surf Shack sells apparel, 11 Main Street, Castlerock",
+   "url": "https://www.surfshackcastlerock.com/"
+  },
+  {
+   "fact": "Sea temperature and wetsuit guidance",
+   "url": "https://www.surf-forecast.com/breaks/Portrush_East-Strand/seatemp"
+  }
+ ],
+ "gaps": "No surf school or hire is confirmed on Downhill beach itself. Sea Shed Downhill's hire stock and hours weren't confirmed from its own channels. No official source describes rips or surf hazards at Downhill. Distances to Benone/Castlerock providers aren't given by sources."
+}

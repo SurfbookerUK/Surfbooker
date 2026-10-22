@@ -1,0 +1,189 @@
+{
+ "slug": "tynemouth-longsands",
+ "schools": [
+  {
+   "name": "Tynemouth Surf Co",
+   "type": "Surf school",
+   "url": "https://tynemouthsurf.co.uk/",
+   "base": "Next to the lifeguard station on Longsands Beach, Tynemouth (NE30 4JH)",
+   "note": "Two-hour group lessons for beginners and improvers (ages 8+, under-12s with an adult), kids-only sessions for 5 to 17s, Mini Groms for 5 to 9s, private group bookings, advanced coaching and SUP lessons for over-18s. Group lessons run at weekends and every day in the summer holidays, with board and wetsuit included.",
+   "source": "https://tynemouthsurf.co.uk/learn-to-surf-surf-school/"
+  },
+  {
+   "name": "Longsands Surf School",
+   "type": "Surf school",
+   "url": "https://www.longsandsurf.com/",
+   "base": "South Promenade, Longsands Beach, at the end of the promenade next to the old swimming pool (NE30 4HH)",
+   "note": "Lessons for kids and adults plus surf parties, with all kit supplied. There are no fixed opening times: the team aims to open whenever the surf is good, so call ahead if you're planning an early start.",
+   "source": "https://www.longsandsurf.com/"
+  }
+ ],
+ "hire": [
+  {
+   "name": "Tynemouth Surf Co hire",
+   "type": "Board & wetsuit hire",
+   "url": "https://tynemouthsurf.co.uk/equipment-hire-tynemouth/",
+   "base": "Tynemouth Surf Co beach hut on Longsands",
+   "note": "Softboards, semi-soft boards, hardboards, longboards, bodyboards, wetsuits, boots, gloves, hoods, lifejackets and SUPs. You can pre-book online (recommended at busy times) and you'll need ID to hire.",
+   "source": "https://tynemouthsurf.co.uk/equipment-hire-tynemouth/"
+  },
+  {
+   "name": "Longsands Surf School hire",
+   "type": "Board & wetsuit hire",
+   "url": "https://www.longsandsurf.com/",
+   "base": "South Promenade, Longsands Beach",
+   "note": "Surfboard and wetsuit hire with no booking needed, just turn up at the beach. Opening depends on the surf, so ring first if you're unsure.",
+   "source": "https://www.longsandsurf.com/"
+  }
+ ],
+ "shops": [
+  {
+   "name": "Tynemouth Surf Co",
+   "type": "Surf shop",
+   "url": "https://tynemouthsurf.co.uk/tynemouth-surf-co-shop/",
+   "town": "Tynemouth (Unit 1, Palace Buildings, Grand Parade)",
+   "note": "A seafront shop above Longsands selling wetsuits, surfboards from softboards to shortboards and longboards, bodyboards, skimboards, SUPs, clothing and accessories. Board and wetsuit repair products are listed too.",
+   "source": "https://tynemouthsurf.co.uk/"
+  }
+ ],
+ "lessonsIntro": "Longsands is Tynemouth's main surf beach, and you can book lessons with two schools based right on the sand. Group, kids', private and advanced sessions are all available.",
+ "learn": {
+  "text": [
+   "Longsands is a half-mile stretch of sand backed by dunes, and it's the busiest surf beach on this part of the Tyneside coast. Tynemouth Surf Co teaches from beside the lifeguard station, while Longsands Surf School is at the southern end of the promenade by the old swimming pool. Group lessons cover water safety and standing up, then turning once you're ready, and kit is included, so you only need to bring a towel.",
+   "RNLI lifeguards patrol Longsands daily from late May to early September, 10am to 6pm, and you should swim or bodyboard between the red and yellow flags. Outside those dates and hours there's no lifeguard cover. Tynemouth Surf Co runs group lessons at weekends and daily during the summer holidays, while Longsands Surf School opens when the waves are good, so check before you travel. Lessons go ahead or not depending on the sea, especially SUP sessions."
+  ],
+  "cards": [
+   {
+    "label": "Level",
+    "title": "Beginners welcome",
+    "text": "Group lessons are aimed at beginners and improvers. Tynemouth Surf Co takes kids from 5 in its kids-only and Mini Groms sessions."
+   },
+   {
+    "label": "Best time",
+    "title": "Summer for lifeguards and daily lessons",
+    "text": "Lifeguards are on duty daily from late May to early September, and group lessons run every day in the summer holidays."
+   },
+   {
+    "label": "Watch out for",
+    "title": "No flags means no lifeguards",
+    "text": "Outside patrol hours there's no cover. Stay between the red and yellow flags and don't surf alone as a beginner."
+   }
+  ]
+ },
+ "hireIntro": "You can hire boards and wetsuits from two places on Longsands itself, so there's no need to bring your own kit for a first go.",
+ "kit": {
+  "text": [
+   "For a first session a big soft-top is the board to pick, and both Longsands hire points stock them. Tynemouth Surf Co also hires semi-soft boards, hardboards and longboards when you're ready to move on. This is the North Sea, so as well as wetsuits you can hire boots, gloves and hoods. Ask the hire desk which wetsuit suits the time of year when you book."
+  ],
+  "cards": [
+   {
+    "label": "Board",
+    "title": "Soft-top to start",
+    "text": "Softboards for beginners, with semi-soft, hard and longboards available to hire as you improve."
+   },
+   {
+    "label": "Wetsuit",
+    "title": "Add boots, gloves and hood",
+    "text": "Wetsuits, boots, gloves and hoods are all for hire at Tynemouth Surf Co. Ask staff which thickness to take for the season."
+   },
+   {
+    "label": "Other craft",
+    "title": "Bodyboards and SUPs",
+    "text": "Bodyboards and paddleboards are for hire. Bodyboard between the red and yellow flags when lifeguards are on duty."
+   }
+  ]
+ },
+ "shopsIntro": "Tynemouth has a proper surf shop on the seafront, just above Longsands.",
+ "shopsText": [
+  "Tynemouth Surf Co's shop is on Grand Parade, a short walk up from the beach and its own surf school by the lifeguard station. It stocks boards of most shapes, wetsuits including kids' sizes, bodyboards, skimboards, SUPs and accessories. Longsands Surf School also sells wetsuits, boots, gloves, leashes and board bags through its online shop."
+ ],
+ "faqs": {
+  "lessons": [
+   {
+    "q": "How old do you need to be for a surf lesson at Longsands?",
+    "a": "Tynemouth Surf Co's group lessons take ages 8 and up, with under-12s joined by an adult. Its kids-only lessons cover 5 to 17s and Mini Groms is for 5 to 9s."
+   },
+   {
+    "q": "When do lessons run at Longsands?",
+    "a": "Tynemouth Surf Co's group lessons run on Saturdays and Sundays and every day during the summer holidays. Longsands Surf School opens when the surf is good, so it's worth calling ahead."
+   },
+   {
+    "q": "Is kit included in a lesson?",
+    "a": "Yes. Tynemouth Surf Co includes a board and wetsuit in its group lessons, and Longsands Surf School supplies all equipment for its sessions."
+   }
+  ],
+  "hire": [
+   {
+    "q": "Do I need to book surf hire at Longsands?",
+    "a": "Longsands Surf School says you can just turn up. Tynemouth Surf Co lets you book online and suggests doing so at busy times."
+   },
+   {
+    "q": "What do I need to bring to hire a board?",
+    "a": "Tynemouth Surf Co asks for ID for all equipment hire."
+   }
+  ],
+  "shops": [
+   {
+    "q": "Where is the nearest surf shop to Longsands?",
+    "a": "Tynemouth Surf Co is on Grand Parade (Palace Buildings), right above the beach."
+   }
+  ]
+ },
+ "sources": [
+  {
+   "label": "Tynemouth Surf Co - surf school",
+   "url": "https://tynemouthsurf.co.uk/learn-to-surf-surf-school/"
+  },
+  {
+   "label": "Tynemouth Surf Co - lessons at Longsands",
+   "url": "https://tynemouthsurf.co.uk/surf-school/surf-lessons-at-longsands/"
+  },
+  {
+   "label": "Tynemouth Surf Co - equipment hire",
+   "url": "https://tynemouthsurf.co.uk/equipment-hire-tynemouth/"
+  },
+  {
+   "label": "Tynemouth Surf Co - home and shop",
+   "url": "https://tynemouthsurf.co.uk/"
+  },
+  {
+   "label": "Longsands Surf School",
+   "url": "https://www.longsandsurf.com/"
+  },
+  {
+   "label": "RNLI - Tynemouth Longsands",
+   "url": "https://rnli.org/find-my-nearest/lifeguarded-beaches/tynemouth-longsands-beach"
+  }
+ ],
+ "factCheck": [
+  {
+   "fact": "Tynemouth Surf Co surf school is adjacent to the lifeguard station on Longsands (NE30 4JH)",
+   "url": "https://tynemouthsurf.co.uk/learn-to-surf-surf-school/"
+  },
+  {
+   "fact": "Group lessons ages 8+ (under-12s with adult), weekends and daily in summer holidays, 2 hours, board and wetsuit included",
+   "url": "https://tynemouthsurf.co.uk/learn-to-surf-surf-school/"
+  },
+  {
+   "fact": "Kids-only lessons ages 5-17; Mini Groms ages 5-9 on Sundays; SUP lessons 18+",
+   "url": "https://tynemouthsurf.co.uk/learn-to-surf-surf-school/"
+  },
+  {
+   "fact": "Hire of softboards, semi-soft, hardboards, longboards, bodyboards, wetsuits, boots, gloves, hoods, lifejackets, SUPs from beach hut; ID required",
+   "url": "https://tynemouthsurf.co.uk/equipment-hire-tynemouth/"
+  },
+  {
+   "fact": "Shop at Unit 1, Palace Buildings, Grand Parade; sells boards, wetsuits, bodyboards, skimboards, SUPs; repair products",
+   "url": "https://tynemouthsurf.co.uk/"
+  },
+  {
+   "fact": "Longsands Surf School on South Promenade next to old swimming pool, NE30 4HH; no-booking hire; no set opening times",
+   "url": "https://www.longsandsurf.com/"
+  },
+  {
+   "fact": "RNLI lifeguards daily 23 May to 6 September 2026, 10am-6pm; half-mile beach backed by dunes",
+   "url": "https://rnli.org/find-my-nearest/lifeguarded-beaches/tynemouth-longsands-beach"
+  }
+ ],
+ "gaps": "WebSearch budget ran out and WebFetch hit its session limit, so no other Tynemouth or Whitley Bay schools or shops were checked. Neither school's site gives wetsuit thickness or water temperature advice, and no RNLI or council source describing specific hazards (rips, rocks) was opened. Tynemouth Surf Co's age info is inconsistent between its pages; the main school page says 8+, with under-12s accompanied, and that's what was used."
+}

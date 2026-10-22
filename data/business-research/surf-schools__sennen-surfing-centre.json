@@ -1,0 +1,27 @@
+{
+ "slug": "sennen-surfing-centre",
+ "kind": "surf-schools",
+ "officialUrl": "https://sennensurfingcentre.co.uk/",
+ "trading": true,
+ "about": "Sennen Surfing Centre is a surf school and shop right on the sand at Sennen Cove, at the far western tip of Cornwall. It runs an award-winning O'Neill Academy with fully qualified coaches. It offers group and private lessons, plus discounts for larger groups, families, schools, colleges and community projects. The shop also sells clothing and surf hardware.",
+ "offers": [
+  "Group lessons (up to 10 people, 1.5 hours)",
+  "Private lessons",
+  "Other courses (see the lessons page)",
+  "Group bookings for families, schools, colleges and community projects"
+ ],
+ "where": "Beach cabin on Sennen Beach, Sennen Cove",
+ "goodToKnow": [
+  "Book standard and private lessons online, or phone for advice",
+  "Terms and conditions and FAQs are on the website",
+  "Coaches are described as fully qualified"
+ ],
+ "season": "Open daily until October in summer 2026",
+ "sources": [
+  {
+   "label": "Sennen Surfing Centre homepage",
+   "url": "https://sennensurfingcentre.co.uk/"
+  }
+ ],
+ "gaps": "No age limits, inclusions or cancellation terms; the lessons page was not opened"
+}

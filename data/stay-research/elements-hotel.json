@@ -1,0 +1,22 @@
+{
+ "name": "Elements Hotel",
+ "officialUrl": "https://www.elements-life.co.uk/",
+ "trading": true,
+ "stayType": "Clifftop boutique hotel",
+ "accommodation": "Boutique rooms with sea or countryside views",
+ "suitableFor": "Couples and dog owners",
+ "parking": null,
+ "dogs": "Guests can bring a dog",
+ "beachAccess": "On the clifftop between Bude and Widemouth Bay",
+ "boardStorage": null,
+ "confirmedFeatures": "Restaurant and bar, beauty treatments, online booking",
+ "overview": "A boutique hotel on the clifftop between Bude and Widemouth Bay, with rooms looking over the sea or the countryside. It has a restaurant and bar and offers beauty treatments. Dogs can come too, and the coast path runs nearby.",
+ "surfTripFit": "It sits between Summerleaze and Widemouth, a short drive to whichever beach is working best.",
+ "sources": [
+  {
+   "label": "Official website",
+   "url": "https://www.elements-life.co.uk/"
+  }
+ ],
+ "slug": "elements-hotel"
+}

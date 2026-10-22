@@ -1,0 +1,26 @@
+{
+ "name": "Seal Bay Resort",
+ "officialUrl": "",
+ "trading": true,
+ "stayType": "Large beachfront holiday resort",
+ "accommodation": "Caravans, beachfront hot-tub lodges, group houses and a touring park",
+ "suitableFor": "Families and groups",
+ "parking": null,
+ "dogs": "Dog Adventure Park on site; check pet policy",
+ "beachAccess": "About a mile of private beachfront in Selsey",
+ "boardStorage": null,
+ "confirmedFeatures": "Indoor and outdoor pools, gym, bowling, spa, restaurants, bars, entertainment",
+ "overview": "A large resort in Selsey with around a mile of private beachfront, roughly 2.7 miles from Bracklesham Bay. It offers caravans, hot-tub lodges, group houses and touring pitches, with pools, restaurants and evening entertainment.",
+ "surfTripFit": "A short drive from Bracklesham and the Witterings, with plenty to occupy non-surfers.",
+ "sources": [
+  {
+   "label": "Hoseasons",
+   "url": "https://www.hoseasons.co.uk/holiday-parks/wess"
+  },
+  {
+   "label": "Experience Sussex",
+   "url": "https://www.experiencesussex.com/listing/seal-bay-resort-stays/246035101/"
+  }
+ ],
+ "slug": "seal-bay-resort"
+}

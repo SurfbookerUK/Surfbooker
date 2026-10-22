@@ -1,0 +1,120 @@
+{
+ "slug": "fraserburgh",
+ "schools": [
+  {
+   "name": "Scot Surf School",
+   "type": "Surf school",
+   "url": "https://www.scotsurfschool.com/",
+   "base": "Fraserburgh (weekend lessons); main base South Esplanade, Aberdeen",
+   "note": "Has started weekend surf lessons in Fraserburgh, with online booking. Confirm the meeting point when you book.",
+   "source": "https://www.scotsurfschool.com/"
+  }
+ ],
+ "hire": [
+  {
+   "name": "Scot Surf School",
+   "type": "Board & wetsuit hire",
+   "url": "https://www.scotsurfschool.com/",
+   "base": "Arranged by email; main base in Aberdeen",
+   "note": "Boards, wetsuits and other kit can be hired by getting in touch through the contact form or by email.",
+   "source": "https://www.scotsurfschool.com/"
+  }
+ ],
+ "shops": [],
+ "lessonsIntro": "Scot Surf School has added weekend lessons at Fraserburgh, so you can now learn here without driving down to Aberdeen.",
+ "learn": {
+  "text": [
+   "Fraserburgh Beach is a long sweep of sand that runs east from the town. It's one of the most consistent spots on the north-east coast, picking up swell from both the north and the east. Its length means you can usually find a quieter, smaller section for learning. Scot Surf School runs its Fraserburgh lessons at weekends. Check where you'll meet when you book, because the beach is several kilometres long.",
+   "We couldn't confirm any lifeguard cover at Fraserburgh, so it's safest to learn with a school. Learners should stick to small days. In winter, North Sea storms can make the surf powerful and messy, and the harbour end and the rocks at the far end of the bay are best avoided. Summer weekends usually bring the gentlest waves and the longest days."
+  ],
+  "cards": [
+   {
+    "label": "Level",
+    "title": "All levels, with care",
+    "text": "There's beginner-friendly sand on small days, and a coach is recommended as there are no confirmed lifeguards."
+   },
+   {
+    "label": "Best time",
+    "title": "Summer weekends for lessons",
+    "text": "Lessons run at weekends, and summer has the smallest surf and warmest water."
+   },
+   {
+    "label": "Watch out for",
+    "title": "Winter power, no lifeguards",
+    "text": "Big North Sea swells, cold water, and no lifeguard cover that we could confirm."
+   }
+  ]
+ },
+ "hireIntro": "There's no walk-up hire hut at Fraserburgh that we could confirm. Arrange boards and wetsuits by email with Scot Surf School before you go.",
+ "kit": {
+  "text": [
+   "Beginners should use a large foam board, and improvers can move to a mid-length on clean days. In winter the waves can suit shorter boards. The North Sea is cold here for most of the year. Plan on a 5/4mm wetsuit with boots from autumn to spring, plus a hood and gloves in winter. A 4/3mm usually works in high summer."
+  ],
+  "cards": [
+   {
+    "label": "Board",
+    "title": "Soft-top to start",
+    "text": "There's a long, sandy beach for learning on foam boards."
+   },
+   {
+    "label": "Wetsuit",
+    "title": "4/3mm summer, 5/4mm winter",
+    "text": "Add boots, a hood and gloves in the coldest months."
+   },
+   {
+    "label": "Other craft",
+    "title": "Bodyboards on small days",
+    "text": "Scot Surf School also runs SUP, but its paddleboarding is based in Aberdeen."
+   }
+  ]
+ },
+ "shopsIntro": "We couldn't confirm a dedicated surf shop in Fraserburgh.",
+ "shopsText": [
+  "Fraserburgh town sits right next to the beach, but we couldn't find a currently trading surf shop to recommend. Aberdeen, about an hour south, is the nearest place to look for surf retail. For kit at the beach, contact Scot Surf School in advance."
+ ],
+ "faqs": {
+  "lessons": [
+   {
+    "q": "When are surf lessons in Fraserburgh?",
+    "a": "Scot Surf School runs them at weekends. Book online and check the meeting point."
+   },
+   {
+    "q": "Is Fraserburgh beach lifeguarded?",
+    "a": "We couldn't find any lifeguard service listed, so learn with a school."
+   },
+   {
+    "q": "Does Scot Surf School teach anywhere else?",
+    "a": "Yes. Its main base is South Esplanade in Aberdeen, and it runs paddleboarding on the River Don."
+   }
+  ],
+  "hire": [
+   {
+    "q": "Can I hire a board in Fraserburgh?",
+    "a": "Yes, through Scot Surf School. Email them first to arrange it."
+   },
+   {
+    "q": "What wetsuit do I need?",
+    "a": "A 5/4mm with boots for most of the year, or a 4/3mm in high summer."
+   }
+  ],
+  "shops": [
+   {
+    "q": "Is there a surf shop in Fraserburgh?",
+    "a": "We couldn't confirm one. Arrange kit through Scot Surf School instead."
+   }
+  ]
+ },
+ "sources": [
+  {
+   "label": "Scot Surf School",
+   "url": "https://www.scotsurfschool.com/"
+  }
+ ],
+ "factCheck": [
+  {
+   "fact": "Scot Surf School opening in Fraserburgh, weekends for surf lessons; hire by email",
+   "url": "https://www.scotsurfschool.com/"
+  }
+ ],
+ "gaps": "No Fraserburgh meeting point, ages or lesson formats were given. Lifeguard status and hazards weren't confirmed from an official source; the beach description is general knowledge. No surf shop was confirmed. The wetsuit guidance isn't sourced."
+}

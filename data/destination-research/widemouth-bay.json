@@ -1,0 +1,132 @@
+{
+ "overview": [
+  "Widemouth Bay is a wide, open beach about three miles south of Bude, with a small village of mostly twentieth-century bungalows on the gently sloping hill behind it. There is no town here: the bay is backed by low cliffs of Carboniferous sandstone and farmland, and the cafés, pub and shops sit along the beach road and the hill above. Holiday parks and campsites fill in the gaps, which is why it gets busy in summer.",
+  "The shape of the beach is what makes it work for surfing. Rocky ledges run out at both ends and between them is a long stretch of sand with banks that shift through the year, so you usually have more than one peak to choose from. At low tide the rock formations around the edges are good for rock-pooling, and the Blue Flag beach has water quality rated excellent.",
+  "There is more history here than first appears. Sloops from Wales once used the bay as a basic landing place, unloading coal and limestone and loading Cornish goods for the trip back. On the landward side of the village, a 1960s repeater station marks where several submarine telecom cables come ashore, built to keep running independently with blast doors and its own power. You won't notice it from the sand, but it explains the low, unassuming building behind the bay."
+ ],
+ "suits": [
+  "Learners having a lesson on the central sandbanks",
+  "Improvers who want space and a choice of peaks",
+  "Families who like rock pools as well as the surf",
+  "Visitors needing level access close to the car park"
+ ],
+ "notFor": [
+  "Summer daytime dog walks on the beach",
+  "A town day out — Bude is a short drive away",
+  "Anyone unsure around rocks at high tide"
+ ],
+ "surf": {
+  "text": [
+   "Widemouth faces west into the Atlantic, so it picks up plenty of swell. Surf-forecast describes it as a mix of beach break, with lefts and rights off the sandbanks, and a right-hand reef break. A west-north-west swell with an easterly, offshore wind gives the best conditions; westerlies blow it out quickly, and it is often crowded when the waves are good.",
+   "It can be surfed through the tide, but reviewers on the same page find it often better on the lower stages when the banks come into play. The right-hand side of the bay is rock-strewn, so take care at high tide if you don't know it. Waves are usually manageable for learners on the central banks, although big days do happen.",
+   "Widemouth is a beach and reef break with lefts and rights and a right-hand reef. West-north-west swell with an easterly offshore works best, and it's surfable at all tides; at lower tide the banks can give fast hollow close-outs. Submerged rocks are a hazard, with the right side of the bay particularly rock-strewn at high tide. It's often crowded but with a good vibe, and there's parking next to the beach with food at the beach and the town of Bude a short drive away."
+  ],
+  "cards": [
+   {
+    "label": "Best conditions",
+    "title": "WNW swell, east wind",
+    "text": "Easterly winds are offshore; a west-north-west swell lines it up best."
+   },
+   {
+    "label": "Tide",
+    "title": "Better lower down",
+    "text": "Surfable at all states, but the banks tend to work better on the lower tide."
+   },
+   {
+    "label": "Hazards",
+    "title": "Submerged rocks",
+    "text": "The rocky right-hand side needs care at high tide; stay between the flags."
+   }
+  ]
+ },
+ "practical": [
+  {
+   "label": "Parking",
+   "title": "Two large car parks",
+   "text": "The Beach Guide lists two large car parks with room for over 300 cars, right by the main access."
+  },
+  {
+   "label": "Facilities",
+   "title": "Toilets, cafés, shop",
+   "text": "Toilets including accessible facilities, cafés, a beach shop and surf hire cluster around the main entrance."
+  },
+  {
+   "label": "Lifeguards",
+   "title": "Seasonal RNLI patrol",
+   "text": "RNLI lifeguards patrol in summer. Swim between the red and yellow flags and surf between the black and white."
+  },
+  {
+   "label": "Dogs",
+   "title": "Summer daytime ban",
+   "text": "Cornwall Council prohibits dogs from 10am to 6pm between 15 May and 30 September."
+  },
+  {
+   "label": "Water",
+   "title": "Blue Flag beach",
+   "text": "The Beach Guide lists a Blue Flag award and excellent water quality."
+  }
+ ],
+ "faqs": [
+  {
+   "q": "Can I take a dog to Widemouth Bay?",
+   "a": "Not between 10am and 6pm from 15 May to 30 September, under Cornwall Council's restrictions. Outside those times dogs are allowed."
+  },
+  {
+   "q": "Is Widemouth good for beginners?",
+   "a": "Yes, with a lesson. The central sandbanks usually produce manageable waves, while the reefs at the ends are better left to experienced surfers."
+  },
+  {
+   "q": "What wind is offshore at Widemouth?",
+   "a": "Easterly winds are offshore. The bay faces west, so westerly winds blow it out."
+  },
+  {
+   "q": "How far is Widemouth from Bude?",
+   "a": "About three miles south of the town."
+  }
+ ],
+ "sources": [
+  {
+   "label": "Cornwall Council — dogs on beaches",
+   "url": "https://www.cornwall.gov.uk/environment/animal-welfare-and-enforcement/dogs-on-beaches/"
+  },
+  {
+   "label": "Wikipedia — Widemouth Bay",
+   "url": "https://en.wikipedia.org/wiki/Widemouth_Bay"
+  },
+  {
+   "label": "Surf-forecast — Widemouth Bay",
+   "url": "https://www.surf-forecast.com/breaks/Widemouth-Bay"
+  },
+  {
+   "label": "The Beach Guide — Widemouth Bay",
+   "url": "https://www.thebeachguide.co.uk/south-west-england/cornwall/widemouth-bay.htm"
+  },
+  {
+   "label": "RNLI — lifeguarded beaches",
+   "url": "https://rnli.org/find-my-nearest/lifeguarded-beaches"
+  }
+ ],
+ "factCheck": [
+  {
+   "fact": "Dogs prohibited 15 May–30 Sep, 10am–6pm",
+   "url": "https://www.cornwall.gov.uk/environment/animal-welfare-and-enforcement/dogs-on-beaches/"
+  },
+  {
+   "fact": "About 3 miles south of Bude; Carboniferous sandstone cliffs; Welsh sloops; 1962–63 repeater station",
+   "url": "https://en.wikipedia.org/wiki/Widemouth_Bay"
+  },
+  {
+   "fact": "Beach and right-hand reef break; WNW swell, east wind; rocks on right side",
+   "url": "https://www.surf-forecast.com/breaks/Widemouth-Bay"
+  },
+  {
+   "fact": "Two car parks, 300+ cars; Blue Flag; excellent water quality",
+   "url": "https://www.thebeachguide.co.uk/south-west-england/cornwall/widemouth-bay.htm"
+  },
+  {
+   "fact": "Widemouth: beach and reef, WNW swell, E offshore, submerged rocks",
+   "url": "https://www.surf-forecast.com/breaks/Widemouth-Bay"
+  }
+ ],
+ "checked": "October 2026"
+}

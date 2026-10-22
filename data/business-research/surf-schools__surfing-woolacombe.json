@@ -1,0 +1,29 @@
+{
+ "slug": "surfing-woolacombe",
+ "kind": "surf-schools",
+ "officialUrl": "https://www.surfingwoolacombe.co.uk/",
+ "trading": true,
+ "about": "Surfing Woolacombe, which also uses the name Hunter Surf School, is based by the slipway on Woolacombe Beach in north Devon. It runs group courses from a single taster to five sessions, along with private lessons for individuals, families and friends. Changing facilities, showers and lockers are on site.",
+ "offers": [
+  "Group lessons from a 2-hour taster to 5-session courses",
+  "Taster plus 4-hour board and suit hire",
+  "Private 1:1 and 2:1 lessons",
+  "Private family or friends sessions for up to 8",
+  "Groups, schools and business events",
+  "Under-8s in private or family lessons only"
+ ],
+ "where": "Woolacombe Beach at the slipway, Challacombe Hill Rd, Woolacombe EX34 7BA",
+ "goodToKnow": [
+  "New four-season wetsuits; boots, gloves and hoods in winter",
+  "Showers, changing and lockers on site",
+  "Book group lessons online; request private lessons via the contact page"
+ ],
+ "season": null,
+ "sources": [
+  {
+   "label": "Surf lessons",
+   "url": "https://www.surfingwoolacombe.co.uk/surf-lessons"
+  }
+ ],
+ "gaps": "No season, accreditation or cancellation terms; the site uses both Surfing Woolacombe and Hunter Surf School branding."
+}

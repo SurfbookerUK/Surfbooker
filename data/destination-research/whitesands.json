@@ -1,0 +1,131 @@
+{
+ "overview": [
+  "Whitesands Bay, or Porth Mawr – 'big harbour' in Welsh – is the main sandy beach on the St Davids peninsula, right out at the western tip of Pembrokeshire. The rocky hill of Carn Llidi rises behind it, and the coast runs north from the sand towards St Davids Head. Looking out to sea, you see Ramsey Island and the Bishops and Clerks, a scatter of reefs and islets with a long record of shipwrecks.",
+  "It is one of the best-known surf beaches on the Welsh coast and works as a full summer beach. A car park sits behind the sand, with a café, shop, toilets, a slipway and a first aid point, plus surfboard hire and lessons in season. Lifeguards patrol over the summer months, which makes it a sensible choice if you are learning or bringing a family. The trade-off is popularity: in the school holidays the car park can fill by late morning.",
+  "There is history here too. At the northern end of the beach are the scant remains of a chapel dedicated to St Patrick. Sailors are said to have prayed there before setting out and given thanks on a safe return. Outside summer the bay is far quieter, and with the coast path to St Davids Head starting from the sand, a surf and a walk fit easily into one day."
+ ],
+ "suits": [
+  "First lessons and improvers on small to moderate days",
+  "Families who want lifeguards, a café and toilets in one place",
+  "Walkers heading for St Davids Head and Carn Llidi",
+  "Anyone staying in or around St Davids"
+ ],
+ "notFor": [
+  "Dog walkers from 1 May to 30 September, when there is a total ban",
+  "Late arrivals on summer holiday days, as the car park fills"
+ ],
+ "surf": {
+  "text": [
+   "Whitesands faces west towards Ramsey Island and picks up Atlantic swell from the west and south-west. The headlands and offshore islands give it some shelter, so on the same swell it often has smaller, more manageable waves than more exposed beaches such as Newgale. The north end, near the slipway and rocks, and the middle of the bay can have different sandbanks, so watch for a few minutes before you paddle out.",
+   "Light easterly winds blow offshore and tidy the waves up. The beach narrows noticeably as the tide comes in, which pushes everyone together and brings the rocks at each end into play. On bigger days rip currents develop, so the beach suits experienced surfers in winter swells and learners on gentler summer days with lifeguards on duty.",
+   "Ramsey Island shelters the bay from the south-west, so it takes less swell than more exposed spots nearby. West swell and an easterly offshore is best, and any tide works, though low to mid on the rise is the pick. Sandbanks give several peaks, and the northern end gets busy in the school holidays and quiet outside them. There's a rip by the rocks at the north end; it can help you paddle out but give the rocks a wide berth. Lifeguards patrol in summer, there is a large pay car park with a cafe, and St Davids has a surf shop and schools. Autumn and winter are best."
+  ],
+  "cards": [
+   {
+    "label": "Level",
+    "title": "Beginner to intermediate",
+    "text": "A good learning beach in summer, with lessons and lifeguards. Bigger winter swells are for experienced surfers."
+   },
+   {
+    "label": "Conditions",
+    "title": "West/south-west swell, easterly wind",
+    "text": "Often smaller than exposed beaches nearby. Check the tide, as the beach shrinks at high water."
+   },
+   {
+    "label": "Hazards",
+    "title": "Rocks, rips and crowds",
+    "text": "Rocky edges at both ends and rips on bigger days. In summer, lessons, bodyboarders and swimmers all share the water."
+   }
+  ]
+ },
+ "practical": [
+  {
+   "label": "Parking",
+   "title": "Pay car park behind the beach",
+   "text": "Spaces fill up in summer, so arrive early in the holidays or use the seasonal shuttle from St Davids."
+  },
+  {
+   "label": "Facilities",
+   "title": "Café, shop and toilets",
+   "text": "Toilets including accessible facilities, a café, a shop, a slipway and a first aid point."
+  },
+  {
+   "label": "Lifeguards",
+   "title": "Summer patrols",
+   "text": "Lifeguards patrol during the summer months. Swim between the red and yellow flags and surf between the black and white flags. Check RNLI dates before you go."
+  },
+  {
+   "label": "Dogs",
+   "title": "Total summer ban",
+   "text": "Pembrokeshire County Council bans dogs from Whitesands from 1 May to 30 September. Leisure staff enforce the ban."
+  },
+  {
+   "label": "Water quality",
+   "title": "Blue Flag beach",
+   "text": "Whitesands is listed as a Blue Flag beach."
+  }
+ ],
+ "faqs": [
+  {
+   "q": "Can dogs go on Whitesands beach?",
+   "a": "Not in summer. The council has a total dog ban from 1 May to 30 September. Outside those dates, dogs are allowed."
+  },
+  {
+   "q": "Is Whitesands good for beginners?",
+   "a": "Yes, on small to moderate days, ideally with a lesson and when lifeguards are on duty. Watch out for the rocks at each end as the tide rises."
+  },
+  {
+   "q": "What does Porth Mawr mean?",
+   "a": "It is the Welsh name for the bay and means 'big harbour'."
+  },
+  {
+   "q": "How early should I arrive to park?",
+   "a": "In the summer holidays the car park can fill by late morning, so arrive early."
+  }
+ ],
+ "sources": [
+  {
+   "label": "The Beach Guide — Whitesands",
+   "url": "https://www.thebeachguide.co.uk/south-wales/pembrokeshire/whitesands.htm"
+  },
+  {
+   "label": "Pembrokeshire County Council — summer beach dog bans",
+   "url": "https://www.pembrokeshire.gov.uk/dog-control/summer-beach-bans"
+  },
+  {
+   "label": "RNLI — find a lifeguarded beach",
+   "url": "https://rnli.org/find-my-nearest/lifeguarded-beaches"
+  }
+ ],
+ "factCheck": [
+  {
+   "fact": "Welsh name Porthmawr means 'Big Harbour'",
+   "url": "https://www.thebeachguide.co.uk/south-wales/pembrokeshire/whitesands.htm"
+  },
+  {
+   "fact": "Ruins of a 6th-century chapel to St Patrick at the northern end",
+   "url": "https://www.thebeachguide.co.uk/south-wales/pembrokeshire/whitesands.htm"
+  },
+  {
+   "fact": "Bishops and Clerks reefs have caused many shipwrecks",
+   "url": "https://www.thebeachguide.co.uk/south-wales/pembrokeshire/whitesands.htm"
+  },
+  {
+   "fact": "Blue Flag; café, toilets, disabled facilities, first aid point, shop, slipway",
+   "url": "https://www.thebeachguide.co.uk/south-wales/pembrokeshire/whitesands.htm"
+  },
+  {
+   "fact": "Lifeguards in summer months",
+   "url": "https://www.thebeachguide.co.uk/south-wales/pembrokeshire/whitesands.htm"
+  },
+  {
+   "fact": "Total dog ban 1 May–30 September, enforced by leisure staff",
+   "url": "https://www.pembrokeshire.gov.uk/dog-control/summer-beach-bans"
+  },
+  {
+   "fact": "Whitesands: Ramsey Island shelter, W swell, E offshore, low to mid rising",
+   "url": "https://www.surfnerd.com/surf-forecast/whitesands-bay"
+  }
+ ],
+ "checked": "October 2026"
+}

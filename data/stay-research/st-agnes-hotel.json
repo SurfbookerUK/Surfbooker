@@ -1,0 +1,22 @@
+{
+ "name": "St Agnes Hotel",
+ "officialUrl": "https://stagneshotel.co.uk/",
+ "trading": true,
+ "stayType": "Village inn with rooms",
+ "accommodation": "Six individually designed en-suite rooms, including a family room (king plus two singles)",
+ "suitableFor": "Couples and families wanting a village pub base",
+ "parking": null,
+ "dogs": "Welcome for a small supplement",
+ "beachAccess": "In Churchtown, the centre of St Agnes village; distance to the cove not stated",
+ "boardStorage": null,
+ "confirmedFeatures": "Smart TV, tea and local coffee, Eve mattresses, breakfast included, bar, restaurant, outdoor terrace",
+ "overview": "The St Agnes Hotel is a pub with rooms in Churchtown, at the heart of St Agnes village, with the lane down to Trevaunance Cove close by. It has six en-suite rooms, breakfast is included, and the bar and restaurant serve lunch and dinner.",
+ "surfTripFit": "Staying in the village means shops, food and the road down to Trevaunance are all close. Dogs are welcome, which helps if the dog comes on the trip.",
+ "sources": [
+  {
+   "label": "St Agnes Hotel - Stay",
+   "url": "https://stagneshotel.co.uk/stay/"
+  }
+ ],
+ "slug": "st-agnes-hotel"
+}

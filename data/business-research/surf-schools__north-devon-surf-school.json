@@ -1,0 +1,27 @@
+{
+ "slug": "north-devon-surf-school",
+ "kind": "surf-schools",
+ "officialUrl": "https://www.northdevonsurfschool.co.uk/",
+ "trading": true,
+ "about": "North Devon Surf School has taught at Westward Ho! since 1988. It runs from a purpose-built surf school and hire centre about 50 metres from the beach, with public parking next door. Group and private coaching is offered for all ages and abilities, alongside board and wetsuit hire.",
+ "offers": [
+  "Group lessons",
+  "Private lessons",
+  "Wetsuit, surfboard and bodyboard hire"
+ ],
+ "where": "1 Pebbleridge Road, Westward Ho!, EX39 1HN, about 50 metres from the beach",
+ "goodToKnow": [
+  "Changing rooms, storage and a warm shower on site",
+  "Surf shop on site",
+  "Small groups, with sessions matched to ability",
+  "Surfing England Centre of Excellence"
+ ],
+ "season": null,
+ "sources": [
+  {
+   "label": "Official homepage",
+   "url": "https://www.northdevonsurfschool.co.uk/"
+  }
+ ],
+ "gaps": "Season, booking and cancellation terms (held in a PDF), what to bring and kids' age limits were not stated."
+}

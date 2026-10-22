@@ -1,0 +1,22 @@
+{
+ "name": "Stotfield Hotel",
+ "officialUrl": "https://stotfieldhotel.com/",
+ "trading": true,
+ "stayType": "Seaside hotel",
+ "accommodation": "47 en-suite bedrooms; ten overlook the Moray Firth and some sleep three or four",
+ "suitableFor": "Couples, families and groups wanting a full-service hotel by the sea",
+ "parking": null,
+ "dogs": null,
+ "beachAccess": "Described as by the sea in Lossiemouth; no distance stated",
+ "boardStorage": null,
+ "confirmedFeatures": "En-suite bathrooms, free Wi-Fi throughout, tea and coffee facilities, direct-dial telephone, sea-view rooms, family-sized rooms",
+ "overview": "The Stotfield Hotel is a 47-bedroom hotel by the sea in Lossiemouth on the Moray coast. Ten of its en-suite rooms look out over the Moray Firth, and some rooms take three or four people, which suits families or friends sharing. Free Wi-Fi runs throughout the hotel, and Covesea Lighthouse is a nearby landmark.",
+ "surfTripFit": "Sea-view rooms let you see conditions on the Moray Firth before heading out, and the larger rooms work for small groups sharing a trip.",
+ "sources": [
+  {
+   "label": "Stotfield Hotel official site",
+   "url": "https://stotfieldhotel.com/"
+  }
+ ],
+ "slug": "stotfield-hotel"
+}

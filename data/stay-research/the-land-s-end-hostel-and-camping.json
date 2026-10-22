@@ -1,0 +1,22 @@
+{
+ "slug": "the-land-s-end-hostel-and-camping",
+ "officialUrl": null,
+ "trading": "unclear",
+ "stayType": null,
+ "accommodation": null,
+ "suitableFor": null,
+ "parking": null,
+ "dogs": null,
+ "beachAccess": null,
+ "boardStorage": null,
+ "confirmedFeatures": null,
+ "overview": null,
+ "surfTripFit": null,
+ "sources": [
+  {
+   "label": "South West Coast Path walk (mentions Land's End Hostel)",
+   "url": "https://www.southwestcoastpath.org.uk/walksdb/355/"
+  }
+ ],
+ "gaps": "Official site (landsendhostel.co.uk) blocked fetching by robots.txt; search only returned OTA and walk listings, some referring to a 'Lands End Hostel and B&B'. Could not confirm current trading, camping offer or facilities."
+}

@@ -1,0 +1,26 @@
+{
+ "name": "Musselwick Farm Cottages",
+ "officialUrl": "http://www.musselwickfarm.co.uk/",
+ "trading": true,
+ "stayType": "Clifftop farm cottages",
+ "accommodation": "Five cottages sleeping 2 to 12, each with a hot tub",
+ "suitableFor": "Couples, families and large groups",
+ "parking": "Private parking with EV chargers",
+ "dogs": "Dog friendly",
+ "beachAccess": "Local beaches within walking distance",
+ "boardStorage": null,
+ "confirmedFeatures": "Hot tubs, courtyard with firepits, pizza oven and BBQ, Wi-Fi, EV chargers",
+ "overview": "Musselwick Farm has five clifftop cottages above Musselwick Sands, reached through Marloes village. Each has a hot tub and the courtyard has firepits and a pizza oven.",
+ "surfTripFit": "A group can share the large Mill House, with hot tubs after a day on the beaches near Marloes.",
+ "sources": [
+  {
+   "label": "Musselwick Farm",
+   "url": "http://www.musselwickfarm.co.uk/"
+  },
+  {
+   "label": "Visit Pembrokeshire – Musselwick Farm",
+   "url": "https://www.visitpembrokeshire.com/accommodation-listing/musselwick-farm-cottages"
+  }
+ ],
+ "slug": "musselwick-farm-cottages"
+}

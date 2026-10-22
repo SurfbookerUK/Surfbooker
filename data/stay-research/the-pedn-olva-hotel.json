@@ -1,0 +1,22 @@
+{
+ "slug": "the-pedn-olva-hotel",
+ "officialUrl": "https://www.pednolva.co.uk/",
+ "trading": true,
+ "stayType": "Seafront hotel with restaurant and bar",
+ "accommodation": "Ensuite rooms with harbour and ocean views, bookable for 1 to 4 guests; numbers not stated",
+ "suitableFor": "Couples, small families and dog owners",
+ "parking": null,
+ "dogs": "Dog friendly",
+ "beachAccess": null,
+ "boardStorage": null,
+ "confirmedFeatures": "Restaurant, bar, terraces, pub garden, Wi-Fi",
+ "overview": "Pedn Olva stands on granite rocks above St Ives Bay at Porthminster Beach, with ensuite rooms facing the harbour and sea. It has a restaurant and bar and terraces just above the water.",
+ "surfTripFit": "Central and dog friendly, with Porthmeor (named on the site for surfing) across town; no parking or board storage is mentioned.",
+ "sources": [
+  {
+   "label": "Pedn Olva (official)",
+   "url": "https://www.pednolva.co.uk/"
+  }
+ ],
+ "gaps": "Room count, parking, beach distance and board storage not stated."
+}

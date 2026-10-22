@@ -1,0 +1,22 @@
+{
+ "name": "Pease Bay Holiday Park",
+ "officialUrl": "https://www.verdantparks.co.uk/south-east-scotland/berwickshire/pease-bay",
+ "trading": true,
+ "stayType": "Beachfront holiday park",
+ "accommodation": "Holiday caravans and lodges, including the Signature Driftwood Lodge",
+ "suitableFor": "Families and groups wanting a park on the beach",
+ "parking": null,
+ "dogs": "Dog-friendly area in the Smugglers Bar",
+ "beachAccess": "On the beachfront, a short walk to the sand",
+ "boardStorage": null,
+ "confirmedFeatures": "Bar and restaurant with takeaway, shop, arcade, play park, family entertainment room",
+ "overview": "Pease Bay Holiday Park sits right on the beachfront at Cockburnspath, with the sand a short walk from the caravans and lodges. It is open all year and has the Smugglers Bar and Restaurant, a shop, an arcade and a play park. The operator describes it as great for surfing and sea kayaking.",
+ "surfTripFit": "You stay right above the break, so you can check conditions without driving.",
+ "sources": [
+  {
+   "label": "Verdant Parks official page",
+   "url": "https://www.verdantparks.co.uk/south-east-scotland/berwickshire/pease-bay"
+  }
+ ],
+ "slug": "pease-bay-holiday-park"
+}

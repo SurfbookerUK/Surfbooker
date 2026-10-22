@@ -1,0 +1,130 @@
+{
+ "overview": [
+  "Fraserburgh beach curves for around three miles east of the town towards the Waters of Philorth local nature reserve. It's a town beach in the true sense: the harbour, shops and car parks are right behind it, so it's an easy place to surf without a long walk in.",
+  "At the town end stands Kinnaird Head, where a castle built from 1570 by Sir Alexander Fraser was converted into Scotland's first mainland lighthouse, first lit in 1787. The original lighthouse is now part of the Museum of Scottish Lighthouses, with lenses from lights all around the Scottish coast.",
+  "For surfing there are two different breaks. The open beach has lefts and rights spread along the sand, while a left-hand point works off the harbour end over rock. Surf-forecast calls the spot fairly consistent and usually uncrowded, though it's exposed and takes the full force of the weather."
+ ],
+ "suits": [
+  "Learners and intermediates on the open beach",
+  "Experienced surfers looking for the harbour-end left",
+  "Surf trips that combine waves with a town and a museum"
+ ],
+ "notFor": [
+  "Beginners near the harbour rocks",
+  "Anyone needing lifeguard cover"
+ ],
+ "surf": {
+  "text": [
+   "Surf-forecast gives a northerly swell as best, with light southerly winds offshore. It works through all stages of the tide on the beach, and takes both groundswell and wind swell. The harbour-end point is more sensitive to the tide and the rocks, so watch it before paddling out.",
+   "Winter and spring are the strongest seasons, with June the most often clean month. The guide's warning is short: take care of rips and rocks.",
+   "Fraserburgh has a beach break with lefts and rights plus a left-hand point. North swell with a southerly offshore is the best match, and it's good at all stages of the tide. Take care of rips and rocks. It's unlikely to be crowded even when it's up. Winter and spring are best."
+  ],
+  "cards": [
+   {
+    "label": "Beach",
+    "title": "Lefts and rights",
+    "text": "Sandy peaks spread along the bay suit learners and intermediates."
+   },
+   {
+    "label": "Point",
+    "title": "Left-hander, experienced only",
+    "text": "Rocks, harbour traffic and more consequence."
+   },
+   {
+    "label": "Hazards",
+    "title": "Rips and rocks",
+    "text": "Rip currents along the beach and rock at the harbour end."
+   }
+  ]
+ },
+ "practical": [
+  {
+   "label": "Parking",
+   "title": "Seaforth Street South",
+   "text": "Aberdeenshire Council lists a free car park here with 144 spaces. Don't block harbour access."
+  },
+  {
+   "label": "Facilities",
+   "title": "Public toilets",
+   "text": "The council lists public toilets at the beach with disabled access."
+  },
+  {
+   "label": "Lifeguards",
+   "title": "None",
+   "text": "Call 999 or 112 and ask for the Coastguard in an emergency."
+  },
+  {
+   "label": "Nature",
+   "title": "Waters of Philorth",
+   "text": "The council-managed local nature reserve at the east end of the beach."
+  },
+  {
+   "label": "Weather",
+   "title": "Exposed in northerlies",
+   "text": "The beach faces the North Sea and the promenade is very exposed in strong northerly winds."
+  }
+ ],
+ "faqs": [
+  {
+   "q": "Which conditions suit Fraserburgh?",
+   "a": "A northerly swell with light southerly winds. The beach works on all tides."
+  },
+  {
+   "q": "Is Fraserburgh crowded?",
+   "a": "Surf-forecast describes it as usually uncrowded, even when there are waves."
+  },
+  {
+   "q": "Is parking free?",
+   "a": "Aberdeenshire Council lists Seaforth Street South (144 spaces) as free."
+  },
+  {
+   "q": "What is there to see nearby?",
+   "a": "The Museum of Scottish Lighthouses at Kinnaird Head, where Scotland's first mainland lighthouse was lit in 1787."
+  }
+ ],
+ "sources": [
+  {
+   "label": "Surf-forecast — Fraserburgh",
+   "url": "https://www.surf-forecast.com/breaks/Fraserburgh/"
+  },
+  {
+   "label": "Wikipedia — Kinnaird Head",
+   "url": "https://en.wikipedia.org/wiki/Kinnaird_Head"
+  },
+  {
+   "label": "Aberdeenshire Council — car parks",
+   "url": "https://www.aberdeenshire.gov.uk/roads-and-travel/car-parking/car-parks"
+  },
+  {
+   "label": "Aberdeenshire Council — public toilets",
+   "url": "https://www.aberdeenshire.gov.uk/local/public-toilets"
+  },
+  {
+   "label": "Aberdeenshire Council — local nature reserves",
+   "url": "https://www.aberdeenshire.gov.uk/environment/natural-heritage/local-nature-reserves/"
+  }
+ ],
+ "factCheck": [
+  {
+   "fact": "Beach and left point; north swell; south wind; all tides; rips/rocks; usually uncrowded; winter/spring, June cleanest",
+   "url": "https://www.surf-forecast.com/breaks/Fraserburgh/"
+  },
+  {
+   "fact": "Castle begun 1570 by Sir Alexander Fraser; lighthouse lit 1787; museum in original lighthouse",
+   "url": "https://en.wikipedia.org/wiki/Kinnaird_Head"
+  },
+  {
+   "fact": "Seaforth Street South free, 144 spaces (carried over from current data, not re-checked)",
+   "url": "https://www.aberdeenshire.gov.uk/roads-and-travel/car-parking/car-parks"
+  },
+  {
+   "fact": "Beach about three miles to Waters of Philorth (carried over, not re-checked)",
+   "url": "https://www.aberdeenshire.gov.uk/environment/natural-heritage/local-nature-reserves/"
+  },
+  {
+   "fact": "Fraserburgh: beach and left point, N swell, S offshore, all tides",
+   "url": "https://www.surf-forecast.com/breaks/Fraserburgh"
+  }
+ ],
+ "checked": "October 2026"
+}

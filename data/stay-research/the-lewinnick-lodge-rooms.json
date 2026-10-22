@@ -1,0 +1,22 @@
+{
+ "slug": "the-lewinnick-lodge-rooms",
+ "officialUrl": "https://www.lewinnicklodge.co.uk",
+ "trading": true,
+ "stayType": "Clifftop restaurant with rooms",
+ "accommodation": "Luxury Double, Superior Oceanside, Superior Partial Ocean View, Headland Double and Family Suite (count not stated)",
+ "suitableFor": "Couples, families (family suite) and dog owners",
+ "parking": "Not stated",
+ "dogs": "Dog-friendly stays page exists; details not confirmed",
+ "beachAccess": null,
+ "boardStorage": null,
+ "confirmedFeatures": "Restaurant, ocean-side terrace, coast path access",
+ "overview": "Lewinnick Lodge is a restaurant with rooms on the clifftop at Pentire headland, just outside Newquay. Rooms range from doubles to oceanside superiors and a family suite, some with freestanding baths. The restaurant serves modern British food with an ocean-side terrace, and the South West Coast Path runs nearby.",
+ "surfTripFit": "Pentire headland setting is close to Fistral and Crantock, but the site does not state beach distance, parking or board storage.",
+ "sources": [
+  {
+   "label": "Official site",
+   "url": "https://www.lewinnicklodge.co.uk"
+  }
+ ],
+ "gaps": "Parking, dog details, beach distance and board storage not stated."
+}

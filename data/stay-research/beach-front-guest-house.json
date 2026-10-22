@@ -1,0 +1,26 @@
+{
+ "name": "Beach Front Guest House",
+ "officialUrl": "http://www.beach-front.uk",
+ "trading": true,
+ "stayType": "Family-run seafront guest house",
+ "accommodation": "9 en-suite rooms, three with sea views and two overlooking the South Downs; no lift",
+ "suitableFor": "Couples and families wanting a small B&B opposite the beach",
+ "parking": "On-street; permits available from the guest house",
+ "dogs": "Not accepted (Visit Eastbourne listing)",
+ "beachAccess": "Directly opposite the beach on Royal Parade",
+ "boardStorage": null,
+ "confirmedFeatures": "Breakfast included when booking direct, free Wi-Fi, flat-screen TVs, residents' lounge, child-friendly",
+ "overview": "Beach Front is a family-run guest house in a Victorian townhouse on Royal Parade, directly across the road from the beach. It has nine en-suite rooms, three looking out to sea and two towards the South Downs. Breakfast is included when you book direct, and the owners sell parking permits for the street outside.",
+ "surfTripFit": "A small, friendly base directly opposite the beach, with parking permits sorted by the hosts.",
+ "sources": [
+  {
+   "label": "Official website",
+   "url": "http://www.beach-front.uk"
+  },
+  {
+   "label": "Visit Eastbourne listing",
+   "url": "https://www.visiteastbourne.com/accommodation/beach-front-guest-house-p1234311"
+  }
+ ],
+ "slug": "beach-front-guest-house"
+}

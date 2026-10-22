@@ -1,0 +1,26 @@
+{
+ "name": "Queens Hotel",
+ "officialUrl": "http://www.Queenshotelbrighton.com",
+ "trading": true,
+ "stayType": "Large seafront hotel with leisure club",
+ "accommodation": "94 en-suite rooms, many with sea views, including family suites; serviced apartments and studios in an adjacent building",
+ "suitableFor": "Families, groups and anyone wanting a pool and gym after time in the water",
+ "parking": "No hotel car park; chargeable NCP car park next door (Visit Brighton listing)",
+ "dogs": "Pet-friendly; fee for dogs other than guide dogs",
+ "beachAccess": "On the seafront at the edge of The Lanes",
+ "boardStorage": null,
+ "confirmedFeatures": "Leisure club with pool, sauna, steam room and gym, bar and bistro, breakfast, free Wi-Fi, lift, sea-view rooms, apartments",
+ "overview": "Queens Hotel stands on Kings Road on Brighton seafront, at the bottom of The Lanes. It has 94 en-suite rooms, many facing the sea, plus apartments and studios next door. Guests get the leisure club, with what the hotel calls the largest hotel pool in the city, along with a sauna, steam room and gym.",
+ "surfTripFit": "Seafront position with a pool, sauna and steam room for warming up after a winter session, and apartments for groups who want to self-cater.",
+ "sources": [
+  {
+   "label": "Official website",
+   "url": "http://www.Queenshotelbrighton.com"
+  },
+  {
+   "label": "Visit Brighton listing",
+   "url": "https://www.visitbrighton.com/accommodation/queens-hotel-p37043"
+  }
+ ],
+ "slug": "queens-hotel"
+}

@@ -1,0 +1,26 @@
+{
+ "name": "Runswick Bay Hotel",
+ "officialUrl": "https://www.therunswickbay.com/",
+ "trading": true,
+ "stayType": "Village hotel with bars",
+ "accommodation": "Six en-suite double rooms (two can be twin or triple) on a B&B basis; also Coach House Cottage self-catering",
+ "suitableFor": "Couples, small groups and dog owners",
+ "parking": "Hotel car park; EV charging point for guests",
+ "dogs": "Dogs welcome in all areas of the hotel",
+ "beachAccess": "About five minutes' walk from the beach, at the top of the bay",
+ "boardStorage": null,
+ "confirmedFeatures": "Two bars, dining room, open fire in winter, rear ramp access, EV charging",
+ "overview": "A small hotel in the upper village at Runswick Bay, about five minutes' walk from the beach. It has six en-suite rooms on a B&B basis, two bars and a dining room, and also lets Coach House Cottage. Dogs are welcome throughout, and the Cleveland Way runs through the car park.",
+ "surfTripFit": "A short walk to the bay with a car park and dog-friendly bars, so you can check the surf and return for food by the fire.",
+ "sources": [
+  {
+   "label": "Runswick Bay Hotel official site",
+   "url": "https://www.therunswickbay.com/"
+  },
+  {
+   "label": "Runswick Bay venues site",
+   "url": "https://runswickbay.com/"
+  }
+ ],
+ "slug": "runswick-bay-hotel"
+}

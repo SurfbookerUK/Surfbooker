@@ -1,0 +1,229 @@
+{
+ "slug": "rest-bay-porthcawl",
+ "schools": [
+  {
+   "name": "Porthcawl Surf School",
+   "type": "Surf school",
+   "url": "http://www.porthcawlsurf.co.uk",
+   "base": "Rest Bay Watersports Centre, Rest Bay, Porthcawl CF36 3UP",
+   "note": "Year-round beginner lessons, adult and improver courses, kids' holiday courses from age 7, SUP lessons and group sessions, open every day except Christmas Day.",
+   "source": "https://www.visitbridgend.co.uk/activities/porthcawlsurfschool-556451"
+  },
+  {
+   "name": "Cressey's Surf Academy",
+   "type": "Surf school",
+   "url": "https://eola.co/244/activities/surfing-1-to-2-lessons",
+   "base": "Rest Bay car park (CF36 3UN), also Aberavon beach",
+   "note": "Group lessons, 1:1 and 1:2 coaching, intro sessions, courses and a summer surf camp from age 8. A Wave Project Cymru partner offering sessions for people with additional needs and disabilities.",
+   "source": "https://holidayfox.com/en/e/dest-KK7W-NZoQVTo/cressey-s-surf-academy"
+  },
+  {
+   "name": "Adventures Wales",
+   "type": "Surf school",
+   "url": "https://www.adventureswales.co.uk/",
+   "base": "Rest Bay, Porthcawl (office at Parc Newydd Farm, Pyle)",
+   "note": "Surf sessions for individuals and small groups with kit included, plus kids' surf parties and group bookings. Visit Wales lists activities from age 7.",
+   "source": "https://www.adventureswales.co.uk/"
+  }
+ ],
+ "hire": [
+  {
+   "name": "Porthcawl Surf School",
+   "type": "Board & wetsuit hire",
+   "url": "http://www.porthcawlsurf.co.uk",
+   "base": "Rest Bay Watersports Centre, next to the pay-and-display car park",
+   "note": "Turn-up hire of soft beginner boards, improver and advanced boards, bodyboards, summer and winter wetsuits, boots, gloves and hoods. SUPs and kayaks only on days without surf.",
+   "source": "https://www.visitbridgend.co.uk/activities/porthcawlsurfschool-556451"
+  },
+  {
+   "name": "Cressey's Surf Academy",
+   "type": "Board & wetsuit hire",
+   "url": "https://eola.co/244/activities/surfing-1-to-2-lessons",
+   "base": "Rest Bay car park",
+   "note": "Hires surfboards and wetsuits, plus gloves and boots, alongside its lessons.",
+   "source": "https://holidayfox.com/en/e/dest-KK7W-NZoQVTo/cressey-s-surf-academy"
+  }
+ ],
+ "shops": [
+  {
+   "name": "Balsa Surf Shop",
+   "type": "Surf shop",
+   "url": "https://www.balsasurf.co.uk/",
+   "town": "12 Well Street, Porthcawl",
+   "note": "Independent shop selling shortboards, mid-lengths, bodyboards, bellyboards, wetsuits for adults and kids, boots, gloves, hoods and accessories.",
+   "source": "https://www.balsasurf.co.uk/"
+  }
+ ],
+ "lessonsIntro": "Rest Bay is Porthcawl's main surf beach and one of the best-equipped places in Wales to learn, with a watersports centre, summer lifeguards and several schools.",
+ "learn": {
+  "text": [
+   "Rest Bay faces south-west and takes the full Atlantic swell, so it has waves on most days of the year. Visit Wales rates it as suitable for all levels, including young children on bodyboards, and lessons run all year from the Rest Bay Watersports Centre, which also has changing cubicles, showers, lockers, toilets and a café. Cressey's Surf Academy and Adventures Wales also teach on the beach, meeting at the car park.",
+   "Porthcawl has one of the largest tidal ranges in the world, and waves at Rest Bay can build from around two feet to overhead within a few hours, so check a tide table and avoid the beach at high tide. RNLI lifeguards patrol daily from late May to early September, 10am to 6pm, plus weekends in mid-September. On bigger days, sheltered Coney Beach by the harbour is the calmer option for first-timers."
+  ],
+  "cards": [
+   {
+    "label": "Level",
+    "title": "All levels, including first-timers",
+    "text": "Consistent beach-break waves and a year-round school make Rest Bay one of Wales' best learner beaches."
+   },
+   {
+    "label": "Best time",
+    "title": "Small swell, away from high tide",
+    "text": "Lessons run all year. Avoid high tide, and choose small-swell days when you are starting out."
+   },
+   {
+    "label": "Watch out for",
+    "title": "Huge tides and fast-building swell",
+    "text": "The tidal range is very large and waves can grow quickly. Stay between the flags in season and get local advice before paddling out."
+   }
+  ]
+ },
+ "hireIntro": "Porthcawl Surf School runs a large hire centre at the Rest Bay Watersports Centre, so you can turn up and hire on the day without booking.",
+ "kit": {
+  "text": [
+   "Learners should start on a soft-top from the hire centre, which keeps more than 200 beginner boards; once you can trim along the face, the improver boards are the next step. Bodyboarding is popular at Rest Bay, even with young children. Water peaks at around 15-18°C in mid-August and falls to about 8-9°C by March, so you will need boots, gloves and a hood in winter."
+  ],
+  "cards": [
+   {
+    "label": "Board",
+    "title": "Soft-top, then an improver board",
+    "text": "Big foam boards for first sessions. Improvers can hire intermediate and advanced boards on the day."
+   },
+   {
+    "label": "Wetsuit",
+    "title": "3/2 summer, 5/4 winter",
+    "text": "A 3/2 or 4/3 with boots works in summer. In winter use a 5/4 or thicker with gloves, boots and a hood, all available to hire."
+   },
+   {
+    "label": "Other craft",
+    "title": "Bodyboards, SUP on flat days",
+    "text": "Bodyboard between the red and yellow flags. Paddleboards and kayaks are only hired out when there is no surf."
+   }
+  ]
+ },
+ "shopsIntro": "Porthcawl has an independent surf shop in town and a hire centre with retail at Rest Bay itself.",
+ "shopsText": [
+  "Balsa Surf Shop is on Well Street in Porthcawl town centre, a short drive from Rest Bay, and stocks boards, bodyboards, wetsuits for adults and children, winter accessories and surf essentials. Bridgend Council also lists a surf shop among the facilities at the Rest Bay Watersports Centre, next to the beach car park."
+ ],
+ "faqs": {
+  "lessons": [
+   {
+    "q": "How old do you need to be for a surf lesson at Rest Bay?",
+    "a": "Porthcawl Surf School takes beginners from age 7 and runs kids' courses in the school holidays. Cressey's Surf Academy teaches from age 8."
+   },
+   {
+    "q": "Can you learn to surf at Rest Bay in winter?",
+    "a": "Yes. Porthcawl Surf School runs lessons all year from the watersports centre, closing only on Christmas Day, and hires winter wetsuits, boots, gloves and hoods."
+   },
+   {
+    "q": "Are there adaptive surf sessions at Rest Bay?",
+    "a": "Cressey's Surf Academy is a Wave Project Cymru partner and offers sessions for people with special educational needs and disabilities. Contact them to discuss what you need."
+   }
+  ],
+  "hire": [
+   {
+    "q": "Do I need to book surf hire at Rest Bay?",
+    "a": "No. Porthcawl Surf School says you can hire on the day without booking ahead."
+   },
+   {
+    "q": "Can I hire a paddleboard at Rest Bay?",
+    "a": "Paddleboards and sit-on-top kayaks are hired out only on days without surf, so check conditions first."
+   }
+  ],
+  "shops": [
+   {
+    "q": "Where is the surf shop in Porthcawl?",
+    "a": "Balsa Surf Shop is at 12 Well Street in the town centre. There is also a surf shop listed at the Rest Bay Watersports Centre."
+   }
+  ]
+ },
+ "sources": [
+  {
+   "label": "Visit Bridgend: Porthcawl Surf School",
+   "url": "https://www.visitbridgend.co.uk/activities/porthcawlsurfschool-556451"
+  },
+  {
+   "label": "Porthcawl Surf School",
+   "url": "http://www.porthcawlsurf.co.uk"
+  },
+  {
+   "label": "Bridgend Council: Rest Bay Watersports Centre",
+   "url": "https://www.bridgend.gov.uk/residents/leisure-culture-and-libraries/rest-bay-watersports-centre/"
+  },
+  {
+   "label": "Visit Wales: surfing in Porthcawl",
+   "url": "https://visitwales.com/node/6193"
+  },
+  {
+   "label": "Visit Wales: Rest Bay beach",
+   "url": "https://www.visitwales.com/attraction/beach/porthcawl-rest-bay-beach-1821303"
+  },
+  {
+   "label": "RNLI: Rest Bay",
+   "url": "https://rnli.org/find-my-nearest/lifeguarded-beaches/porthcawl-rest-bay-beach"
+  },
+  {
+   "label": "Cressey's Surf Academy (HolidayFox)",
+   "url": "https://holidayfox.com/en/e/dest-KK7W-NZoQVTo/cressey-s-surf-academy"
+  },
+  {
+   "label": "Cressey's Surf Academy booking",
+   "url": "https://eola.co/244/activities/surfing-1-to-2-lessons"
+  },
+  {
+   "label": "Adventures Wales",
+   "url": "https://www.adventureswales.co.uk/"
+  },
+  {
+   "label": "Balsa Surf Shop",
+   "url": "https://www.balsasurf.co.uk/"
+  },
+  {
+   "label": "Surf-forecast sea temperature, Rest Bay",
+   "url": "https://www.surf-forecast.com/breaks/Rest-Bay/seatemp"
+  }
+ ],
+ "factCheck": [
+  {
+   "fact": "Porthcawl Surf School at Watersports Centre CF36 3UP; min age 7; 200+ soft boards; SUP/kayak on non-surf days; open except Christmas Day; hire without booking",
+   "url": "https://www.visitbridgend.co.uk/activities/porthcawlsurfschool-556451"
+  },
+  {
+   "fact": "Surf school lessons year-round; centre facilities incl. lockers, showers, cafe, surf shop",
+   "url": "https://www.bridgend.gov.uk/residents/leisure-culture-and-libraries/rest-bay-watersports-centre/"
+  },
+  {
+   "fact": "Large tidal range; waves 2ft to overhead within hours; avoid high tide; Coney Beach calmer for first-timers; suits all levels incl. children on bodyboards",
+   "url": "https://visitwales.com/node/6193"
+  },
+  {
+   "fact": "Lifeguards daily 23 May-6 Sep, weekends 12-13 Sep, 10am-6pm; SW facing",
+   "url": "https://rnli.org/find-my-nearest/lifeguarded-beaches/porthcawl-rest-bay-beach"
+  },
+  {
+   "fact": "Cressey's: Rest Bay and Aberavon; ages 8+; Wave Project Cymru partner; board/wetsuit/gloves/boots hire",
+   "url": "https://holidayfox.com/en/e/dest-KK7W-NZoQVTo/cressey-s-surf-academy"
+  },
+  {
+   "fact": "Cressey's meets at Rest Bay car park CF36 3UN",
+   "url": "https://eola.co/244/activities/surfing-1-to-2-lessons"
+  },
+  {
+   "fact": "Adventures Wales surf sessions at Rest Bay, kit included, updated Sept 2026",
+   "url": "https://www.adventureswales.co.uk/"
+  },
+  {
+   "fact": "Activities from age 7 (Adventures Wales)",
+   "url": "https://www.visitwales.com/twg-product/526651"
+  },
+  {
+   "fact": "Balsa Surf Shop, 12 Well Street; stock",
+   "url": "https://www.balsasurf.co.uk/"
+  },
+  {
+   "fact": "Sea temperature 15-18C mid-Aug, 8-9C March; wetsuit guidance",
+   "url": "https://www.surf-forecast.com/breaks/Rest-Bay/seatemp"
+  }
+ ],
+ "gaps": "Cressey's Surf Academy's own website could not be opened (robots block), so its listing uses its booking page; check it is current. Distance from Rest Bay to Balsa Surf Shop not stated by sources. The name of the surf shop at the watersports centre is not confirmed (Visit Wales calls it Porthcawl Surf Shop). Malc's Cafe hire mentioned in one older article was not verified, so left out."
+}

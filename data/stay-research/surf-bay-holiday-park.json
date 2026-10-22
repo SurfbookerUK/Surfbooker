@@ -1,0 +1,26 @@
+{
+ "name": "Surf Bay Holiday Park",
+ "officialUrl": "https://www.surfbay.co.uk/",
+ "trading": true,
+ "stayType": "Family-run holiday park with apartments and caravans",
+ "accommodation": "Self-catering apartments sleeping 4-6 (2 and 3 bedrooms), plus static caravans",
+ "suitableFor": "Families, small groups and dog owners",
+ "parking": "Ample parking alongside each caravan or apartment",
+ "dogs": "Pet friendly",
+ "beachAccess": "Own access to Westward Ho! beach, the Burrows and Pebble Ridge; village centre about a 5-minute walk",
+ "boardStorage": null,
+ "confirmedFeatures": "Laundry, free WiFi, landscaped lawns, smart TVs, Bluetooth sound systems, some units with hot tubs or jacuzzi baths",
+ "overview": "A family-run park on the edge of Westward Ho! with its own access onto the beach, Northam Burrows and the Pebble Ridge. Guests stay in self-catering apartments for four to six people or in static caravans, with parking beside each unit and the village shops and pubs about five minutes away on foot.",
+ "surfTripFit": "Direct access to the beach means you can check the surf and paddle out without moving the car, and parking by the door makes unloading boards simple.",
+ "sources": [
+  {
+   "label": "Surf Bay Holiday Park",
+   "url": "https://www.surfbay.co.uk/"
+  },
+  {
+   "label": "Visit Westward Ho!",
+   "url": "https://visitwestwardho.co.uk/surfbay-holiday-park"
+  }
+ ],
+ "slug": "surf-bay-holiday-park"
+}

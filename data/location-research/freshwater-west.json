@@ -1,0 +1,197 @@
+{
+ "slug": "freshwater-west",
+ "schools": [
+  {
+   "name": "Outer Reef Surf School",
+   "type": "Surf school",
+   "url": "https://www.outerreefsurfschool.com/surf-lessons/",
+   "base": "Main beach car park at Freshwater West (office in Pembroke); meeting point confirmed after booking",
+   "note": "Group, private, family, improver, longboard and women's sessions, ages 7 and up, with board and wetsuit included. Beginner sessions only run here when conditions allow, otherwise they move to a gentler beach.",
+   "source": "https://www.outerreefsurfschool.com/pembrokeshire-adventure-activities-locations-for-surfing-coasteering-kayaking-paddleboarding-tours/freshwater-west/"
+  },
+  {
+   "name": "Pembrokeshire Surf School",
+   "type": "Surf school",
+   "url": "https://pembrokeshiresurfschool.co.uk/",
+   "base": "Keeston, near Haverfordwest; beach chosen the evening before from the forecast",
+   "note": "Visit Pembrokeshire lists Freshwater West among its teaching beaches. Beginner to performance coaching, minimum age 8.",
+   "source": "https://visitpembrokeshire.com/activity-listing/pembrokeshire-surf-school"
+  }
+ ],
+ "hire": [
+  {
+   "name": "Outer Reef",
+   "type": "Board & wetsuit hire",
+   "url": "https://www.outerreefsurfschool.com/surf-lessons/equipment-hire/",
+   "base": "Collect from the Outer Reef shop, Unit 4, Upper Lamphey Road, Pembroke",
+   "note": "Surfboards, wetsuits and bodyboards for Freshwater West and Manorbier are collected from the Pembroke shop. Independent hire is for people who already know the kit and the beach; beginners are pointed to a lesson.",
+   "source": "https://www.outerreefsurfschool.com/surf-lessons/equipment-hire/"
+  }
+ ],
+ "shops": [
+  {
+   "name": "Outer Reef Pembroke shop",
+   "type": "Surf shop",
+   "url": "https://www.outerreefsurfschool.com/surf-shop-pembrokeshire/",
+   "town": "Pembroke",
+   "note": "Surf clothing, equipment and wetsuit advice at the Upper Lamphey Road base, which is also the pick-up point for surf hire.",
+   "source": "https://www.outerreefsurfschool.com/surf-shop-pembrokeshire/"
+  }
+ ],
+ "lessonsIntro": "Freshwater West has the most powerful and consistent surf in Pembrokeshire, so lessons here only run on suitable days, with schools moving beginners elsewhere when it's too big.",
+ "learn": {
+  "text": [
+   "Freshwater West is a wide, dune-backed beach on the Castlemartin peninsula, facing south-west into the Atlantic. Visit Pembrokeshire calls it the most consistent surfing beach in Wales and says it's suited to experienced surfers who are strong swimmers; it hosts the Welsh National Surfing Championships. Outer Reef runs lessons here when the swell, wind and tide allow, and switches to a gentler beach on bigger days.",
+   "Strong rip currents run off the beach, there's a rocky reef at the southern end, and Visit Pembrokeshire also mentions rocks in places and soft sand. RNLI lifeguards patrol daily from 20 June to 6 September in 2026, 10am to 6pm; outside that there's no cover. Frainslake Sands to the south is inside the Castlemartin firing ranges and out of bounds. Facilities are basic, and the two small car parks fill fast when the surf is up."
+  ],
+  "cards": [
+   {
+    "label": "Level",
+    "title": "Experienced, or with an instructor",
+    "text": "Official guidance says it's for experienced surfers and strong swimmers. Beginners should only go in with a school, on days it judges suitable."
+   },
+   {
+    "label": "Best time",
+    "title": "Smaller days in the lifeguard season",
+    "text": "Lifeguards patrol from late June to early September. The waves are usually bigger than elsewhere, so learners need the smaller days."
+   },
+   {
+    "label": "Watch out for",
+    "title": "Strong rips and the southern reef",
+    "text": "Rip currents are strong, especially as the swell increases, and there's a rocky reef at the south end. Never surf here alone."
+   }
+  ]
+ },
+ "hireIntro": "There's no hire on the beach itself; boards and wetsuits for Freshwater West are collected from Outer Reef's shop in Pembroke.",
+ "kit": {
+  "text": [
+   "Freshwater West's waves are often a couple of feet bigger and faster than at other Pembrokeshire beaches. Learners should use a large soft-top and stay in the whitewater with an instructor. Improvers will want a board they can paddle and turn well, and experienced surfers bring shortboards for the punchier days. You'll need a full wetsuit all year, with boots, gloves and a hood through winter."
+  ],
+  "cards": [
+   {
+    "label": "Board",
+    "title": "Soft-top only with a lesson",
+    "text": "Beginners should stick to a large soft-top under instruction. Experienced surfers use performance boards when it's pumping."
+   },
+   {
+    "label": "Wetsuit",
+    "title": "4/3mm in summer, 5mm or more in winter",
+    "text": "Sea temperature data for the south Pembrokeshire coast suggests a 4/3 or 3/2 in mid-August and a 5/4 or thicker with boots, gloves and a hood around late February, when the water drops to roughly 7 to 9°C. Spring and autumn sit in between."
+   },
+   {
+    "label": "Other craft",
+    "title": "Bodyboard in the flags only",
+    "text": "Lifeguards ask bodyboarders to stay between the red and yellow flags. The beach isn't suitable for inexperienced swimmers."
+   }
+  ]
+ },
+ "shopsIntro": "There are no shops at the beach; the nearest surf shop is in Pembroke.",
+ "shopsText": [
+  "Freshwater West is remote, with toilets near the car park but no shops or cafés listed by Visit Pembrokeshire. Outer Reef's shop in Pembroke, on Upper Lamphey Road, sells surf clothing and equipment, gives wetsuit advice and is where you collect hire kit for Freshwater West. Outer Reef also runs a store in Tenby and sells online."
+ ],
+ "faqs": {
+  "lessons": [
+   {
+    "q": "Is Freshwater West suitable for beginners?",
+    "a": "Only with a surf school on the right day. Visit Pembrokeshire says it's for experienced surfers and strong swimmers, and Outer Reef only runs beginner sessions here when conditions allow."
+   },
+   {
+    "q": "What happens if it's too big for my lesson?",
+    "a": "Outer Reef chooses the beach on the day and may move you to Manorbier, Newgale or another beach with safer conditions. Check your booking messages before you travel."
+   },
+   {
+    "q": "How old do you have to be?",
+    "a": "Outer Reef takes children from age 7 and Pembrokeshire Surf School from age 8."
+   }
+  ],
+  "hire": [
+   {
+    "q": "Can I hire a board at Freshwater West?",
+    "a": "Not on the beach. Outer Reef hires surfboards, wetsuits and bodyboards for Freshwater West from its Pembroke shop."
+   },
+   {
+    "q": "Can beginners hire kit and go it alone here?",
+    "a": "Outer Reef says independent hire is for people who already understand the equipment and conditions, and recommends a lesson for beginners. Given the rips here, that's sound advice."
+   }
+  ],
+  "shops": [
+   {
+    "q": "Where's the nearest surf shop to Freshwater West?",
+    "a": "Outer Reef's shop on Upper Lamphey Road in Pembroke, which also handles surf hire."
+   }
+  ]
+ },
+ "sources": [
+  {
+   "label": "Outer Reef: Freshwater West",
+   "url": "https://www.outerreefsurfschool.com/pembrokeshire-adventure-activities-locations-for-surfing-coasteering-kayaking-paddleboarding-tours/freshwater-west/"
+  },
+  {
+   "label": "Outer Reef: surf lessons",
+   "url": "https://www.outerreefsurfschool.com/surf-lessons/"
+  },
+  {
+   "label": "Outer Reef: equipment hire",
+   "url": "https://www.outerreefsurfschool.com/surf-lessons/equipment-hire/"
+  },
+  {
+   "label": "Outer Reef: shops",
+   "url": "https://www.outerreefsurfschool.com/surf-shop-pembrokeshire/"
+  },
+  {
+   "label": "Visit Pembrokeshire: Pembrokeshire Surf School",
+   "url": "https://visitpembrokeshire.com/activity-listing/pembrokeshire-surf-school"
+  },
+  {
+   "label": "Visit Pembrokeshire: Freshwater West beach",
+   "url": "https://www.visitpembrokeshire.com/explore-pembrokeshire/beaches/freshwater-west"
+  },
+  {
+   "label": "Visit Pembrokeshire: where to surf",
+   "url": "https://www.visitpembrokeshire.com/articles/surfing-in-pembrokeshire-where-best"
+  },
+  {
+   "label": "Visit Wales: Freshwater West",
+   "url": "https://www.visitwales.com/attraction/beach/freshwater-west-beach-1936408"
+  },
+  {
+   "label": "RNLI: Freshwater West",
+   "url": "https://rnli.org/find-my-nearest/lifeguarded-beaches/freshwater-west-beach"
+  },
+  {
+   "label": "Surf-forecast: sea temperature",
+   "url": "https://www.surf-forecast.com/breaks/Manorbier/seatemp"
+  }
+ ],
+ "factCheck": [
+  {
+   "fact": "Outer Reef based in main beach car park; lifeguards only early June to Sept per Outer Reef; strong rips as swell increases; beginner sessions only when conditions allow; hosts Welsh National Championships",
+   "url": "https://www.outerreefsurfschool.com/pembrokeshire-adventure-activities-locations-for-surfing-coasteering-kayaking-paddleboarding-tours/freshwater-west/"
+  },
+  {
+   "fact": "Outer Reef min age 7; formats; board and wetsuit included",
+   "url": "https://www.outerreefsurfschool.com/surf-lessons/"
+  },
+  {
+   "fact": "Hire for Freshwater West collected from Pembroke shop; independent hire for experienced",
+   "url": "https://www.outerreefsurfschool.com/surf-lessons/equipment-hire/"
+  },
+  {
+   "fact": "Pembrokeshire Surf School teaches Freshwater West",
+   "url": "https://visitpembrokeshire.com/activity-listing/pembrokeshire-surf-school"
+  },
+  {
+   "fact": "Best waves in the county; experienced surfers and strong swimmers; strong rips; reef at southern end; Frainslake Sands out of bounds; two small car parks",
+   "url": "https://www.visitpembrokeshire.com/explore-pembrokeshire/beaches/freshwater-west"
+  },
+  {
+   "fact": "Most consistent beach in Wales; usually a couple of feet bigger; rocks, soft sand",
+   "url": "https://www.visitpembrokeshire.com/articles/surfing-in-pembrokeshire-where-best"
+  },
+  {
+   "fact": "RNLI 2026 daily 20 June to 6 September",
+   "url": "https://rnli.org/find-my-nearest/lifeguarded-beaches/freshwater-west-beach"
+  }
+ ],
+ "gaps": "Pembrokeshire Surf School's own site doesn't name Freshwater West (only its Visit Pembrokeshire listing does) and shows no recent dates. No hire or shop at the beach. No repair service confirmed."
+}

@@ -1,0 +1,29 @@
+{
+ "slug": "oa-surf-club",
+ "kind": "surf-schools",
+ "officialUrl": "https://www.oasurfclub.co.uk/",
+ "trading": true,
+ "about": "OA Surf Club is based at Atlantic Court in Widemouth Bay, near Bude, and combines accommodation with surf lessons, coasteering and surf hire. It also hosts school trips, yoga retreats and qualification courses. Its beginner and improver surf lessons run daily for individuals, groups and schools, and its hire trailer sits in the Widemouth Bay car park.",
+ "offers": [
+  "Beginner and improver surf lessons (2 hours)",
+  "Group and school surf sessions",
+  "Coasteering (2 hours)",
+  "Surfboard and wetsuit hire for 2 hours, half a day or a full day",
+  "School trips",
+  "Accommodation, including B&B and packages"
+ ],
+ "where": "Atlantic Court, Widemouth Bay; hire trailer in the Widemouth Bay car park",
+ "goodToKnow": [
+  "Surf lessons include a wetsuit and board",
+  "Coasteering includes a wetsuit, buoyancy aid and helmet",
+  "Book online or by enquiry form; activity and accommodation terms are on the website"
+ ],
+ "season": null,
+ "sources": [
+  {
+   "label": "OA Surf Club homepage",
+   "url": "https://www.oasurfclub.co.uk/"
+  }
+ ],
+ "gaps": "No season, age limits, what to bring, cancellation terms or named accreditations"
+}

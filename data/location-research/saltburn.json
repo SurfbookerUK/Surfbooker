@@ -1,0 +1,193 @@
+{
+ "slug": "saltburn",
+ "schools": [
+  {
+   "name": "Saltburn Surf School",
+   "type": "Surf school",
+   "url": "https://www.saltburn-surf.co.uk/",
+   "base": "Lower promenade, Saltburn",
+   "note": "Coaching for beginners, improvers and advanced surfers since 1983, plus SUP lessons and courses; accredited by Surfing England and the ISA.",
+   "source": "https://www.saltburn-surf.co.uk/"
+  },
+  {
+   "name": "Flow Surf School",
+   "type": "Surf school",
+   "url": "https://driftsurfshop.co.uk/pages/coming-up-surf-lessons",
+   "base": "Saltburn, run with Drift Surf Shop",
+   "note": "Summer-holiday group lessons, private lessons on request, and junior and adult surf clubs (the adult club runs year round). Kit is provided; bring a towel and swimwear.",
+   "source": "https://driftsurfshop.co.uk/pages/coming-up-surf-lessons"
+  }
+ ],
+ "hire": [
+  {
+   "name": "Saltburn Surf School",
+   "type": "Board & wetsuit hire",
+   "url": "https://www.saltburn-surf.co.uk/",
+   "base": "Lower promenade, Saltburn",
+   "note": "Hires wetsuits, surfboards, bodyboards, SUPs and sit-on-top kayaks. Hire depends on safe conditions, so check its daily surf check (updated by 9am) first.",
+   "source": "https://www.saltburn-surf.co.uk/surf-hire/"
+  },
+  {
+   "name": "Drift Surf Shop",
+   "type": "Board & wetsuit hire",
+   "url": "https://driftsurfshop.co.uk/pages/coming-up-surf-lessons",
+   "base": "Saltburn",
+   "note": "Lists surf hire every day, including a surf and hire package.",
+   "source": "https://driftsurfshop.co.uk/pages/coming-up-surf-lessons"
+  }
+ ],
+ "shops": [
+  {
+   "name": "Saltburn Surf School",
+   "type": "Surf shop",
+   "url": "https://www.saltburn-surf.co.uk/",
+   "town": "Saltburn (lower promenade)",
+   "note": "Sells new and second-hand surf equipment alongside its lessons and hire.",
+   "source": "https://www.saltburn-surf.co.uk/"
+  },
+  {
+   "name": "Drift Surf Shop",
+   "type": "Surf shop",
+   "url": "https://driftsurfshop.co.uk/",
+   "town": "Saltburn",
+   "note": "Sells surfboards, wetsuits, accessories and its own organic cotton clothing.",
+   "source": "https://driftsurfshop.co.uk/pages/coming-up-surf-lessons"
+  }
+ ],
+ "lessonsIntro": "Saltburn is the North East's best-known learner beach, with two surf schools working from the town: Saltburn Surf School on the lower promenade and Flow Surf School.",
+ "learn": {
+  "text": [
+   "Saltburn's beginner waves break either side of the pier and, according to the North York Moors National Park, work best around high tide. Saltburn Surf School has coached here since 1983 and teaches all levels from its base on the lower promenade, while Flow Surf School runs group lessons in the summer holidays and junior and adult surf clubs, the adult club running all year.",
+   "RNLI lifeguards patrol the beach daily from late May to early September, so in summer you can surf or bodyboard in a patrolled area. Outside those dates there is no lifeguard cover. Both schools ask you to be a confident swimmer, and Saltburn Surf School publishes a daily surf check by 9am which is worth reading before you travel."
+  ],
+  "cards": [
+   {
+    "label": "Level",
+    "title": "Beginner friendly",
+    "text": "The National Park notes beginner waves either side of the pier, best around high tide."
+   },
+   {
+    "label": "Best time",
+    "title": "Higher tides",
+    "text": "High tide is when the beginner banks by the pier work best; RNLI lifeguards patrol from late May to early September."
+   },
+   {
+    "label": "Watch out for",
+    "title": "Pier and changing surf",
+    "text": "Keep clear of the pier legs, and check the daily surf check: Saltburn Surf School may stop hire in unsafe surf."
+   }
+  ]
+ },
+ "hireIntro": "You can hire surfboards, bodyboards, wetsuits, SUPs and kayaks from Saltburn Surf School on the promenade, and Drift Surf Shop also lists daily surf hire.",
+ "kit": {
+  "text": [
+   "The beaches on this stretch are mostly sandy beach breaks, so a long foam board is the right start, moving on to a hard mini-mal or longboard as you improve. Scarborough Surf School hires only 5/4mm wetsuits because the North Sea stays cold, and adds boots, gloves and hoods for the cooler months."
+  ],
+  "cards": [
+   {
+    "label": "Board",
+    "title": "Soft-top, then mini-mal",
+    "text": "Saltburn's gentle beginner waves suit a long foam board; hard boards come once you are catching unbroken waves."
+   },
+   {
+    "label": "Wetsuit",
+    "title": "5/4mm most of the year",
+    "text": "North Sea water stays cool. Scarborough Surf School hires only 5/4mm suits and treats them as year-round wear, adding boots, gloves and a hood in the colder months."
+   },
+   {
+    "label": "Other craft",
+    "title": "Bodyboard, SUP, kayak",
+    "text": "Saltburn Surf School hires bodyboards, SUPs and sit-on-top kayaks. You need to swim 100m for SUP."
+   }
+  ]
+ },
+ "shopsIntro": "Saltburn has two surf retailers: Drift Surf Shop and Saltburn Surf School, which sells new and second-hand kit.",
+ "shopsText": [
+  "Both of Saltburn's surf businesses are a short walk from the beach. Saltburn Surf School sits on the lower promenade and sells new and used equipment, while Drift Surf Shop stocks surfboards, wetsuits, accessories and its own organic clothing. That makes Saltburn the easiest place on this stretch to buy kit on the day."
+ ],
+ "faqs": {
+  "lessons": [
+   {
+    "q": "Is Saltburn good for beginners?",
+    "a": "Yes. The National Park describes beginner breaks either side of the pier, best at high tide, and both local schools teach beginners."
+   },
+   {
+    "q": "When are lifeguards on duty?",
+    "a": "RNLI lifeguards patrol daily from 23 May to 6 September 2026, 10am to 6pm."
+   },
+   {
+    "q": "Are there surf clubs for children?",
+    "a": "Flow Surf School runs a Junior Surf Club as well as an Adult Surf Club; you complete a group lesson first."
+   }
+  ],
+  "hire": [
+   {
+    "q": "What can I hire in Saltburn?",
+    "a": "Saltburn Surf School hires wetsuits, surfboards, bodyboards, SUPs and sit-on-top kayaks."
+   },
+   {
+    "q": "Do I need to book hire?",
+    "a": "Usually you can turn up, but hire depends on safe conditions, so check the school's daily surf check first."
+   }
+  ],
+  "shops": [
+   {
+    "q": "Where can I buy a wetsuit in Saltburn?",
+    "a": "Drift Surf Shop sells wetsuits and boards, and Saltburn Surf School sells new and second-hand kit."
+   }
+  ]
+ },
+ "sources": [
+  {
+   "label": "Saltburn Surf School",
+   "url": "https://www.saltburn-surf.co.uk/"
+  },
+  {
+   "label": "Saltburn Surf School: hire",
+   "url": "https://www.saltburn-surf.co.uk/surf-hire/"
+  },
+  {
+   "label": "Drift Surf Shop / Flow Surf School",
+   "url": "https://driftsurfshop.co.uk/pages/coming-up-surf-lessons"
+  },
+  {
+   "label": "North York Moors National Park: surfing",
+   "url": "https://www.northyorkmoors.org.uk/things-to-do/coast/surfing-and-paddle-boarding"
+  },
+  {
+   "label": "RNLI: Saltburn Beach",
+   "url": "https://rnli.org/find-my-nearest/lifeguarded-beaches/saltburn-beach"
+  },
+  {
+   "label": "Scarborough Surf School: equipment hire",
+   "url": "https://scarboroughsurfschool.co.uk/equipment-hire/"
+  }
+ ],
+ "factCheck": [
+  {
+   "fact": "Saltburn Surf School on lower Prom, coaching since 1983, Surfing England and ISA accredited",
+   "url": "https://www.saltburn-surf.co.uk/"
+  },
+  {
+   "fact": "Hire: wetsuits, surfboards, bodyboards, SUPs, sit-on-top kayaks; surf check by 9am; swim 50m surf/100m SUP",
+   "url": "https://www.saltburn-surf.co.uk/surf-hire/"
+  },
+  {
+   "fact": "Flow: summer group lessons, junior and adult clubs, adult year round",
+   "url": "https://driftsurfshop.co.uk/pages/coming-up-surf-lessons"
+  },
+  {
+   "fact": "Beginner breaks either side of pier, best at high tide",
+   "url": "https://www.northyorkmoors.org.uk/things-to-do/coast/surfing-and-paddle-boarding"
+  },
+  {
+   "fact": "RNLI patrols 23 May to 6 Sep 2026, 10am-6pm",
+   "url": "https://rnli.org/find-my-nearest/lifeguarded-beaches/saltburn-beach"
+  },
+  {
+   "fact": "Scarborough Surf School hires 5/4mm wetsuits only, described as suitable year round, plus boots, gloves and hoods",
+   "url": "https://scarboroughsurfschool.co.uk/equipment-hire/"
+  }
+ ],
+ "gaps": "Drift Surf Shop's street address not confirmed (Saltburn per its social handles and National Park listing). No rip/hazard detail from RNLI or council. No repair services confirmed."
+}

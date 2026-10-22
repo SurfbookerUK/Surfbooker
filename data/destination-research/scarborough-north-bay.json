@@ -1,0 +1,147 @@
+{
+ "overview": [
+  "North Bay is the northern half of Scarborough's seafront, separated from South Bay by the high rocky headland that carries Scarborough Castle. Marine Drive, a Victorian promenade, wraps around the foot of that headland and links the two bays, so you can walk from one to the other along the sea wall without climbing into town. Peasholm Park and the Open Air Theatre are just inland.",
+  "Scarborough has long treated North Bay as the more peaceful end of the resort, and the council describes it as the wilder of the two beaches, with a rugged feel and plenty of chances to surf. A wide esplanade with concrete flood walls runs behind the sand, with beach huts, cafés, toilets and a slipway along the way. It feels very different from the busier South Bay.",
+  "The National Park describes both of Scarborough's bays as gentle enough for beginners, and there are surf schools and hire in and around town. The rocky ground at the northern end, towards Scalby Mills, is a different proposition, so learners are best keeping to the sandy middle of the bay and the lifeguarded zone in summer. Westerly winds blow offshore."
+ ],
+ "suits": [
+  "Learners on small, clean days",
+  "Families wanting a resort beach with facilities behind it",
+  "Car-free trips by train to Scarborough",
+  "Surfers who want town, castle and food within walking distance"
+ ],
+ "notFor": [
+  "Dog walkers wanting the north half of the beach in summer",
+  "Anyone after a quiet surf on a good-swell weekend"
+ ],
+ "surf": {
+  "text": [
+   "North Bay's sandy middle offers gentle waves on smaller days, which is why the National Park lists Scarborough's bays as suitable for beginners. Surf-forecast's spot guide describes the North Bay break itself as a fairly exposed reef and point set-up, with left and right-handers, best on a north-north-east swell with a westerly wind, and warns about rocks and crowds.",
+   "In practice that means two different beaches in one: forgiving sand for learning and rockier ground for experienced surfers. Westerly winds blow offshore here. In summer use the lifeguarded area, and on rougher days remember the sea wall at high tide leaves little beach to retreat to.",
+   "There are really two surf scenes in Scarborough. The South Bay is the gentle, beginner-friendly side, with schools running lessons in the sand and harbour shelter on small days. North Bay is the one for experienced surfers, with a reef and point set-up that gets powerful and tends to be busy when the swell is up. Always check the tide and the rocks before you paddle out, and expect company in the lineup when conditions line up."
+  ],
+  "cards": [
+   {
+    "label": "Level",
+    "title": "Beginners to experienced",
+    "text": "Gentle sandy peaks for learners on small days; rocky reef and point ground for experienced surfers only."
+   },
+   {
+    "label": "Conditions",
+    "title": "NNE swell, westerly wind",
+    "text": "Surf-forecast rates a north-north-east swell with a west wind as the best combination."
+   },
+   {
+    "label": "Hazards",
+    "title": "Rocks, crowds and the sea wall",
+    "text": "Rocks and crowds are flagged by surf-forecast; the sea wall leaves little sand at high tide."
+   }
+  ]
+ },
+ "practical": [
+  {
+   "label": "Lifeguards",
+   "title": "RNLI, 10am–6pm",
+   "text": "In 2026 RNLI lifeguards patrolled from 2 May, with weekend cover on the first three May weekends and then daily until 6 September. Swim and bodyboard between the red and yellow flags."
+  },
+  {
+   "label": "Dogs",
+   "title": "No dogs on the north half, 1 May–30 Sep",
+   "text": "North Yorkshire Council's order bans dogs from the northernmost slipway at The Sands (the former Corner Café) to the end of the chalets every year from 1 May to 30 September. Dogs must be on a lead year-round on the promenade from Scalby Mills Road to The Sands."
+  },
+  {
+   "label": "Facilities",
+   "title": "Along the esplanade",
+   "text": "The council lists cafés, toilets, a first aid point, a lost child centre, beach hut hire and a slipway at North Bay."
+  },
+  {
+   "label": "Nearby",
+   "title": "Peasholm Park and the North Bay Railway",
+   "text": "Peasholm Park sits just behind the bay, and the miniature North Bay Railway runs from near the park through Northstead Manor Gardens to the Sea Life centre at Scalby Mills."
+  },
+  {
+   "label": "Getting here",
+   "title": "Scarborough station",
+   "text": "Scarborough is the end of the line from York, with hourly TransPennine Express trains, and Northern services run down the Yorkshire Coast Line to Hull."
+  }
+ ],
+ "faqs": [
+  {
+   "q": "Is Scarborough North Bay good for beginners?",
+   "a": "Yes, on small days. The North York Moors National Park describes Scarborough's North and South Bays as gentle enough for beginners. Keep to the sand and away from the rocky northern end, and use the lifeguarded area in summer."
+  },
+  {
+   "q": "Can I take my dog on North Bay?",
+   "a": "Not on the north half between 1 May and 30 September. The ban runs from the northernmost slipway at The Sands to the end of the chalets. Outside those dates, and outside that zone, dogs are allowed, but they must be on a lead on the promenade between Scalby Mills Road and The Sands all year."
+  },
+  {
+   "q": "When are the lifeguards on?",
+   "a": "In 2026 RNLI lifeguards started on 2 May, covering weekends in early May and then patrolling daily until 6 September, from 10am to 6pm. Check the RNLI for the current year."
+  },
+  {
+   "q": "How do I get between North Bay and South Bay?",
+   "a": "Walk along Marine Drive, the Victorian promenade that runs around the foot of the castle headland and joins the two bays."
+  }
+ ],
+ "sources": [
+  {
+   "label": "RNLI — 2026 North Yorkshire lifeguard patrols",
+   "url": "https://rnli.org/news-and-media/2026/april/27/rnli-lifeguards-start-daily-beach-patrols-in-north-yorkshire"
+  },
+  {
+   "label": "North Yorkshire Council — Scarborough North Bay",
+   "url": "https://www.northyorks.gov.uk/leisure-tourism-and-culture/beaches/beach-locations/beach-locations/scarborough-north-bay"
+  },
+  {
+   "label": "North Yorkshire Council — dog control PSPO 2024",
+   "url": "https://www.northyorks.gov.uk/environment-and-neighbourhoods/animals/dogs/dog-walking-bans-scarborough-area/dog-control-public-spaces-protection-order-2024"
+  },
+  {
+   "label": "North York Moors National Park — surfing and paddle boarding",
+   "url": "https://www.northyorkmoors.org.uk/things-to-do/coast/surfing-and-paddle-boarding"
+  },
+  {
+   "label": "Surf-forecast — Scarborough North Bay",
+   "url": "https://www.surf-forecast.com/breaks/Scarborough-North-Bay"
+  },
+  {
+   "label": "Wikipedia — Scarborough",
+   "url": "https://en.wikipedia.org/wiki/Scarborough,_North_Yorkshire"
+  }
+ ],
+ "factCheck": [
+  {
+   "fact": "Castle headland splits North and South Bays; Marine Drive links them",
+   "url": "https://en.wikipedia.org/wiki/Scarborough,_North_Yorkshire"
+  },
+  {
+   "fact": "North Bay traditionally the more peaceful end of the resort",
+   "url": "https://en.wikipedia.org/wiki/Scarborough,_North_Yorkshire"
+  },
+  {
+   "fact": "Council: wilder of the two beaches, rugged feel, surfing; esplanade with flood walls; facilities list",
+   "url": "https://www.northyorks.gov.uk/leisure-tourism-and-culture/beaches/beach-locations/beach-locations/scarborough-north-bay"
+  },
+  {
+   "fact": "National Park: North and South Bays gentle enough for beginners",
+   "url": "https://www.northyorkmoors.org.uk/things-to-do/coast/surfing-and-paddle-boarding"
+  },
+  {
+   "fact": "Reef/point break, NNE swell, west wind, rocks and crowds",
+   "url": "https://www.surf-forecast.com/breaks/Scarborough-North-Bay"
+  },
+  {
+   "fact": "2026 patrols from 2 May, daily to 6 Sep, 10am–6pm",
+   "url": "https://rnli.org/news-and-media/2026/april/27/rnli-lifeguards-start-daily-beach-patrols-in-north-yorkshire"
+  },
+  {
+   "fact": "Dog ban zone and lead-only promenade, 1 May–30 Sep",
+   "url": "https://www.northyorks.gov.uk/environment-and-neighbourhoods/animals/dogs/dog-walking-bans-scarborough-area/dog-control-public-spaces-protection-order-2024"
+  },
+  {
+   "fact": "North Bay Railway route; station services",
+   "url": "https://en.wikipedia.org/wiki/Scarborough,_North_Yorkshire"
+  }
+ ],
+ "checked": "October 2026"
+}

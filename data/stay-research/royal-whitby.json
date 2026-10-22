@@ -1,0 +1,22 @@
+{
+ "name": "Royal Whitby",
+ "officialUrl": "https://www.royalwhitby.co.uk/",
+ "trading": true,
+ "stayType": "Historic clifftop hotel",
+ "accommodation": "142 en-suite rooms, from standard to superior, family and four-poster",
+ "suitableFor": "Couples, families and groups",
+ "parking": "On-site car park with limited chargeable EV points",
+ "dogs": null,
+ "beachAccess": "West Cliff location overlooking the beaches and harbour",
+ "boardStorage": null,
+ "confirmedFeatures": "Free Wi-Fi, bar and lounge, restaurant, afternoon tea, EV charging",
+ "overview": "A large hotel on Whitby's West Cliff with views across the beaches, harbour, old town and abbey. Its 142 en-suite rooms range from standard to family and four-poster rooms, and there is an on-site restaurant, bar and car park.",
+ "surfTripFit": "On the West Cliff above the main beach, so you can look at the sea from the hotel and park on site.",
+ "sources": [
+  {
+   "label": "Royal Whitby official site",
+   "url": "https://www.royalwhitby.co.uk/"
+  }
+ ],
+ "slug": "royal-whitby"
+}

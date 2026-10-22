@@ -1,0 +1,26 @@
+{
+ "name": "Culver House",
+ "officialUrl": "https://www.culverhousehotel.co.uk/",
+ "trading": true,
+ "stayType": "Self-catering sea-view apartments",
+ "accommodation": "Self-catering suites (one and two bedrooms per Tripadvisor listing)",
+ "suitableFor": "Couples and families",
+ "parking": null,
+ "dogs": "Accepted in some suites only",
+ "beachAccess": "About a one-minute walk to Port Eynon beach",
+ "boardStorage": null,
+ "confirmedFeatures": "Fully equipped kitchens, sea views",
+ "overview": "Culver House offers self-catering apartments a minute's walk from Port Eynon's beach, most of them with sea views. The suites have fully equipped kitchens, and dogs are accepted in some of them.",
+ "surfTripFit": "You're a minute from the beach and can cook for yourself, which suits surfers who keep odd hours.",
+ "sources": [
+  {
+   "label": "Culver House official site",
+   "url": "https://www.culverhousehotel.co.uk/"
+  },
+  {
+   "label": "Tripadvisor listing",
+   "url": "https://www.tripadvisor.co.uk/Hotel_Review-g1885320-d244850-Reviews-Culver_House_Hotel-Port_Eynon_Swansea_County_South_Wales_Wales.html"
+  }
+ ],
+ "slug": "culver-house"
+}

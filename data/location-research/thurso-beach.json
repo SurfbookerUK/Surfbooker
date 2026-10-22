@@ -1,0 +1,148 @@
+{
+ "slug": "thurso-beach",
+ "schools": [],
+ "hire": [
+  {
+   "name": "North Coast Watersports",
+   "type": "Board & wetsuit hire",
+   "url": "https://www.northcoastwatersports.com/equipment-hire",
+   "base": "Collect from Dunnet beach car park, next to Dunnet Bay caravan site, or from their base about 5 minutes away",
+   "note": "Hires 5/4mm wetsuits with boots, gloves and hoods, 7-9ft foam boards, hardboards from shortboards to longboards, bodyboards, sit-on-top kayaks and SUPs (SUPs by arrangement, calm days only). Free foam roof racks are included.",
+   "source": "https://www.northcoastwatersports.com/equipment-hire"
+  }
+ ],
+ "shops": [
+  {
+   "name": "North Coast Watersports",
+   "type": "Surf kit sales (collection only)",
+   "url": "https://www.northcoastwatersports.com/buy-equipment",
+   "town": "Dunnet",
+   "note": "Not a walk-in shop: you can buy wax, leashes and some second-hand wetsuits, boots and gloves for collection from their Dunnet base, or ask them to order boards and wetsuits from their trade brands.",
+   "source": "https://www.northcoastwatersports.com/buy-equipment"
+  }
+ ],
+ "lessonsIntro": "No school runs regular lessons on Thurso Beach itself; the local school teaches beginners at Dunnet Bay, east of town.",
+ "learn": {
+  "text": [
+   "Thurso Beach sits right in town and the local surf guide describes it as a good place to learn, with a mostly sandy bottom and occasional rocks, mainly towards the western corner. Holborn Head shelters it from big west swells, while north swells get in more easily. That said, we couldn't find a school that brings lessons here or any lifeguard cover, so you'd be on your own.",
+   "If you're new to surfing, book a lesson with North Coast Watersports at Dunnet Bay, which it calls the best beginner spot in the area. Once you can handle yourself, Thurso Beach is handy for a session in smaller swell. Don't confuse it with the reef breaks nearby: the boulder reef close to the beach and Thurso East along the river are for intermediate to very experienced surfers."
+  ],
+  "cards": [
+   {
+    "label": "Level",
+    "title": "Learners with some experience",
+    "text": "Sandy and described as good for learning, but there's no school or lifeguard here, so take your first lessons at Dunnet."
+   },
+   {
+    "label": "Best time",
+    "title": "North swells, summer",
+    "text": "North swells reach the beach more easily than west swells. Beach breaks on this coast are most consistent and mellow in summer."
+   },
+   {
+    "label": "Watch out for",
+    "title": "Rocks to the west, no lifeguards",
+    "text": "There are occasional rocks, mainly at the western corner. We couldn't find any lifeguard cover listed."
+   }
+  ]
+ },
+ "hireIntro": "There's no confirmed hire on Thurso Beach, but North Coast Watersports hires boards and winter wetsuits from Dunnet, east of Thurso, with free roof racks.",
+ "kit": {
+  "text": [
+   "For Thurso's sandy beach break a foam board or a forgiving hardboard is the right call if you're still improving. The water is cold all year: North Coast Watersports quotes roughly 6-10°C in winter and spring and 11-15°C in summer, and kits customers out in 5/4mm wetsuits with boots and gloves. Leave the reefs around town to experienced surfers on their own boards."
+  ],
+  "cards": [
+   {
+    "label": "Board",
+    "title": "Foamie or longer hardboard",
+    "text": "Hire 7-9ft foam boards or hardboards from shortboard to longboard at Dunnet."
+   },
+   {
+    "label": "Wetsuit",
+    "title": "5/4mm with boots and gloves",
+    "text": "The local school issues this for water of roughly 6-15°C through the year, with hoods available."
+   },
+   {
+    "label": "Other craft",
+    "title": "Bodyboards",
+    "text": "Bodyboards can be hired at Dunnet. We found no specific craft rules for Thurso Beach."
+   }
+  ]
+ },
+ "shopsIntro": "We couldn't confirm a walk-in surf shop in Thurso, so plan to sort your kit through North Coast Watersports at Dunnet.",
+ "shopsText": [
+  "Thurso is the main town on this stretch of coast, but we couldn't confirm a currently trading walk-in surf shop. North Coast Watersports, based at Dunnet east of town, sells wax, leashes and some second-hand wetsuits, boots and gloves for collection, and can order boards and wetsuits in. Contact them first to arrange a time."
+ ],
+ "faqs": {
+  "lessons": [
+   {
+    "q": "Can I have a surf lesson on Thurso Beach?",
+    "a": "We couldn't find a school running lessons here. North Coast Watersports teaches beginners at Dunnet Bay, east of Thurso."
+   },
+   {
+    "q": "Is Thurso Beach OK for beginners?",
+    "a": "The local surf guide says it's good for learning thanks to its sandy bottom, but there's no school or lifeguard, so start with lessons at Dunnet."
+   },
+   {
+    "q": "Is Thurso Beach the same as Thurso East?",
+    "a": "No. Thurso East is a reef break that the local school says is only for very experienced surfers with solid reef knowledge."
+   }
+  ],
+  "hire": [
+   {
+    "q": "Where can I hire a board near Thurso Beach?",
+    "a": "North Coast Watersports hires boards and 5/4mm wetsuits from Dunnet beach car park, with free foam roof racks to carry boards to Thurso."
+   },
+   {
+    "q": "Can I get boots and gloves?",
+    "a": "Yes, boots, gloves and hoods come with hire wetsuits when needed."
+   }
+  ],
+  "shops": [
+   {
+    "q": "Is there a surf shop in Thurso?",
+    "a": "We couldn't confirm one that's currently trading. North Coast Watersports at Dunnet sells some kit and can order more in."
+   }
+  ]
+ },
+ "sources": [
+  {
+   "label": "North Coast Watersports: north coast surf guide",
+   "url": "https://www.northcoastwatersports.com/northcoastofscotlandsurfguide"
+  },
+  {
+   "label": "North Coast Watersports: equipment hire",
+   "url": "https://www.northcoastwatersports.com/equipment-hire"
+  },
+  {
+   "label": "North Coast Watersports: FAQs",
+   "url": "https://www.northcoastwatersports.com/questions-policys"
+  },
+  {
+   "label": "North Coast Watersports: buy equipment",
+   "url": "https://www.northcoastwatersports.com/buy-equipment"
+  }
+ ],
+ "factCheck": [
+  {
+   "fact": "Thurso Beach is good for learning with a predominantly sandy bottom and occasional rocks, mainly at the western corner; Holborn Head shelters it from big west swells, north swells get in more easily.",
+   "url": "https://www.northcoastwatersports.com/northcoastofscotlandsurfguide"
+  },
+  {
+   "fact": "The nearby boulder reef is best suited to intermediate and advanced surfers.",
+   "url": "https://www.northcoastwatersports.com/northcoastofscotlandsurfguide"
+  },
+  {
+   "fact": "Dunnet is described as the best beginner surf spot in the area, with lessons daily in summer.",
+   "url": "https://www.northcoastwatersports.com/northcoastofscotlandsurfguide"
+  },
+  {
+   "fact": "Hire collected at Dunnet beach car park; free foam roof racks.",
+   "url": "https://www.northcoastwatersports.com/equipment-hire"
+  },
+  {
+   "fact": "North Coast Watersports quotes water of 6-10°C in winter and spring, 11-15°C in summer and 10-15°C in autumn; its FAQ gives 7-13°C.",
+   "url": "https://www.northcoastwatersports.com/northcoastofscotlandsurfguide"
+  }
+ ],
+ "gaps": "No school teaches at Thurso Beach. No lifeguard information found (none listed). Couldn't confirm a walk-in surf shop in Thurso (Tempest Surf's website blocked our fetch, so it's left out). No tide guidance found."
+}

@@ -1,0 +1,22 @@
+{
+ "slug": "newquay-holiday-park",
+ "officialUrl": "https://www.parkdeanresorts.co.uk/location/cornwall/newquay/",
+ "trading": true,
+ "stayType": "Holiday park with caravans, lodges and glamping (Parkdean Resorts)",
+ "accommodation": "Caravans, lodges and Safari+ glamping tents (numbers not stated)",
+ "suitableFor": "Families, groups and dog owners",
+ "parking": null,
+ "dogs": "Dog-friendly (per Visit Cornwall)",
+ "beachAccess": "About three miles outside Newquay; beaches a short drive away (no distances given)",
+ "boardStorage": null,
+ "confirmedFeatures": "Three heated outdoor pools with waterslide, high ropes, bungee trampolines, crazy golf, sports dome, play areas, soft play, amusements, games room, bar and restaurant, takeaways, shop, launderette, Wi-Fi in some areas",
+ "overview": "Newquay Holiday Park is a large Parkdean Resorts site about three miles outside Newquay town. It has caravans, lodges and safari-style glamping tents, with heated outdoor pools, a waterslide, high ropes, play areas, a bar and restaurant and an on-site shop. Several beaches, including Watergate Bay, are within a short drive rather than a walk.",
+ "surfTripFit": "Better suited to family holidays with some surfing than a dedicated surf base, as a car is needed to reach the beaches.",
+ "sources": [
+  {
+   "label": "Visit Cornwall listing",
+   "url": "https://www.visitcornwall.com/accommodation/holiday-parks-and-camping/newquay/newquay-holiday-park-parkdean-resorts"
+  }
+ ],
+ "gaps": "Official Parkdean site blocked fetching, so details come from Visit Cornwall. Parking, beach distances, unit numbers and board storage not confirmed."
+}

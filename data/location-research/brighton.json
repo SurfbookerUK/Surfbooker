@@ -1,0 +1,145 @@
+{
+ "slug": "brighton",
+ "schools": [
+  {
+   "name": "Brighton Watersports",
+   "type": "Surf school",
+   "url": "https://thebrightonwatersports.co.uk/",
+   "base": "Mobile lessons, mostly held at a spot in Shoreham; centre at 185 Kings Road Arches, Brighton",
+   "note": "Group, private and progression surf lessons for all ages, run to the tide, with wetsuits and buoyancy aids provided. You need to be able to swim.",
+   "source": "https://thebrightonwatersports.co.uk/surf-school.html"
+  }
+ ],
+ "hire": [
+  {
+   "name": "Brighton Watersports",
+   "type": "SUP & kayak hire",
+   "url": "https://thebrightonwatersports.co.uk/",
+   "base": "185 Kings Road Arches, Brighton seafront",
+   "note": "Hires paddleboards and kayaks from the seafront. Its site doesn't say surfboards are available to hire, so ask first.",
+   "source": "https://thebrightonwatersports.co.uk/pages/about-us"
+  }
+ ],
+ "shops": [
+  {
+   "name": "Brighton Watersports",
+   "type": "Surf shop",
+   "url": "https://thebrightonwatersports.co.uk/",
+   "town": "185 Kings Road Arches, Brighton seafront",
+   "note": "Beachfront store and online shop selling wetsuits, boards, clothing and watersports kit, with changing rooms, lockers and showers.",
+   "source": "https://thebrightonwatersports.co.uk/pages/about-us"
+  }
+ ],
+ "lessonsIntro": "Brighton Watersports is based on Brighton seafront, but its surf lessons are mobile and mostly held along the coast in Shoreham.",
+ "learn": {
+  "text": [
+   "Brighton Watersports, in the Kings Road Arches, runs group, private and progression surf lessons for all ages. Lessons are mobile and usually happen at a spot in Shoreham rather than in front of the centre, so check where to meet when you book. Wetsuits and buoyancy aids are included, and everyone must be able to swim.",
+   "Lessons are timed to the tide, so arrive promptly. Waves along Brighton's seafront rely on Channel swell and wind, and calm days are common in summer, when paddleboarding or kayaking from the centre can be a good alternative. We couldn't confirm lifeguard zones or surf-specific hazards for Brighton beach, so learn with an instructor."
+  ],
+  "cards": [
+   {
+    "label": "Level",
+    "title": "All ages and levels",
+    "text": "Group, one-to-one and progression lessons. Swimmers only."
+   },
+   {
+    "label": "Best time",
+    "title": "Tide-dependent",
+    "text": "The school sets lesson times by the tide and the spot, mostly in Shoreham."
+   },
+   {
+    "label": "Watch out for",
+    "title": "Check the meeting point",
+    "text": "Lessons don't usually start at the Brighton centre. Confirm the location when booking."
+   }
+  ]
+ },
+ "hireIntro": "You can hire paddleboards and kayaks from Brighton Watersports on the seafront; we couldn't confirm surfboard hire.",
+ "kit": {
+  "text": [
+   "On small Channel waves, a big foam board is the easiest way to learn, and Brighton Watersports sells boards and wetsuits if you want your own. Water ranges from about 6 to 8°C in late winter to 17 to 19°C in late summer on this coast, according to Wittering Surf Shop. On flat days, SUP and kayak hire are available from the seafront."
+  ],
+  "cards": [
+   {
+    "label": "Board",
+    "title": "Foam to start",
+    "text": "A long, stable foam board suits beginners in small waves."
+   },
+   {
+    "label": "Wetsuit",
+    "title": "3/2 summer, 5/4 winter",
+    "text": "Wittering Surf Shop, further west on the same coast, suggests a 3/2 or shorty July to October, 4/3 in May, June and November, and 5/4 with boots and gloves December to April."
+   },
+   {
+    "label": "Other craft",
+    "title": "SUP and kayak hire",
+    "text": "Brighton Watersports hires paddleboards and kayaks from its seafront centre."
+   }
+  ]
+ },
+ "shopsIntro": "Brighton Watersports has a shop right on the seafront in the Kings Road Arches.",
+ "shopsText": [
+  "Brighton Watersports' beachfront store in the Kings Road Arches sells wetsuits, boards, clothing and accessories, and there's an online shop too. The centre also has changing rooms, lockers, showers and toilets, which helps if you're heading in from the beach."
+ ],
+ "faqs": {
+  "lessons": [
+   {
+    "q": "Are surf lessons held on Brighton beach?",
+    "a": "Brighton Watersports runs mobile lessons, mostly at a spot in Shoreham, from its Brighton base."
+   },
+   {
+    "q": "What lessons are available?",
+    "a": "Group, one-to-one and progression lessons for all ages."
+   },
+   {
+    "q": "Is kit included?",
+    "a": "Wetsuits and buoyancy aids are provided. You can bring your own board to practise on."
+   }
+  ],
+  "hire": [
+   {
+    "q": "What can I hire on Brighton seafront?",
+    "a": "Brighton Watersports hires paddleboards and kayaks."
+   },
+   {
+    "q": "Can I hire a surfboard in Brighton?",
+    "a": "We couldn't confirm surfboard hire, so ask Brighton Watersports directly."
+   }
+  ],
+  "shops": [
+   {
+    "q": "Is there a surf shop on Brighton seafront?",
+    "a": "Yes, Brighton Watersports in the Kings Road Arches sells wetsuits, boards and accessories."
+   }
+  ]
+ },
+ "sources": [
+  {
+   "label": "Brighton Watersports - Surf school",
+   "url": "https://thebrightonwatersports.co.uk/surf-school.html"
+  },
+  {
+   "label": "Brighton Watersports - About",
+   "url": "https://thebrightonwatersports.co.uk/pages/about-us"
+  },
+  {
+   "label": "Wittering Surf Shop - Surf report",
+   "url": "https://witteringsurfshop.com/pages/surf-report"
+  }
+ ],
+ "factCheck": [
+  {
+   "fact": "Lessons mobile, mostly Shoreham; formats; must swim; tide-timed; kit provided",
+   "url": "https://thebrightonwatersports.co.uk/surf-school.html"
+  },
+  {
+   "fact": "185 Kings Road Arches; SUP/kayak hire; shop stock; changing rooms, lockers, showers",
+   "url": "https://thebrightonwatersports.co.uk/pages/about-us"
+  },
+  {
+   "fact": "Water temps",
+   "url": "https://witteringsurfshop.com/pages/surf-report"
+  }
+ ],
+ "gaps": "No other Brighton surf shops or schools confirmed. No lifeguard (Brighton & Hove council/RNLI) or hazard info confirmed. Surfboard hire not confirmed."
+}

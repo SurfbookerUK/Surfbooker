@@ -1,0 +1,26 @@
+{
+ "name": "Machrihanish Holiday Park",
+ "officialUrl": "https://campkintyre.com/",
+ "trading": true,
+ "stayType": "Holiday park with caravans, lodges, pods and pitches",
+ "accommodation": "Two- and three-bedroom caravans, hot tub lodges sleeping four, heated lodges and camping pods, and touring and camping pitches for tents, caravans and motorhomes",
+ "suitableFor": "Families, couples, campers, van travellers and dog owners",
+ "parking": "Not stated",
+ "dogs": "Dog-friendly caravans, hot tub lodges and camping pods can be booked online",
+ "beachAccess": "A 10-minute walk to the beach",
+ "boardStorage": null,
+ "confirmedFeatures": "Wi-Fi, washrooms, accessible facilities, heated lodges and pods open all year, private hot tubs on some lodges, views to Islay and Jura",
+ "overview": "Machrihanish Holiday Park is in Machrihanish village near Campbeltown, a 10-minute walk from the beach. You can book caravans, hot tub lodges, heated camping pods or touring and tent pitches, with views across to Islay and Jura. There is Wi-Fi, accessible washrooms, and a pub and restaurants within walking distance.",
+ "surfTripFit": "Being a short walk from Machrihanish beach, with year-round heated pods and pitches for vans, it suits surfers visiting outside the summer as well as in it.",
+ "sources": [
+  {
+   "label": "Machrihanish Holiday Park official site",
+   "url": "https://campkintyre.com/"
+  },
+  {
+   "label": "VisitScotland listing",
+   "url": "https://www.visitscotland.com/info/accommodation/machrihanish-holiday-park-p1379101"
+  }
+ ],
+ "slug": "machrihanish-holiday-park"
+}

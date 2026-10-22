@@ -1,0 +1,22 @@
+{
+ "name": "Stubcroft Farm Campsite",
+ "officialUrl": "",
+ "trading": true,
+ "stayType": "Farm campsite",
+ "accommodation": "87 grass and hardstanding pitches, some electric",
+ "suitableFor": "Families and dog owners",
+ "parking": null,
+ "dogs": "Dogs welcome on leads",
+ "beachAccess": "Coast about a 15–20 minute walk; under five minutes' drive",
+ "boardStorage": null,
+ "confirmedFeatures": "Heated amenity block, shop, cafe, laundry, fire pits and BBQ hire, EV charging, some pitches open year round",
+ "overview": "A farm campsite near East Wittering with 87 pitches, some open all year. The coast is roughly a 15 to 20-minute walk along quiet lanes, or a few minutes in the car, and there is a heated amenity block, shop and cafe.",
+ "surfTripFit": "Year-round pitches make it useful for winter swells on the Witterings.",
+ "sources": [
+  {
+   "label": "Campsites.co.uk listing",
+   "url": "https://www.campsites.co.uk/search/campsites-in-sussex/chichester/stubcroft-farm-campsite"
+  }
+ ],
+ "slug": "stubcroft-farm-campsite"
+}

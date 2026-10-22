@@ -1,0 +1,32 @@
+{
+ "slug": "ho-surf",
+ "kind": "surf-schools",
+ "officialUrl": "https://www.surfsupacademy.co.uk/",
+ "trading": true,
+ "about": "Surf SUP Academy is a surf and paddleboard school in Westward Ho! in North Devon, run by Rob, who set it up after several years managing another surf school. It is linked with the Ho! Surf shop on the village green. It teaches children and adults of all ages and abilities, and also runs coasteering elsewhere on the North Devon coast.",
+ "offers": [
+  "Surf lessons for beginners, intermediates and advanced surfers",
+  "Group and private lessons",
+  "Stand-up paddleboard lessons, from flat water to waves",
+  "SUP tours on the Torridge Estuary",
+  "Coasteering at Croyde Bay, Ilfracombe and Woolacombe"
+ ],
+ "where": "Ho! Surf shop on the village green, Westward Ho!",
+ "goodToKnow": [
+  "Equipment is provided",
+  "All ages welcome",
+  "Book online, by phone or by email"
+ ],
+ "season": null,
+ "sources": [
+  {
+   "label": "Surf SUP Academy homepage",
+   "url": "https://www.surfsupacademy.co.uk/"
+  },
+  {
+   "label": "Visit Westward Ho! listing",
+   "url": "https://visitwestwardho.co.uk/surfsup-academy"
+  }
+ ],
+ "gaps": "No season, cancellation terms or accreditations; Ho! Surf has no separate website, and the meeting point comes from the tourism listing"
+}

@@ -1,0 +1,213 @@
+{
+ "slug": "llangennith",
+ "schools": [
+  {
+   "name": "Llangennith Surf School",
+   "type": "Surf school",
+   "url": "https://www.llangennithsurfschool.com/",
+   "base": "Llangennith beach, Gower",
+   "note": "Three-hour lessons for beginners through to improvers, with wetsuit, board and boots included. Children from 7 can take part; under-10s need a non-paying adult on hand.",
+   "source": "https://www.llangennithsurfschool.com/"
+  },
+  {
+   "name": "South Wales Surf Lessons",
+   "type": "Surf school",
+   "url": "https://www.southwalessurflessons.co.uk/",
+   "base": "Surf school van by Hillend Campsite car park, Llangennith",
+   "note": "Half-day sessions for all abilities with a board, wetsuit and two hours of in-water coaching from a qualified instructor. Group bookings welcome.",
+   "source": "https://www.southwalessurflessons.co.uk/"
+  },
+  {
+   "name": "WSF Surf School (Welsh Surfing Federation)",
+   "type": "Surf school",
+   "url": "https://www.facebook.com/surfschoolwsf/",
+   "base": "Hillend car park, Llangennith",
+   "note": "Runs one-off courses, group lessons and parties for beginners up to advanced surfers; bookings go through PJ's Surf Shop or the school's Facebook page.",
+   "source": "https://www.llangennith.com/surf"
+  }
+ ],
+ "hire": [
+  {
+   "name": "PJ's Surf Shop",
+   "type": "Board & wetsuit hire",
+   "url": "https://www.pjsurfshop.com/",
+   "base": "Llangennith village, opposite the King's Head",
+   "note": "Daily board and wetsuit hire with no need to book; just call in to get kitted out. Booties and hoods are also available to rent.",
+   "source": "https://www.pjsurfshop.com/"
+  },
+  {
+   "name": "South Wales Surf Lessons",
+   "type": "Board & wetsuit hire",
+   "url": "https://www.southwalessurflessons.co.uk/",
+   "base": "Hillend car park, Llangennith",
+   "note": "Listed by the village website as offering board and wetsuit hire alongside lessons from its van at Hillend.",
+   "source": "https://www.llangennith.com/surf"
+  }
+ ],
+ "shops": [
+  {
+   "name": "PJ's Surf Shop",
+   "type": "Surf shop",
+   "url": "https://www.pjsurfshop.com/",
+   "town": "Llangennith",
+   "note": "Family-run shop open all year, selling surfboards, fins, wetsuits, pre-loved boards and suits, skate gear and its own clothing.",
+   "source": "https://www.pjsurfshop.com/"
+  }
+ ],
+ "lessonsIntro": "Several surf schools work out of the Hillend car park at the north end of Rhossili Bay, so you can usually find a lesson at Llangennith from spring to autumn.",
+ "learn": {
+  "text": [
+   "Llangennith is a long, sandy, west-facing beach that picks up plenty of Atlantic swell, which is why it is one of Gower's busiest surf spots. On a small to medium day the broken white water is ideal for first lessons, and the schools meet at or near Hillend, a short walk through the dunes from the sand. Mid tide tends to work best, and you can move along the beach to find a quieter patch of whitewater.",
+   "There are no lifeguards here, so learning with a school is the safest way to start. Once the waves reach about four feet the paddle out becomes hard work, and on bigger days the area between the shore and the line-up turns into a rip-filled washing machine. The Peaks at the northern end has strong rips and suits experienced surfers only. Watch out for old shipwrecks just below the waterline too."
+  ],
+  "cards": [
+   {
+    "label": "Level",
+    "title": "Beginner-friendly on small days",
+    "text": "Soft sand and long stretches of whitewater suit first-timers when the swell is small. Bigger days are for confident surfers only."
+   },
+   {
+    "label": "Best time",
+    "title": "Mid tide, small swell",
+    "text": "Mid tide usually gives the best banks. Lessons run from spring to autumn, with session times adjusted for tide and weather."
+   },
+   {
+    "label": "Watch out for",
+    "title": "No lifeguards, rips at the Peaks",
+    "text": "The beach is unpatrolled. Avoid the Peaks at the north end, expect strong undertow in big surf and look out for submerged wrecks."
+   }
+  ]
+ },
+ "hireIntro": "PJ's Surf Shop in the village rents boards and wetsuits every day, and the Hillend-based schools also have kit, so you can turn up and get on the water without bringing your own.",
+ "kit": {
+  "text": [
+   "A big foam board is the right choice for your first few sessions in Llangennith's whitewater, and you can move on to a longer hard board or mini-mal once you are catching green waves. The water here is cold for most of the year, so match your wetsuit to the season and add boots, gloves and a hood from late autumn. Bodyboards work well in the shallows on smaller days."
+  ],
+  "cards": [
+   {
+    "label": "Board",
+    "title": "Soft-top to start",
+    "text": "Learners do best on a wide foam board in the whitewater. Improvers can try a mini-mal or longboard on the sandbars at mid tide."
+   },
+   {
+    "label": "Wetsuit",
+    "title": "3/2 in summer, 5/4 in winter",
+    "text": "Gower water peaks at roughly 14-18°C in mid-August and drops to about 8-9°C around March. A 3/2 or 4/3 with boots suits summer; from late autumn to spring go for a 5/4 or thicker with boots, gloves and a hood."
+   },
+   {
+    "label": "Other craft",
+    "title": "Bodyboards on small days",
+    "text": "Bodyboarding is fun in the shallow whitewater when the surf is small. With no lifeguards, stay close to shore and avoid the rips at the north end."
+   }
+  ]
+ },
+ "shopsIntro": "Llangennith has its own surf shop in the village, a short walk or drive from the Hillend car park.",
+ "shopsText": [
+  "PJ's Surf Shop is on the left as you come into Llangennith, opposite the King's Head pub, and is roughly a mile from Hillend and the beach. It stocks boards, fins, wetsuits, accessories and pre-loved kit, and opens daily all year. Parking outside is tight, so many people use the pub car park. For a wider choice, Hot Dog Surf Shop in Kittle on south Gower is another option."
+ ],
+ "faqs": {
+  "lessons": [
+   {
+    "q": "Where do surf lessons meet at Llangennith?",
+    "a": "Most schools meet at the Hillend car park and campsite at the north end of Rhossili Bay, a few minutes' walk from the beach. Llangennith Surf School teaches on the same stretch."
+   },
+   {
+    "q": "How old do you need to be for a lesson?",
+    "a": "Llangennith Surf School takes children from 7, with under-10s needing a parent or carer on hand. There is no upper age limit as long as you are fit and healthy."
+   },
+   {
+    "q": "Is Llangennith lifeguarded?",
+    "a": "No. The beach has no lifeguard patrol, which is a good reason to learn with a qualified instructor and to stay out of the water when the surf is big."
+   }
+  ],
+  "hire": [
+   {
+    "q": "Do I need to book surf hire in advance?",
+    "a": "PJ's Surf Shop says you don't need to book board or wetsuit hire. Just drop into the shop in the village during opening hours."
+   },
+   {
+    "q": "Can I hire booties and hoods?",
+    "a": "Yes, PJ's rents booties and hoods as well as boards and wetsuits, which helps in the colder months."
+   }
+  ],
+  "shops": [
+   {
+    "q": "Is there a surf shop in Llangennith?",
+    "a": "Yes. PJ's Surf Shop is in the village, about a mile from Hillend, and sells boards, wetsuits, accessories and second-hand kit."
+   }
+  ]
+ },
+ "sources": [
+  {
+   "label": "Llangennith Surf School",
+   "url": "https://www.llangennithsurfschool.com/"
+  },
+  {
+   "label": "South Wales Surf Lessons",
+   "url": "https://www.southwalessurflessons.co.uk/"
+  },
+  {
+   "label": "Llangennith village surf guide",
+   "url": "https://www.llangennith.com/surf"
+  },
+  {
+   "label": "PJ's Surf Shop",
+   "url": "https://www.pjsurfshop.com/"
+  },
+  {
+   "label": "Visit Swansea Bay: Llangennith beach",
+   "url": "https://www.visitswanseabay.com/listings/llangennith-beach/"
+  },
+  {
+   "label": "Enjoy Gower: Llangennith",
+   "url": "https://enjoygower.com/llangennith"
+  },
+  {
+   "label": "Surf-forecast sea temperature, Llangennith",
+   "url": "https://www.surf-forecast.com/breaks/Llangennith/seatemp"
+  },
+  {
+   "label": "Rough Guides: Gower Peninsula",
+   "url": "https://www.roughguides.com/destinations/europe/wales/south-wales/gower-peninsula"
+  },
+  {
+   "label": "The Surf Atlas: Llangennith",
+   "url": "https://thesurfatlas.com/surfing-wales/llangennith-surf/"
+  }
+ ],
+ "factCheck": [
+  {
+   "fact": "Llangennith Surf School: children from 7, under-10s chaperoned, wetsuit/board/boots included, 3-hour sessions",
+   "url": "https://www.llangennithsurfschool.com/"
+  },
+  {
+   "fact": "South Wales Surf Lessons operates next to Hillend Campsite; board, wetsuit and 2 hours tuition included",
+   "url": "https://www.southwalessurflessons.co.uk/"
+  },
+  {
+   "fact": "WSF Surf School operates from Hillend car park, book via PJ's or Facebook",
+   "url": "https://www.llangennith.com/surf"
+  },
+  {
+   "fact": "PJ's hires boards and wetsuits daily, no booking needed",
+   "url": "https://www.pjsurfshop.com/"
+  },
+  {
+   "fact": "PJ's is opposite the King's Head; WSF school about a mile from PJ's at Hillend",
+   "url": "https://www.roughguides.com/destinations/europe/wales/south-wales/gower-peninsula"
+  },
+  {
+   "fact": "Paddle out hard above 4ft; Peaks has strong rips; mid tide best",
+   "url": "https://www.llangennith.com/surf"
+  },
+  {
+   "fact": "No lifeguards; watch for shipwrecks below the waterline",
+   "url": "https://www.visitswanseabay.com/listings/llangennith-beach/"
+  },
+  {
+   "fact": "Sea temperature 14-18C in August, 8-9C around March; wetsuit guidance",
+   "url": "https://www.surf-forecast.com/breaks/Llangennith/seatemp"
+  }
+ ],
+ "gaps": "WSF Surf School only has a Facebook page, so its current season could not be confirmed on a live website. Progress Surf and Gower & Swansea Surf School appear on directories as teaching at Llangennith but their own sites could not be opened, so they were left out. No adaptive surfing provider confirmed for this beach."
+}

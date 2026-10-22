@@ -1,0 +1,31 @@
+{
+ "slug": "discovery-surf-school",
+ "kind": "surf-hire",
+ "officialUrl": "https://www.discoverysurf.com/",
+ "trading": true,
+ "about": "Discovery Surf School is a family-run surf and SUP school in South Devon, operating since 2002 from bases at Bigbury-on-Sea and Bantham. Alongside lessons, it hires out surfboards, bodyboards, wetsuits, paddleboards and kayaks within walking distance of the local breaks.",
+ "offers": [
+  "Surfboard hire",
+  "Bodyboard hire",
+  "Wetsuit hire",
+  "Paddleboard and XL SUP hire",
+  "Kayak hire",
+  "Surf and SUP lessons",
+  "Private family lessons",
+  "Special needs surfing"
+ ],
+ "where": "Bigbury-on-Sea and Bantham, South Devon",
+ "goodToKnow": [
+  "Weekly page lists hire opening times and conditions",
+  "Surfing England accredited for surfing; AALA registered for SUP",
+  "Instructors are DBS-checked SLSGB beach lifeguards"
+ ],
+ "season": null,
+ "sources": [
+  {
+   "label": "Official homepage",
+   "url": "https://www.discoverysurf.com/"
+  }
+ ],
+ "gaps": "Hire terms and season dates sit on sub-pages that were not fetched."
+}

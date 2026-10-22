@@ -1,0 +1,26 @@
+{
+ "name": "The Sea Hotel",
+ "officialUrl": "https://www.seahotel.co.uk/",
+ "trading": true,
+ "stayType": "Seafront hotel",
+ "accommodation": "34 en-suite rooms: single, twin, double and family, including accessible rooms",
+ "suitableFor": "Couples, families and groups wanting a seafront hotel",
+ "parking": "Private, secure car park",
+ "dogs": "Accepted by arrangement",
+ "beachAccess": "On the seafront overlooking South Marine Park; Littlehaven Beach on the doorstep",
+ "boardStorage": null,
+ "confirmedFeatures": "Bar 52, restaurant, room service, function rooms, residents' lounge, free Wi-Fi, cycle parking",
+ "overview": "A traditional hotel on South Shields seafront overlooking South Marine Park, with Littlehaven Beach just across the road. Its 34 en-suite rooms include family and accessible options, and there is a bar, restaurant and function suite on site. The town centre is around five minutes' walk, and the Metro is 10 to 15 minutes on foot.",
+ "surfTripFit": "Littlehaven and the pier are right on the doorstep, and secure parking keeps the car and boards close.",
+ "sources": [
+  {
+   "label": "Official website",
+   "url": "https://www.seahotel.co.uk/"
+  },
+  {
+   "label": "Visit South Tyneside",
+   "url": "https://visitsouthtyneside.co.uk/article/11372/Sea-Hotel"
+  }
+ ],
+ "slug": "the-sea-hotel"
+}

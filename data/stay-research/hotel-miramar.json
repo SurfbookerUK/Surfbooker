@@ -1,0 +1,22 @@
+{
+ "name": "Hotel Miramar",
+ "officialUrl": "https://miramar-bournemouth.com/",
+ "trading": true,
+ "stayType": "Seafront hotel on the East Cliff",
+ "accommodation": "Sea-view rooms, junior suites and inland rooms",
+ "suitableFor": "Couples and families wanting a traditional seafront hotel",
+ "parking": "Not stated; EV charging available",
+ "dogs": null,
+ "beachAccess": "East Cliff, with sea and beach views; guests mention a short walk to the pier",
+ "boardStorage": null,
+ "confirmedFeatures": "Restaurant No 43, Ocean Bar and Terrace, afternoon tea, garden, EV charging",
+ "overview": "A traditional hotel on East Overcliff Drive on Bournemouth's East Cliff, looking out over the sea and beach. It offers sea-view rooms and junior suites, with a restaurant, bar and terrace, and the town centre and pier are within walking distance.",
+ "surfTripFit": "Clifftop sea views let you check the swell from your room, with the zigzag paths down to the beach close by.",
+ "sources": [
+  {
+   "label": "Hotel Miramar official site",
+   "url": "https://miramar-bournemouth.com/"
+  }
+ ],
+ "slug": "hotel-miramar"
+}

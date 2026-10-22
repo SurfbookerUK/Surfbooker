@@ -1,0 +1,26 @@
+{
+ "name": "Manorbier Country Park",
+ "officialUrl": "http://www.countrypark.co.uk/",
+ "trading": true,
+ "stayType": "Holiday park with caravans and touring pitches",
+ "accommodation": "Graded holiday homes (Bronze to Platinum) and touring pitches; sister park Manorbier Bay Holiday Park nearby",
+ "suitableFor": "Families wanting on-site facilities",
+ "parking": "Private parking",
+ "dogs": "Welcome (Visit Pembrokeshire)",
+ "beachAccess": "Described as a stone's throw from a sandy beach",
+ "boardStorage": null,
+ "confirmedFeatures": "Indoor heated pool, evening entertainment, café, playground, hook-ups",
+ "overview": "Manorbier Country Park is a holiday park near Manorbier offering graded caravan holiday homes and touring pitches, with an indoor heated pool and family entertainment. Its smaller sister park, Manorbier Bay, is a few minutes' walk away and shares the facilities.",
+ "surfTripFit": "Good for families mixing surf at Manorbier with pool and entertainment for those who are not in the water.",
+ "sources": [
+  {
+   "label": "Manorbier Country Park",
+   "url": "http://www.countrypark.co.uk/"
+  },
+  {
+   "label": "Visit Pembrokeshire – Manorbier Country Park",
+   "url": "https://www.visitpembrokeshire.com/accommodation-listing/manorbier-country-park"
+  }
+ ],
+ "slug": "manorbier-country-park"
+}

@@ -1,0 +1,22 @@
+{
+ "name": "Sunset B&B",
+ "officialUrl": "https://www.sunsetbandb.co.uk",
+ "trading": true,
+ "stayType": "Small B&B",
+ "accommodation": "Two rooms with breakfast",
+ "suitableFor": "Couples and solo travellers",
+ "parking": null,
+ "dogs": null,
+ "beachAccess": "A couple of minutes' walk to Broad Haven beach",
+ "boardStorage": null,
+ "confirmedFeatures": "Breakfast included",
+ "overview": "Sunset B&B is a two-room bed and breakfast in a residential close in Broad Haven, a couple of minutes' walk from the beach. Breakfast is included.",
+ "surfTripFit": "A short walk to the beach and a cooked start to the day make it a simple base for a couple's surf weekend.",
+ "sources": [
+  {
+   "label": "Visit Wales – Sunset B&B",
+   "url": "https://www.visitwales.com/accommodation/bed-breakfast/sunset-bb-561631"
+  }
+ ],
+ "slug": "sunset-b-and-b"
+}

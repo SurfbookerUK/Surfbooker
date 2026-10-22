@@ -1,0 +1,22 @@
+{
+ "name": "Castletown Hotel",
+ "officialUrl": "https://www.castletownhotel.co.uk/",
+ "trading": true,
+ "stayType": "Village hotel",
+ "accommodation": "24 en-suite single, double, twin and family rooms",
+ "suitableFor": "Families and groups",
+ "parking": "Free parking",
+ "dogs": null,
+ "beachAccess": "In Castletown at the curve of Dunnet Bay",
+ "boardStorage": null,
+ "confirmedFeatures": "Restaurant, public bar, residents' lounge, free Wi-Fi",
+ "overview": "The Castletown Hotel is in Castletown, at the curve of Dunnet Bay between Thurso and John O'Groats. It has 24 en-suite rooms, from singles to family rooms, plus a restaurant, public bar and residents' lounge. Parking is free.",
+ "surfTripFit": "It sits at the western end of the bay, giving quick access to Dunnet and Thurso's breaks.",
+ "sources": [
+  {
+   "label": "Castletown Hotel official site",
+   "url": "https://www.castletownhotel.co.uk/"
+  }
+ ],
+ "slug": "castletown-hotel"
+}

@@ -1,0 +1,127 @@
+{
+ "overview": [
+  "Porth Neigwl, better known as Hell's Mouth, is a broad bay on the south coast of the Llŷn Peninsula, about three miles across between the headlands of Mynydd Rhiw to the west and Mynydd Cilan to the east. The beach of golden sand and some pebbles runs for around four miles between them. Craggy cliffs drop to the sea from both headlands, framing the whole sweep of the bay.",
+  "The English name is said to come from its south-westerly aspect, which offered sailing ships little shelter; the Welsh name reflects its semicircular shape. That same aspect points it straight into the swell, and it is regarded as one of the most popular surf spots in Wales. Its big waves also draw sailboarders when the wind gets up.",
+  "It is also wild and largely undeveloped. Llanengan is the nearest village, Abersoch is just over two miles away, and the area is a Site of Special Scientific Interest. There are no lifeguards, the cliffs behind the beach are soft and slip regularly, and the currents are strong — come prepared. Treat the red warning signs on the beach as the last word."
+ ],
+ "suits": [
+  "Intermediate and advanced surfers",
+  "Experienced learners with a school that knows the beach",
+  "Long, quiet beach walks",
+  "Windsurfers when the wind is up"
+ ],
+ "notFor": [
+  "Unsupervised beginners or casual swimmers",
+  "Anyone wanting toilets, cafés or a lifeguard on the beach"
+ ],
+ "surf": {
+  "text": [
+   "Hell's Mouth faces south-west and picks up swell consistently, with the north end of the beach often singled out for the best waves. The sandbars shift, so the peaks move around, and the waves are best suited to intermediate and advanced surfers.",
+   "The beach shelves steeply and the water is deep at high tide, and there are strong currents and undertows. Check the tide before you go, choose your spot with care, and give the cliffs a wide berth when you are on the sand.",
+   "Hell's Mouth is a four-mile bay, so there's room for everyone, but the eastern side is where the power is and where experienced surfers head. South-west swell with a north-east offshore works best, and north-westerlies give some shelter. Spring is the best season and summer is mostly flat. Treat the rips, undertow and rocks with respect, and note the landslip risk beneath the cliffs. It's often busy when it works."
+  ],
+  "cards": [
+   {
+    "label": "Level",
+    "title": "Intermediate upwards",
+    "text": "Strong rips and shifting sandbars; learners should go with a surf school."
+   },
+   {
+    "label": "Hazards",
+    "title": "Currents and cliffs",
+    "text": "Strong currents and undertows, a steep beach and unstable boulder-clay cliffs."
+   },
+   {
+    "label": "Where",
+    "title": "North end",
+    "text": "The north end of the beach is described as having the most consistently good waves."
+   }
+  ]
+ },
+ "practical": [
+  {
+   "label": "Parking",
+   "title": "Small car park",
+   "text": "There is a car park near Llanengan; watch for vehicles manoeuvring, and expect it to fill in summer."
+  },
+  {
+   "label": "Facilities",
+   "title": "None on the beach",
+   "text": "No toilets or food on the sand. The Sun Inn at Llanengan and Abersoch are the nearest options."
+  },
+  {
+   "label": "Lifeguards",
+   "title": "None",
+   "text": "Follow RNLI and AdventureSmart advice. In an emergency dial 999 and ask for the Coastguard."
+  },
+  {
+   "label": "Cliffs",
+   "title": "Keep clear",
+   "text": "The soft clay cliffs slip regularly — stay away from both the edge and the base, and don't climb or dig into them."
+  },
+  {
+   "label": "Dogs",
+   "title": "Welcome",
+   "text": "Dogs are allowed on the beach all year."
+  }
+ ],
+ "faqs": [
+  {
+   "q": "Why is it called Hell's Mouth?",
+   "a": "Its south-westerly aspect gave sailing ships little shelter, which earned it the name. The Welsh name, Porth Neigwl, is the older one."
+  },
+  {
+   "q": "Is Hell's Mouth good for beginners?",
+   "a": "It is better suited to intermediate and advanced surfers because of strong rips and shifting sandbars. Beginners should go with a school."
+  },
+  {
+   "q": "Are there facilities?",
+   "a": "Only a car park. There are no toilets, cafés or lifeguards on the beach; Abersoch is the nearest village with shops."
+  },
+  {
+   "q": "Where are the best waves?",
+   "a": "Local guidance points to the north end of the beach as the most consistent."
+  }
+ ],
+ "sources": [
+  {
+   "label": "Visit Snowdonia: Hell's Mouth",
+   "url": "https://www.visitsnowdonia.info/hells-mouth"
+  },
+  {
+   "label": "Wikipedia: Porth Neigwl",
+   "url": "https://en.wikipedia.org/wiki/Porth_Neigwl"
+  }
+ ],
+ "factCheck": [
+  {
+   "fact": "Bay ~3 miles wide, beach ~4 miles between Mynydd Rhiw and Mynydd Cilan; faces SW; SSSI; Llanengan nearest village",
+   "url": "https://en.wikipedia.org/wiki/Porth_Neigwl"
+  },
+  {
+   "fact": "One of the most popular surf spots in Wales; strong rips, shifting sandbars; intermediate/advanced",
+   "url": "https://en.wikipedia.org/wiki/Porth_Neigwl"
+  },
+  {
+   "fact": "Name from semicircular shape and SW aspect giving sailors little shelter",
+   "url": "https://www.visitsnowdonia.info/hells-mouth"
+  },
+  {
+   "fact": "North end best waves; steep shelving beach, deep at high tide; strong currents/undertows; unstable boulder clay cliffs",
+   "url": "https://www.visitsnowdonia.info/hells-mouth"
+  },
+  {
+   "fact": "Abersoch beach 2.2 miles; Sun Inn under a mile; car park listed",
+   "url": "https://www.visitsnowdonia.info/hells-mouth"
+  },
+  {
+   "fact": "Craggy cliffs on headlands; popular for sailboarding; red signs mark dangers",
+   "url": "https://en.wikipedia.org/wiki/Porth_Neigwl"
+  },
+  {
+   "fact": "Hell's Mouth: SW swell, NE offshore, rips/rocks, spring best",
+   "url": "https://www.surf-forecast.com/breaks/Hells-Mouth-Porth-Neigwl"
+  }
+ ],
+ "checked": "October 2026"
+}

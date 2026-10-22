@@ -1,0 +1,22 @@
+{
+ "name": "Tregenna Castle",
+ "officialUrl": "https://www.tregenna-castle.co.uk/",
+ "trading": true,
+ "stayType": "Hotel resort with self-catering",
+ "accommodation": "Hotel rooms, hotel apartments, cottages and lodges",
+ "suitableFor": "Families and groups wanting hotel or self-catering stays with facilities",
+ "parking": null,
+ "dogs": null,
+ "beachAccess": "On the hill above St Ives harbour",
+ "boardStorage": null,
+ "confirmedFeatures": "72-acre grounds, restaurant, bar, leisure facilities, beauty treatments",
+ "overview": "A 72-acre resort high on the hill above St Ives, offering hotel rooms, apartments and self-catering cottages and lodges. It has a restaurant, a bar, leisure facilities and beauty treatments, and coastal walks run through the grounds. The town and its beaches, including Porthmeor, are below the resort.",
+ "surfTripFit": "A good choice for a group or family who want space and facilities, with the St Ives beaches a short trip away.",
+ "sources": [
+  {
+   "label": "Official website",
+   "url": "https://www.tregenna-castle.co.uk/"
+  }
+ ],
+ "slug": "tregenna-castle"
+}

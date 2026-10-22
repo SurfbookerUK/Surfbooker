@@ -1,0 +1,26 @@
+{
+ "name": "East Beach Hotel",
+ "officialUrl": "https://www.eastbeachhotel.co.uk",
+ "trading": true,
+ "stayType": "Victorian seafront hotel",
+ "accommodation": "32 en-suite rooms including four-poster, executive and suites, some sea-facing or with balconies",
+ "suitableFor": "Couples, families and dog owners wanting a mid-sized seafront hotel",
+ "parking": "On-street or public parking only (Visit Eastbourne listing)",
+ "dogs": "Dog-friendly",
+ "beachAccess": "On Royal Parade overlooking the sea; Marine Parade beaches about 0.19 miles",
+ "boardStorage": null,
+ "confirmedFeatures": "Restaurant and bar, breakfast, sea-view lounge and garden, packed lunches, lift, free Wi-Fi, evening entertainment",
+ "overview": "East Beach Hotel is a Victorian hotel on Royal Parade, on the quieter eastern side of Eastbourne seafront looking over the Channel. It has 32 en-suite rooms, some with sea views or balconies, a restaurant and bar, and a sea-view lounge. Packed lunches are available, which is handy for days spent on the beach.",
+ "surfTripFit": "Seafront position on the eastern promenade, with packed lunches and a dog-friendly policy.",
+ "sources": [
+  {
+   "label": "Official website",
+   "url": "https://www.eastbeachhotel.co.uk"
+  },
+  {
+   "label": "Visit Eastbourne listing",
+   "url": "https://www.visiteastbourne.com/accommodation/east-beach-hotel-p1234511"
+  }
+ ],
+ "slug": "east-beach-hotel"
+}

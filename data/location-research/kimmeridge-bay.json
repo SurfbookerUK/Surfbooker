@@ -1,0 +1,106 @@
+{
+ "slug": "kimmeridge-bay",
+ "schools": [],
+ "hire": [],
+ "shops": [],
+ "lessonsIntro": "We couldn't find a surf school teaching at Kimmeridge. It's a rocky reef break, so it's best for surfers who already have some experience.",
+ "learn": {
+  "text": [
+   "Kimmeridge Bay is known as one of the best reef breaks on the south coast, with rock ledges rather than sand. Windsurf guide boards.co.uk says the waves are often bigger than at Bournemouth, there's little shorebreak, and the reef is best from mid to high tide on the push. It suits intermediate and better water users; the Ledges are the friendliest part and Broad Bench is for experts only.",
+   "It isn't a place to learn. The ledges are rocky and very slippery, especially from mid to low tide, so you need to walk in and out carefully. The bay is surrounded by cliffs, with limited access at high tide, and the nearby army firing range means you should keep out of the area when the red flags are flying. We found no lifeguard cover here."
+  ],
+  "cards": [
+   {
+    "label": "Level",
+    "title": "Intermediate and up",
+    "text": "A reef break over slippery rock ledges. Learn on a sandy beach first."
+   },
+   {
+    "label": "Best time",
+    "title": "Mid to high tide, rising",
+    "text": "The reef works best on the push, with a south-west swell and the wind swinging west or north-west."
+   },
+   {
+    "label": "Watch out for",
+    "title": "Rocks and firing range",
+    "text": "Shallow, slippery ledges and the range's red flags. The bay is backed by cliffs."
+   }
+  ]
+ },
+ "hireIntro": "We couldn't confirm any surf hire at or near Kimmeridge, so bring your own kit.",
+ "kit": {
+  "text": [
+   "Kimmeridge's reef waves have more push than most of this coast, so improvers usually bring a hard board they're comfortable on, such as a mid-length or shortboard. Reef boots are worth wearing for the slippery rock ledges. There's no hire or shop at the bay, so come with everything you need, including a spare leash."
+  ],
+  "cards": [
+   {
+    "label": "Board",
+    "title": "Your own hard board",
+    "text": "A mid-length or shortboard for reef waves. Not a beginner spot."
+   },
+   {
+    "label": "Wetsuit",
+    "title": "Season-dependent",
+    "text": "We couldn't confirm a sea-temperature source for this stretch of coast. As a general rule on the English Channel, most people wear a 4/3mm in late spring and autumn and a 5/4mm with boots in winter; check with the school or shop before you go."
+   },
+   {
+    "label": "Other craft",
+    "title": "Windsurf and wing",
+    "text": "boards.co.uk covers it as a windsurf spot too. Keep clear of the firing range when red flags are up."
+   }
+  ]
+ },
+ "shopsIntro": "There's no surf shop at Kimmeridge; the nearest we could confirm is in Boscombe, Bournemouth.",
+ "shopsText": [
+  "Kimmeridge is a small village with no surf shop or kit hire at the bay. The nearest surf shop we could confirm is Down The Line Surf on Sea Road in Boscombe, Bournemouth, which stocks surfboards. Poole has watersports shops too, but we couldn't confirm which ones are still trading, so check before you travel."
+ ],
+ "faqs": {
+  "lessons": [
+   {
+    "q": "Can beginners surf at Kimmeridge?",
+    "a": "It isn't a beginner spot. It's a reef break over slippery rock ledges, better for intermediate surfers."
+   },
+   {
+    "q": "Are there surf lessons at Kimmeridge?",
+    "a": "We couldn't find any school teaching here."
+   },
+   {
+    "q": "What tide is best?",
+    "a": "boards.co.uk says mid to high tide on the push, with care needed over the rocks at lower tides."
+   }
+  ],
+  "hire": [
+   {
+    "q": "Can I hire a board at Kimmeridge?",
+    "a": "We couldn't find any hire at the bay, so bring your own kit."
+   },
+   {
+    "q": "Do I need reef boots?",
+    "a": "It's a good idea. The rock ledges are very slippery underfoot."
+   }
+  ],
+  "shops": [
+   {
+    "q": "Where's the nearest surf shop?",
+    "a": "The nearest we could confirm is Down The Line Surf in Boscombe, Bournemouth."
+   }
+  ]
+ },
+ "sources": [
+  {
+   "label": "boards.co.uk: Kimmeridge guide",
+   "url": "https://boards.co.uk/travel/uk-travel/kimmeridge-dorset.html"
+  },
+  {
+   "label": "Down The Line Surf: contact",
+   "url": "https://downthelinesurf.co.uk/pages/contact"
+  }
+ ],
+ "factCheck": [
+  {
+   "fact": "Reef break, bigger than Bournemouth, little shorebreak, mid-high tide on push, slippery ledges, firing range red flags, intermediate+, no hire on site, toll road",
+   "url": "https://boards.co.uk/travel/uk-travel/kimmeridge-dorset.html"
+  }
+ ],
+ "gaps": "No school, hire or shop found. boards.co.uk guide is from 2012 (toll details omitted). No official (Smedmore Estate/council) hazard or lifeguard page checked, and no sea-temperature source."
+}

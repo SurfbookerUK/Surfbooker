@@ -1,0 +1,26 @@
+{
+ "name": "YHA Scarborough",
+ "officialUrl": "https://www.yha.org.uk/hostel/yha-scarborough",
+ "trading": true,
+ "stayType": "Youth hostel",
+ "accommodation": "Private rooms (en-suite or shared facilities); 46 beds in normal operation",
+ "suitableFor": "Solo travellers, budget surfers and small groups",
+ "parking": "Large car park",
+ "dogs": "Not stated",
+ "beachAccess": "15 minutes' walk from Scalby Mills and North Bay beach",
+ "boardStorage": null,
+ "confirmedFeatures": "Drying room, laundry, cycle store, licensed bar, garden, BBQ area, lounge with woodburning stove",
+ "overview": "YHA Scarborough sits in The White House on Burniston Road, about a mile and a half north of the town centre. It offers private rooms, a drying room, laundry and a licensed bar, with a large car park and secure bike shed. Scalby Mills and the North Bay beach are around 15 minutes away on foot.",
+ "surfTripFit": "A budget-friendly base at the quieter north end of North Bay, and the drying room helps with wet wetsuits.",
+ "sources": [
+  {
+   "label": "YHA official page",
+   "url": "https://www.yha.org.uk/hostel/yha-scarborough"
+  },
+  {
+   "label": "YHA directions",
+   "url": "https://www.yha.org.uk/hostel/yha-scarborough/directions"
+  }
+ ],
+ "slug": "yha-scarborough"
+}

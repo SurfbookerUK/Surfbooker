@@ -1,0 +1,121 @@
+{
+ "overview": [
+  "Porthmeor is St Ives' Atlantic beach, on the north side of the town and a short walk from the harbour, with Tate St Ives just above the sand. It faces west-north-west, so it picks up far more swell than sheltered Porthminster on the other side of town, and it is the town's main surf beach. Rocks frame both ends and the beach narrows as the tide rises.",
+  "The buildings along its edge tell its story. The Porthmeor Studios were built in 1801 as cellars, salt houses and net lofts for the pilchard fishery. From the 1880s artists moved in, drawn by the north light, and Ben Nicholson, Patrick Heron, Wilhelmina Barns-Graham and Francis Bacon all worked there. The studios, refurbished in 2010–12, are still in use, with tall windows looking straight out at the waves.",
+  "It makes an easy surf-and-town day: a lesson or a session in the morning, then lunch, galleries and the harbour on foot. Parking is the tricky part. Porthmeor's own car park is small and short-stay, so most visitors use Trenwith above the town with its seasonal shuttle. Arriving early in summer helps, and the walk down through the old town lanes is part of the appeal."
+ ],
+ "suits": [
+  "Lessons and first sessions",
+  "A surf day combined with St Ives",
+  "Watching the surf from the town"
+ ],
+ "notFor": [
+  "Summer daytime dog walks",
+  "Anyone hoping to park at the beach in summer"
+ ],
+ "surf": {
+  "text": [
+   "Porthmeor is an exposed beach break with lefts and rights that works on a west-north-west groundswell. Because the bay faces north-west, southerly winds are offshore — useful when other north coast beaches are blown out. Surf-forecast rates winter, and December in particular, as the best season.",
+   "Around high water the waves can stop breaking against the shorter beach, so lessons move with the tide rather than a fixed timetable. Surf-forecast warns of dangerous rips, and the rocky edges get closer as the tide comes in. First-timers are taught in waist-deep water within the flagged area.",
+   "Porthmeor is St Ives' surf beach, a fairly exposed beach break with lefts and rights that likes a west-north-westerly groundswell and a southerly offshore. Dangerous rips are a hazard. It works year-round and winter is best, with December often having plenty of clean days."
+  ],
+  "cards": [
+   {
+    "label": "Best conditions",
+    "title": "WNW swell, south wind",
+    "text": "Southerly winds blow offshore."
+   },
+   {
+    "label": "Tide",
+    "title": "Watch high water",
+    "text": "Waves can stop breaking at high tide; plan around mid to low tide."
+   },
+   {
+    "label": "Hazards",
+    "title": "Rips and rocks",
+    "text": "Stay between the flags and give the rocky edges room as the beach narrows."
+   }
+  ]
+ },
+ "practical": [
+  {
+   "label": "Parking",
+   "title": "Porthmeor or Trenwith",
+   "text": "Porthmeor car park is short-stay with about 30 spaces. Trenwith is the largest council car park, with a seasonal shuttle to the centre."
+  },
+  {
+   "label": "Lifeguards",
+   "title": "Seasonal patrol",
+   "text": "Follow the flags and give the rock edges room as the beach narrows."
+  },
+  {
+   "label": "Dogs",
+   "title": "Summer daytime ban",
+   "text": "Dogs are not allowed 10am–6pm from 15 May to 30 September (Cornwall Council and St Ives Town Council). Bamaluz and Lambeth Walk are dog-friendly alternatives."
+  },
+  {
+   "label": "Nearby",
+   "title": "Town on foot",
+   "text": "The harbour, galleries and Tate St Ives are a short walk away."
+  }
+ ],
+ "faqs": [
+  {
+   "q": "Can I take my dog to Porthmeor?",
+   "a": "Not between 10am and 6pm from 15 May to 30 September. St Ives Town Council lists Bamaluz Beach and Lambeth Walk as dog-friendly options."
+  },
+  {
+   "q": "What wind is offshore at Porthmeor?",
+   "a": "Southerly winds blow offshore here."
+  },
+  {
+   "q": "Where should I park for Porthmeor?",
+   "a": "The beach car park is small and short-stay; Trenwith is the largest council car park, with a seasonal shuttle into town."
+  }
+ ],
+ "sources": [
+  {
+   "label": "Cornwall Council — dogs on beaches",
+   "url": "https://www.cornwall.gov.uk/environment/animal-welfare-and-enforcement/dogs-on-beaches/"
+  },
+  {
+   "label": "St Ives Town Council — dogs on St Ives beaches",
+   "url": "https://stivestowncouncil-cornwall.gov.uk/info-page/dogs-on-st-ives-beaches/"
+  },
+  {
+   "label": "Surf-forecast — Porthmeor",
+   "url": "https://www.surf-forecast.com/breaks/Porthmeor"
+  },
+  {
+   "label": "Artist Studio Museum Network — Porthmeor Studios",
+   "url": "https://artiststudiomuseum.org/studio-museums/porthmeor-studios/"
+  },
+  {
+   "label": "RNLI — lifeguarded beaches",
+   "url": "https://rnli.org/find-my-nearest/lifeguarded-beaches"
+  }
+ ],
+ "factCheck": [
+  {
+   "fact": "Dogs prohibited 15 May–30 Sep, 10am–6pm",
+   "url": "https://www.cornwall.gov.uk/environment/animal-welfare-and-enforcement/dogs-on-beaches/"
+  },
+  {
+   "fact": "Dog-friendly Bamaluz, Lambeth Walk",
+   "url": "https://stivestowncouncil-cornwall.gov.uk/info-page/dogs-on-st-ives-beaches/"
+  },
+  {
+   "fact": "Beach break; WNW groundswell; south wind offshore; rips; December best",
+   "url": "https://www.surf-forecast.com/breaks/Porthmeor"
+  },
+  {
+   "fact": "Studios built 1801 as net lofts; artists from 1880s; Nicholson, Bacon, Heron, Barns-Graham; refurbished 2010–12",
+   "url": "https://artiststudiomuseum.org/studio-museums/porthmeor-studios/"
+  },
+  {
+   "fact": "Porthmeor: WNW swell, S offshore, rips",
+   "url": "https://www.surf-forecast.com/breaks/Porthmeor"
+  }
+ ],
+ "checked": "October 2026"
+}

@@ -1,0 +1,22 @@
+{
+ "slug": "the-st-ives-harbour-hotel-and-spa",
+ "officialUrl": "https://www.harbourhotels.co.uk/st-ives",
+ "trading": true,
+ "stayType": "Hillside hotel and spa",
+ "accommodation": "Rooms and suites, most with views over Porthminster Beach; numbers not stated",
+ "suitableFor": "Couples and spa-goers wanting a sea-view stay",
+ "parking": null,
+ "dogs": null,
+ "beachAccess": "On the hillside above Porthminster Beach (distance not stated)",
+ "boardStorage": null,
+ "confirmedFeatures": "HarSPA with indoor pool, hydrotherapy pool, steam room, sauna, fitness suite, treatment rooms; Harbour Kitchen, Bar & Terrace",
+ "overview": "St Ives Harbour Hotel sits on The Terrace above Porthminster Beach, near St Ives railway station, with most rooms looking over the beach and bay. It has a spa with indoor and hydrotherapy pools and an all-day restaurant and terrace.",
+ "surfTripFit": "Comfortable recovery base with spa and pool; Porthminster is below, though Porthmeor is the town's main surf beach and no surf facilities are mentioned.",
+ "sources": [
+  {
+   "label": "Harbour Hotels St Ives (official)",
+   "url": "https://www.harbourhotels.co.uk/st-ives"
+  }
+ ],
+ "gaps": "Room count, parking, dogs, Wi-Fi and board storage not stated; trading inferred from live booking contacts."
+}

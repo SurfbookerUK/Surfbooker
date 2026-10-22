@@ -1,0 +1,31 @@
+{
+ "slug": "wavehunters",
+ "kind": "surf-schools",
+ "officialUrl": "https://www.wavehunters.co.uk/",
+ "trading": true,
+ "about": "Wavehunters has run surf schools on the beach at Watergate Bay and Polzeath since 2002. As well as group and private lessons, it runs the Groms Surf Club for young surfers, surf hire, beach fitness and boat trips from Padstow, Rock and Port Isaac.",
+ "offers": [
+  "Group lessons",
+  "Private lessons",
+  "Family lessons",
+  "Beginner and improver lessons",
+  "Groms Surf Club for young surfers",
+  "Surf hire",
+  "Beach yoga and fitness",
+  "School, youth and corporate groups"
+ ],
+ "where": "On the beach at Watergate Bay and Polzeath",
+ "goodToKnow": [
+  "Wetsuits and boards provided",
+  "Book online",
+  "Gift vouchers available"
+ ],
+ "season": null,
+ "sources": [
+  {
+   "label": "Official homepage",
+   "url": "https://www.wavehunters.co.uk/"
+  }
+ ],
+ "gaps": "Accreditations, what to bring, cancellation terms and season were not stated."
+}

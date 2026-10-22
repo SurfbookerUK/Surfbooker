@@ -1,0 +1,26 @@
+{
+ "name": "Bed & Breakfast @ 4",
+ "officialUrl": "https://ewensbruce.wixsite.com/number4",
+ "trading": true,
+ "stayType": "Town-centre B&B",
+ "accommodation": "En-suite rooms (number not stated)",
+ "suitableFor": "Surfers, cyclists and couples wanting a small B&B",
+ "parking": null,
+ "dogs": null,
+ "beachAccess": null,
+ "boardStorage": "Secure shed for bikes and equipment; surfers welcome",
+ "confirmedFeatures": "En-suite rooms, guest lounge with fridge, conservatory breakfast, free Wi-Fi, garden, secure shed",
+ "overview": "Bed & Breakfast @ 4 is on Princes Street in central Thurso, about ten minutes' walk from the station. Its en-suite rooms are traditionally furnished, and guests have a lounge with a fridge and breakfast in the conservatory. The owners say surfers and cyclists are welcome.",
+ "surfTripFit": "It openly welcomes surfers and has a secure shed for equipment, which is ideal for keeping boards safe between sessions.",
+ "sources": [
+  {
+   "label": "Bed & Breakfast @ 4 official site",
+   "url": "https://ewensbruce.wixsite.com/number4"
+  },
+  {
+   "label": "Undiscovered Scotland listing",
+   "url": "https://www.undiscoveredscotland.co.uk/areacait/guest.html"
+  }
+ ],
+ "slug": "bed-and-breakfast-4"
+}

@@ -1,0 +1,155 @@
+{
+ "slug": "freshwater-east",
+ "schools": [],
+ "hire": [],
+ "shops": [
+  {
+   "name": "Outer Reef Pembroke shop",
+   "type": "Surf shop",
+   "url": "https://www.outerreefsurfschool.com/surf-shop-pembrokeshire/",
+   "town": "Pembroke",
+   "note": "Surf clothing, equipment and wetsuit advice at the Upper Lamphey Road base, which is also the pick-up point for surf hire.",
+   "source": "https://www.outerreefsurfschool.com/surf-shop-pembrokeshire/"
+  },
+  {
+   "name": "Outer Reef Tenby",
+   "type": "Surf shop",
+   "url": "https://www.outerreefsurfschool.com/surf-shop-pembrokeshire/tenby-surf-shop/",
+   "town": "Tenby",
+   "note": "Sells wetsuits, surf clothing, suncream and beach gear, with surfboard, wetsuit and SUP hire for suitable customers. Check the exact location when you book.",
+   "source": "https://www.outerreefsurfschool.com/surf-shop-pembrokeshire/tenby-surf-shop/"
+  }
+ ],
+ "lessonsIntro": "Freshwater East is a sheltered bay that only occasionally has surf, and we found no surf school that lists it as a lesson beach; nearby Manorbier and Freshwater West are the usual options.",
+ "learn": {
+  "text": [
+   "Freshwater East is a wide, sheltered bay of golden sand backed by dunes, near Pembroke. Holiday guides mention surfing, kayaking and windsurfing here, but surf-forecast describes it as an exposed beach and reef break that only works now and then, best in winter on a south-west swell with westerly winds. None of the schools we checked list it as a teaching beach, so book a lesson at Manorbier or Freshwater West instead.",
+   "Surf-forecast lists rips, rocks and crowds as hazards when it's working, and rates it as only occasionally suitable for beginners. We found no lifeguard cover listed for this beach. Visit Pembrokeshire advises checking tide times so you're not cut off, and notes that low cliffs at the eastern end form small bays at low tide. A beach wheelchair can be booked in advance."
+  ],
+  "cards": [
+   {
+    "label": "Level",
+    "title": "Mostly flat; occasional surf",
+    "text": "It rarely breaks, and when it does, surf guides say it suits experienced surfers more than beginners."
+   },
+   {
+    "label": "Best time",
+    "title": "Winter swells",
+    "text": "Surf-forecast says it works best in winter on a south-west swell, around high tide on the rise. Summer days are often flat."
+   },
+   {
+    "label": "Watch out for",
+    "title": "Rips, rocks, no lifeguards",
+    "text": "Rips and rocks are listed as hazards, and we found no lifeguard cover. Check tide times before walking to the eastern bays."
+   }
+  ]
+ },
+ "hireIntro": "We couldn't find any surf hire at Freshwater East; the nearest hire we could confirm is Outer Reef in Pembroke, which supplies kit for Freshwater West and Manorbier.",
+ "kit": {
+  "text": [
+   "Because Freshwater East is usually calm, it's better suited to kayaking, paddling and swimming than surfing for most of the year. When a proper swell does arrive, the waves can be fast and hollow, so this is a spot for experienced surfers on boards they're comfortable with. You'll need a full wetsuit all year, with boots, gloves and a hood in winter."
+  ],
+  "cards": [
+   {
+    "label": "Board",
+    "title": "Experienced surfers' boards",
+    "text": "When it works, reviewers describe fast, hollow waves. Beginners should learn elsewhere first."
+   },
+   {
+    "label": "Wetsuit",
+    "title": "4/3mm in summer, 5mm or more in winter",
+    "text": "Sea temperature data for the south Pembrokeshire coast suggests a 4/3 or 3/2 in mid-August and a 5/4 or thicker with boots, gloves and a hood around late February, when the water drops to roughly 7 to 9°C. Spring and autumn sit in between."
+   },
+   {
+    "label": "Other craft",
+    "title": "Kayaks and windsurfing",
+    "text": "Holiday guides mention kayaking and windsurfing in the sheltered bay, and there's a slipway."
+   }
+  ]
+ },
+ "shopsIntro": "Freshwater East has a village shop but no surf shop; the nearest surf shops are in Pembroke and Tenby.",
+ "shopsText": [
+  "Visit Pembrokeshire notes a café, pub and shop in Freshwater East village for food and essentials. For wetsuits, wax and surf kit, Outer Reef's shop on Upper Lamphey Road in Pembroke is the nearest we could confirm, and it also handles surf hire for the south Pembrokeshire beaches. Outer Reef also has a store in Tenby."
+ ],
+ "faqs": {
+  "lessons": [
+   {
+    "q": "Are there surf lessons at Freshwater East?",
+    "a": "We found no school that lists Freshwater East as a lesson beach. Outer Reef teaches at nearby Manorbier and Freshwater West when conditions suit."
+   },
+   {
+    "q": "Is Freshwater East good for beginners?",
+    "a": "Not usually for surfing. It's often flat, and when a swell arrives surf guides describe fast waves, rips and rocks. Beginners are better off with a lesson at Manorbier."
+   },
+   {
+    "q": "Are there lifeguards at Freshwater East?",
+    "a": "We couldn't find any lifeguard cover listed for this beach, so take extra care."
+   }
+  ],
+  "hire": [
+   {
+    "q": "Can I hire a surfboard at Freshwater East?",
+    "a": "We couldn't find hire at the beach. Outer Reef in Pembroke hires surfboards, wetsuits and bodyboards for nearby beaches; ask them about Freshwater East."
+   },
+   {
+    "q": "Is the bay good for paddling or kayaking?",
+    "a": "Holiday guides describe it as a sheltered bay popular for kayaking, and there's a slipway. Check tides and the forecast before you go out."
+   }
+  ],
+  "shops": [
+   {
+    "q": "Where's the nearest surf shop to Freshwater East?",
+    "a": "Outer Reef on Upper Lamphey Road in Pembroke. The village shop in Freshwater East sells general supplies only."
+   }
+  ]
+ },
+ "sources": [
+  {
+   "label": "Visit Pembrokeshire: Freshwater East beach",
+   "url": "https://www.visitpembrokeshire.com/explore-pembrokeshire/beaches/freshwater-east"
+  },
+  {
+   "label": "West Wales Holiday Cottages: Freshwater East",
+   "url": "https://www.westwalesholidaycottages.co.uk/things-to-do/freshwater-east-beach"
+  },
+  {
+   "label": "Surf-forecast: Freshwater East",
+   "url": "https://www.surf-forecast.com/breaks/Freshwater-East"
+  },
+  {
+   "label": "Outer Reef: shops",
+   "url": "https://www.outerreefsurfschool.com/surf-shop-pembrokeshire/"
+  },
+  {
+   "label": "Outer Reef: Tenby shop",
+   "url": "https://www.outerreefsurfschool.com/surf-shop-pembrokeshire/tenby-surf-shop/"
+  },
+  {
+   "label": "Outer Reef: equipment hire",
+   "url": "https://www.outerreefsurfschool.com/surf-lessons/equipment-hire/"
+  },
+  {
+   "label": "Surf-forecast: sea temperature",
+   "url": "https://www.surf-forecast.com/breaks/Manorbier/seatemp"
+  }
+ ],
+ "factCheck": [
+  {
+   "fact": "Wide sheltered bay backed by dunes; kayaking, surfing and windsurfing popular",
+   "url": "https://www.westwalesholidaycottages.co.uk/things-to-do/freshwater-east-beach"
+  },
+  {
+   "fact": "Beach and reef break that only works once in a while; best in winter, SW swell, W/WNW wind, high tide rising; rips, rocks, crowds",
+   "url": "https://www.surf-forecast.com/breaks/Freshwater-East"
+  },
+  {
+   "fact": "Tide cut-off; low cliffs at eastern end form bays at low tide; café, pub and shop in village; beach wheelchair bookable; slipway",
+   "url": "https://www.visitpembrokeshire.com/explore-pembrokeshire/beaches/freshwater-east"
+  },
+  {
+   "fact": "Outer Reef Pembroke shop address and offer",
+   "url": "https://www.outerreefsurfschool.com/surf-shop-pembrokeshire/"
+  }
+ ],
+ "gaps": "No surf school or hire confirmed for Freshwater East. Lifeguard status not confirmed (beach not in RNLI or Coastal Cottages lifeguard lists we checked). Surf conditions come from surf-forecast.com rather than an official body."
+}

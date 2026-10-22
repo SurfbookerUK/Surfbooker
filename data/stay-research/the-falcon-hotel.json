@@ -1,0 +1,22 @@
+{
+ "slug": "the-falcon-hotel",
+ "officialUrl": "https://www.falconhotel.com/",
+ "trading": true,
+ "stayType": "Historic canal-side hotel",
+ "accommodation": "Hotel rooms, some dog-friendly; room count not stated",
+ "suitableFor": "Couples, dog owners, walkers, events",
+ "parking": null,
+ "dogs": "Dogs welcome throughout the hotel; dog-friendly rooms available",
+ "beachAccess": "Close to Bude's beaches; no distance given",
+ "boardStorage": null,
+ "confirmedFeatures": "Tide & Table restaurant, Coachman's Bar, afternoon tea, weddings and events",
+ "overview": "The Falcon Hotel overlooks the Bude Canal in the centre of Bude, a short way back from the town's beaches. It has a canal-side restaurant, a bar serving local ales and afternoon tea, and welcomes dogs throughout.",
+ "surfTripFit": "A traditional town hotel within reach of Summerleaze and Crooklets; useful for dog owners, though there is nothing surf-specific stated.",
+ "sources": [
+  {
+   "label": "The Falcon Hotel official site",
+   "url": "https://www.falconhotel.com/"
+  }
+ ],
+ "gaps": "Parking, Wi-Fi, room count and beach distance not stated; trading inferred from live booking links and events."
+}

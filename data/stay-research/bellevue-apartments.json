@@ -1,0 +1,26 @@
+{
+ "name": "Bellevue Apartments",
+ "officialUrl": "https://www.bellevueapartments.co.uk/",
+ "trading": true,
+ "stayType": "Seafront serviced apartments",
+ "accommodation": "Bellevue Apartments and Bellevue Luxe, plus six bookable rooms",
+ "suitableFor": "Couples and groups wanting self-catering",
+ "parking": null,
+ "dogs": null,
+ "beachAccess": "In a historic seafront building",
+ "boardStorage": null,
+ "confirmedFeatures": "Free Wi-Fi, toiletries, washer and dryer in each apartment",
+ "overview": "Serviced apartments in a historic building on Redcar seafront, with standard and Luxe apartments as well as six rooms. Each apartment has its own washer and dryer. Its seafront position puts the beach a short walk away.",
+ "surfTripFit": "An in-apartment washer-dryer is handy for wetsuits and towels, and the building is on the seafront.",
+ "sources": [
+  {
+   "label": "Official website",
+   "url": "https://www.bellevueapartments.co.uk/"
+  },
+  {
+   "label": "Redcar & Cleveland self-catering",
+   "url": "https://redcarcleveland.co.uk/enjoy/new-self-catering/"
+  }
+ ],
+ "slug": "bellevue-apartments"
+}

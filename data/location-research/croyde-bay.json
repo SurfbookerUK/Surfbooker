@@ -1,0 +1,233 @@
+{
+ "slug": "croyde-bay",
+ "schools": [
+  {
+   "name": "Surf South West",
+   "type": "Surf school",
+   "url": "https://www.surfsouthwest.com/",
+   "base": "Croyde Burrows Car Park, Moor Lane, right beside Croyde beach",
+   "note": "Half-day, two-day, weekend and five-day courses plus private lessons, and an award-winning adaptive surfing programme for people with SEN or additional needs. Group bookings for schools, corporate and stag or hen groups.",
+   "source": "https://www.surfsouthwest.com/"
+  },
+  {
+   "name": "Surfing Croyde Bay",
+   "type": "Surf school",
+   "url": "https://www.surfingcroydebay.co.uk/",
+   "base": "Baggy Lodge, Moor Lane, Croyde",
+   "note": "Group and private lessons for all levels, one-to-one coaching, half-day sessions, multi-day courses and surf camps, with family and kids' lessons. Changing rooms and hot showers on site.",
+   "source": "https://www.surfingcroydebay.co.uk/"
+  }
+ ],
+ "hire": [
+  {
+   "name": "Surfing Croyde Bay",
+   "type": "Board & wetsuit hire",
+   "url": "https://www.surfingcroydebay.co.uk/surf-hire/",
+   "base": "Baggy Lodge, Moor Lane, Croyde",
+   "note": "Softech soft boards for beginners, Tiki improver boards, adult and junior wetsuits, bodyboards and SUPs, with boards from 5'0\" to 9'0\". Indoor changing, hot showers and lockers.",
+   "source": "https://www.surfingcroydebay.co.uk/surf-hire/"
+  },
+  {
+   "name": "National Trust Baggy Point kiosk",
+   "type": "Belly board hire",
+   "url": "https://www.nationaltrust.org.uk/visit/devon/baggy-point/surfing-and-walking-at-baggy-point",
+   "base": "Baggy Point kiosk, Croyde",
+   "note": "Lends out a handful of traditional wooden belly boards, daily from March to October and at weekends in winter. A deposit is needed.",
+   "source": "https://www.nationaltrust.org.uk/visit/devon/baggy-point/surfing-and-walking-at-baggy-point"
+  }
+ ],
+ "shops": [
+  {
+   "name": "Saltrock",
+   "type": "Surf clothing shop",
+   "url": "https://www.saltrock.com/",
+   "town": "Croyde",
+   "note": "Surf-inspired clothing, footwear and accessories. Use the store locator for the exact address.",
+   "source": "https://www.saltrock.com/pages/store-locator"
+  },
+  {
+   "name": "Tiki Surf Shop",
+   "type": "Surf shop",
+   "url": "https://www.tikisurf.co.uk/",
+   "town": "Braunton (Caen Street)",
+   "note": "Long-running North Devon surf brand selling its own and other brands' surfboards (from shortboards to softboards), wetsuits, bodyboards, fins and clothing. Offers free surfboard demos.",
+   "source": "https://www.tikisurf.co.uk/pages/about"
+  },
+  {
+   "name": "Saltrock",
+   "type": "Surf clothing shop",
+   "url": "https://www.saltrock.com/",
+   "town": "Braunton",
+   "note": "Surf-inspired clothing, footwear and accessories. Use the store locator for the exact address.",
+   "source": "https://www.saltrock.com/pages/store-locator"
+  }
+ ],
+ "lessonsIntro": "Croyde has surf schools right by the beach, so you can walk from the car park or lodge straight into a lesson. Coaches pick the safest part of the bay for the day's conditions.",
+ "learn": {
+  "text": [
+   "Croyde is known for a fast, powerful wave that draws experienced surfers, but local surf schools teach beginners here too. You start in shallow water close to shore, with a coach choosing a spot away from the busier peaks. The National Trust says the bay works best at low tide and gets messier as the tide fills in, so lesson times move around with the tide.",
+   "The RNLI describes Croyde as a premium surf beach with powerful waves, heavy sandbars and prominent rip currents, and lifeguards there have dealt with mass rescues on big days. The water also gets crowded in summer. That is why a lesson is the sensible first step here: your coach will keep you inside a safe zone and teach you how to spot a rip before you go in on your own."
+  ],
+  "cards": [
+   {
+    "label": "Level",
+    "title": "Beginners with a coach",
+    "text": "The wave suits confident surfers, but schools teach complete beginners in the shallows."
+   },
+   {
+    "label": "Best time",
+    "title": "Lower tides, May to October",
+    "text": "Low tide is usually best. RNLI lifeguards patrol daily from early May to late September, plus Easter and October weekends."
+   },
+   {
+    "label": "Watch out for",
+    "title": "Rips, sandbars and rocks",
+    "text": "Strong rips, heavy sandbars and rocks, especially when the waves are bigger."
+   }
+  ]
+ },
+ "hireIntro": "You can hire boards and wetsuits in the village a short walk from the sand, and the National Trust lends out wooden belly boards at Baggy Point.",
+ "kit": {
+  "text": [
+   "If you are not in a lesson, hire a high-volume soft-top: it floats you into more waves and is kinder if it hits you. Hard boards make more sense once you can stand and turn, as Croyde's wave is quick. The sea here runs from about 15-18C in mid-August to 8-9C in early March. Wear a 3/2mm or 4/3mm in summer, and a 5/4mm or thicker with boots, gloves and a hood in early spring."
+  ],
+  "cards": [
+   {
+    "label": "Board",
+    "title": "Soft-top to start",
+    "text": "A big foam board for beginners; improvers can step down to a mid-length or a Tiki improver board."
+   },
+   {
+    "label": "Wetsuit",
+    "title": "3/2 summer, 5/4 winter",
+    "text": "A 3/2mm or 4/3mm in summer; 5/4mm or thicker with boots, gloves and a hood in early spring."
+   },
+   {
+    "label": "Other craft",
+    "title": "Bodyboards and belly boards",
+    "text": "Bodyboards are widely hired. Stay between the red and yellow flags when bodyboarding on patrolled days."
+   }
+  ]
+ },
+ "shopsIntro": "Croyde has a couple of surf-style shops in the village, and nearby Braunton has a full surf shop with boards and wetsuits.",
+ "shopsText": [
+  "In Croyde itself you will find surf clothing and the schools' own merchandise, with Saltrock among the shops in the village. For boards, wetsuits and hardware, Tiki Surf Shop on Caen Street in Braunton is the nearest specialist, and it offers board demos so you can try before you buy. Braunton also has a Saltrock store."
+ ],
+ "faqs": {
+  "lessons": [
+   {
+    "q": "Is Croyde too powerful for a first lesson?",
+    "a": "Not with a school. The wave is fast and the rips are strong, but coaches teach beginners in shallow water and choose the safest part of the bay on the day."
+   },
+   {
+    "q": "When do lessons run?",
+    "a": "Times shift with the tide, since Croyde tends to work best around low tide. Ask the school when you book."
+   },
+   {
+    "q": "Is there adaptive surfing at Croyde?",
+    "a": "Yes. Surf South West runs an award-winning adaptive surf programme for people with SEN or additional needs."
+   }
+  ],
+  "hire": [
+   {
+    "q": "Where can I hire a board in Croyde?",
+    "a": "Surfing Croyde Bay at Baggy Lodge on Moor Lane hires soft boards, improver boards, wetsuits, bodyboards and SUPs, with changing rooms and hot showers."
+   },
+   {
+    "q": "Can I borrow a wooden belly board?",
+    "a": "The National Trust kiosk at Baggy Point lends a small number of wooden belly boards, daily from March to October and at winter weekends, for a deposit."
+   }
+  ],
+  "shops": [
+   {
+    "q": "Where is the nearest shop selling surfboards?",
+    "a": "Tiki Surf Shop on Caen Street in Braunton stocks surfboards, wetsuits and bodyboards, and offers free board demos."
+   }
+  ]
+ },
+ "sources": [
+  {
+   "label": "Surf South West",
+   "url": "https://www.surfsouthwest.com/"
+  },
+  {
+   "label": "Surfing Croyde Bay",
+   "url": "https://www.surfingcroydebay.co.uk/"
+  },
+  {
+   "label": "Surfing Croyde Bay surf hire",
+   "url": "https://www.surfingcroydebay.co.uk/surf-hire/"
+  },
+  {
+   "label": "National Trust: surfing at Baggy Point",
+   "url": "https://www.nationaltrust.org.uk/visit/devon/baggy-point/surfing-and-walking-at-baggy-point"
+  },
+  {
+   "label": "RNLI: Croyde beach",
+   "url": "https://rnli.org/find-my-nearest/lifeguarded-beaches/croyde-beach"
+  },
+  {
+   "label": "RNLI: North Devon lifeguards news",
+   "url": "https://rnli.org/news-and-media/2023/july/21/north-devons-rnli-lifeguards-prepare-for-busy-summer-holiday-period"
+  },
+  {
+   "label": "Visit Devon: Croyde",
+   "url": "https://www.visitdevon.co.uk/explore/cities-towns-and-villages/croyde/"
+  },
+  {
+   "label": "Tiki Surf Shop",
+   "url": "https://www.tikisurf.co.uk/pages/about"
+  },
+  {
+   "label": "Saltrock store locator",
+   "url": "https://www.saltrock.com/pages/store-locator"
+  },
+  {
+   "label": "Surf-forecast: Croyde sea temperature",
+   "url": "https://www.surf-forecast.com/breaks/Croyde/seatemp"
+  },
+  {
+   "label": "Quiksilver wetsuit thickness guide",
+   "url": "https://www.quiksilver.co.uk/wetsuit-thickness"
+  }
+ ],
+ "factCheck": [
+  {
+   "fact": "Surf South West is based at Croyde Burrows Car Park, Moor Lane, next to the beach, and offers adaptive surfing",
+   "url": "https://www.surfsouthwest.com/"
+  },
+  {
+   "fact": "Surfing Croyde Bay is at Baggy Lodge, Moor Lane, Croyde EX33 1PA",
+   "url": "https://www.surfingcroydebay.co.uk/"
+  },
+  {
+   "fact": "Surfing Croyde Bay hires Softech and Tiki boards 5'0\"-9'0\", wetsuits, bodyboards and SUPs and recommends high-volume soft-tops for beginners",
+   "url": "https://www.surfingcroydebay.co.uk/surf-hire/"
+  },
+  {
+   "fact": "Croyde works best at low tide; watch for rocks and rips; free wooden belly boards from Baggy Point kiosk March-October and winter weekends",
+   "url": "https://www.nationaltrust.org.uk/visit/devon/baggy-point/surfing-and-walking-at-baggy-point"
+  },
+  {
+   "fact": "Croyde: powerful waves, prominent rips, heavy sandbars; lifeguards 10am-6pm, daily 2 May-27 Sep 2026",
+   "url": "https://rnli.org/find-my-nearest/lifeguarded-beaches/croyde-beach"
+  },
+  {
+   "fact": "Croyde has seen frequent mass rescues in rips and large surf",
+   "url": "https://rnli.org/news-and-media/2023/july/21/north-devons-rnli-lifeguards-prepare-for-busy-summer-holiday-period"
+  },
+  {
+   "fact": "Tiki Surf Shop, Caen Street, Braunton, sells boards and wetsuits and offers free demos",
+   "url": "https://www.tikisurf.co.uk/pages/about"
+  },
+  {
+   "fact": "Saltrock has stores in Croyde, Braunton and Woolacombe",
+   "url": "https://www.saltrock.com/pages/store-locator"
+  },
+  {
+   "fact": "Croyde sea temp peaks ~15-18C mid-August, ~8-9C early March; wetsuit suggestions",
+   "url": "https://www.surf-forecast.com/breaks/Croyde/seatemp"
+  }
+ ],
+ "gaps": "Could not confirm Ralphs Surf Shop or Redwood Surf Shop (Croyde) on a live website, so they are left out; Ralphs is already in existingProviders. Lords of Down End not confirmed online. No minimum lesson ages stated by either Croyde school. Surf South West hire not confirmed. Saltrock exact Croyde address not shown (store locator didn't load)."
+}

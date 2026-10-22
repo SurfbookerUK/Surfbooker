@@ -1,0 +1,137 @@
+{
+ "overview": [
+  "Whiterocks is where the long run of sand from Portrush finally meets the cliffs. Beyond Curran Strand the beach is backed by soft white limestone that waves have worn into caves, arches and headlands with names like Shelagh's Head, the Wishing Arch, Elephant Rock and the Lion's Paw. Looking along the coast you can see Dunluce Castle to the east, Portrush to the west and the hills of Donegal on a clear day.",
+  "It is one of the north coast's most popular surf beaches all year, used by surfers, bodyboarders and surf kayakers. There are free main and overflow car parks beside the beach, boardwalk access, an amenity block with toilets and covered cold showers, and a seasonal outlet hiring kit. It held a Blue Flag in 2024, and the RNLI notes it is popular with locals and visitors as well as surfers.",
+  "Above the beach the cliff path is part of the Ulster Way and Causeway Coast Way, leading east to the Magheracross viewpoint. Some caves beneath the road can only be reached from the sea and shelter seabirds, with the occasional peregrine falcon hunting along the cliffs. Racehorse trainers also use the sand between here and East Strand, so expect horses early and late."
+ ],
+ "suits": [
+  "Improvers and intermediate surfers",
+  "Bodyboarders",
+  "Groups mixing surfing with cliff walks",
+  "Free-parking day trips"
+ ],
+ "notFor": [
+  "Beginners without a lesson or lifeguards",
+  "Unplanned cave exploring on a rising tide"
+ ],
+ "surf": {
+  "text": [
+   "Whiterocks is an exposed beach break with lefts and rights. Forecast sites rate it best on a north-westerly groundswell with offshore winds from the south, surfable at all stages of the tide. It is fairly consistent through autumn, winter and spring, while summer is often flat. Being further from the town it usually catches a bit more swell than East Strand, and it can get busy when it's working.",
+   "The RNLI has reported rescuing a bodyboarder caught in a flash rip here. Use the flagged zones when lifeguards are on duty, look at the safety signs in the car park, and watch for rocks towards the cliffs at the eastern end.",
+   "The wave is a consistent beach break with short, hollow rides that start to close out once the swell gets beyond head height. It works on a swell from west to north, best from the north, from around 2ft up to about 10ft, with a south-westerly wind offshore, at every stage of the tide, and a rising tide is generally the better choice.",
+   "It's busy through the summer, but the beach is long enough that you can walk along and find your own peak, and there's a surf school on the sand, which makes it a good place to learn on a small day. Autumn to spring is when it's most consistent."
+  ],
+  "cards": [
+   {
+    "label": "Level",
+    "title": "Improvers to experienced",
+    "text": "Beginners should go with a lesson or stay between the flags."
+   },
+   {
+    "label": "Conditions",
+    "title": "W-N swell, south-west wind",
+    "text": "2 to 10ft; works at all tides, rising is generally better."
+   },
+   {
+    "label": "Season",
+    "title": "Autumn to spring",
+    "text": "Fairly consistent outside summer; usually flat in summer."
+   },
+   {
+    "label": "Hazards",
+    "title": "Flash rips and rocks",
+    "text": "Flash rips, rocks and caves at the cliff end, and horses on the sand."
+   }
+  ]
+ },
+ "practical": [
+  {
+   "label": "Parking",
+   "title": "Free car parks",
+   "text": "Main and overflow car parks beside the beach. Horse riders should use the top car park and bridle path."
+  },
+  {
+   "label": "Facilities",
+   "title": "Toilets and showers",
+   "text": "Boardwalk access, toilets, accessible toilets and parking, and covered outdoor cold showers. A seasonal outlet hires equipment."
+  },
+  {
+   "label": "Lifeguards",
+   "title": "Seasonal RNLI patrol",
+   "text": "In 2026 the RNLI patrolled 10am–6pm over the Easter holidays, at weekends from mid-April to late June, daily from 27 June to 31 August and at weekends through September. No flags means no lifeguards."
+  },
+  {
+   "label": "Dogs & horses",
+   "title": "Summer restrictions",
+   "text": "The council allows dogs but applies restrictions from 1 June to 15 September — check the signs at the entrance for where they apply. From 1 May to 30 September horse riding is only allowed before 11am and after 7pm."
+  },
+  {
+   "label": "Walks",
+   "title": "Cliff path to Magheracross",
+   "text": "The Causeway Coast Way runs along the clifftop east to the Magheracross viewpoint."
+  }
+ ],
+ "faqs": [
+  {
+   "q": "Is parking free at Whiterocks?",
+   "a": "Yes, in the main and overflow car parks beside the beach."
+  },
+  {
+   "q": "Is Whiterocks good for beginners?",
+   "a": "It is more exposed than the town beaches. Learners should take a lesson or stay inside the flagged zones when lifeguards are on duty."
+  },
+  {
+   "q": "What wind suits Whiterocks?",
+   "a": "Forecast sites rate a southerly wind as offshore, with a north-westerly swell."
+  },
+  {
+   "q": "Can I walk from Portrush?",
+   "a": "Yes, along the continuous sand from East Strand via Curran Strand."
+  }
+ ],
+ "sources": [
+  {
+   "label": "Causeway Coast and Glens Borough Council — Whiterocks",
+   "url": "https://causewaycoastandglens.gov.uk/see-do/beaches/whiterocks-portrush"
+  },
+  {
+   "label": "RNLI — Whiterocks",
+   "url": "https://rnli.org/find-my-nearest/lifeguarded-beaches/portrush-whiterocks-beach"
+  },
+  {
+   "label": "Surf-forecast — Whiterocks",
+   "url": "https://www.surf-forecast.com/breaks/Whiterocks"
+  }
+ ],
+ "factCheck": [
+  {
+   "fact": "Named arches/headlands, sea-only caves, peregrines",
+   "url": "https://causewaycoastandglens.gov.uk/see-do/beaches/whiterocks-portrush"
+  },
+  {
+   "fact": "Free main and overflow car parks, cold showers, seasonal hire outlet",
+   "url": "https://causewaycoastandglens.gov.uk/see-do/beaches/whiterocks-portrush"
+  },
+  {
+   "fact": "Cliff path part of Ulster Way/Causeway Coast Way to Magheracross",
+   "url": "https://causewaycoastandglens.gov.uk/see-do/beaches/whiterocks-portrush"
+  },
+  {
+   "fact": "NW swell, south offshore, all tides, summer flat, can get crowded",
+   "url": "https://www.surf-forecast.com/breaks/Whiterocks"
+  },
+  {
+   "fact": "2026 lifeguard dates and flash rip rescue",
+   "url": "https://rnli.org/find-my-nearest/lifeguarded-beaches/portrush-whiterocks-beach"
+  },
+  {
+   "fact": "Beach break, short hollow rides, closes out above head height, W-N swell 2-10ft, SW offshore, all tides rising better, busy in summer but long beach",
+   "url": "https://www.surfnerd.com/surf-forecast/white-rocks"
+  },
+  {
+   "fact": "Surf school on the beach, runs from Curran Strand to Dunluce Castle",
+   "url": "https://www.hellorayo.co.uk/cool-fm/lifestyle/travel/surfing-beaches-northern-ireland"
+  }
+ ],
+ "checked": "October 2026"
+}

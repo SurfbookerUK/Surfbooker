@@ -1,0 +1,26 @@
+{
+ "slug": "the-bay-view-inn-rooms",
+ "officialUrl": "https://www.bayviewinn.co.uk/",
+ "trading": true,
+ "stayType": "Pub with sea-view rooms",
+ "accommodation": "Rooms with sea views mentioned; number and types not stated.",
+ "suitableFor": "Couples and small groups wanting a pub base; dog owners (bar is dog-friendly).",
+ "parking": null,
+ "dogs": "Bar is dog-friendly; dogs in rooms not stated.",
+ "beachAccess": null,
+ "boardStorage": null,
+ "confirmedFeatures": "restaurant, bar, food served daily, Sunday roast, events and live music, functions and weddings",
+ "overview": "The Bay View Inn is a pub and restaurant at Widemouth Bay, south of Bude (EX23 0AW), with a sea-view dining room and bar. Its website has a Stay section promising rooms with views of the sea, though it gives little detail about the rooms themselves.",
+ "surfTripFit": "Its Widemouth Bay address and sea views suggest an easy hop to the surf, with food and drink on site, but room details and beach distance are not stated.",
+ "sources": [
+  {
+   "label": "Bay View Inn homepage",
+   "url": "https://www.bayviewinn.co.uk/"
+  },
+  {
+   "label": "Bay View Inn - Stay",
+   "url": "https://www.bayviewinn.co.uk/stay"
+  }
+ ],
+ "gaps": "Room count/types, parking, dogs in rooms, beach distance and board storage not stated. Stay page contact details look like template placeholders."
+}

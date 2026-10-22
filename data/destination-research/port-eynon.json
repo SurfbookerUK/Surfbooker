@@ -1,0 +1,123 @@
+{
+ "overview": [
+  "Port Eynon is a small village at the end of the road on the south Gower, where a sandy bay curves east to the neighbouring village of Horton about half a mile away. Behind the beach are a pay car park, toilets, cafés, a campsite and a pub, and a slipway is used to launch dive and sailing boats. The village is small, so in summer the car park is the easiest way in.",
+  "It is a classic family beach, with a wide stretch of sand and rock pools to explore at low tide, and RNLI lifeguards in the summer holidays. The village sits inside the Gower's Area of Outstanding Natural Beauty and on the Wales Coast Path. Dogs are allowed all year on the western part of the beach, from the main steps to the Salt House, but are banned east of the steps from May to September. Swim between the red and yellow flags when the lifeguards are on.",
+  "There is plenty of history. A lifeboat ran from here until 1919; three young crewmen died in 1916 going to the SS Dunvegan, and their memorial is in the churchyard. Along the point are the ruined Salt House and the old dovecote of Culver Hole. Culver Hole is a Grade II listed scheduled monument, and the youth hostel at the south end of the bay is a converted lifeboat house."
+ ],
+ "suits": [
+  "Families",
+  "Beginners and longboarders on small days",
+  "Divers, kayakers and sailors",
+  "Walkers on the Wales Coast Path"
+ ],
+ "notFor": [
+  "Big, consistent surf — west Gower is more exposed",
+  "Dog walkers wanting the whole beach in summer"
+ ],
+ "surf": {
+  "text": [
+   "Port Eynon faces south and needs a solid south-westerly swell to break. When it works the waves are gentle and good for learners and longboarders, and when Llangennith is too big it can be the sensible choice.",
+   "Lower tides open up more sand and the rock pools at the edges; keep clear of the rocks and, in season, stay between the red and yellow flags.",
+   "Port Eynon only works when conditions are just right, and summer is nearly always flat. It's a fairly exposed beach break with lefts and rights, best on a south-westerly groundswell with a north-westerly offshore, and best around low tide. It's unlikely to be crowded even when it's up. February gives the best odds, but clean days are rare."
+  ],
+  "cards": [
+   {
+    "label": "Level",
+    "title": "Learners and longboarders",
+    "text": "Gentle waves when there is swell, with lifeguards in the summer holidays."
+   },
+   {
+    "label": "Conditions",
+    "title": "Solid south-west swell",
+    "text": "Often flat; a fallback when the west coast is too big."
+   },
+   {
+    "label": "Hazards",
+    "title": "Rocks and patrol gaps",
+    "text": "Rocks at both ends, and lifeguards only on set dates — no flags means no lifeguards."
+   }
+  ]
+ },
+ "practical": [
+  {
+   "label": "Parking",
+   "title": "Pay car park",
+   "text": "Behind the beach, with disabled spaces."
+  },
+  {
+   "label": "Facilities",
+   "title": "Toilets and first aid",
+   "text": "Accessible toilets, a lifeguard station and first aid post, cafés, a pub and village shops."
+  },
+  {
+   "label": "Lifeguards",
+   "title": "Summer holidays",
+   "text": "In 2026 the RNLI patrolled 23–31 May, weekends 6–28 June, and daily 4 July–6 September, 10am–6pm."
+  },
+  {
+   "label": "Dogs",
+   "title": "Part-beach summer ban",
+   "text": "Dogs are allowed all year from the main steps west to the Salt House. From the steps east to the Horton beach access they are banned 1 May–30 September."
+  },
+  {
+   "label": "History",
+   "title": "Salt House and Culver Hole",
+   "text": "Both lie west of the village around Port Eynon Point, reached on the coast path."
+  }
+ ],
+ "faqs": [
+  {
+   "q": "Are there lifeguards at Port Eynon?",
+   "a": "Yes, in season. In 2026 that was 23–31 May, weekends in June, and daily from 4 July to 6 September, 10am–6pm."
+  },
+  {
+   "q": "Can I take my dog to Port Eynon?",
+   "a": "Yes, west of the main steps towards the Salt House all year. East of the steps to Horton, dogs are banned from 1 May to 30 September."
+  },
+  {
+   "q": "Can I walk to Horton?",
+   "a": "Yes, Horton is about half a mile along the beach to the east."
+  },
+  {
+   "q": "Is Port Eynon good for surfing?",
+   "a": "Only with a solid south-west swell, when it suits learners and longboarders."
+  }
+ ],
+ "sources": [
+  {
+   "label": "RNLI — Port Eynon Beach",
+   "url": "https://rnli.org/find-my-nearest/lifeguarded-beaches/port-eynon-beach"
+  },
+  {
+   "label": "Swansea Council — dogs on beaches",
+   "url": "https://www.swansea.gov.uk/dogsonbeaches"
+  },
+  {
+   "label": "Wikipedia — Port Eynon",
+   "url": "https://en.wikipedia.org/wiki/Port_Eynon"
+  },
+  {
+   "label": "The Beach Guide — Port Eynon",
+   "url": "https://www.thebeachguide.co.uk/south-wales/glamorgan/port-eynon.htm"
+  }
+ ],
+ "factCheck": [
+  {
+   "fact": "2026 lifeguards 23–31 May, weekends 6–28 Jun, daily 4 Jul–6 Sep, 10am–6pm; rock pools at low tide",
+   "url": "https://rnli.org/find-my-nearest/lifeguarded-beaches/port-eynon-beach"
+  },
+  {
+   "fact": "Dog zones: allowed steps west to Salt House all year; steps east to Horton access banned 1 May–30 Sep",
+   "url": "https://www.swansea.gov.uk/dogsonbeaches"
+  },
+  {
+   "fact": "Horton half a mile; lifeboat until 1919; 1916 Dunvegan disaster memorial; Salt House; Culver Hole; AONB; Wales Coast Path",
+   "url": "https://en.wikipedia.org/wiki/Port_Eynon"
+  },
+  {
+   "fact": "Port Eynon: SW groundswell, NW offshore, low tide, inconsistent",
+   "url": "https://www.surf-forecast.com/breaks/Port-Eynon-Bay"
+  }
+ ],
+ "checked": "October 2026"
+}

@@ -1,0 +1,26 @@
+{
+ "name": "Nolton Cross Holiday Park",
+ "officialUrl": "https://www.noltoncross-holidays.co.uk",
+ "trading": true,
+ "stayType": "Holiday and touring park",
+ "accommodation": "Seven static caravans sleeping up to 6, plus 15 touring and tent pitches",
+ "suitableFor": "Families and campers",
+ "parking": "On-site parking (Visit Wales)",
+ "dogs": "Welcome on lead; three caravans dog-friendly (Visit Wales)",
+ "beachAccess": "1.5 miles inland of Nolton Haven",
+ "boardStorage": null,
+ "confirmedFeatures": "Hot showers, launderette, play area, BBQ area, Wi-Fi, hook-ups",
+ "overview": "Nolton Cross is a family-run park 1.5 miles inland of Nolton Haven with seven caravans and 15 pitches.",
+ "surfTripFit": "A low-cost base a couple of minutes' drive from Nolton Haven and Newgale.",
+ "sources": [
+  {
+   "label": "Nolton Cross",
+   "url": "https://www.noltoncross-holidays.co.uk"
+  },
+  {
+   "label": "Visit Wales – Nolton Cross",
+   "url": "https://www.visitwales.com/accommodation/holiday-and-touring-park/nolton-cross-caravan-park-551841"
+  }
+ ],
+ "slug": "nolton-cross-holiday-park"
+}

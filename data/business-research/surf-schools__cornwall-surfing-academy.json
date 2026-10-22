@@ -1,0 +1,24 @@
+{
+ "slug": "cornwall-surfing-academy",
+ "kind": "surf-schools",
+ "officialUrl": "https://www.cornwallsurfingacademy.co.uk/",
+ "trading": "unclear",
+ "about": "Cornwall Surfing Academy is a family-friendly surf school near Newquay that teaches at Holywell Bay and Fistral Beach. It focuses on beginner lessons, and its site says it has more than 22 years of experience.",
+ "offers": [
+  "Beginner surf lessons",
+  "Family-friendly lessons"
+ ],
+ "where": "Holywell Bay and Fistral Beach, Newquay",
+ "goodToKnow": [
+  "Wetsuit and surfboard provided",
+  "Lessons can be booked online"
+ ],
+ "season": null,
+ "sources": [
+  {
+   "label": "Official website (metadata only)",
+   "url": "https://www.cornwallsurfingacademy.co.uk/"
+  }
+ ],
+ "gaps": "The site returned only metadata with no page text. Lesson types, meeting point, accreditations, season and trading status are unconfirmed."
+}

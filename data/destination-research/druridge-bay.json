@@ -1,0 +1,124 @@
+{
+ "overview": [
+  "Druridge Bay is a seven-mile curve of sand and dunes between Amble in the north and Cresswell in the south. Druridge Bay Country Park, just off the A1068 about three miles south of Amble near Hadston, gives you the easiest way in, with three car parks, a visitor centre and café beside Ladyburn Lake.",
+  "The bay has a striking history. During the Second World War, anti-tank blocks and pillboxes were built along it, and the council warns that wartime debris such as barbed wire can still appear where the dunes erode. Later campaigns saw off a nuclear power station plan in 1989, and parts of the shore are now nature reserves.",
+  "For surfing, this is an exposed, open beach with little shelter and no lifeguards. It suits surfers who can read conditions and are happy with space and solitude. The Northumberland Coast Path and National Cycle Network Route 1 both pass through the country park."
+ ],
+ "suits": [
+  "Surfers who want space",
+  "Dog walkers",
+  "Families using the country park and lake",
+  "Walkers and cyclists on the coast path"
+ ],
+ "notFor": [
+  "Anyone who needs lifeguard cover",
+  "Shelter from the wind",
+  "Learners without a school"
+ ],
+ "surf": {
+  "text": [
+   "Druridge Bay is a long, open beach break facing the North Sea. It picks up north-east to east swell, and westerly winds are offshore. Sandbanks form and move along the seven miles, so the best peaks can be anywhere along the bay.",
+   "There's no lifeguard on the beach or the lake, and the council advises checking tide times before you go. Long empty stretches mean help can be a long way off, so don't surf alone, and call 999 and ask for the Coastguard in an emergency.",
+   "Druridge has a point-break element as well as the long beach, and a north-east swell with a west wind works best around mid tide. Clean days are rare in winter, so you will often find it empty; that also means help is far away, so surf with someone."
+  ],
+  "cards": [
+   {
+    "label": "Level",
+    "title": "Improvers+",
+    "text": "Learners should come with a school."
+   },
+   {
+    "label": "Hazards",
+    "title": "Exposure",
+    "text": "Rips, cold water, unstable dunes and long empty stretches. Don't surf alone."
+   },
+   {
+    "label": "Season",
+    "title": "Autumn to spring",
+    "text": "North Sea swell is most reliable outside summer; summer is often small but good for lessons."
+   }
+  ]
+ },
+ "practical": [
+  {
+   "label": "Parking",
+   "title": "Country park",
+   "text": "Three car parks, the largest next to the visitor centre at the end of the access road. Blue Badge holders park free. Gates open in daylight hours."
+  },
+  {
+   "label": "Facilities",
+   "title": "Visitor centre",
+   "text": "Toilets, a café, a small shop, a viewing platform, a playpark and a campsite."
+  },
+  {
+   "label": "Lifeguards",
+   "title": "None",
+   "text": "No lifeguard covers the sea or the lake. Check tide times before visiting the beach."
+  },
+  {
+   "label": "Access",
+   "title": "Paths and dunes",
+   "text": "Many paths round the lake suit all abilities. The dunes can be unstable, and wartime debris such as barbed wire may be exposed."
+  },
+  {
+   "label": "Getting there",
+   "title": "NE61 5BX",
+   "text": "Off the A1068 about three miles south of Amble. The coast path and National Cycle Route 1 run through the park."
+  }
+ ],
+ "faqs": [
+  {
+   "q": "Is Druridge Bay lifeguarded?",
+   "a": "No. Neither the beach nor Ladyburn Lake has lifeguards."
+  },
+  {
+   "q": "Where do I park for Druridge Bay?",
+   "a": "Druridge Bay Country Park, off the A1068 near Hadston, has three car parks. Blue Badge holders park free."
+  },
+  {
+   "q": "How long is Druridge Bay?",
+   "a": "About seven miles, from Amble to Cresswell."
+  },
+  {
+   "q": "Can I paddleboard on Ladyburn Lake?",
+   "a": "Yes, with a permit from the visitor centre. Sailing, canoeing and windsurfing are allowed too."
+  }
+ ],
+ "sources": [
+  {
+   "label": "Northumberland County Council — Druridge Bay Country Park",
+   "url": "https://www.northumberland.gov.uk/parks/country-parks-visitor-centres-coastal-sites/druridge-bay-country-park-and-cafe"
+  },
+  {
+   "label": "Wikipedia — Druridge Bay",
+   "url": "https://en.wikipedia.org/wiki/Druridge_Bay"
+  },
+  {
+   "label": "Northside Surf School",
+   "url": "https://www.northside-surf-school.co.uk/"
+  }
+ ],
+ "factCheck": [
+  {
+   "fact": "A1068, 3 miles S of Amble near Hadston; NE61 5BX; three car parks; Blue Badge free; daylight gates",
+   "url": "https://www.northumberland.gov.uk/parks/country-parks-visitor-centres-coastal-sites/druridge-bay-country-park-and-cafe"
+  },
+  {
+   "fact": "No lifeguard on lake or sea; check tides; unstable dunes, wartime debris; coast path and NCN 1",
+   "url": "https://www.northumberland.gov.uk/parks/country-parks-visitor-centres-coastal-sites/druridge-bay-country-park-and-cafe"
+  },
+  {
+   "fact": "Lake permits for sailing, canoeing, SUP, windsurfing",
+   "url": "https://www.northumberland.gov.uk/parks/country-parks-visitor-centres-coastal-sites/druridge-bay-country-park-and-cafe"
+  },
+  {
+   "fact": "7 miles Amble–Cresswell; WWII anti-tank blocks; nuclear plan shelved 1989; nature reserves",
+   "url": "https://en.wikipedia.org/wiki/Druridge_Bay"
+  },
+  {
+   "fact": "Druridge: NE swell, W offshore, mid tide",
+   "url": "https://www.surfnerd.com/surf-forecast/druridge-bay"
+  }
+ ],
+ "checked": "October 2026"
+}

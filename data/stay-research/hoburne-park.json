@@ -1,0 +1,22 @@
+{
+ "name": "Hoburne Park",
+ "officialUrl": "https://www.hoburne.com/holiday-parks/dorset-hampshire-new-forest/hoburne-park/",
+ "trading": true,
+ "stayType": "Holiday park",
+ "accommodation": "Caravans and lodges",
+ "suitableFor": "Families",
+ "parking": null,
+ "dogs": "Dog-friendly (see park for policy)",
+ "beachAccess": "A few minutes' walk from Avon Beach",
+ "boardStorage": null,
+ "confirmedFeatures": "Indoor and outdoor pools, sauna, fitness room, tennis, adventure golf, restaurant, bar, launderette",
+ "overview": "A holiday park on Hoburne Lane in Christchurch, a few minutes' walk from Avon Beach and a short drive west of Highcliffe. It has caravans and lodges with indoor and outdoor pools and a restaurant.",
+ "surfTripFit": "Puts you between Avon Beach and Highcliffe, so you can choose a spot to suit the conditions.",
+ "sources": [
+  {
+   "label": "Official site",
+   "url": "https://www.hoburne.com/holiday-parks/dorset-hampshire-new-forest/hoburne-park/"
+  }
+ ],
+ "slug": "hoburne-park"
+}

@@ -1,0 +1,165 @@
+{
+ "slug": "scarborough-north-bay",
+ "schools": [
+  {
+   "name": "Dexters Surf Shop, School & Hire Centre",
+   "type": "Surf school",
+   "url": "https://dexterssurfshop.com/",
+   "base": "Kepwick House, North Bay, Scarborough YO12 7TN (on the beachfront)",
+   "note": "Beginner, improver, private and group surf lessons, plus walk-in adaptive surfing and clubs for children from 5 (Little Tuna's 5-8, Big Tuna's 8-16) and adults.",
+   "source": "https://dexterssurfshop.com/"
+  }
+ ],
+ "hire": [
+  {
+   "name": "Dexters Surf Shop, School & Hire Centre",
+   "type": "Board & wetsuit hire",
+   "url": "https://dexterssurfshop.com/",
+   "base": "North Bay beachfront, Scarborough",
+   "note": "Hires wetsuits, surfboard, longboard and bodyboard packages with wetsuits, paddleboards and kayaks, including overnight hire.",
+   "source": "https://dexterssurfshop.com/"
+  }
+ ],
+ "shops": [
+  {
+   "name": "Dexters Surf Shop",
+   "type": "Surf shop",
+   "url": "https://dexterssurfshop.com/",
+   "town": "Scarborough (North Bay)",
+   "note": "Sells new and used surfboards, accessories and clothing, with an online shop too.",
+   "source": "https://dexterssurfshop.com/"
+  },
+  {
+   "name": "Secret Spot Surf Shop",
+   "type": "Surf shop",
+   "url": "https://secretspot.co.uk/",
+   "town": "Cayton Bay, south of Scarborough (linked to Scarborough Surf School)",
+   "note": "Established in 1989 and described by Scarborough Surf School as one of the UK's oldest surf shops and the largest in the North East.",
+   "source": "https://scarboroughsurfschool.co.uk/"
+  }
+ ],
+ "lessonsIntro": "Dexters, on the North Bay beachfront, runs surf lessons for all ages and abilities, including adaptive surfing and children's clubs.",
+ "learn": {
+  "text": [
+   "Scarborough's North Bay is a wide sandy bay that the North York Moors National Park describes as gentle enough for beginners. Dexters Surf Shop, School & Hire Centre sits right on the North Bay beachfront and runs beginner, improver, private and group lessons, as well as clubs for children from five, a Surf Sisters group and walk-in adaptive surfing.",
+   "Scarborough Surf School is based a few miles south at Cayton Bay and teaches year round there. In summer the borough's main beaches have lifeguard cover; check the RNLI or council before you go, as there is no cover outside the season. Whoever you surf with, keep away from the harbour walls and sea defences at the ends of the bay."
+  ],
+  "cards": [
+   {
+    "label": "Level",
+    "title": "Good for beginners",
+    "text": "The National Park rates North Bay gentle enough for learners."
+   },
+   {
+    "label": "Best time",
+    "title": "Year round with a school",
+    "text": "Dexters runs lessons and clubs through the year; summer is warmest."
+   },
+   {
+    "label": "Watch out for",
+    "title": "Sea walls and cold water",
+    "text": "Stay clear of the harbour and sea defences, and wear a thick suit."
+   }
+  ]
+ },
+ "hireIntro": "Dexters hires wetsuits, surfboards, longboards, bodyboards, paddleboards and kayaks from its North Bay beachfront shop.",
+ "kit": {
+  "text": [
+   "The beaches on this stretch are mostly sandy beach breaks, so a long foam board is the right start, moving on to a hard mini-mal or longboard as you improve. Scarborough Surf School hires only 5/4mm wetsuits because the North Sea stays cold, and adds boots, gloves and hoods for the cooler months."
+  ],
+  "cards": [
+   {
+    "label": "Board",
+    "title": "Soft-top or longboard",
+    "text": "Dexters offers both surfboard and longboard hire packages; start long and wide."
+   },
+   {
+    "label": "Wetsuit",
+    "title": "5/4mm most of the year",
+    "text": "North Sea water stays cool. Scarborough Surf School hires only 5/4mm suits and treats them as year-round wear, adding boots, gloves and a hood in the colder months."
+   },
+   {
+    "label": "Other craft",
+    "title": "Bodyboard, SUP, kayak",
+    "text": "Dexters hires bodyboards, paddleboards and kayaks, and runs SUP and kayak tours."
+   }
+  ]
+ },
+ "shopsIntro": "Dexters sells boards and clothing on the North Bay seafront, and Secret Spot Surf Shop is linked to Scarborough Surf School at Cayton Bay.",
+ "shopsText": [
+  "Dexters is on the beachfront at North Bay and sells new and used surfboards, accessories and clothing, with an online shop. A short drive south, Secret Spot Surf Shop has traded since 1989 and is linked to Scarborough Surf School at Cayton Bay."
+ ],
+ "faqs": {
+  "lessons": [
+   {
+    "q": "Is North Bay good for learning?",
+    "a": "Yes, the National Park describes Scarborough's bays as gentle enough for beginners."
+   },
+   {
+    "q": "Can children have lessons?",
+    "a": "Dexters runs Little Tuna's for ages 5 to 8 and Big Tuna's for ages 8 to 16."
+   },
+   {
+    "q": "Is adaptive surfing available?",
+    "a": "Dexters offers walk-in adaptive surfing; contact them to arrange."
+   }
+  ],
+  "hire": [
+   {
+    "q": "What can I hire on North Bay?",
+    "a": "Wetsuits, surfboard, longboard and bodyboard packages, paddleboards and kayaks from Dexters."
+   },
+   {
+    "q": "Can I hire overnight?",
+    "a": "Dexters lists overnight hire."
+   }
+  ],
+  "shops": [
+   {
+    "q": "Where can I buy a surfboard in Scarborough?",
+    "a": "Dexters on North Bay sells new and used boards; Secret Spot is linked to Scarborough Surf School at Cayton Bay."
+   }
+  ]
+ },
+ "sources": [
+  {
+   "label": "Dexters Surf Shop, School & Hire Centre",
+   "url": "https://dexterssurfshop.com/"
+  },
+  {
+   "label": "North York Moors National Park: surfing",
+   "url": "https://www.northyorkmoors.org.uk/things-to-do/coast/surfing-and-paddle-boarding"
+  },
+  {
+   "label": "Scarborough Surf School",
+   "url": "https://scarboroughsurfschool.co.uk/"
+  },
+  {
+   "label": "Scarborough Surf School: equipment hire",
+   "url": "https://scarboroughsurfschool.co.uk/equipment-hire/"
+  }
+ ],
+ "factCheck": [
+  {
+   "fact": "Dexters at Kepwick House, North Bay YO12 7TN; lessons, adaptive surfing, clubs ages 5-8 and 8-16",
+   "url": "https://dexterssurfshop.com/"
+  },
+  {
+   "fact": "Dexters hire range incl. overnight",
+   "url": "https://dexterssurfshop.com/"
+  },
+  {
+   "fact": "Scarborough bays gentle enough for beginners",
+   "url": "https://www.northyorkmoors.org.uk/things-to-do/coast/surfing-and-paddle-boarding"
+  },
+  {
+   "fact": "Secret Spot est. 1989",
+   "url": "https://scarboroughsurfschool.co.uk/"
+  },
+  {
+   "fact": "Scarborough Surf School hires 5/4mm wetsuits only, described as suitable year round, plus boots, gloves and hoods",
+   "url": "https://scarboroughsurfschool.co.uk/equipment-hire/"
+  }
+ ],
+ "gaps": "Fluid Concept (Scarborough) listed by the National Park but only a Facebook page, so excluded. North Bay lifeguard dates and hazards not confirmed from RNLI. Secret Spot's exact address not confirmed. Dexters does not state where each lesson is held."
+}

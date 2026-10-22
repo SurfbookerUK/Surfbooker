@@ -1,0 +1,124 @@
+{
+ "slug": "lossiemouth",
+ "schools": [
+  {
+   "name": "New Wave Surf School",
+   "type": "Surf school",
+   "url": "https://www.newwavesurf.com/",
+   "base": "Surf hut at Lossiemouth East Beach",
+   "note": "Surf lessons, paddleboard lessons and kids' summer surf camps from a hut with changing rooms and a board store.",
+   "source": "https://www.newwavesurf.com/"
+  }
+ ],
+ "hire": [
+  {
+   "name": "New Wave Surf School",
+   "type": "Board & wetsuit hire",
+   "url": "https://www.newwavesurf.com/",
+   "base": "Lossiemouth East Beach",
+   "note": "Runs equipment hire from its East Beach hut. Check the website for what's currently available.",
+   "source": "https://www.newwavesurf.com/"
+  }
+ ],
+ "shops": [],
+ "lessonsIntro": "New Wave Surf School is based right on Lossiemouth East Beach, with a surf hut, changing rooms and a board store.",
+ "learn": {
+  "text": [
+   "East Beach is the long stretch of sand on the far side of the River Lossie footbridge. Lessons run from New Wave's surf hut there. It's a sheltered stretch of the Moray Firth that only gets waves when a decent north or north-east swell comes in, so on many days it's small and gentle, which suits learners well. Kids' summer camps run here in the holidays.",
+   "We couldn't confirm any lifeguard cover on East Beach, so beginners should go with the school rather than on their own. Take care around the river mouth at the western end, where the water moves faster. In winter the surf can be bigger, and the school also uses other Moray beaches, such as Hopeman and Cullen, when they suit the conditions better."
+  ],
+  "cards": [
+   {
+    "label": "Level",
+    "title": "Beginner-friendly",
+    "text": "Small, gentle waves are typical, and the school is based right on the beach."
+   },
+   {
+    "label": "Best time",
+    "title": "Summer for learning",
+    "text": "Summer surf camps and lessons run then. Bigger swells come in autumn and winter."
+   },
+   {
+    "label": "Watch out for",
+    "title": "River mouth, no lifeguards",
+    "text": "Keep away from the River Lossie outflow. We couldn't confirm any lifeguard cover."
+   }
+  ]
+ },
+ "hireIntro": "You can hire kit right on the beach from New Wave's surf hut at East Beach.",
+ "kit": {
+  "text": [
+   "Most days here suit a large foam board or longboard, because the Moray Firth waves are usually small. Paddleboarding works well on flat days, and New Wave teaches SUP too. The water is cold for much of the year. A 5/4mm wetsuit with boots is sensible from autumn to spring, and a 4/3mm is usually enough in summer."
+  ],
+  "cards": [
+   {
+    "label": "Board",
+    "title": "Longboard or foamie",
+    "text": "Extra volume makes the most of small Moray Firth waves."
+   },
+   {
+    "label": "Wetsuit",
+    "title": "4/3mm summer, 5/4mm winter",
+    "text": "Add boots, gloves and a hood in the coldest months."
+   },
+   {
+    "label": "Other craft",
+    "title": "SUP on flat days",
+    "text": "New Wave runs paddleboard lessons from East Beach."
+   }
+  ]
+ },
+ "shopsIntro": "We couldn't confirm a dedicated surf shop in Lossiemouth, so New Wave's hut at East Beach is your main local option.",
+ "shopsText": [
+  "New Wave's surf hut on East Beach handles hire and lessons, but we couldn't find a separate surf retail shop in Lossiemouth. For buying boards or wetsuits, look further afield in Moray or Aberdeen, or ask New Wave for advice."
+ ],
+ "faqs": {
+  "lessons": [
+   {
+    "q": "Where do lessons meet?",
+    "a": "At New Wave's surf hut on Lossiemouth East Beach, which has changing rooms."
+   },
+   {
+    "q": "Are there kids' surf camps?",
+    "a": "Yes, New Wave runs kids' summer surf camps. Check its website for dates and ages."
+   },
+   {
+    "q": "Is East Beach lifeguarded?",
+    "a": "We couldn't confirm any lifeguard service, so learn with the school."
+   }
+  ],
+  "hire": [
+   {
+    "q": "Can I hire a board at East Beach?",
+    "a": "Yes, New Wave offers hire from its hut on the beach."
+   },
+   {
+    "q": "Can I hire a paddleboard?",
+    "a": "New Wave teaches paddleboarding. Check its hire page for what's currently available to rent."
+   }
+  ],
+  "shops": [
+   {
+    "q": "Is there a surf shop in Lossiemouth?",
+    "a": "We couldn't confirm one beyond New Wave's hire and lesson hut."
+   }
+  ]
+ },
+ "sources": [
+  {
+   "label": "New Wave Surf School",
+   "url": "https://www.newwavesurf.com/"
+  }
+ ],
+ "factCheck": [
+  {
+   "fact": "New Wave operates mainly from Lossiemouth East Beach with surf hut, changing rooms and board store; also Hopeman, Cullen, Sandend, Roseisle",
+   "url": "https://www.newwavesurf.com/"
+  },
+  {
+   "fact": "Surf lessons, paddleboard lessons, kids summer surf camps, equipment hire",
+   "url": "https://www.newwavesurf.com/"
+  }
+ ],
+ "gaps": "New Wave's hire items, ages and formats weren't listed on the homepage. Lifeguard status wasn't confirmed. The river-mouth and swell details are general knowledge, not from a fetched source. No surf shop was confirmed. The wetsuit guidance isn't sourced."
+}

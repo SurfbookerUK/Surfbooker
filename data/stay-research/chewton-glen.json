@@ -1,0 +1,22 @@
+{
+ "name": "Chewton Glen",
+ "officialUrl": "https://www.chewtonglen.com/",
+ "trading": true,
+ "stayType": "Five-star country house hotel and spa",
+ "accommodation": "Rooms, suites and treehouse suites",
+ "suitableFor": "Couples wanting luxury",
+ "parking": null,
+ "dogs": null,
+ "beachAccess": null,
+ "boardStorage": null,
+ "confirmedFeatures": "Spa, restaurants, treehouse suites",
+ "overview": "A five-star country house hotel and spa on the edge of the New Forest near Highcliffe, offering rooms, suites and treehouse suites in woodland. It has spa facilities and restaurants on site.",
+ "surfTripFit": "A luxury option near Highcliffe for a treat between sessions.",
+ "sources": [
+  {
+   "label": "Official site",
+   "url": "https://www.chewtonglen.com/"
+  }
+ ],
+ "slug": "chewton-glen"
+}

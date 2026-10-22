@@ -1,0 +1,160 @@
+{
+ "slug": "challaborough",
+ "schools": [],
+ "hire": [
+  {
+   "name": "Discovery Surf School",
+   "type": "Board & wetsuit hire",
+   "url": "https://discoverysurf.com/pages/hire",
+   "base": "Bigbury-on-Sea lower car park, plus a beach hire station on the causeway side in the summer holidays",
+   "note": "Surfboards, wetsuits (including shorties), bodyboards, SUPs, an XL SUP and kayaks, with boots, gloves and hoods. A free beach wheelchair is available.",
+   "source": "https://discoverysurf.com/pages/hire"
+  }
+ ],
+ "shops": [
+  {
+   "name": "Discovery Surf School shop",
+   "type": "Surf shop",
+   "url": "https://discoverysurf.com/pages/bigbury-shop",
+   "town": "Bigbury-on-Sea (lower beach car park)",
+   "note": "Small shop selling Discovery hoodies and changing robes; ex-school boards are sold online.",
+   "source": "https://discoverysurf.com/pages/bigbury-shop"
+  },
+  {
+   "name": "Triocean Surf",
+   "type": "Surf shop",
+   "url": "https://www.trioceansurf.co.uk/",
+   "town": "Churchstow, near Kingsbridge (about 2 miles from Bantham)",
+   "note": "Wetsuits including Xcel and C-Skins, surfboards, bodyboards, SUPs, kayaks and hardware. Workshop repairs surfboards, SUPs and wetsuits.",
+   "source": "https://www.trioceansurf.co.uk/"
+  }
+ ],
+ "lessonsIntro": "No surf school teaches at Challaborough itself. The nearest lessons run next door at Bigbury-on-Sea, which is a gentler place to learn.",
+ "learn": {
+  "text": [
+   "Challaborough is a small sandy cove that's popular with surfers and bodyboarders for its swells and shore break. Local guides describe it as a challenging beach best suited to experienced surfers, with powerful waves over a rocky seabed in places. The surf is also inconsistent, and winter is usually the best time for waves. That makes it a poor choice for a first lesson.",
+   "If you're learning, book a lesson with Discovery Surf School at Bigbury-on-Sea, the next beach along, and come back to Challaborough once you're confident. RNLI lifeguards patrol the cove daily from 16 May to 27 September in 2026, between 10am and 6pm. Bodyboard between the red and yellow flags, and remember that if there are no flags, there are no lifeguards."
+  ],
+  "cards": [
+   {
+    "label": "Level",
+    "title": "Experienced surfers",
+    "text": "Powerful waves and a shore break; not recommended for beginners."
+   },
+   {
+    "label": "Best time",
+    "title": "Winter swells",
+    "text": "Surf is inconsistent and usually best in winter. Lifeguards patrol 16 May to 27 September 2026."
+   },
+   {
+    "label": "Watch out for",
+    "title": "Shore break and rocks",
+    "text": "A strong shore break and a rocky seabed in places."
+   }
+  ]
+ },
+ "hireIntro": "There's no surf hire in the cove itself, but you can hire boards, wetsuits and bodyboards at neighbouring Bigbury-on-Sea.",
+ "kit": {
+  "text": [
+   "Challaborough's shore break and punchy waves suit a shorter board in experienced hands, or a bodyboard between the flags. Learners are better off on a soft board at Bigbury next door. The sea here runs from about 15-19C in mid-August to 9-10C in early March. A 3/2mm or 4/3mm suits summer; in colder months Discovery Surf School puts everyone in a 5mm suit, with boots, gloves and a hood available."
+  ],
+  "cards": [
+   {
+    "label": "Board",
+    "title": "Your own board",
+    "text": "Experienced surfers only; beginners should learn on a soft board at Bigbury."
+   },
+   {
+    "label": "Wetsuit",
+    "title": "3/2 summer, 5mm winter",
+    "text": "A 3/2mm or 4/3mm in summer; a 5mm suit with boots, gloves and a hood in the colder months."
+   },
+   {
+    "label": "Other craft",
+    "title": "Bodyboards",
+    "text": "Popular with bodyboarders. Stay between the red and yellow flags when lifeguards are on duty."
+   }
+  ]
+ },
+ "shopsIntro": "There's no surf shop in Challaborough. The nearest are at Bigbury-on-Sea and near Kingsbridge.",
+ "shopsText": [
+  "Challaborough has a café and parking but no surf shop. Next door at Bigbury-on-Sea, Discovery Surf School's shop in the lower car park sells hoodies and changing robes and handles hire. For buying boards or wetsuits, or for repairs, Triocean Surf at Churchstow near Kingsbridge is the nearest specialist."
+ ],
+ "faqs": {
+  "lessons": [
+   {
+    "q": "Can I take surf lessons at Challaborough?",
+    "a": "We couldn't find a school teaching here. Discovery Surf School runs lessons next door at Bigbury-on-Sea."
+   },
+   {
+    "q": "Is Challaborough good for beginners?",
+    "a": "Not really. It has powerful waves, a shore break and a rocky seabed in places, so it suits experienced surfers."
+   },
+   {
+    "q": "When are lifeguards on duty?",
+    "a": "In 2026 the RNLI patrols daily from 16 May to 27 September, 10am to 6pm."
+   }
+  ],
+  "hire": [
+   {
+    "q": "Where's the nearest surf hire?",
+    "a": "Discovery Surf School at Bigbury-on-Sea hires surfboards, wetsuits, bodyboards, SUPs and kayaks."
+   },
+   {
+    "q": "Can I hire a bodyboard?",
+    "a": "Yes, from Discovery Surf School at Bigbury-on-Sea."
+   }
+  ],
+  "shops": [
+   {
+    "q": "Is there a surf shop in Challaborough?",
+    "a": "No. Try Discovery's shop at Bigbury-on-Sea or Triocean Surf near Kingsbridge."
+   }
+  ]
+ },
+ "sources": [
+  {
+   "label": "RNLI: Challaborough beach",
+   "url": "https://rnli.org/find-my-nearest/lifeguarded-beaches/challaborough-beach"
+  },
+  {
+   "label": "Coast & Country: surfing in South Devon",
+   "url": "https://www.coastandcountry.co.uk/blog/surfing-south-devon"
+  },
+  {
+   "label": "Discovery Surf School hire",
+   "url": "https://discoverysurf.com/pages/hire"
+  },
+  {
+   "label": "Discovery Surf School Bigbury shop",
+   "url": "https://discoverysurf.com/pages/bigbury-shop"
+  },
+  {
+   "label": "Triocean Surf",
+   "url": "https://www.trioceansurf.co.uk/"
+  },
+  {
+   "label": "Surf-forecast: Bantham sea temperature",
+   "url": "https://www.surf-forecast.com/breaks/Bantham/seatemp"
+  }
+ ],
+ "factCheck": [
+  {
+   "fact": "Small sandy cove, popular with surfers and bodyboarders for swells and shore breaks; lifeguards 16 May-27 Sep 2026; parking and café nearby",
+   "url": "https://rnli.org/find-my-nearest/lifeguarded-beaches/challaborough-beach"
+  },
+  {
+   "fact": "Challenging beach for experienced surfers; powerful waves, rocky seabed; inconsistent, winter best",
+   "url": "https://www.coastandcountry.co.uk/blog/surfing-south-devon"
+  },
+  {
+   "fact": "Discovery hire at Bigbury-on-Sea",
+   "url": "https://discoverysurf.com/pages/hire"
+  },
+  {
+   "fact": "Triocean Surf sells/repairs, near Kingsbridge",
+   "url": "https://www.trioceansurf.co.uk/"
+  }
+ ],
+ "gaps": "No surf school or hire confirmed at Challaborough itself; schools list empty. Distance from Challaborough to Bigbury or Triocean not stated in any source opened."
+}

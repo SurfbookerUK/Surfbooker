@@ -1,0 +1,118 @@
+{
+ "slug": "beadnell-bay",
+ "schools": [],
+ "hire": [],
+ "shops": [],
+ "lessonsIntro": "We have not yet confirmed a surf school that teaches at Beadnell Bay itself. Northside Surf School runs lessons nearby at Bamburgh.",
+ "learn": {
+  "text": [
+   "Beadnell Bay is a broad sandy bay on the north Northumberland coast. Living North reports that one local school, Surf Northumberland, holds most of its lessons at Newton Steads at the southern end of the bay, but we could not confirm the location or current trading on the school's own website, so we have left it out for now.",
+   "If you want a confirmed lesson nearby, Northside Surf School teaches a few miles north at Bamburgh and supplies all the kit. Whichever beach you choose, the North Sea is cold and conditions change quickly, so learning with an instructor is the safest way to start."
+  ],
+  "cards": [
+   {
+    "label": "Level",
+    "title": "Learn with a school",
+    "text": "Book a lesson nearby until a Beadnell-based school is confirmed."
+   },
+   {
+    "label": "Best time",
+    "title": "Summer",
+    "text": "The water is at its warmest in late summer; plan any lesson around the instructors' advice on the day."
+   },
+   {
+    "label": "Watch out for",
+    "title": "Cold water",
+    "text": "This is the North Sea: wear a thick suit and never surf alone."
+   }
+  ]
+ },
+ "hireIntro": "We have not confirmed surfboard hire at Beadnell. Living North lists KA Adventure Sports here for SUP, kitesurfing and wingsurfing.",
+ "kit": {
+  "text": [
+   "For a first go, a long soft-top is the most forgiving board on any sandy bay like Beadnell. The sea here is cold for much of the year, so a 5/4mm suit with boots is a sensible baseline, with gloves and a hood in winter."
+  ],
+  "cards": [
+   {
+    "label": "Board",
+    "title": "Big foam board to start",
+    "text": "Northside supplies boards on its lessons. If you are new, stay on a large soft-top until you can catch and ride green waves."
+   },
+   {
+    "label": "Wetsuit",
+    "title": "5/4mm most of the year",
+    "text": "North Sea water stays cool. Scarborough Surf School hires only 5/4mm suits and treats them as year-round wear, adding boots, gloves and a hood in the colder months."
+   },
+   {
+    "label": "Other craft",
+    "title": "Kite, wing and SUP",
+    "text": "Beadnell is known for wind sports; Living North lists SUP, kitesurf and wingsurf lessons and hire here."
+   }
+  ]
+ },
+ "shopsIntro": "We could not confirm a surf shop in Beadnell.",
+ "shopsText": [
+  "We have not found a surf shop in Beadnell village. Bring your own wetsuit and accessories, or buy before you travel; Northside Surf School's base at Amble is the nearest confirmed surf business to the south."
+ ],
+ "faqs": {
+  "lessons": [
+   {
+    "q": "Are there surf lessons at Beadnell Bay?",
+    "a": "Not confirmed yet. Northside Surf School teaches nearby at Bamburgh."
+   },
+   {
+    "q": "What is Newton Steads?",
+    "a": "The southern end of Beadnell Bay, where Living North says Surf Northumberland holds most of its lessons; check with the school directly."
+   },
+   {
+    "q": "Do I need experience?",
+    "a": "No, but start with a qualified instructor because the North Sea is cold and changeable."
+   }
+  ],
+  "hire": [
+   {
+    "q": "Can I hire a surfboard at Beadnell?",
+    "a": "We have not confirmed surfboard hire here."
+   },
+   {
+    "q": "Is there SUP hire?",
+    "a": "Living North lists KA Adventure Sports at Beadnell for SUP, kite and wing lessons and hire."
+   }
+  ],
+  "shops": [
+   {
+    "q": "Is there a surf shop in Beadnell?",
+    "a": "We could not find one, so bring your own kit."
+   }
+  ]
+ },
+ "sources": [
+  {
+   "label": "Living North: watersports on the North East coast",
+   "url": "https://www.livingnorth.com/article/where-try-watersports-north-east-coast"
+  },
+  {
+   "label": "Northside Surf School: Surf Bamburgh",
+   "url": "https://www.northside-surf-school.co.uk/surf-bamburgh/"
+  },
+  {
+   "label": "Scarborough Surf School: equipment hire",
+   "url": "https://scarboroughsurfschool.co.uk/equipment-hire/"
+  }
+ ],
+ "factCheck": [
+  {
+   "fact": "Surf Northumberland holds lessons mostly at Newton Steads, south end of Beadnell Bay (secondary source)",
+   "url": "https://www.livingnorth.com/article/where-try-watersports-north-east-coast"
+  },
+  {
+   "fact": "KA Adventure Sports offers SUP, kite and wingsurf lessons and hire at Beadnell (secondary source)",
+   "url": "https://www.livingnorth.com/article/where-try-watersports-north-east-coast"
+  },
+  {
+   "fact": "Scarborough Surf School hires 5/4mm wetsuits only, described as suitable year round, plus boots, gloves and hoods",
+   "url": "https://scarboroughsurfschool.co.uk/equipment-hire/"
+  }
+ ],
+ "gaps": "Surf Northumberland's own site does not name beaches or show recent dates, so it is excluded. KA Adventure Sports (kaadventuresports.co.uk) not opened directly. 'Boards and Bikes' from existing providers not verified. No RNLI/hazard info gathered for Beadnell."
+}

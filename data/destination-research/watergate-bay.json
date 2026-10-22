@@ -1,0 +1,122 @@
+{
+ "overview": [
+  "Watergate Bay is a two-mile sweep of sand below the cliffs about three miles north of Newquay, beside the hamlet of Tregurrian and below the B3276 coast road to Padstow. It faces north-west into the Atlantic and is one of the most exposed beaches on this stretch, which is exactly why surfers, kitesurfers and windsurfers come here. Its scale means you rarely feel hemmed in, even in summer.",
+  "The tide shapes the day. At low water the beach seems endless; at high tide much of it disappears and the sea reaches the foot of the cliffs. The easiest way down is the central valley, where the hotel, cafés, toilets, shop and the surf schools are clustered. Other paths come down the cliffs, but the valley is the one to use with boards and children.",
+  "The Watergate Bay Hotel opened in 1900 to serve rail visitors on a planned line from Padstow to Newquay that was never built. Since 2007 the bay has hosted the English National Surfing Championships, and it has appeared on screen in Echo Beach and the surf film Plunge. Crowds gather around the central access, but the long beach usually thins out to the north."
+ ],
+ "suits": [
+  "All levels, with lessons for learners",
+  "Kitesurfers and windsurfers",
+  "Groups mixing surf, food and a long beach walk"
+ ],
+ "notFor": [
+  "High-tide beach days — much of the sand goes",
+  "Light-wind days for kites, and windy days for surfers"
+ ],
+ "surf": {
+  "text": [
+   "Watergate is a fairly exposed beach break with lefts and rights that picks up most Atlantic swells. Surf-forecast gives a west-north-west groundswell and a light south-easterly offshore wind as the ideal combination, and warns of dangerous rips. Banks run along the full length of the bay, so there are usually several peaks to choose from.",
+   "Reviewers note the banks change with the tide and that paddling out can be hard on bigger days, sometimes impossible when two swells overlap. It can also be breezy. If the central peaks are busy, walking north along the sand usually finds more space, but keep the rising tide in mind.",
+   "Watergate is a long beach break that changes as the banks shift with the tide. Low tide can produce short, intense close-outs. West-north-west groundswell with a south-easterly offshore is the best match. Paddling out can be very hard when two swells are running, rips are dangerous, and it's likely to be crowded when it's working, thinning out toward the north end."
+  ],
+  "cards": [
+   {
+    "label": "Best conditions",
+    "title": "WNW swell, SE wind",
+    "text": "Light south-easterly winds are offshore."
+   },
+   {
+    "label": "Crowds",
+    "title": "Thinner to the north",
+    "text": "Busiest by the central access; the long beach spreads people out."
+   },
+   {
+    "label": "Hazards",
+    "title": "High tide and cliffs",
+    "text": "The tide reaches the cliffs along much of the bay — don't get cut off away from the valley access."
+   }
+  ]
+ },
+ "practical": [
+  {
+   "label": "Parking",
+   "title": "Main car park",
+   "text": "The main car park is in front of the Watergate Bay Hotel, by the valley access."
+  },
+  {
+   "label": "Facilities",
+   "title": "Food, toilets, hire",
+   "text": "Café/restaurants, toilets with accessible facilities, a shop and deckchair hire."
+  },
+  {
+   "label": "Access",
+   "title": "Valley path",
+   "text": "Several cliff paths reach the sand; the easiest is from the central valley."
+  },
+  {
+   "label": "Lifeguards",
+   "title": "Seasonal patrol",
+   "text": "Swim between the red and yellow flags when lifeguards are on duty."
+  },
+  {
+   "label": "Dogs",
+   "title": "Allowed all year",
+   "text": "The Beach Guide lists dogs as allowed all year; Watergate isn't in Cornwall Council's restrictions table."
+  }
+ ],
+ "faqs": [
+  {
+   "q": "How long is Watergate Bay?",
+   "a": "About two miles of sand at low tide; much of it is covered at high tide."
+  },
+  {
+   "q": "Is Watergate Bay good for beginners?",
+   "a": "Yes with a lesson — surf schools work from the central access. It is exposed, so on bigger days learners should stay with an instructor."
+  },
+  {
+   "q": "Are dogs allowed on Watergate Bay?",
+   "a": "The Beach Guide lists dogs as allowed all year round."
+  }
+ ],
+ "sources": [
+  {
+   "label": "Wikipedia — Watergate Bay",
+   "url": "https://en.wikipedia.org/wiki/Watergate_Bay"
+  },
+  {
+   "label": "Surf-forecast — Watergate Bay",
+   "url": "https://www.surf-forecast.com/breaks/Watergate-Bay"
+  },
+  {
+   "label": "The Beach Guide — Watergate Bay",
+   "url": "https://www.thebeachguide.co.uk/south-west-england/cornwall/watergate-bay.htm"
+  },
+  {
+   "label": "Cornwall Council — dogs on beaches",
+   "url": "https://www.cornwall.gov.uk/environment/animal-welfare-and-enforcement/dogs-on-beaches/"
+  },
+  {
+   "label": "RNLI — lifeguarded beaches",
+   "url": "https://rnli.org/find-my-nearest/lifeguarded-beaches"
+  }
+ ],
+ "factCheck": [
+  {
+   "fact": "2-mile beach; Tregurrian; B3276; hotel 1900 and unbuilt railway; English Nationals since 2007; Echo Beach, Plunge",
+   "url": "https://en.wikipedia.org/wiki/Watergate_Bay"
+  },
+  {
+   "fact": "WNW swell, SE wind; rips; difficult paddle-out; quieter north end",
+   "url": "https://www.surf-forecast.com/breaks/Watergate-Bay"
+  },
+  {
+   "fact": "Faces NW; much lost at high tide; car park at hotel; valley access; dogs all year",
+   "url": "https://www.thebeachguide.co.uk/south-west-england/cornwall/watergate-bay.htm"
+  },
+  {
+   "fact": "Watergate: WNW swell, SE offshore, banks shift with tide, rips",
+   "url": "https://www.surf-forecast.com/breaks/Watergate-Bay"
+  }
+ ],
+ "checked": "October 2026"
+}

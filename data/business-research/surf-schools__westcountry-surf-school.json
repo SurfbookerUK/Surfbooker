@@ -1,0 +1,29 @@
+{
+ "slug": "westcountry-surf-school",
+ "kind": "surf-schools",
+ "officialUrl": "https://www.westcountrysurfschool.co.uk/",
+ "trading": true,
+ "about": "Westcountry Surf School is a brother-and-sister-run surf school in Newquay that teaches at Watergate Bay. It works from the field car park above the beach and offers free pick-up and drop-off from where you're staying. Lessons suit beginners, families, groups and individuals, and instructors film sessions so you can watch the footage afterwards.",
+ "offers": [
+  "Beginner surf lessons",
+  "Private lessons",
+  "Family and group lessons",
+  "Stag and hen groups",
+  "Early and late sessions for all levels"
+ ],
+ "where": "Field car park overlooking Watergate Bay, Newquay",
+ "goodToKnow": [
+  "Wetsuits, rash vests and hooded towels are provided",
+  "Free door-to-beach pick-up and drop-off",
+  "Book by email, phone or online form; a deposit secures the booking",
+  "Instructors are Surfing GB-trained coaches and active RNLI lifeguards"
+ ],
+ "season": "Mainly summer, with some spring and autumn sessions",
+ "sources": [
+  {
+   "label": "Westcountry Surf School homepage",
+   "url": "https://www.westcountrysurfschool.co.uk/"
+  }
+ ],
+ "gaps": "No age limits, what to bring or cancellation terms"
+}

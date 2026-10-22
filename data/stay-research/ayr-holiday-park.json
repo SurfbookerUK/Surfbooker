@@ -1,0 +1,22 @@
+{
+ "name": "Ayr Holiday Park",
+ "officialUrl": "https://www.ayrholidaypark.co.uk/",
+ "trading": true,
+ "stayType": "Holiday park above St Ives town",
+ "accommodation": "Holiday caravans, self-catering apartments, lodges and touring and camping pitches",
+ "suitableFor": "Families, couples, solo travellers and campers",
+ "parking": null,
+ "dogs": null,
+ "beachAccess": "The restaurant looks across Porthmeor Beach; walk downhill into town",
+ "boardStorage": null,
+ "confirmedFeatures": "Restaurant, swimming pool, children's play area, heated shower blocks, open all year",
+ "overview": "The holiday park closest to St Ives centre, on the hill above town with views across Porthmeor Beach. It offers caravans, apartments, lodges and touring and camping pitches, and is open all year. There is a restaurant serving food all day, a swimming pool and a children's play area, and the town is a downhill walk away.",
+ "surfTripFit": "It overlooks Porthmeor, so you can check the surf from the park and walk down to the beach.",
+ "sources": [
+  {
+   "label": "Official website",
+   "url": "https://www.ayrholidaypark.co.uk/"
+  }
+ ],
+ "slug": "ayr-holiday-park"
+}

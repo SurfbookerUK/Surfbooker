@@ -1,0 +1,26 @@
+{
+ "name": "Pennyland House B&B",
+ "officialUrl": "https://www.pennylandhouse.co.uk/",
+ "trading": true,
+ "stayType": "B&B",
+ "accommodation": "B&B rooms (details on site)",
+ "suitableFor": "Couples touring the north coast",
+ "parking": null,
+ "dogs": null,
+ "beachAccess": null,
+ "boardStorage": null,
+ "confirmedFeatures": "Online booking, breakfast",
+ "overview": "Pennyland House is a bed and breakfast in Thurso, Caithness, promoting stays on Scotland's north coast. It takes bookings online through its own website and is listed in local guest house guides. Dunnet Head and the Castle of Mey are among the nearby sights it highlights.",
+ "surfTripFit": "A Thurso base puts both Thurso East and the town beach within a short drive.",
+ "sources": [
+  {
+   "label": "Pennyland House official site",
+   "url": "https://www.pennylandhouse.co.uk/"
+  },
+  {
+   "label": "VisitScotland listing",
+   "url": "https://visitscotland.com/info/accommodation/pennyland-house-bb-p1384701"
+  }
+ ],
+ "slug": "pennyland-house-b-and-b"
+}

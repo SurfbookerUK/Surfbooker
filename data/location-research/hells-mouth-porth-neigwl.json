@@ -1,0 +1,225 @@
+{
+ "slug": "hells-mouth-porth-neigwl",
+ "schools": [
+  {
+   "name": "Abersoch Watersports",
+   "type": "Surf school",
+   "url": "https://www.abersochwatersports.co.uk/",
+   "base": "Kit collection at the shop in Abersoch, then meet the instructor at Porth Neigwl car park",
+   "note": "Surf lessons with an ISA-qualified instructor, usually at Hell's Mouth, with board, wetsuit and boots included. From age 8; under-18s need a parent or guardian present.",
+   "source": "https://www.abersochwatersports.co.uk/products/surf-lesson"
+  },
+  {
+   "name": "Hell's Mouth Surf School",
+   "type": "Surf school",
+   "url": "https://www.westcoastsurf.co.uk/",
+   "base": "West Coast Surf Shop, Lon Pen Cei, Abersoch",
+   "note": "Two-hour introductory lessons for over-8s in groups of up to eight per instructor, with wetsuit, boots and board included. Runs from late spring to autumn.",
+   "source": "https://www.abersochlife.com/directory/hells-mouth-surf-school/"
+  }
+ ],
+ "hire": [
+  {
+   "name": "West Coast Surf Shop",
+   "type": "Board & wetsuit hire",
+   "url": "https://www.westcoastsurf.co.uk/",
+   "base": "Lon Pen Cei, Abersoch, about a 10-minute drive from Hell's Mouth",
+   "note": "Hires surfboards and wetsuits by the day or week.",
+   "source": "https://www.westcoastsurf.co.uk/"
+  },
+  {
+   "name": "Abersoch Surf Shop",
+   "type": "Paddleboard hire",
+   "url": "https://eola.co/qdcwh/activities/abersoch-surf-shop-paddleboard-hire",
+   "base": "Abersoch",
+   "note": "Daily inflatable paddleboard hire; bring your own wetsuit.",
+   "source": "https://eola.co/qdcwh/activities/abersoch-surf-shop-paddleboard-hire"
+  },
+  {
+   "name": "Offaxis",
+   "type": "Watersports hire",
+   "url": "https://www.offaxis.co.uk/",
+   "base": "Abersoch (also Pwllheli)",
+   "note": "Watersports shop with an equipment hire service and surf, SUP and other lessons; check what is available to hire.",
+   "source": "https://www.awayresorts.co.uk/discover/leisure/guide-surfing-north-wales/"
+  }
+ ],
+ "shops": [
+  {
+   "name": "West Coast Surf Shop",
+   "type": "Surf shop",
+   "url": "https://www.westcoastsurf.co.uk/",
+   "town": "Abersoch",
+   "note": "Sells surfboards for beginners and experienced surfers, bodyboards, wetsuits and accessories, plus surf clothing. Shorter hours out of season.",
+   "source": "https://www.westcoastsurf.co.uk/"
+  },
+  {
+   "name": "Abersoch Watersports",
+   "type": "Surf shop",
+   "url": "https://www.abersochwatersports.co.uk/",
+   "town": "Abersoch",
+   "note": "Stocks wetsuits, surfboards, paddleboards, wing-foil gear, fins and leashes, and runs surf, SUP and coasteering sessions.",
+   "source": "https://www.abersochwatersports.co.uk/"
+  },
+  {
+   "name": "Offaxis",
+   "type": "Surf shop",
+   "url": "https://www.offaxis.co.uk/",
+   "town": "Abersoch",
+   "note": "Watersports retailer selling surfboards, bodyboards, wetsuits and SUPs alongside wakeboard and foil gear.",
+   "source": "https://www.offaxis.co.uk/"
+  }
+ ],
+ "lessonsIntro": "Porth Neigwl, better known as Hell's Mouth, is the Llŷn Peninsula's main surf beach, and schools based in nearby Abersoch bring their lessons here.",
+ "learn": {
+  "text": [
+   "Hell's Mouth is a four-mile bay on the Llŷn Peninsula, open to south-westerly swell, that picks up consistent waves, especially at the northern end. The Abersoch-based schools usually teach here: you collect your wetsuit in the village, then drive about ten minutes to the beach car park to meet your instructor. There are no changing facilities at the beach, so come ready to change in the car park.",
+   "This is a powerful beach, and the local tourism guide warns of strong currents and undertow, large breaking waves and a steep beach with deep water at high tide. We could not confirm lifeguard cover, so learning with a qualified instructor is the safe way in. Stay well away from the soft cliffs, where landslips happen regularly. Lessons tend to run from late spring to autumn when the sea is warmer."
+  ],
+  "cards": [
+   {
+    "label": "Level",
+    "title": "Beginners with a school only",
+    "text": "Consistent but powerful waves. First-timers should learn with an instructor on smaller days."
+   },
+   {
+    "label": "Best time",
+    "title": "Late spring to autumn for lessons",
+    "text": "Schools run lessons from around May into autumn. Winter brings the biggest, best waves for experienced surfers."
+   },
+   {
+    "label": "Watch out for",
+    "title": "Strong currents and steep beach",
+    "text": "Undertow, big breaking waves, deep water at high tide and unstable cliffs. Lifeguard cover not confirmed."
+   }
+  ]
+ },
+ "hireIntro": "There is no hire on the beach itself, but West Coast Surf in Abersoch hires surfboards and wetsuits, about a ten-minute drive away.",
+ "kit": {
+  "text": [
+   "Learners need a big soft-top for the whitewater, and improvers often move on to a mini-mal; Hell's Mouth's waves get punchy, so a board with enough volume helps you catch them early. North Wales water is cold for much of the year, dropping to around 5-9°C in late February. In summer a 3/2 or 4/3 with boots is fine, but winter calls for a 5/4 or thicker with gloves, boots and a hood."
+  ],
+  "cards": [
+   {
+    "label": "Board",
+    "title": "High-volume soft-top",
+    "text": "Beginners need a large foam board. Improvers can move to a mini-mal; experienced surfers use shortboards in the winter swells."
+   },
+   {
+    "label": "Wetsuit",
+    "title": "3/2 summer, 5/4 plus in winter",
+    "text": "Water peaks at about 14-18°C in mid-August and falls to 5-9°C in late February. Add boots, gloves and a hood in winter."
+   },
+   {
+    "label": "Other craft",
+    "title": "Bodyboards with care",
+    "text": "Bodyboarding is possible on small days, but currents are strong. Be careful with inflatables in strong winds."
+   }
+  ]
+ },
+ "shopsIntro": "Abersoch, a short drive from Hell's Mouth, has several surf and watersports shops.",
+ "shopsText": [
+  "Abersoch is about ten minutes' drive from the Porth Neigwl car park. West Coast Surf Shop on Lon Pen Cei sells boards, bodyboards and wetsuits and hires boards and suits. Abersoch Watersports at Pen Y Bont stocks wetsuits, surfboards and paddleboards, and Offaxis sells surf, SUP and wake gear. Out-of-season hours are shorter, so call ahead."
+ ],
+ "faqs": {
+  "lessons": [
+   {
+    "q": "Where do Hell's Mouth surf lessons meet?",
+    "a": "With Abersoch Watersports you collect your wetsuit at the shop in Abersoch, then drive about ten minutes to the Porth Neigwl car park to meet your instructor. Hell's Mouth Surf School runs from West Coast Surf Shop in Abersoch."
+   },
+   {
+    "q": "How old do you need to be?",
+    "a": "Both Abersoch Watersports and Hell's Mouth Surf School teach from age 8. Abersoch Watersports asks for a parent or guardian to be present for under-18s."
+   },
+   {
+    "q": "Is Hell's Mouth safe for beginners?",
+    "a": "It can be, with a school and on smaller days. The beach has strong currents, big breaking waves and deep water at high tide, and we could not confirm lifeguard cover."
+   }
+  ],
+  "hire": [
+   {
+    "q": "Can I hire a surfboard for Hell's Mouth?",
+    "a": "Yes. West Coast Surf Shop in Abersoch hires surfboards and wetsuits by the day or week."
+   },
+   {
+    "q": "Are there changing facilities at the beach?",
+    "a": "No. Abersoch Watersports notes there are no changing facilities at Hell's Mouth, so change in the car park or at the shop."
+   }
+  ],
+  "shops": [
+   {
+    "q": "Where is the nearest surf shop to Hell's Mouth?",
+    "a": "Abersoch, about ten minutes' drive away, has West Coast Surf Shop, Abersoch Watersports and Offaxis."
+   }
+  ]
+ },
+ "sources": [
+  {
+   "label": "Abersoch Watersports: surf lesson",
+   "url": "https://www.abersochwatersports.co.uk/products/surf-lesson"
+  },
+  {
+   "label": "Abersoch Watersports",
+   "url": "https://www.abersochwatersports.co.uk/"
+  },
+  {
+   "label": "Abersoch Life: Hell's Mouth Surf School",
+   "url": "https://www.abersochlife.com/directory/hells-mouth-surf-school/"
+  },
+  {
+   "label": "West Coast Surf",
+   "url": "https://www.westcoastsurf.co.uk/"
+  },
+  {
+   "label": "Abersoch Surf Shop hire",
+   "url": "https://eola.co/qdcwh/activities/abersoch-surf-shop-paddleboard-hire"
+  },
+  {
+   "label": "Offaxis",
+   "url": "https://www.offaxis.co.uk/"
+  },
+  {
+   "label": "Visit Snowdonia: Porth Neigwl",
+   "url": "https://www.visitsnowdonia.info/porth-neigwl-hells-mouth"
+  },
+  {
+   "label": "Away Resorts: surfing in north Wales",
+   "url": "https://www.awayresorts.co.uk/discover/leisure/guide-surfing-north-wales/"
+  },
+  {
+   "label": "Surf-forecast sea temperature, Hell's Mouth",
+   "url": "https://www.surf-forecast.com/breaks/Hells-Mouth-Porth-Neigwl/seatemp"
+  }
+ ],
+ "factCheck": [
+  {
+   "fact": "Abersoch Watersports lessons usually at Porth Neigwl; collect kit 30 mins before at shop; ~10 min drive; age 8+; under-18s parent present; no changing facilities; ISA instructor; board/wetsuit/boots",
+   "url": "https://www.abersochwatersports.co.uk/products/surf-lesson"
+  },
+  {
+   "fact": "Hell's Mouth Surf School at West Coast Surf, Lon Pen Cei; over 8; 2-hour intro; max 8 per instructor; May-Oct",
+   "url": "https://www.abersochlife.com/directory/hells-mouth-surf-school/"
+  },
+  {
+   "fact": "West Coast Surf hires boards and wetsuits per day/week; Hell's Mouth Surf School May-November; sells boards, bodyboards, wetsuits",
+   "url": "https://www.westcoastsurf.co.uk/"
+  },
+  {
+   "fact": "Abersoch Watersports Unit 1 Pen Y Bont; stock; lessons; blog Oct 2026",
+   "url": "https://www.abersochwatersports.co.uk/"
+  },
+  {
+   "fact": "Good waves especially north end; strong currents, undertow, big waves, steep beach, deep at high tide, landslips; inflatables caution",
+   "url": "https://www.visitsnowdonia.info/porth-neigwl-hells-mouth"
+  },
+  {
+   "fact": "Four-mile beach; winter best; Offaxis offers equipment rental and lessons",
+   "url": "https://www.awayresorts.co.uk/discover/leisure/guide-surfing-north-wales/"
+  },
+  {
+   "fact": "Sea temps 14-18C mid-Aug, 5-9C late Feb",
+   "url": "https://www.surf-forecast.com/breaks/Hells-Mouth-Porth-Neigwl/seatemp"
+  }
+ ],
+ "gaps": "Lifeguard cover at Hell's Mouth not confirmed. Sources differ on which end gets the best waves (Visit Snowdonia says north, Away Resorts says east). Hell's Mouth Surf School season given as May-October on one page and May-November on another. Offaxis hire items and lesson locations not confirmed (its hire page would not load). Beach Break Surf Shop (Abersoch) named in one blog but not verified."
+}

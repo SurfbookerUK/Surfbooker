@@ -1,0 +1,22 @@
+{
+ "slug": "sinai-house",
+ "officialUrl": "https://www.sinaihouse.co.uk/",
+ "trading": true,
+ "stayType": "Adults-only guest house",
+ "accommodation": "8 rooms (king, twin/super king and single), some with sea views",
+ "suitableFor": "Adult couples and solo travellers, walkers and cyclists; no children",
+ "parking": "Free private on-site parking for 7 cars, with EV charging",
+ "dogs": "Not allowed",
+ "beachAccess": null,
+ "boardStorage": "Bike lock-up and baggage store; no surf storage stated",
+ "confirmedFeatures": "Guest lounge, breakfast, bar, garden and terraces, BBQ area, tennis courts, free Wi-Fi, EV charging",
+ "overview": "A guest house on the Lynway in Lynton, about 100ft above the town and ten minutes' walk from it, with eight rooms and views across to the Welsh coast. It serves breakfast and has a small bar, garden and on-site parking.",
+ "surfTripFit": "Parking and a lock-up help, but it sits up in Lynton away from the water and is better suited to walkers than surfers.",
+ "sources": [
+  {
+   "label": "Sinai House official site",
+   "url": "https://www.sinaihouse.co.uk/"
+  }
+ ],
+ "gaps": "In Lynton not Lynmouth; no pets or children; trading inferred from booking engine."
+}

@@ -1,0 +1,26 @@
+{
+ "name": "East Trewent Farm",
+ "officialUrl": "http://www.easttrewentfarm.co.uk/",
+ "trading": true,
+ "stayType": "Farm self-catering cottages",
+ "accommodation": "Four cottages sleeping 2 to 6",
+ "suitableFor": "Couples and families",
+ "parking": "Private parking (Visit Pembrokeshire)",
+ "dogs": "Welcome by arrangement, one per cottage",
+ "beachAccess": "A few minutes' walk to Freshwater East beach",
+ "boardStorage": "Space to store boats, bikes or surfboards",
+ "confirmedFeatures": "Wi-Fi, central heating, wood burner (Granary), ground-floor bedroom, welcome hamper, board and bike storage",
+ "overview": "East Trewent Farm has four self-catering cottages on Stackpole Road, a few minutes' walk from Freshwater East beach and the coast path. They sleep two to six and come with a welcome hamper.",
+ "surfTripFit": "Stated surfboard storage and a short walk to the beach make it one of the most surf-friendly stays here.",
+ "sources": [
+  {
+   "label": "East Trewent Farm",
+   "url": "http://www.easttrewentfarm.co.uk/"
+  },
+  {
+   "label": "Visit Pembrokeshire – East Trewent Farm",
+   "url": "https://www.visitpembrokeshire.com/accommodation-listing/east-trewent-farm-self-catering"
+  }
+ ],
+ "slug": "east-trewent-farm"
+}

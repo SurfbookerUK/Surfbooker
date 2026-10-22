@@ -1,0 +1,131 @@
+{
+ "overview": [
+  "Boscombe Pier sits roughly in the middle of Bournemouth's long run of sand, at the foot of Boscombe Chine. The pier first opened in 1889, was partly taken down in the Second World War to deter invasion, and reopened after restoration in 2008. Its entrance building is Grade II listed. Either side of it you'll find a broad sandy beach with views right across Poole Bay, backed by the promenade and the cliffs.",
+  "This is the most practical stretch of Bournemouth seafront for a surf day. The beach has surf equipment hire, showers, drinking water, toilets and a beach office, plus a pub, a diner, restaurants and a kiosk on the promenade. Boscombe Undercliff car park sits right next to the beach with level access, and Pokesdown station is just over a mile away, so you can easily come without a car.",
+  "Don't come expecting the artificial reef to help. Built off the pier in 2009 as Europe's first artificial surf reef, it fell short of its performance targets, was closed for safety reasons in 2011 and has since been rebranded as a coastal activity park. Waves here depend on swell pushing up the Channel into Poole Bay, so most days are small and plenty are flat."
+ ],
+ "suits": [
+  "First surf lessons on small, clean days",
+  "Families wanting lifeguards and facilities close together",
+  "Car-free trips via Pokesdown or Bournemouth stations",
+  "Beginners who want hire and showers on the spot"
+ ],
+ "notFor": [
+  "Anyone wanting reliable or powerful surf",
+  "Dog walkers on this beach between May and September"
+ ],
+ "surf": {
+  "text": [
+   "Boscombe is a sandy beach break inside the shelter of Poole Bay. It needs a decent south-westerly swell travelling up the Channel to produce rideable waves, and northerly winds are offshore. Outside of those days the water is often flat, which suits paddleboarding more than surfing.",
+   "The pier and the groynes along this stretch can concentrate currents and are hard objects to avoid, so keep a good distance and stay between the red and yellow flags when the RNLI are on duty. The old reef area offshore is not a dependable wave.",
+   "Boscombe only works once in a while. It needs a south-south-westerly swell with a northerly offshore, and tide has little effect on quality. Rips can make it dangerous, and it gets busy when it is on. Winter is the best season, but clean days are rare."
+  ],
+  "cards": [
+   {
+    "label": "Level",
+    "title": "Beginners to improvers",
+    "text": "Small, gentle waves when there is swell; best with an instructor if you're new."
+   },
+   {
+    "label": "Hazards",
+    "title": "Pier legs and groynes",
+    "text": "Keep well clear of the pier and groynes and follow the lifeguards' flags."
+   },
+   {
+    "label": "Season",
+    "title": "Autumn and winter",
+    "text": "Channel swell is most likely from autumn to early spring; summer is usually small and much busier."
+   }
+  ]
+ },
+ "practical": [
+  {
+   "label": "Lifeguards",
+   "title": "RNLI, two patrols",
+   "text": "In 2026 Boscombe East was patrolled 28 March–27 September and Boscombe West 23 May–6 September, daily 10am–6pm."
+  },
+  {
+   "label": "Parking",
+   "title": "Undercliff and Overstrand",
+   "text": "Boscombe Undercliff car park sits beside the beach with level access; Overstrand car park is the other nearby option."
+  },
+  {
+   "label": "Accessibility",
+   "title": "Matting and a beach wheelchair",
+   "text": "Mobi-Mat access matting is laid May–September and a beach wheelchair can be borrowed from the beach office in season. Accessible toilets are at the Overstrand and near the Prom Diner."
+  },
+  {
+   "label": "Dogs",
+   "title": "Summer restrictions",
+   "text": "From 1 May to 30 September dogs are banned from BCP's Blue Flag and Seaside Award beaches; leads are required on the promenade and zig-zags all year. Check the council's dog map for nearby year-round stretches."
+  },
+  {
+   "label": "Getting here",
+   "title": "Rail and bus",
+   "text": "Pokesdown station is about 1.2 miles away and Bournemouth station about 1.8 miles; morebus services run to Boscombe."
+  }
+ ],
+ "faqs": [
+  {
+   "q": "Does the Boscombe surf reef work?",
+   "a": "No. It was finished in 2009 but didn't meet its performance targets, closed for safety reasons in 2011 and is now branded a coastal activity park. Surf here depends on Channel swell."
+  },
+  {
+   "q": "Are there lifeguards at Boscombe?",
+   "a": "Yes. In 2026 Boscombe East was patrolled 28 March–27 September and Boscombe West 23 May–6 September, 10am–6pm."
+  },
+  {
+   "q": "Where do you park for Boscombe Pier?",
+   "a": "Boscombe Undercliff car park is right by the beach with level access; the Overstrand car park is also close."
+  },
+  {
+   "q": "Can you get to Boscombe beach by train?",
+   "a": "Yes. Pokesdown is about 1.2 miles away and Bournemouth station about 1.8 miles, with buses to the seafront."
+  }
+ ],
+ "sources": [
+  {
+   "label": "BCP Council — Boscombe beach",
+   "url": "https://www.bcpcouncil.gov.uk/beaches-and-seafront/visit-a-beach/boscombe-beach"
+  },
+  {
+   "label": "RNLI — 2026 lifeguard season at Bournemouth, Christchurch and Poole",
+   "url": "https://rnli.org/news-and-media/2026/may/20/rnli-lifeguards-set-for-main-season-at-bournemouth-christchurch-and-poole"
+  },
+  {
+   "label": "BCP Council — dogs on the beach",
+   "url": "https://www.bcpcouncil.gov.uk/beaches-and-seafront/what-you-need-to-know-before-visiting-one-of-our-beaches/where-and-when-you-can-bring-your-dog-to-the-beach"
+  },
+  {
+   "label": "Wikipedia — Boscombe Pier",
+   "url": "https://en.wikipedia.org/wiki/Boscombe_Pier"
+  }
+ ],
+ "factCheck": [
+  {
+   "fact": "Pier opened 1889, partly demolished in WWII, reopened May 2008; entrance Grade II listed",
+   "url": "https://en.wikipedia.org/wiki/Boscombe_Pier"
+  },
+  {
+   "fact": "Reef completed 2009, failed targets, closed 2011, rebranded coastal activity park",
+   "url": "https://en.wikipedia.org/wiki/Boscombe_Pier"
+  },
+  {
+   "fact": "Boscombe East 28 Mar–27 Sep, West 23 May–6 Sep 2026, 10am–6pm",
+   "url": "https://rnli.org/news-and-media/2026/may/20/rnli-lifeguards-set-for-main-season-at-bournemouth-christchurch-and-poole"
+  },
+  {
+   "fact": "Undercliff and Overstrand car parks; Mobi-Mat; beach wheelchair; showers; surf hire; Pokesdown 1.2mi, Bournemouth 1.8mi",
+   "url": "https://www.bcpcouncil.gov.uk/beaches-and-seafront/visit-a-beach/boscombe-beach"
+  },
+  {
+   "fact": "Dogs banned on Blue Flag/Seaside Award beaches 1 May–30 Sep",
+   "url": "https://www.bcpcouncil.gov.uk/beaches-and-seafront/what-you-need-to-know-before-visiting-one-of-our-beaches/where-and-when-you-can-bring-your-dog-to-the-beach"
+  },
+  {
+   "fact": "Boscombe: SSW swell, N offshore, rips, rarely clean",
+   "url": "https://www.surf-forecast.com/breaks/Boscombe-Pier"
+  }
+ ],
+ "checked": "October 2026"
+}

@@ -1,0 +1,22 @@
+{
+ "name": "Grand Hotel Swanage",
+ "officialUrl": "https://www.grandhotelswanage.co.uk/",
+ "trading": true,
+ "stayType": "Clifftop hotel with spa",
+ "accommodation": "Single to family rooms, with sea, garden or Purbeck Hills views",
+ "suitableFor": "Families and couples",
+ "parking": null,
+ "dogs": null,
+ "beachAccess": "Hotel has its own sandy beach",
+ "boardStorage": null,
+ "confirmedFeatures": "Burlington Health Spa (sauna, jacuzzi, plunge pool, gym), Coast Restaurant, conservatory, lounge bar, events spaces",
+ "overview": "A clifftop hotel above Swanage Bay with rooms ranging from singles to family rooms. Guests have access to the hotel's own sandy beach, plus a health spa with gym, sauna and plunge pool, and a restaurant and bar.",
+ "surfTripFit": "Its own beach below the hotel and a spa for recovery make it a comfortable base for checking Swanage Bay.",
+ "sources": [
+  {
+   "label": "Official site",
+   "url": "https://www.grandhotelswanage.co.uk/"
+  }
+ ],
+ "slug": "grand-hotel-swanage"
+}

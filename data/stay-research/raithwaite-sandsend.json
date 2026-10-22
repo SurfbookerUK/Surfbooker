@@ -1,0 +1,22 @@
+{
+ "name": "Raithwaite Sandsend",
+ "officialUrl": "https://www.raithwaitesandsend.co.uk/",
+ "trading": true,
+ "stayType": "Country estate hotel and spa",
+ "accommodation": "En-suite rooms, family suites and dog-friendly rooms",
+ "suitableFor": "Couples and families wanting a hotel with spa",
+ "parking": "Not stated",
+ "dogs": "Dog-friendly rooms available",
+ "beachAccess": "Sandsend beach described as on the doorstep",
+ "boardStorage": null,
+ "confirmedFeatures": "Indoor pool, steam room, sauna, spa treatments, Restaurant and Bar 1822, own surf school",
+ "overview": "An estate hotel set in woodland and gardens at Sandsend, just north of Whitby, with en-suite rooms, family suites and dog-friendly rooms. It has an indoor pool, sauna and spa, and the hotel says Sandsend beach is on its doorstep.",
+ "surfTripFit": "The hotel runs its own surf school from Sandsend beach, and the pool and sauna help after a cold session.",
+ "sources": [
+  {
+   "label": "Raithwaite Sandsend official site",
+   "url": "https://www.raithwaitesandsend.co.uk/"
+  }
+ ],
+ "slug": "raithwaite-sandsend"
+}

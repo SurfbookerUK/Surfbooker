@@ -1,0 +1,27 @@
+{
+ "slug": "north-devon-surf-school",
+ "kind": "surf-hire",
+ "officialUrl": "https://www.northdevonsurfschool.co.uk/",
+ "trading": true,
+ "about": "The North Devon Surf School has run lessons in Westward Ho! since 1988. Its purpose-built surf and hire centre is about 50 metres from the beach, with public parking next door. It hires out wetsuits, surfboards and bodyboards alongside group and private lessons.",
+ "offers": [
+  "Wetsuit hire",
+  "Surfboard hire",
+  "Bodyboard hire",
+  "Group and private lessons"
+ ],
+ "where": "1 Pebbleridge Rd, Westward Ho!, Bideford EX39 1HN, about 50 m from the beach",
+ "goodToKnow": [
+  "Changing rooms, storage and a warm shower on site",
+  "Public parking next to the centre",
+  "Surfing England Centre of Excellence"
+ ],
+ "season": null,
+ "sources": [
+  {
+   "label": "Homepage",
+   "url": "https://www.northdevonsurfschool.co.uk/"
+  }
+ ],
+ "gaps": "No hire terms, opening hours or season stated."
+}

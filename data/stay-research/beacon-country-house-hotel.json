@@ -1,0 +1,22 @@
+{
+ "slug": "beacon-country-house-hotel",
+ "officialUrl": null,
+ "trading": "unclear",
+ "stayType": null,
+ "accommodation": null,
+ "suitableFor": null,
+ "parking": null,
+ "dogs": null,
+ "beachAccess": null,
+ "boardStorage": null,
+ "confirmedFeatures": null,
+ "overview": null,
+ "surfTripFit": null,
+ "sources": [
+  {
+   "label": "Hotels.com listing (search result only)",
+   "url": "https://hotels.com/ho355656/beacon-country-house-hotel-st-agnes-united-kingdom"
+  }
+ ],
+ "gaps": "Guessed official site (beaconcountryhouse.co.uk) blocked by robots.txt; only OTA listings found. Trading and facilities unconfirmed."
+}

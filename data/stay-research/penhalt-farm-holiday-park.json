@@ -1,0 +1,22 @@
+{
+ "name": "Penhalt Farm Holiday Park",
+ "officialUrl": "https://www.penhaltfarm.co.uk/",
+ "trading": true,
+ "stayType": "Farm touring and camping park",
+ "accommodation": "Touring and camping pitches (some hardstanding) on 8 acres, plus a bungalow, farmhouse flat and holiday caravan",
+ "suitableFor": "Campers, caravanners and families",
+ "parking": null,
+ "dogs": null,
+ "beachAccess": "About a mile south of Widemouth Bay",
+ "boardStorage": null,
+ "confirmedFeatures": "Hardstanding pitches, electric hook-up, WiFi, showers",
+ "overview": "An eight-acre farm park about a mile south of Widemouth Bay, set up for touring caravans and campers with some hardstanding pitches. Alongside the pitches it lets a bungalow, a farmhouse flat and a holiday caravan.",
+ "surfTripFit": "A mile from Widemouth's beach breaks, with a choice of pitches or a fixed roof for the crew.",
+ "sources": [
+  {
+   "label": "Penhalt Farm",
+   "url": "https://www.penhaltfarm.co.uk/"
+  }
+ ],
+ "slug": "penhalt-farm-holiday-park"
+}

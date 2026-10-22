@@ -1,0 +1,22 @@
+{
+ "slug": "the-headland-hotel-and-spa",
+ "officialUrl": "https://www.headlandhotel.co.uk",
+ "trading": true,
+ "stayType": "Hotel and spa with self-catering cottages",
+ "accommodation": "Hotel rooms and suites plus self-catering cottages (numbers not stated)",
+ "suitableFor": "Couples, families and spa-goers; dog-friendly options",
+ "parking": null,
+ "dogs": "Dog-friendly page exists; details not confirmed",
+ "beachAccess": "Right beside Fistral Beach, about half a mile from Newquay town centre",
+ "boardStorage": null,
+ "confirmedFeatures": "Indoor pools, edge pool, vitality pool, spa, Restaurant RenMor, Ugly Butterfly, The Deck, afternoon tea, events spaces, beach webcam",
+ "overview": "The Headland is a large hotel and spa on the headland right beside Fistral Beach, about half a mile from Newquay town centre. Alongside hotel rooms it offers self-catering cottages, with indoor and edge pools, a spa and several restaurants including Ugly Butterfly. It also hosts weddings and events.",
+ "surfTripFit": "Few places sit closer to Fistral, making surf checks easy; the site doesn't mention board storage or parking.",
+ "sources": [
+  {
+   "label": "Official site",
+   "url": "https://www.headlandhotel.co.uk"
+  }
+ ],
+ "gaps": "Room/cottage counts, parking, dog policy details, board storage not confirmed."
+}

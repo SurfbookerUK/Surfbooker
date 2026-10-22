@@ -1,0 +1,22 @@
+{
+ "name": "Spyglass and Kettle",
+ "officialUrl": "",
+ "trading": true,
+ "stayType": "Clifftop B&B",
+ "accommodation": "8 rooms, most with sea views",
+ "suitableFor": "Couples",
+ "parking": null,
+ "dogs": null,
+ "beachAccess": "On the cliff top in Southbourne",
+ "boardStorage": null,
+ "confirmedFeatures": "Sea views, Freeview TVs, restaurant",
+ "overview": "An eight-room bed and breakfast on Stourwood Avenue on the Southbourne cliff top, with most rooms looking out to sea. There is a restaurant on site.",
+ "surfTripFit": "Sea-view rooms on the clifftop let you check conditions before heading down.",
+ "sources": [
+  {
+   "label": "Visit Bournemouth listing",
+   "url": "https://www.visitbournemouth.com/accommodation/spyglass-and-kettle"
+  }
+ ],
+ "slug": "spyglass-and-kettle"
+}

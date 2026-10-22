@@ -1,0 +1,173 @@
+{
+ "overview": [
+  "Freshwater Bay is a small cove at the western end of the Isle of Wight's south coast, with steep chalk cliffs on either side and a promenade along the back. The beach is mostly pebbles, with lumps of chalk washed down from the cliffs. Erosion has shaped the bay's rocks over the years: Arch Rock collapsed in 1992, Mermaid Rock broke away in 1968, and Stag Rock still stands just offshore, named after a stag said to have leapt from the cliff.",
+  "For surfers, this is a reef spot rather than a beach break: a fast, hollow wave breaking over uneven rock in a narrow cove, with a steep shingle beach behind it. Surf guides describe it as a spot for experienced surfers. Space in the line-up is limited, the peaks shift around, and it gets crowded quickly at weekends when it's working, so it's not a place to learn or to paddle out on a whim.",
+  "Above the bay, the Tennyson connections are hard to miss. The poet lived at Farringford from 1853 until his death in 1892, a granite cross on Tennyson Down marks his memory, and Dimbola, Julia Margaret Cameron's former home, is now a photography museum by the bay. The independent Freshwater Lifeboat is based on the promenade, and the Isle of Wight Coastal Path runs through, linking the bay with Afton Down and Compton beyond."
+ ],
+ "suits": [
+  "Experienced surfers comfortable over rock and in strong currents",
+  "Walkers heading up Tennyson Down or along the coast path",
+  "Anyone interested in Tennyson and early photography",
+  "Visitors without a car, thanks to the summer tour buses"
+ ],
+ "notFor": [
+  "Beginners and first-time surfers",
+  "Anyone who isn't sure of their reef-surfing ability",
+  "Sandy family beach days",
+  "Anyone wanting lifeguarded water"
+ ],
+ "surf": {
+  "text": [
+   "Freshwater Bay breaks over a rocky reef inside a narrow cove. Surfers describe a fast, hollow wave that reels along the reef and gets heavy and shallow at low tide. It's a regional classic that only breaks now and then, which is why the day it does, it fills up.",
+   "It wants a south-westerly swell, though anything from south to west will work, with a northerly to north-easterly wind blowing off the land to clean it up. Low to mid tide on the rise is the usual sweet spot: the reef is at its most powerful at low water, and the tide has a big effect on both the shape of the wave and how safe it is. Onshore days are best left alone.",
+   "Winter, especially January, is the season, and summer is mostly flat. The risks are the rocky bottom, strong currents, rips and the backwash as the tide pushes in. If you're not sure, Compton Bay, a short way along the coast, has the forgiving beach-break peaks and is the island's most popular surf spot. If you do paddle out, respect the locals, wait your turn and be realistic about how you handle rock."
+  ],
+  "cards": [
+   {
+    "label": "Level",
+    "title": "Experienced only",
+    "text": "Shallow rock reef, currents and rips; no lifeguards. Not a place for beginners."
+   },
+   {
+    "label": "Tide",
+    "title": "Low to mid, on the rise",
+    "text": "Most powerful at low tide; the tide changes the wave shape and the safety a lot."
+   },
+   {
+    "label": "Hazards",
+    "title": "Rock, rips and crowds",
+    "text": "Rocky bottom, backwash, limited space and shifting peaks; it fills up on good weekends."
+   },
+   {
+    "label": "Season",
+    "title": "Winter",
+    "text": "January is best for clean waves; summer is mostly flat."
+   }
+  ]
+ },
+ "practical": [
+  {
+   "label": "Access",
+   "title": "Promenade and steep shingle",
+   "text": "The beach sits at the foot of the village between chalk cliffs and is shingle with chalk and flint. Entry and exit can be steep, and the sea gets deep quickly, so wear footwear for the rocks."
+  },
+  {
+   "label": "Parking",
+   "title": "Pay car parks by the bay",
+   "text": "There are two payable car parks nearby, one opposite the bay, with toilets and more facilities in the village. It's reached along the Military Road."
+  },
+  {
+   "label": "Tides",
+   "title": "Check the tide",
+   "text": "High tides come up very high, and an incoming tide can cut off your way back along the foot of the cliffs. Rips are most likely near the headlands."
+  },
+  {
+   "label": "Lifeguards",
+   "title": "None",
+   "text": "There's no lifeguard patrol. The independent Freshwater Lifeboat is based on the promenade; in an emergency call 999 and ask for the Coastguard."
+  },
+  {
+   "label": "Dogs",
+   "title": "Allowed",
+   "text": "Dogs are listed as allowed; check for any seasonal signs at the bay."
+  },
+  {
+   "label": "Buses",
+   "title": "Southern Vectis and summer tours",
+   "text": "Routes 7 and 12 serve Freshwater, and in summer the open-top Needles Tour and the Island Coaster call at Freshwater Bay."
+  },
+  {
+   "label": "Walks",
+   "title": "Coast path and Tennyson Down",
+   "text": "The Isle of Wight Coastal Path runs through; Tennyson Down rises west of the bay with its 1897 memorial cross."
+  },
+  {
+   "label": "Nature",
+   "title": "Afton Marshes",
+   "text": "A Local Nature Reserve close by, part of the Freshwater Marshes SSSI."
+  }
+ ],
+ "faqs": [
+  {
+   "q": "Is Freshwater Bay good for beginners?",
+   "a": "No. It's a shallow rock reef with strong currents and no lifeguards. Learners are better off at Compton Bay on a small day with a school."
+  },
+  {
+   "q": "When does Freshwater Bay surf best?",
+   "a": "In winter, on a south-westerly swell with a northerly or north-easterly wind, around low to mid tide on the rise. Summer is mostly flat."
+  },
+  {
+   "q": "Is Freshwater Bay lifeguarded?",
+   "a": "No. Freshwater Lifeboat, an independent rescue service, is based on the promenade, but there's no beach patrol."
+  },
+  {
+   "q": "Where do I park for Freshwater Bay?",
+   "a": "There are two pay car parks near the bay, one opposite it, with toilets and more facilities in the village."
+  },
+  {
+   "q": "Can I get to Freshwater Bay by bus?",
+   "a": "Yes. Southern Vectis routes 7 and 12 serve Freshwater, and the Needles Tour and Island Coaster stop at the bay in summer."
+  }
+ ],
+ "sources": [
+  {
+   "label": "Wightlink — surfing on the Isle of Wight",
+   "url": "https://www.wightlink.co.uk/things-to-do-on-the-isle-of-wight/watersports/surfing"
+  },
+  {
+   "label": "Wikipedia — Freshwater, Isle of Wight",
+   "url": "https://en.wikipedia.org/wiki/Freshwater_Bay,_Isle_of_Wight"
+  }
+ ],
+ "factCheck": [
+  {
+   "fact": "Rocky reef; hollow and powerful waves, strongest at low tide",
+   "url": "https://www.wightlink.co.uk/things-to-do-on-the-isle-of-wight/watersports/surfing"
+  },
+  {
+   "fact": "Hazards: rocky bottoms, currents, submerged hazards, rips; crowded on good days",
+   "url": "https://www.wightlink.co.uk/things-to-do-on-the-isle-of-wight/watersports/surfing"
+  },
+  {
+   "fact": "Arch Rock collapsed Oct 1992; Mermaid Rock broke off 1968; Stag Rock legend",
+   "url": "https://en.wikipedia.org/wiki/Freshwater_Bay,_Isle_of_Wight"
+  },
+  {
+   "fact": "Tennyson at Farringford 1853–1892; Tennyson Down cross 1897",
+   "url": "https://en.wikipedia.org/wiki/Freshwater_Bay,_Isle_of_Wight"
+  },
+  {
+   "fact": "Dimbola: Julia Margaret Cameron 1860–1875, now museum",
+   "url": "https://en.wikipedia.org/wiki/Freshwater_Bay,_Isle_of_Wight"
+  },
+  {
+   "fact": "Freshwater Lifeboat independent, on the promenade",
+   "url": "https://en.wikipedia.org/wiki/Freshwater_Bay,_Isle_of_Wight"
+  },
+  {
+   "fact": "Bus routes 7 and 12; Needles Tour and Island Coaster in summer",
+   "url": "https://en.wikipedia.org/wiki/Freshwater_Bay,_Isle_of_Wight"
+  },
+  {
+   "fact": "Afton Marshes LNR, part of Freshwater Marshes SSSI",
+   "url": "https://en.wikipedia.org/wiki/Freshwater_Bay,_Isle_of_Wight"
+  },
+  {
+   "fact": "Reef/point break, SW swell, low tide, winter, rocks hazard, rising tide best, backwash, 'respect the locals', crowded at weekends",
+   "url": "https://www.mondo.surf/surf-spot/freshwater-bay/guide/7702"
+  },
+  {
+   "fact": "Winter/January best, summer flat, rocks",
+   "url": "https://www.surf-forecast.com/breaks/Freshwater-Bay"
+  },
+  {
+   "fact": "Steep shingle entry, deep water quickly, high tides, cut-off risk, two payable car parks, toilets",
+   "url": "https://www.wildopenwater.com/swimspot/freshwater-bay-isle-of-wight-england-united-kingdom"
+  },
+  {
+   "fact": "Shingle, flint pebbles, toilets, dogs allowed",
+   "url": "https://www.beachlets.co.uk/?p=113147"
+  }
+ ],
+ "checked": "October 2026"
+}

@@ -1,0 +1,26 @@
+{
+ "name": "The Sheiling",
+ "officialUrl": "https://www.thesheilingbandb.com/",
+ "trading": true,
+ "stayType": "B&B",
+ "accommodation": "En-suite doubles, a double with private bathroom and an en-suite twin",
+ "suitableFor": "Couples, solo travellers and cyclists",
+ "parking": null,
+ "dogs": null,
+ "beachAccess": "Photos show a view down to the beach from the B&B",
+ "boardStorage": "Free secure lock-up bike storage in the garage",
+ "confirmedFeatures": "Breakfast included, guest lounge, sea-view garden, bike storage, EV charger in village",
+ "overview": "The Sheiling is a bed and breakfast in Melvich on the north coast, looking down towards the beach. It has en-suite double and twin rooms, a guest lounge and a garden with sea views. Strathy Point is a few minutes' drive away, and there is an EV charger in the village.",
+ "surfTripFit": "It overlooks the beach at Melvich, and the lock-up garage could suit kit storage (ask first).",
+ "sources": [
+  {
+   "label": "The Sheiling official site",
+   "url": "https://www.thesheilingbandb.com/"
+  },
+  {
+   "label": "VisitScotland listing",
+   "url": "https://www.visitscotland.com/info/accommodation/the-sheiling-p1370271"
+  }
+ ],
+ "slug": "the-sheiling"
+}

@@ -1,0 +1,180 @@
+{
+ "slug": "nolton-haven",
+ "schools": [],
+ "hire": [
+  {
+   "name": "Newsurf",
+   "type": "Board & wetsuit hire",
+   "url": "https://www.newsurf.co.uk/",
+   "base": "Newgale beachfront, the next beach north along the coast road",
+   "note": "The nearest dedicated hire centre we could confirm: soft and hard surfboards, bodyboards, SUPs and wetsuits by the day or week.",
+   "source": "https://www.newsurf.co.uk/hire-equipment"
+  },
+  {
+   "name": "Haven Sports",
+   "type": "Board & wetsuit hire",
+   "url": "http://www.havensports.co.uk/",
+   "base": "Broad Haven seafront, the next village south along the coast road",
+   "note": "The RNLI says boards, paddleboards, kayaks and wetsuits can be hired from the watersports shop near Broad Haven seafront. Ring Haven Sports to check.",
+   "source": "https://rnli.org/find-my-nearest/lifeguarded-beaches/broad-haven-beach"
+  }
+ ],
+ "shops": [
+  {
+   "name": "Newsurf",
+   "type": "Surf shop",
+   "url": "https://www.newsurf.co.uk/",
+   "town": "Newgale",
+   "note": "Beachfront surf shop and café selling boards, accessories and clothing.",
+   "source": "https://www.visitpembrokeshire.com/activity-listing/newsurf"
+  },
+  {
+   "name": "Haven Sports",
+   "type": "Surf shop",
+   "url": "http://www.havensports.co.uk/",
+   "town": "Broad Haven",
+   "note": "Seafront watersports shop selling wetsuits, surfboards, bodyboards, paddleboards and accessories, open seven days a week.",
+   "source": "http://www.havensports.co.uk/"
+  }
+ ],
+ "lessonsIntro": "Nolton Haven is a small, sheltered cove, and no surf school we found teaches here; the nearest lessons are at Newgale and Broad Haven on either side.",
+ "learn": {
+  "text": [
+   "Nolton Haven is a small sand and shingle cove facing south-west into St Brides Bay, with cliffs on both sides. It's better known for rock pools, kayaking and family bathing than for surf, and none of the local schools list it as a lesson beach. If you want to learn, Newgale and Broad Haven sit either side of it on the same narrow coast road, and both are regular teaching beaches.",
+   "The RNLI patrols Nolton Haven daily in the summer holidays, 4 July to 6 September in 2026, 10am to 6pm. The National Park warns that currents can be unpredictable, especially at low tide, and Visit Pembrokeshire notes strong currents off the beach and a tide that comes in fast over the wide low-tide sand. If you do paddle out, stay inside the flagged zone and don't go alone."
+  ],
+  "cards": [
+   {
+    "label": "Level",
+    "title": "Not a lesson beach",
+    "text": "No school we found teaches here. Beginners are better off booking a lesson at nearby Newgale or Broad Haven."
+   },
+   {
+    "label": "Best time",
+    "title": "Lifeguarded July to early September",
+    "text": "Lifeguards patrol daily through the summer holidays. Outside that, there's no cover."
+   },
+   {
+    "label": "Watch out for",
+    "title": "Currents and a fast tide",
+    "text": "Currents can be unpredictable, especially at low tide, and the tide comes in quickly across the wide beach."
+   }
+  ]
+ },
+ "hireIntro": "There's no surf hire at Nolton Haven itself; the nearest hire is at Newgale and Broad Haven, either side of the cove.",
+ "kit": {
+  "text": [
+   "Nolton Haven is a sheltered cove, so it's better suited to bodyboarding in small waves, paddleboarding or kayaking than to surfing. If you're bringing a board, a big soft-top is the safe choice for beginners, but most surfers head to Newgale for more reliable waves. A full wetsuit is needed all year, with boots, gloves and a hood in winter."
+  ],
+  "cards": [
+   {
+    "label": "Board",
+    "title": "Soft-top or bodyboard",
+    "text": "Small waves in a sheltered cove suit a soft-top or bodyboard. For proper learning, go to Newgale or Broad Haven."
+   },
+   {
+    "label": "Wetsuit",
+    "title": "4/3mm in summer, 5mm or more in winter",
+    "text": "Sea temperature data for the south Pembrokeshire coast suggests a 4/3 or 3/2 in mid-August and a 5/4 or thicker with boots, gloves and a hood around late February, when the water drops to roughly 7 to 9°C. Spring and autumn sit in between."
+   },
+   {
+    "label": "Other craft",
+    "title": "Kayaks and paddleboards",
+    "text": "The National Park highlights Nolton Haven for launching kayaks, and there's a slipway. Offshore byelaws, including a speed limit, apply."
+   }
+  ]
+ },
+ "shopsIntro": "Nolton Haven has no surf shop, but there are well-stocked shops in Newgale and Broad Haven nearby.",
+ "shopsText": [
+  "Nolton Haven is a tiny hamlet with a pub and not much else, so pick up kit before you arrive. Newsurf sits on the beachfront at Newgale to the north, selling boards, accessories and clothing. To the south, Haven Sports in Broad Haven stocks wetsuits, surfboards, bodyboards and paddleboards. Both are on the coast road that runs past Nolton Haven."
+ ],
+ "faqs": {
+  "lessons": [
+   {
+    "q": "Can I get surf lessons at Nolton Haven?",
+    "a": "We couldn't find any school that teaches here. Newsurf at Newgale and schools using Broad Haven are the nearest options."
+   },
+   {
+    "q": "Is Nolton Haven good for beginners?",
+    "a": "It's a sheltered, family-friendly cove, but it isn't a regular surf spot. Beginners will get more consistent waves and proper tuition at Newgale or Broad Haven."
+   },
+   {
+    "q": "Are there lifeguards at Nolton Haven?",
+    "a": "Yes, in summer. The RNLI patrols daily from early July to early September, 10am to 6pm."
+   }
+  ],
+  "hire": [
+   {
+    "q": "Where can I hire a surfboard near Nolton Haven?",
+    "a": "Newsurf at Newgale hires soft boards, hard boards, bodyboards, SUPs and wetsuits. In Broad Haven, the RNLI says hire is available from the seafront watersports shop."
+   },
+   {
+    "q": "Can I launch a kayak or SUP here?",
+    "a": "Yes. There's a slipway, and the National Park recommends Nolton Haven for launching kayaks. Watch for currents, especially at low tide."
+   }
+  ],
+  "shops": [
+   {
+    "q": "Is there a surf shop at Nolton Haven?",
+    "a": "No. The nearest are Newsurf at Newgale and Haven Sports in Broad Haven."
+   }
+  ]
+ },
+ "sources": [
+  {
+   "label": "Pembrokeshire Coast National Park: Nolton Haven",
+   "url": "https://www.pembrokeshirecoast.wales/things-to-do/outdoor-activities/beaches/find-a-beach/nolton-haven/"
+  },
+  {
+   "label": "RNLI: Nolton Haven",
+   "url": "https://rnli.org/find-my-nearest/lifeguarded-beaches/nolton-haven-beach"
+  },
+  {
+   "label": "Visit Pembrokeshire: Nolton Haven beach",
+   "url": "https://www.visitpembrokeshire.com/explore-pembrokeshire/beaches/nolton-haven"
+  },
+  {
+   "label": "Newsurf: hire",
+   "url": "https://www.newsurf.co.uk/hire-equipment"
+  },
+  {
+   "label": "Visit Pembrokeshire: Newsurf",
+   "url": "https://www.visitpembrokeshire.com/activity-listing/newsurf"
+  },
+  {
+   "label": "Haven Sports",
+   "url": "http://www.havensports.co.uk/"
+  },
+  {
+   "label": "RNLI: Broad Haven",
+   "url": "https://rnli.org/find-my-nearest/lifeguarded-beaches/broad-haven-beach"
+  },
+  {
+   "label": "Surf-forecast: sea temperature",
+   "url": "https://www.surf-forecast.com/breaks/Manorbier/seatemp"
+  }
+ ],
+ "factCheck": [
+  {
+   "fact": "Small sheltered south-west facing cove, sand and shingle, kayak launching, slipway; currents unpredictable especially at low tide; coast road from Broad Haven to Newgale",
+   "url": "https://www.pembrokeshirecoast.wales/things-to-do/outdoor-activities/beaches/find-a-beach/nolton-haven/"
+  },
+  {
+   "fact": "RNLI lifeguards daily 4 July to 6 September 2026",
+   "url": "https://rnli.org/find-my-nearest/lifeguarded-beaches/nolton-haven-beach"
+  },
+  {
+   "fact": "Strong currents off the beach; tide comes in quickly",
+   "url": "https://www.visitpembrokeshire.com/explore-pembrokeshire/beaches/nolton-haven"
+  },
+  {
+   "fact": "Newsurf hire range",
+   "url": "https://www.newsurf.co.uk/hire-equipment"
+  },
+  {
+   "fact": "Hire from seafront watersports shop in Broad Haven",
+   "url": "https://rnli.org/find-my-nearest/lifeguarded-beaches/broad-haven-beach"
+  }
+ ],
+ "gaps": "No surf school, hire or shop found at Nolton Haven itself; entries are neighbouring businesses. No official source describes Nolton Haven's surf conditions or beginner suitability. Drive times to Newgale and Broad Haven not stated by sources."
+}

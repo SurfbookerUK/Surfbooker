@@ -1,0 +1,26 @@
+{
+ "name": "Harlyn Sands Holiday Park",
+ "officialUrl": "https://harlynsands.co.uk/",
+ "trading": true,
+ "stayType": "Family holiday park with caravans and pitches",
+ "accommodation": "Holiday caravans in a range of sizes (pet-friendly and pet-free options) and 80 grass pitches for tents and touring caravans",
+ "suitableFor": "Families only",
+ "parking": null,
+ "dogs": "Listed as dog friendly by Visit Cornwall, with pet-friendly caravans",
+ "beachAccess": "About 300 yards from a sandy beach; Constantine Bay and Booby's Bay a short walk away",
+ "boardStorage": null,
+ "confirmedFeatures": "Clubhouse with entertainment, restaurant, bars, kids club, games room, play area, swimming pool, shop, laundry",
+ "overview": "A family holiday park on Lighthouse Road near Trevose Head, overlooking Harlyn Bay and a short walk from Constantine Bay and Booby's Bay. It offers holiday caravans and around 80 grass pitches for tents and tourers. On-site facilities include a pool, clubhouse, shop and kids club.",
+ "surfTripFit": "Booby's Bay and Constantine Bay are within walking distance, with Harlyn close by as a sheltered alternative.",
+ "sources": [
+  {
+   "label": "Official website",
+   "url": "https://harlynsands.co.uk/"
+  },
+  {
+   "label": "Visit Cornwall listing",
+   "url": "https://www.visitcornwall.com/accommodation/holiday-parks-and-camping/padstow/harlyn-sands-holiday-park"
+  }
+ ],
+ "slug": "harlyn-sands-holiday-park"
+}

@@ -1,0 +1,147 @@
+{
+ "overview": [
+  "Filey Bay is a wide, gently curving bay with around five miles of golden sand, stretching south from the town towards Flamborough. At the town end the beach is backed by a historic promenade with beach chalets and a sculpture trail, and the Coble Landing is where Filey's traditional fishing boats, the cobles, are still kept. The Royal Crescent above the beach dates from the 1850s.",
+  "To the north the bay ends at Filey Brigg, a long, narrow rocky peninsula about a mile from town. The landward end, Carr Naze, was the site of a Roman signal station, and the rocks and shore are a Site of Special Scientific Interest that draws wading birds such as purple sandpipers in winter. The Brigg also marks the end of the Cleveland Way.",
+  "Filey is a classic family beach first and a surf spot second. Surf-forecast calls it an exposed beach break with unreliable waves, so it pays to check a forecast before driving over. When it does work, it's usually quiet in the water. The best of it tends to come on a north-north-east swell around mid tide, and the rips here deserve respect."
+ ],
+ "suits": [
+  "Families wanting space and a promenade",
+  "Learners and improvers on the occasional good day",
+  "Surfers looking for an uncrowded alternative to Scarborough",
+  "Walkers combining a session with the Brigg or the Cleveland Way"
+ ],
+ "notFor": [
+  "Anyone who needs reliable surf",
+  "Dog walkers wanting the town-end beach in summer"
+ ],
+ "surf": {
+  "text": [
+   "Filey is a long sandy beach break. Surf-forecast describes the waves as unreliable, best on a north-north-east swell around mid tide, with north-westerly to westerly winds. Because the Brigg sits to the north, the bay can pick up less swell than more exposed beaches, so small days are common.",
+   "The main hazard surf-forecast highlights is rips, which it describes as dangerous. Stay between the red and yellow flags in summer and avoid paddling out near the rocks of the Brigg. On the plus side, the line-up is rarely busy even when there are waves.",
+   "Filey is the one to remember when everywhere else is too big. The Brigg takes the sting out of a lot of swell, so you need a proper north-north-east pulse to get anything worth paddling for, and then mid tide with a westerly or north-westerly wind is the sweet spot. Even when it works the lineup is calm. The honest downside is reliability: clean days are rare, especially in December, so treat it as a bonus rather than a plan."
+  ],
+  "cards": [
+   {
+    "label": "Level",
+    "title": "Beginners to improvers",
+    "text": "Gentle sand when there's a wave, but conditions are inconsistent."
+   },
+   {
+    "label": "Conditions",
+    "title": "NNE swell, mid tide",
+    "text": "Surf-forecast rates north-north-east swell, mid tide and north-west to west winds as best."
+   },
+   {
+    "label": "Hazards",
+    "title": "Rips and the Brigg",
+    "text": "Surf-forecast warns of dangerous rips; the Brigg's clay cliffs at Carr Naze are actively eroding."
+   }
+  ]
+ },
+ "practical": [
+  {
+   "label": "Lifeguards",
+   "title": "RNLI, 10am–6pm",
+   "text": "In 2026 RNLI lifeguards covered weekends and bank holidays from 2 to 17 May, then patrolled daily from 23 May to 6 September."
+  },
+  {
+   "label": "Dogs",
+   "title": "Town end banned 1 May–30 Sep",
+   "text": "The council's order bans dogs from the beach up to the slipway that separates the Coble Landing from the promenade every year from 1 May to 30 September. Dogs must be on a lead year-round on the promenade from the south end of Coble Landing to the sea wall at Royal Parade."
+  },
+  {
+   "label": "Facilities",
+   "title": "At the town end",
+   "text": "The council lists cafés, toilets, disabled facilities, a first aid point, a lost child centre, a shop, and deckchair and beach hut hire."
+  },
+  {
+   "label": "The Brigg",
+   "title": "Rock pools and walks",
+   "text": "Filey Brigg has good rock pools to explore, and it's where the Cleveland Way ends. Filey is also the northern end of the Yorkshire Wolds Way."
+  },
+  {
+   "label": "Getting here",
+   "title": "Filey station",
+   "text": "Filey station is on the Yorkshire Coast Line between Scarborough and Hull."
+  }
+ ],
+ "faqs": [
+  {
+   "q": "Is Filey good for surfing?",
+   "a": "Sometimes. Surf-forecast describes Filey as an exposed beach break with unreliable waves, best on a north-north-east swell around mid tide. When it works it's usually uncrowded."
+  },
+  {
+   "q": "Are dogs allowed on Filey beach?",
+   "a": "Not on the town-end section between 1 May and 30 September. Outside that zone and those dates dogs are allowed, but they must be on a lead on the promenade all year."
+  },
+  {
+   "q": "Is Filey beach lifeguarded?",
+   "a": "Yes, in season. In 2026 RNLI lifeguards patrolled at weekends in early May and daily from 23 May to 6 September, 10am to 6pm."
+  },
+  {
+   "q": "What is Filey Brigg?",
+   "a": "A long, narrow rocky peninsula at the north end of the bay. It has rock pools, a Roman signal station site at Carr Naze, and is protected as a Site of Special Scientific Interest."
+  },
+  {
+   "q": "Is Filey a reliable surf spot?",
+   "a": "No. The Brigg blocks a lot of swell, so it needs a decent north-north-east swell. It is a good quiet fallback when exposed beaches nearby are too rough."
+  }
+ ],
+ "sources": [
+  {
+   "label": "RNLI — Filey Beach",
+   "url": "https://rnli.org/find-my-nearest/lifeguarded-beaches/filey-beach"
+  },
+  {
+   "label": "North Yorkshire Council — Filey beach",
+   "url": "https://www.northyorks.gov.uk/leisure-tourism-and-culture/beaches/beach-locations/beach-locations/filey-beach"
+  },
+  {
+   "label": "North Yorkshire Council — dog control PSPO 2024",
+   "url": "https://www.northyorks.gov.uk/environment-and-neighbourhoods/animals/dogs/dog-walking-bans-scarborough-area/dog-control-public-spaces-protection-order-2024"
+  },
+  {
+   "label": "Surf-forecast — Filey Bay",
+   "url": "https://www.surf-forecast.com/breaks/Filey-Bay"
+  },
+  {
+   "label": "Wikipedia — Filey Brigg",
+   "url": "https://en.wikipedia.org/wiki/Filey_Brigg"
+  },
+  {
+   "label": "Wikipedia — Filey",
+   "url": "https://en.wikipedia.org/wiki/Filey"
+  }
+ ],
+ "factCheck": [
+  {
+   "fact": "5-mile stretch of golden sand; promenade, sculpture trail, chalets; Brigg end of Cleveland Way; facilities",
+   "url": "https://www.northyorks.gov.uk/leisure-tourism-and-culture/beaches/beach-locations/beach-locations/filey-beach"
+  },
+  {
+   "fact": "Cobles are Filey's fishing boats; Wolds Way northern end; Cleveland Way eastern end; Yorkshire Coast Line",
+   "url": "https://en.wikipedia.org/wiki/Filey"
+  },
+  {
+   "fact": "Brigg about a mile north; Carr Naze Roman signal station; SSSI; purple sandpipers; eroding clay cliffs",
+   "url": "https://en.wikipedia.org/wiki/Filey_Brigg"
+  },
+  {
+   "fact": "Unreliable beach break, NNE swell, NW wind, mid tide, dangerous rips, uncrowded",
+   "url": "https://www.surf-forecast.com/breaks/Filey-Bay"
+  },
+  {
+   "fact": "2026 patrols 2–17 May weekends, daily 23 May–6 Sep",
+   "url": "https://rnli.org/find-my-nearest/lifeguarded-beaches/filey-beach"
+  },
+  {
+   "fact": "Dog ban zone and promenade lead rule",
+   "url": "https://www.northyorks.gov.uk/environment-and-neighbourhoods/animals/dogs/dog-walking-bans-scarborough-area/dog-control-public-spaces-protection-order-2024"
+  },
+  {
+   "fact": "Filey: Brigg shelter, NNE swell, W-NW wind, rips",
+   "url": "https://www.surf-forecast.com/breaks/Filey-Bay"
+  }
+ ],
+ "checked": "October 2026"
+}

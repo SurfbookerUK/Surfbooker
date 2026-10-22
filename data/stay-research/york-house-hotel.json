@@ -1,0 +1,26 @@
+{
+ "name": "York House Hotel",
+ "officialUrl": "https://www.yorkhousehotel.co.uk/",
+ "trading": true,
+ "stayType": "Victorian seafront hotel with pool (Best Western)",
+ "accommodation": "78 rooms including sea-view doubles, family rooms, four-posters, and studios and apartments with kitchenettes",
+ "suitableFor": "Families and groups, including those wanting self-catering studios",
+ "parking": "Discounted street parking; on-street parking not guaranteed",
+ "dogs": "Accepted by arrangement, pre-booked, with a charge per pet per day (Visit Eastbourne listing)",
+ "beachAccess": "About 20 yards from the sea; 8-minute walk to the pier",
+ "boardStorage": null,
+ "confirmedFeatures": "Indoor heated pool, Verandah restaurant and bar, lounges, lift, free Wi-Fi, studios and apartments",
+ "overview": "York House is a Victorian hotel on Royal Parade, about 20 yards from the sea and an eight-minute walk from Eastbourne Pier. It has 78 rooms, from small doubles to sea-view family rooms, as well as studios and apartments with kitchenettes. There is an indoor heated pool and the Verandah restaurant, which looks out over the sea.",
+ "surfTripFit": "Almost on the beach, with an indoor pool for warming up and studios for those who want to cook their own meals.",
+ "sources": [
+  {
+   "label": "Official website",
+   "url": "https://www.yorkhousehotel.co.uk/"
+  },
+  {
+   "label": "Visit Eastbourne listing",
+   "url": "https://www.visiteastbourne.com/accommodation/best-western-york-house-hotel-p1234541"
+  }
+ ],
+ "slug": "york-house-hotel"
+}

@@ -1,0 +1,114 @@
+{
+ "slug": "filey-bay",
+ "schools": [],
+ "hire": [],
+ "shops": [],
+ "lessonsIntro": "We have not confirmed a surf school that teaches on Filey Bay; Scarborough Surf School is a short drive north at Cayton Bay.",
+ "learn": {
+  "text": [
+   "Filey Bay is a five-mile sweep of sand with Filey Brigg at its northern end. North Yorkshire Council lists surfing among the activities here and provides a lifeguard service, but we could not find a surf school that runs lessons on this beach. The nearest confirmed school is Scarborough Surf School at Cayton Bay, a few miles north.",
+   "If you surf Filey on your own, stay in the lifeguarded area in season, keep away from the rocks around the Brigg, and check the forecast and tides before you go. Beginners will learn faster, and more safely, by booking a lesson at Cayton Bay or Scarborough first."
+  ],
+  "cards": [
+   {
+    "label": "Level",
+    "title": "Learn nearby first",
+    "text": "Book a lesson at Cayton Bay or Scarborough before surfing here alone."
+   },
+   {
+    "label": "Best time",
+    "title": "Lifeguard season",
+    "text": "The council provides lifeguards here; check the dates before you go."
+   },
+   {
+    "label": "Watch out for",
+    "title": "Filey Brigg rocks",
+    "text": "Keep clear of the rocky Brigg at the north end of the bay."
+   }
+  ]
+ },
+ "hireIntro": "We have not confirmed surf hire in Filey; Scarborough Surf School's hire centre at Cayton Bay is the nearest.",
+ "kit": {
+  "text": [
+   "The beaches on this stretch are mostly sandy beach breaks, so a long foam board is the right start, moving on to a hard mini-mal or longboard as you improve. Scarborough Surf School hires only 5/4mm wetsuits because the North Sea stays cold, and adds boots, gloves and hoods for the cooler months."
+  ],
+  "cards": [
+   {
+    "label": "Board",
+    "title": "Long soft-top",
+    "text": "On a wide sandy beach a big foam board is the easiest way to start."
+   },
+   {
+    "label": "Wetsuit",
+    "title": "5/4mm most of the year",
+    "text": "North Sea water stays cool. Scarborough Surf School hires only 5/4mm suits and treats them as year-round wear, adding boots, gloves and a hood in the colder months."
+   },
+   {
+    "label": "Other craft",
+    "title": "Sailing and windsurfing",
+    "text": "The council lists sailing and windsurfing as well as surfing at Filey."
+   }
+  ]
+ },
+ "shopsIntro": "We could not confirm a surf shop in Filey.",
+ "shopsText": [
+  "We have not found a dedicated surf shop in Filey. The nearest are Secret Spot Surf Shop, linked to Scarborough Surf School at Cayton Bay, and Dexters on Scarborough's North Bay."
+ ],
+ "faqs": {
+  "lessons": [
+   {
+    "q": "Are there surf lessons in Filey?",
+    "a": "We have not confirmed any on Filey Bay itself; Scarborough Surf School teaches nearby at Cayton Bay."
+   },
+   {
+    "q": "Is Filey lifeguarded?",
+    "a": "North Yorkshire Council says a lifeguard service is provided; check seasonal dates."
+   },
+   {
+    "q": "Can you surf at Filey?",
+    "a": "Yes, the council lists surfing among the activities here."
+   }
+  ],
+  "hire": [
+   {
+    "q": "Can I hire a surfboard in Filey?",
+    "a": "Not that we could confirm. Try Scarborough Surf School at Cayton Bay."
+   },
+   {
+    "q": "What wetsuit do I need?",
+    "a": "A 5/4mm suit is the year-round choice at nearby Scarborough Surf School."
+   }
+  ],
+  "shops": [
+   {
+    "q": "Where is the nearest surf shop?",
+    "a": "Secret Spot at Cayton Bay or Dexters in Scarborough."
+   }
+  ]
+ },
+ "sources": [
+  {
+   "label": "North Yorkshire Council: Filey beach",
+   "url": "https://www.northyorks.gov.uk/leisure-tourism-and-culture/beaches/beach-locations/beach-locations/filey-beach"
+  },
+  {
+   "label": "Scarborough Surf School",
+   "url": "https://scarboroughsurfschool.co.uk/"
+  },
+  {
+   "label": "Scarborough Surf School: equipment hire",
+   "url": "https://scarboroughsurfschool.co.uk/equipment-hire/"
+  }
+ ],
+ "factCheck": [
+  {
+   "fact": "Lifeguard service; surfing, sailing, windsurfing listed; 5-mile beach with Filey Brigg",
+   "url": "https://www.northyorks.gov.uk/leisure-tourism-and-culture/beaches/beach-locations/beach-locations/filey-beach"
+  },
+  {
+   "fact": "Scarborough Surf School hires 5/4mm wetsuits only, described as suitable year round, plus boots, gloves and hoods",
+   "url": "https://scarboroughsurfschool.co.uk/equipment-hire/"
+  }
+ ],
+ "gaps": "No Filey surf school, hire or shop confirmed. Lifeguard dates and zones not stated by the council page."
+}

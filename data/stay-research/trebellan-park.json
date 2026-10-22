@@ -1,0 +1,22 @@
+{
+ "name": "Trebellan Park",
+ "officialUrl": "https://www.trebellan.co.uk/",
+ "trading": true,
+ "stayType": "Countryside holiday park with lodges, apartments and touring",
+ "accommodation": "Lodges, Mill House Apartments and caravans sleeping two, four or up to six, plus 78 touring pitches and camping",
+ "suitableFor": "Families, couples, campers and anglers",
+ "parking": null,
+ "dogs": "Welcome on leads",
+ "beachAccess": "About two miles from Holywell Bay",
+ "boardStorage": null,
+ "confirmedFeatures": "Heated swimming pool, three coarse fishing lakes, open play areas; pub opposite",
+ "overview": "A countryside holiday park near Cubert, about two miles inland from the sands at Holywell Bay. You can stay in lodges, apartments or caravans, or book one of the 78 touring pitches. There is a heated pool and three coarse fishing lakes, and the Smugglers Den Inn is just across the lane.",
+ "surfTripFit": "It is a quick drive to Holywell and Crantock, and the park is quieter than the beachfront options.",
+ "sources": [
+  {
+   "label": "Official website",
+   "url": "https://www.trebellan.co.uk/"
+  }
+ ],
+ "slug": "trebellan-park"
+}

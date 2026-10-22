@@ -1,0 +1,26 @@
+{
+ "name": "Dunnet Bay Accommodation",
+ "officialUrl": "https://dunnetbayaccommodation.co.uk/",
+ "trading": true,
+ "stayType": "Farm self-catering cottages",
+ "accommodation": "Thurdistoft Farmhouse (sleeps 8) and three cottages (each sleeps 4)",
+ "suitableFor": "Families, groups and dog owners",
+ "parking": null,
+ "dogs": "Pet friendly, with a shared dog-walking field",
+ "beachAccess": "Dunnet Beach is at the end of the road",
+ "boardStorage": "Secure storage for motorbikes and bikes",
+ "confirmedFeatures": "Sea views, shared garden with BBQs and firepits, Wi-Fi, pool table in farmhouse",
+ "overview": "Dunnet Bay Accommodation is four self-catering properties on a working farm at Castletown, with Dunnet Beach at the end of the road. The farmhouse sleeps eight and the three cottages sleep four each. Guests share a sheltered garden with barbecues and firepits, and there is a field for walking dogs.",
+ "surfTripFit": "The farmhouse suits a group surf trip, and the beach is just down the road.",
+ "sources": [
+  {
+   "label": "Dunnet Bay Accommodation official site",
+   "url": "https://dunnetbayaccommodation.co.uk/"
+  },
+  {
+   "label": "Venture North listing",
+   "url": "https://www.venture-north.co.uk/listing/dunnet-bay-accommodation/"
+  }
+ ],
+ "slug": "dunnet-bay-accommodation"
+}

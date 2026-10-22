@@ -1,0 +1,26 @@
+{
+ "slug": "thurlestone-hotel",
+ "officialUrl": "https://www.thurlestone.co.uk/",
+ "trading": true,
+ "stayType": "Family-owned coastal hotel with spa and apartments",
+ "accommodation": "Ten room types from cosy inland rooms to sea-view rooms, family rooms and suites (some with balconies), plus four self-catering-style apartments (Hope, Soar, Bantham, Bolberry)",
+ "suitableFor": "Families, couples, dog owners, golfers, spa breaks",
+ "parking": "Free on-site parking for guests",
+ "dogs": "Allowed in some bedrooms and public areas (reception, gardens, Terrace, Village Inn); not in Premier or Deluxe rooms or suites; nightly charge",
+ "beachAccess": "Site says South Devon beaches are within easy reach; no distance given",
+ "boardStorage": null,
+ "confirmedFeatures": "Indoor pool, outdoor pool, Voyage Spa, Trevilder Restaurant, Terrace Bar, The Village Inn, afternoon tea, 9-hole par 3 golf course, family activities, EV charging, free parking",
+ "overview": "Thurlestone Hotel is a large coastal hotel in Thurlestone village on the South Devon coast, with most rooms looking out to sea. Alongside hotel rooms and family suites it has four apartments, indoor and outdoor pools, a spa, a restaurant and its own village pub. Bantham and Thurlestone's beaches lie close by along the coast.",
+ "surfTripFit": "A comfortable base for families or mixed groups where not everyone surfs, with pools, spa and golf on site and Bantham nearby. It is a full-service hotel rather than a surfer-focused stay, with no board storage mentioned.",
+ "sources": [
+  {
+   "label": "Thurlestone Hotel official site",
+   "url": "https://www.thurlestone.co.uk/"
+  },
+  {
+   "label": "Thurlestone Hotel FAQs",
+   "url": "https://www.thurlestone.co.uk/faqs"
+  }
+ ],
+ "gaps": "No exact distance to Bantham or Thurlestone beaches; Wi-Fi not stated on pages read; no board storage or outdoor shower info; total room count not stated."
+}

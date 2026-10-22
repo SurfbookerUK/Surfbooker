@@ -1,0 +1,26 @@
+{
+ "name": "Portclew House",
+ "officialUrl": "http://www.portclewhouse.co.uk/",
+ "trading": true,
+ "stayType": "Georgian guest house with cottages",
+ "accommodation": "Seven en suite guest rooms plus seven self-catering cottages sleeping 2 to 9",
+ "suitableFor": "Couples, families and larger groups",
+ "parking": "Free on-site parking",
+ "dogs": "No pets in the guest house (Visit Pembrokeshire); ask for cottages",
+ "beachAccess": "Minutes from Freshwater East beach",
+ "boardStorage": null,
+ "confirmedFeatures": "Free Wi-Fi, gardens, packed lunches, cots and highchairs; Coach House with hot tub, sauna and outdoor shower",
+ "overview": "Portclew House is a Georgian country house a few minutes from Freshwater East beach, offering seven en suite B&B rooms and seven self-catering cottages in its grounds. There is free parking and spacious gardens.",
+ "surfTripFit": "The mix of rooms and larger cottages suits groups, with the beach only minutes away.",
+ "sources": [
+  {
+   "label": "Portclew House",
+   "url": "http://www.portclewhouse.co.uk/"
+  },
+  {
+   "label": "Visit Pembrokeshire – Portclew House",
+   "url": "https://www.visitpembrokeshire.com/accommodation-listing/portclew-house"
+  }
+ ],
+ "slug": "portclew-house"
+}

@@ -1,0 +1,22 @@
+{
+ "slug": "the-western-hotel",
+ "officialUrl": "https://www.hotelstives.com/",
+ "trading": true,
+ "stayType": "Town-centre hotel with bar",
+ "accommodation": "17 en-suite rooms including single, double and family rooms",
+ "suitableFor": "Couples, solo travellers and families wanting a central, sociable base",
+ "parking": null,
+ "dogs": null,
+ "beachAccess": null,
+ "boardStorage": null,
+ "confirmedFeatures": "Bar, beer garden, reception lounge, breakfast included, tea/coffee in rooms",
+ "overview": "The Western is a hotel on Royal Square in the centre of St Ives, with 17 en-suite rooms ranging from singles to family rooms. Breakfast is included, and there is a downstairs bar and beer garden, with the Kettle & Wink next door hosting live music.",
+ "surfTripFit": "Central location puts Porthmeor within walking distance of the town centre, but no beach distance, parking or board storage is stated.",
+ "sources": [
+  {
+   "label": "Visit St Ives listing",
+   "url": "https://visitstives.com/accommodation/the-western-hotel/"
+  }
+ ],
+ "gaps": "Official site not opened directly (taken from tourism listing); dogs, parking and board storage unknown."
+}

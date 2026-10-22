@@ -1,0 +1,14 @@
+export const scotlandSpots = [
+  { slug: "thurso-east", name: "Thurso East", area: "North Coast", lat: 58.596, lng: -3.515, best: "Experienced surfers", summary: "Scotland's best-known reef break, with powerful cold-water surf and a highly experienced lineup." },
+  { slug: "thurso-beach", name: "Thurso Beach", area: "North Coast", lat: 58.595, lng: -3.528, best: "Improvers and experienced surfers", summary: "An accessible town beach offering a different option from the nearby reefs." },
+  { slug: "dunnet-bay", name: "Dunnet Bay", area: "North Coast", lat: 58.626, lng: -3.351, best: "Mixed abilities on suitable days", summary: "A long sandy bay with room to spread out and strong exposure to northern swell." },
+  { slug: "melvich", name: "Melvich", area: "North Coast", lat: 58.563, lng: -3.920, best: "Improvers and experienced surfers", summary: "A scenic north-coast beach break where exposure, currents and remoteness matter." },
+  { slug: "pease-bay", name: "Pease Bay", area: "East Coast", lat: 55.931, lng: -2.328, best: "Beginners to experienced", summary: "One of southeast Scotland's established surf beaches, with convenient access and several wave options." },
+  { slug: "belhaven-bay", name: "Belhaven Bay", area: "East Coast", lat: 56.005, lng: -2.582, best: "Beginners and longboarders", summary: "A broad beach beside Dunbar that can suit learners when wind, swell and tide align." },
+  { slug: "coldingham-bay", name: "Coldingham Bay", area: "East Coast", lat: 55.886, lng: -2.138, best: "Beginners to improvers", summary: "A compact, popular bay with local surf provision and a sheltered coastal setting." },
+  { slug: "fraserburgh", name: "Fraserburgh", area: "Northeast Coast", lat: 57.690, lng: -1.997, best: "Improvers and experienced surfers", summary: "A major northeast surf base with beach and reef options around the town." },
+  { slug: "lossiemouth", name: "Lossiemouth", area: "Moray Coast", lat: 57.724, lng: -3.283, best: "Mixed abilities on suitable days", summary: "A Moray coast town with expansive beaches and condition-dependent North Sea surf." },
+  { slug: "machrihanish", name: "Machrihanish", area: "Kintyre", lat: 55.424, lng: -5.734, best: "Improvers and experienced surfers", summary: "A highly exposed Atlantic beach on Kintyre with space, power and limited shelter." },
+  { slug: "balevullin-tiree", name: "Balevullin, Tiree", area: "Inner Hebrides", lat: 56.532, lng: -6.956, best: "Improvers and experienced surfers", summary: "An Atlantic-facing Tiree beach in one of Scotland's best-known island watersports destinations." },
+  { slug: "dalmore-bay-lewis", name: "Dalmore Bay, Lewis", area: "Outer Hebrides", lat: 58.296, lng: -6.799, best: "Experienced, self-sufficient surfers", summary: "A remote Atlantic-facing bay on Lewis where cold water, exposure and self-sufficiency define the trip." }
+];

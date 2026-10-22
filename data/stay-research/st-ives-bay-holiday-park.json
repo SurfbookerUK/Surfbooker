@@ -1,0 +1,26 @@
+{
+ "name": "St Ives Bay Holiday Park",
+ "officialUrl": "https://www.stivesbay.co.uk/",
+ "trading": true,
+ "stayType": "Family holiday park in the dunes",
+ "accommodation": "Caravans, chalets, camping pitches (electric and non-electric), camping pods and three holiday houses sleeping ten; 18 unit types in total",
+ "suitableFor": "Families and couples (no group bookings); not suitable for dog owners",
+ "parking": null,
+ "dogs": "No pets in any accommodation, except guide or assistance dogs by arrangement",
+ "beachAccess": "In the dunes beside its own three-mile sandy beach; some caravans about 750 yards from the beach, chalets under 1,000 yards; beach access route not suitable for buggies or wheelchairs",
+ "boardStorage": null,
+ "confirmedFeatures": "Shop, bistro, bars, food outlets, free entry to pool and bars",
+ "overview": "A large family-run holiday park set in the sand dunes of St Ives Bay, with views across to St Ives and Godrevy lighthouse. Accommodation ranges from caravans in the duneland and chalets near the entrance to camping pitches, pods and three large holiday houses. The park's own path leads over the dunes to the long sandy beach.",
+ "surfTripFit": "You can walk over the dunes straight onto the beach, and the lineups at Hayle and Gwithian are close by. Dogs are not accepted.",
+ "sources": [
+  {
+   "label": "Official website",
+   "url": "https://www.stivesbay.co.uk/"
+  },
+  {
+   "label": "Pitchup listing (distance from Gwithian)",
+   "url": "https://www.pitchup.com/campsites/England/South_West/Cornwall/gwithian/?facet=dogs-allowed"
+  }
+ ],
+ "slug": "st-ives-bay-holiday-park"
+}

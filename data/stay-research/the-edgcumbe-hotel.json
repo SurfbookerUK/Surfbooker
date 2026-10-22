@@ -1,0 +1,28 @@
+{
+  "slug": "the-edgcumbe-hotel",
+  "officialUrl": null,
+  "trading": true,
+  "stayType": "Small seafront hotel, now trading as The Edge of the Beach (formerly the Edgcumbe Hotel)",
+  "accommodation": "About 12 rooms, including single rooms and sea-view doubles with a lounge",
+  "suitableFor": "Couples and surfers wanting a base right on Summerleaze Beach; no pets",
+  "parking": "Limited on-site parking; a public car park is about five minutes' walk",
+  "dogs": "Pets not allowed",
+  "beachAccess": "Summerleaze Crescent, about 200 m from Summerleaze Beach",
+  "boardStorage": null,
+  "confirmedFeatures": "Bar, free Wi-Fi in public areas, luggage storage, water sports equipment listed",
+  "overview": "The Edge of the Beach, formerly the Edgcumbe Hotel, is a small hotel at 19 Summerleaze Crescent in Bude, a short step from Summerleaze Beach. The Beach at Bude's own site lists The Edge of The Beach among its accommodation options, so the two appear to be linked.",
+  "surfTripFit": "Right by Bude's main surf beach, which suits a surf weekend; no board storage is mentioned.",
+  "sources": [
+    {
+      "label": "Trip.com listing (checked 16 Oct 2026)",
+      "url": "https://us.trip.com/hotels/bude-hotel-detail-6510715/the-edge-of-the-beach-formally-the-edgcumbe-hotel/"
+    },
+    {
+      "label": "The Beach at Bude official site, which lists The Edge of The Beach",
+      "url": "https://www.thebeachatbude.co.uk/"
+    }
+  ],
+  "gaps": "Rename confirmed by Trip.com and The Beach at Bude, but room details are from one booking site. Breakfast availability conflicting; the restaurant may have been under renovation in 2025. Check with the hotel.",
+  "verificationNote": "Details taken from an online booking site and the neighbouring Beach at Bude hotel's website in October 2026. Surfbooker has not stayed here; confirm facilities and policies directly when you enquire.",
+  "lastVerified": "2026-10-16"
+}

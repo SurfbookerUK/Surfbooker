@@ -1,0 +1,27 @@
+{
+ "slug": "wavehunters",
+ "kind": "surf-hire",
+ "officialUrl": "https://www.wavehunters.co.uk/",
+ "trading": true,
+ "about": "Wavehunters has run surf schools on the north Cornwall coast since 2002, with beachside bases at Polzeath and Watergate Bay. It also runs boat trips from Padstow, Rock and Port Isaac. Its surf schools hire out wetsuits and boards alongside lessons, a grom club and beach fitness sessions.",
+ "offers": [
+  "Wetsuit hire",
+  "Surfboard hire",
+  "Group, private and family lessons",
+  "Grom Surf Club",
+  "Sea safari boat trips"
+ ],
+ "where": "Beachside surf schools at Polzeath and Watergate Bay",
+ "goodToKnow": [
+  "Book online",
+  "Gift vouchers available"
+ ],
+ "season": null,
+ "sources": [
+  {
+   "label": "Homepage",
+   "url": "https://www.wavehunters.co.uk/"
+  }
+ ],
+ "gaps": "Hire page not opened; no hire terms or season."
+}

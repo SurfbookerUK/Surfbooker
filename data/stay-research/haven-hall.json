@@ -1,0 +1,26 @@
+{
+ "name": "Haven Hall",
+ "officialUrl": "https://www.havenhallhotel.com",
+ "trading": true,
+ "stayType": "Seasonal boutique hotel with suites",
+ "accommodation": "15 rooms and suites, including a two-bedroom penthouse sleeping six; open late May to early September",
+ "suitableFor": "Couples, families and dog owners wanting a luxury summer stay",
+ "parking": "Parking on site with EV charging",
+ "dogs": "Welcome in three ground-floor rooms",
+ "beachAccess": "Close to the beach; Shanklin Beach about 0.47 miles, roughly a 5-minute walk (Visit Isle of Wight listing)",
+ "boardStorage": "Secure cycle and luggage storage (Visit Isle of Wight listing)",
+ "confirmedFeatures": "Swimming pool, tennis court, croquet lawn, continental breakfast, bar, EV charging",
+ "overview": "Haven Hall is a boutique hotel on Howard Road in Shanklin, about a five-minute walk from the beach. It opens for the summer season only, with 15 rooms and suites including a two-bedroom penthouse, and has a heated outdoor pool, a grass tennis court and gated parking. Three ground-floor rooms take dogs.",
+ "surfTripFit": "A summer-only base within walking distance of Shanklin Beach, with secure storage and parking. It is closed outside the season.",
+ "sources": [
+  {
+   "label": "Official website",
+   "url": "https://www.havenhallhotel.com"
+  },
+  {
+   "label": "Visit Isle of Wight listing",
+   "url": "https://www.visitisleofwight.co.uk/accommodation/haven-hall-hotel-p1434371"
+  }
+ ],
+ "slug": "haven-hall"
+}

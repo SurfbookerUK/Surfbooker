@@ -1,0 +1,22 @@
+{
+ "slug": "retallack-resort-and-spa",
+ "officialUrl": null,
+ "trading": true,
+ "stayType": "Lodge resort with spa and activities",
+ "accommodation": "Detached lodges, e.g. four-bedroom lodges sleeping 8, some with hot tub or pool (agent listing; total not stated)",
+ "suitableFor": "Families, groups and dog owners (some lodges)",
+ "parking": null,
+ "dogs": "Some lodges allow pets",
+ "beachAccess": "About 20 minutes' drive from the north coast; Newquay around 20 minutes by car",
+ "boardStorage": null,
+ "confirmedFeatures": "Restaurant, bar, shop, ESYA Spa, FlowRider surf simulator, inflatable aquapark, indoor heated pool, health club, adventure playground, beach café, wake park",
+ "overview": "Retallack Resort and Spa is an inland lodge resort at Winnard's Perch, about three miles north of St Columb Major. Lodges sleep larger groups, some with hot tubs, and the site has a spa, indoor pool, restaurant, bar, aquapark, wake park and a FlowRider surf simulator. The north coast beaches are roughly a 20-minute drive away.",
+ "surfTripFit": "Better for activity-focused family groups than dedicated surfers: real surf beaches need a car, though the FlowRider offers practice on site.",
+ "sources": [
+  {
+   "label": "Cornish Cottage Holidays (agent)",
+   "url": "https://cornishcottageholidays.co.uk/retallack-resort-spa-cornwall.html"
+  }
+ ],
+ "gaps": "Official site retallack.co.uk blocked fetching; facts from letting agent. Parking, unit count and current resort status not confirmed directly."
+}

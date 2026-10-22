@@ -1,0 +1,78 @@
+/scripts/*  /404.html  404!
+/data/*  /404.html  404!
+/docs/*  /404.html  404!
+/.vscode/*  /404.html  404!
+/PROGRESS.md  /404.html  404!
+/.env.example  /404.html  404!
+/*.zip  /404.html  404!
+/desktop.ini  /404.html  404!
+
+# Compatibility for the homepage map marker while index.html remains byte-for-byte unchanged.
+/Logo%20no%20words%20transparent.png  /images/brand/logo-no-words-transparent.png  301!
+/Logo%20transparent%20FBS.png  /images/brand/logo-transparent-fbs.png  301!
+
+/list-your-surf-school  /list-your-school/  301!
+/list-your-surf-school/*  /list-your-school/  301!
+
+/guides/surfing-bantham/* /guides/Bantham/:splat 200
+/guides/surfing-bigbury-on-sea/* /guides/Bigbury-on-sea/:splat 200
+/guides/surfing-challaborough/* /guides/Challaborough/:splat 200
+/guides/surfing-croyde-bay/* /guides/Croyde/:splat 200
+/guides/surfing-lynmouth/* /guides/Lynmouth/:splat 200
+/guides/surfing-putsborough/* /guides/Putsborough/:splat 200
+/guides/surfing-saunton-sands/* /guides/Saunton/:splat 200
+/guides/surfing-woolacombe/* /guides/Woolacombe/:splat 200
+/guides/surfing-westward-ho/* /guides/westwardho!/:splat 301!
+# Duplicate location URLs: one page per beach (13 Oct 2026)
+/surf-lessons/crantock-beach/* /surf-lessons/crantock/ 301!
+/surf-lessons/crantock-beach /surf-lessons/crantock/ 301!
+/surf-lessons/fistral-beach/* /surf-lessons/fistral/ 301!
+/surf-lessons/fistral-beach /surf-lessons/fistral/ 301!
+/surf-lessons/great-western-beach/* /surf-lessons/great-western/ 301!
+/surf-lessons/great-western-beach /surf-lessons/great-western/ 301!
+/surf-lessons/lynton/* /surf-lessons/lynmouth/ 301!
+/surf-lessons/lynton /surf-lessons/lynmouth/ 301!
+/surf-lessons/porthmeor-beach/* /surf-lessons/porthmeor/ 301!
+/surf-lessons/porthmeor-beach /surf-lessons/porthmeor/ 301!
+/surf-lessons/trevaunance-cove/* /surf-lessons/st-agnes/ 301!
+/surf-lessons/trevaunance-cove /surf-lessons/st-agnes/ 301!
+/surf-lessons/summerleaze-beach/* /surf-lessons/summerleaze/ 301!
+/surf-lessons/summerleaze-beach /surf-lessons/summerleaze/ 301!
+/surf-lessons/towan-beach-newquay/* /surf-lessons/towan-newquay/ 301!
+/surf-lessons/towan-beach-newquay /surf-lessons/towan-newquay/ 301!
+/surf-hire/fistral-beach/* /surf-hire/fistral/ 301!
+/surf-hire/fistral-beach /surf-hire/fistral/ 301!
+/surf-hire/porthmeor-beach/* /surf-hire/porthmeor/ 301!
+/surf-hire/porthmeor-beach /surf-hire/porthmeor/ 301!
+# surfbooker.co.uk is an alias of surfbooker.com
+https://surfbooker.co.uk/* https://surfbooker.com/:splat 301!
+https://www.surfbooker.co.uk/* https://surfbooker.com/:splat 301!
+http://surfbooker.co.uk/* https://surfbooker.com/:splat 301!
+http://www.surfbooker.co.uk/* https://surfbooker.com/:splat 301!
+# Removed or merged stays (closed, not accommodation, or duplicates) — 13 Oct 2026
+/accommodation/stays/saunton-sands-hotel-source-spa-and-wellness/* /accommodation/stays/saunton-sands-hotel/ 301!
+/accommodation/stays/saunton-sands-hotel-source-spa-and-wellness /accommodation/stays/saunton-sands-hotel/ 301!
+/accommodation/stays/golden-coast-leisure-park/* /accommodation/stays/woolacombe-bay-holiday-park/ 301!
+/accommodation/stays/golden-coast-leisure-park /accommodation/stays/woolacombe-bay-holiday-park/ 301!
+/accommodation/stays/the-fortescue-arms/* /accommodation/woolacombe/ 301!
+/accommodation/stays/the-fortescue-arms /accommodation/woolacombe/ 301!
+/accommodation/stays/the-pilchard-inn-rooms-burgh-island/* /accommodation/bigbury-on-sea/ 301!
+/accommodation/stays/the-pilchard-inn-rooms-burgh-island /accommodation/bigbury-on-sea/ 301!
+/accommodation/stays/widemouth-fields-holiday-park/* /accommodation/widemouth-bay/ 301!
+/accommodation/stays/widemouth-fields-holiday-park /accommodation/widemouth-bay/ 301!
+/accommodation/stays/great-western-hotel/* /accommodation/stays/the-great-western-hotel/ 301!
+/accommodation/stays/great-western-hotel /accommodation/stays/the-great-western-hotel/ 301!
+/accommodation/stays/the-legacy-hotel-victoria/* /accommodation/newquay/ 301!
+/accommodation/stays/the-legacy-hotel-victoria /accommodation/newquay/ 301!
+/accommodation/stays/oyo-godolphin-arms-hotel/* /accommodation/newquay/ 301!
+/accommodation/stays/oyo-godolphin-arms-hotel /accommodation/newquay/ 301!
+/accommodation/stays/the-watering-hole-rooms-nearby-stays/* /accommodation/perranporth/ 301!
+/accommodation/stays/the-watering-hole-rooms-nearby-stays /accommodation/perranporth/ 301!
+/accommodation/stays/haven-perran-sands-holiday-park/* /accommodation/stays/perran-sands-holiday-park/ 301!
+/accommodation/stays/haven-perran-sands-holiday-park /accommodation/stays/perran-sands-holiday-park/ 301!
+/accommodation/stays/the-porthtowan-eco-park/* /accommodation/stays/mount-pleasant-eco-park/ 301!
+/accommodation/stays/the-porthtowan-eco-park /accommodation/stays/mount-pleasant-eco-park/ 301!
+/accommodation/stays/driftwood-spars-rooms/* /accommodation/stays/the-driftwood-spars-rooms/ 301!
+/accommodation/stays/driftwood-spars-rooms /accommodation/stays/the-driftwood-spars-rooms/ 301!
+# end removed stays
+/docs/* /404.html 404!

@@ -1,0 +1,26 @@
+{
+ "name": "The Claxton Hotel",
+ "officialUrl": "https://claxtonhotel.co.uk/",
+ "trading": true,
+ "stayType": "Seafront hotel",
+ "accommodation": "36 en-suite rooms: single, double, twin, family and adjoining rooms, 11 on the ground floor",
+ "suitableFor": "Couples, families and dog owners",
+ "parking": "Small first-come car park at the back; passes for parking outside; one EV charger",
+ "dogs": "Welcome (charge per stay)",
+ "beachAccess": "Directly overlooks the beach and seafront",
+ "boardStorage": "Secure overnight storage for bikes and golf equipment with notice",
+ "confirmedFeatures": "Residents' lounge with sea view, bar meals, room service, breakfast included, free Wi-Fi, meeting room",
+ "overview": "A seafront hotel on Redcar's High Street looking straight over the beach. It has 36 en-suite rooms, including several on the ground floor, a sea-view residents' lounge and bar meals, with breakfast included. Dogs are welcome, and secure storage is available for bikes and golf kit.",
+ "surfTripFit": "Right on the seafront with secure kit storage on request, it is a practical base for surfing Redcar's reefs and beach.",
+ "sources": [
+  {
+   "label": "Official website",
+   "url": "https://claxtonhotel.co.uk/"
+  },
+  {
+   "label": "Redcar & Cleveland hotels",
+   "url": "https://redcarcleveland.co.uk/enjoy/new-hotels/"
+  }
+ ],
+ "slug": "the-claxton-hotel"
+}

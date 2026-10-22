@@ -1,0 +1,22 @@
+{
+ "name": "Royal Hotel Thurso",
+ "officialUrl": "https://royalthurso.co.uk/",
+ "trading": true,
+ "stayType": "Large town-centre hotel",
+ "accommodation": "103 en-suite rooms: single, double, twin, triple and family",
+ "suitableFor": "Groups, families and travellers wanting plenty of room choice",
+ "parking": "Free parking",
+ "dogs": null,
+ "beachAccess": "Described as close to the beach",
+ "boardStorage": null,
+ "confirmedFeatures": "Restaurant, bar, free Wi-Fi, luggage storage, laundry service",
+ "overview": "The Royal Hotel sits on Traill Street in Thurso town centre, around a seven-minute walk from the railway station and described as close to the beach. Its 103 en-suite rooms range from singles to family rooms. There is a restaurant, bar and free parking.",
+ "surfTripFit": "Free parking and lots of rooms make it a practical base for a group surf trip to the Thurso reefs.",
+ "sources": [
+  {
+   "label": "Royal Hotel official site",
+   "url": "https://royalthurso.co.uk/"
+  }
+ ],
+ "slug": "royal-hotel-thurso"
+}

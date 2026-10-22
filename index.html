@@ -1,0 +1,1271 @@
+<!DOCTYPE html>
+<html lang="en-GB">
+<head>
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-VTE8HWZG0S"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-VTE8HWZG0S');
+</script>
+
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <title>Plan Your Surf Trip | Destinations &amp; Local Guides | Surfbooker</title>
+  <meta name="description" content="Plan your next UK surf trip. Compare surf destinations, lessons, equipment hire, accommodation and practical local beach guides with Surfbooker.">
+  <meta name="robots" content="index,follow,max-image-preview:large,max-snippet:-1,max-video-preview:-1">
+
+  <link rel="canonical" href="https://surfbooker.com/">
+  <link rel="alternate" hreflang="en-GB" href="https://surfbooker.com/">
+  <meta name="theme-color" content="#0f2a33">
+
+  <meta property="og:locale" content="en_GB">
+  <meta property="og:type" content="website">
+  <meta property="og:site_name" content="Surfbooker">
+  <meta property="og:title" content="Plan Your Surf Trip | Surfbooker">
+  <meta property="og:description" content="Choose a surf destination and plan your next trip to the coast.">
+  <meta property="og:url" content="https://surfbooker.com/">
+  <meta property="og:image" content="https://surfbooker.com/images/lineup.avif">
+  <meta property="og:image:alt" content="Surfers lined up in the sea">
+
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="Plan Your Surf Trip | Surfbooker">
+  <meta name="twitter:description" content="Choose a surf destination and plan your next trip to the coast.">
+  <meta name="twitter:image" content="https://surfbooker.com/images/lineup.avif">
+
+  <link rel="icon" href="/favicon.ico" sizes="any">
+  <link rel="icon" type="image/png" sizes="48x48" href="/favicon-48x48.png">
+  <link rel="icon" type="image/png" sizes="96x96" href="/favicon-96x96.png">
+  <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;600;700&family=Instrument+Serif:ital@0;1&display=swap" rel="stylesheet">
+
+  <link rel="stylesheet" href="/styles.css">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
+
+  <style>
+    :root {
+      --ink: #0f2a33;
+      --ink-soft: #183b46;
+      --cream: #f5f4ef;
+      --white: #ffffff;
+      --muted: #64767b;
+      --brand-blue: #35b8c9;
+      --line: #d9dfdc;
+      --radius: 18px;
+      --max: 1180px;
+    }
+
+    * { box-sizing: border-box; }
+
+    html { scroll-behavior: smooth; }
+
+    body {
+      margin: 0;
+      overflow-x: hidden;
+      font-family: "Space Grotesk", sans-serif;
+      background: var(--cream);
+      color: var(--ink);
+    }
+
+    a { color: inherit; text-decoration: none; }
+    img { display: block; max-width: 100%; height: auto; }
+    button, input { font: inherit; }
+
+    /* =========================
+       HERO
+    ========================== */
+
+    .home-hero {
+      width: 100%;
+      min-height: 78vh;
+      display: flex;
+      flex-direction: column;
+      justify-content: space-between;
+      color: var(--white);
+      background:
+        linear-gradient(rgba(4,18,23,.18), rgba(4,18,23,.66)),
+        url("/images/lineup.avif");
+      background-size: cover;
+      background-position: center;
+      background-repeat: no-repeat;
+    }
+
+    .home-header {
+      position: relative;
+      width: 100%;
+      padding: 28px 5% 10px;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+    }
+
+    .home-logo img {
+      width: 226px;
+      height: auto;
+    }
+
+    .home-nav {
+      position: absolute;
+      top: 26px;
+      right: 5%;
+      display: flex;
+      align-items: center;
+      gap: 24px;
+      font-size: 14px;
+      font-weight: 500;
+    }
+
+    .home-nav a { color: var(--white); }
+
+    .nav-contact {
+      padding: 10px 16px;
+      border: 1px solid rgba(255,255,255,.65);
+      border-radius: 999px;
+    }
+
+    .hero-content {
+      width: min(var(--max), calc(100% - 32px));
+      margin: 0 auto;
+      padding: 20px 0 38px;
+      text-align: center;
+    }
+
+    .hero-content h1 {
+      margin: 0 0 16px;
+      font-family: "Instrument Serif", serif;
+      font-size: clamp(54px, 7vw, 94px);
+      font-weight: 400;
+      line-height: .98;
+    }
+
+    .hero-intro {
+      width: min(760px, 100%);
+      margin: 0 auto 22px;
+      color: rgba(255,255,255,.92);
+      font-size: 18px;
+      line-height: 1.55;
+      text-align: center;
+      background: none !important;
+      background-image: none !important;
+      padding: 0 !important;
+      box-shadow: none !important;
+      border-radius: 0 !important;
+    }
+
+    .hero-actions {
+      display: flex;
+      justify-content: center;
+      flex-wrap: wrap;
+      gap: 12px;
+      width: min(760px, calc(100% - 32px));
+      margin: 0 auto;
+      padding: 0 0 30px;
+    }
+
+    .hero-button {
+      min-height: 42px;
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      flex: 0 1 240px;
+      padding: 10px 18px;
+      border-radius: 999px;
+      font-weight: 700;
+      line-height: 1;
+      white-space: nowrap;
+    }
+
+    .hero-primary,
+    .hero-secondary {
+      border: 1px solid rgba(255,255,255,.72);
+      color: var(--white);
+      background: rgba(255,255,255,.08);
+    }
+
+    .home-trust {
+      width: min(880px, calc(100% - 32px));
+      margin: 0 auto;
+      padding: 0 0 34px;
+      color: rgba(255,255,255,.88);
+      font-size: 14px;
+      line-height: 1.6;
+      text-align: center;
+    }
+
+    .home-trust strong {
+      color: #fff;
+    }
+
+    /* =========================
+       GENERAL
+    ========================== */
+
+    .home-section {
+      width: min(var(--max), 100%);
+      margin: 0 auto;
+      padding: 56px 16px;
+    }
+
+    .section-heading {
+      max-width: 760px;
+      margin-bottom: 26px;
+    }
+
+    .section-label {
+      margin: 0 0 8px;
+      font-size: 12px;
+      font-weight: 700;
+      letter-spacing: .15em;
+      text-transform: uppercase;
+    }
+
+    .section-title {
+      margin: 0 0 10px;
+      font-family: "Instrument Serif", serif;
+      font-size: clamp(38px, 5vw, 58px);
+      font-weight: 400;
+      line-height: 1;
+    }
+
+    .map-section { padding-top: 24px; }
+    main { display: flex; flex-direction: column; }
+    #destinations { order: 1; }
+    #plan-your-trip { order: 2; }
+    #destination-finder { order: 3; }
+    #more-destinations { order: 4; }
+    #surf-map-section { order: 5; }
+    #region-explorer { order: 6; }
+
+    .map-toolbar {
+      display: flex;
+      align-items: flex-end;
+      justify-content: space-between;
+      gap: 24px;
+      margin-bottom: 18px;
+    }
+
+    .toolbar-copy h2 {
+      margin: 0 0 5px;
+      font-family: "Instrument Serif", serif;
+      font-size: clamp(30px, 4vw, 46px);
+      font-weight: 400;
+      line-height: 1;
+    }
+
+    .toolbar-copy p {
+      margin: 0;
+      color: var(--muted);
+      font-size: 14px;
+    }
+
+    .region-controls {
+      display: flex;
+      gap: 7px;
+      flex-wrap: wrap;
+      justify-content: flex-end;
+    }
+
+    .region-button {
+      border: 1px solid var(--line);
+      background: var(--white);
+      color: var(--ink);
+      border-radius: 999px;
+      padding: 10px 15px;
+      cursor: pointer;
+      transition: .18s ease;
+    }
+
+    .region-button:hover { border-color: var(--ink); }
+    .region-button.active { background: var(--ink); color: var(--white); border-color: var(--ink); }
+
+    .map-wrap {
+      position: relative;
+      overflow: hidden;
+      border-radius: 22px;
+      background: #bfe9f7;
+      border: 1px solid rgba(15,42,51,.08);
+    }
+
+    #surf-map {
+      width: 100%;
+      height: 540px;
+      min-height: 500px;
+      background: #bfe9f7;
+    }
+
+    #surf-map .leaflet-control-zoom {
+      border: 0;
+      box-shadow: 0 6px 20px rgba(15,42,51,.18);
+    }
+
+    #surf-map .leaflet-control-zoom a {
+      color: var(--ink);
+      background: var(--white);
+      border-bottom-color: var(--line);
+    }
+
+    .vector-load-note {
+      position: absolute;
+      top: 14px;
+      left: 50%;
+      transform: translateX(-50%);
+      z-index: 600;
+      padding: 7px 10px;
+      border-radius: 999px;
+      background: rgba(255,255,255,.92);
+      color: #50676d;
+      font-size: 11px;
+      font-weight: 600;
+      pointer-events: none;
+    }
+
+    .county-map-label {
+      background: transparent;
+      color: #ffffff;
+      border: 0;
+      box-shadow: none;
+      text-shadow: 0 2px 10px rgba(0,0,0,.35);
+      font-size: 16px;
+      font-weight: 700;
+      padding: 0;
+      white-space: nowrap;
+    }
+
+    .surf-marker-wrap { background: transparent; border: 0; }
+    .surf-marker {
+      width: 38px;
+      height: 38px;
+      border-radius: 50%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      background: #ffffff;
+      color: var(--ink);
+      border: 3px solid var(--ink);
+      box-shadow: 0 4px 12px rgba(15,42,51,.28);
+      transition: transform .15s ease;
+      overflow: hidden;
+    }
+    .surf-marker img { width: 22px; height: 22px; object-fit: contain; display: block; }
+    .surf-marker:hover { transform: scale(1.12); }
+
+    #surf-map.map-zoomed-out .surf-marker {
+      transform: scale(.56);
+      box-shadow: 0 3px 8px rgba(15,42,51,.22);
+    }
+
+    #surf-map.map-zoomed-out .surf-marker:hover {
+      transform: scale(.68);
+    }
+
+    #surf-map.map-zoomed-mid .surf-marker {
+      transform: scale(.76);
+    }
+
+    #surf-map.map-zoomed-mid .surf-marker:hover {
+      transform: scale(.88);
+    }
+
+    .leaflet-popup-content-wrapper { border-radius: 16px; box-shadow: 0 14px 35px rgba(15,42,51,.18); }
+    .leaflet-popup-content { margin: 15px 16px 16px; min-width: 215px; }
+    .surf-popup .popup-label {
+      display: block;
+      margin-bottom: 5px;
+      color: #6b7e83;
+      font-size: 10px;
+      font-weight: 700;
+      letter-spacing: .12em;
+      text-transform: uppercase;
+    }
+    .surf-popup h3 { margin: 0 0 7px; color: var(--ink); font-size: 19px; }
+    .surf-popup p { margin: 0 0 13px; color: #5f7277; font-size: 13px; line-height: 1.45; }
+    .popup-link {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      min-height: 39px;
+      padding: 9px 14px;
+      border-radius: 999px;
+      background: var(--ink);
+      color: white !important;
+      font-size: 13px;
+      font-weight: 700;
+    }
+
+    .section-copy {
+      margin: 0;
+      color: var(--muted);
+      font-size: 17px;
+      line-height: 1.6;
+    }
+
+    /* =========================
+       CATEGORY TILES
+    ========================== */
+
+    .category-grid {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 14px;
+    }
+
+    .image-card {
+      position: relative;
+      aspect-ratio: 1 / 1;
+      border-radius: var(--radius);
+      overflow: hidden;
+      display: flex;
+      align-items: flex-end;
+      isolation: isolate;
+      background-color: var(--ink-soft);
+      background-size: cover;
+      background-position: center;
+      transition: transform .2s ease, box-shadow .2s ease;
+    }
+
+    a.image-card:hover {
+      transform: translateY(-3px);
+      box-shadow: 0 12px 28px rgba(15,42,51,.12);
+    }
+
+    .image-card::before {
+      content: "";
+      position: absolute;
+      inset: 0;
+      background: linear-gradient(to top, rgba(4,18,23,.86), rgba(4,18,23,.22) 48%, rgba(4,18,23,.02) 76%);
+      z-index: -1;
+    }
+
+    .image-card-content {
+      width: 100%;
+      padding: 18px;
+      color: var(--white);
+    }
+
+    .image-card h3 {
+      margin: 0 0 5px;
+      font-size: 21px;
+      line-height: 1.12;
+    }
+
+    .image-card p {
+      margin: 0;
+      color: rgba(255,255,255,.8);
+      font-size: 13px;
+      line-height: 1.4;
+    }
+
+    .inactive-card { cursor: default; }
+
+    .coming-soon {
+      display: inline-block;
+      margin-bottom: 7px;
+      padding: 5px 8px;
+      border-radius: 999px;
+      background: rgba(255,255,255,.16);
+      font-size: 10px;
+      font-weight: 700;
+      letter-spacing: .08em;
+      text-transform: uppercase;
+    }
+
+    .category-lessons { background-image: url("/images/Surf%20lessons.jpg"); }
+    .category-hire { background-image: url("/images/Surf%20Hire.jpg"); }
+    .category-guides { background-image: url("/img/opt/images-beach-guides.webp"); }
+    .category-accommodation { background-image: url("/images/Accommodation.jpg"); }
+    .category-food { background-image: url("/images/Food%20and%20drink.jpg"); }
+    .category-things { background-image: url("/img/opt/images-things-to-do.webp"); }
+
+    /* =========================
+       DESTINATIONS
+    ========================== */
+
+    .dark-section {
+      background: var(--ink);
+      color: var(--white);
+    }
+
+    .dark-section .section-copy { color: rgba(255,255,255,.72); }
+    .dark-section .section-label { color: var(--brand-blue); }
+
+    .destination-grid {
+      display: grid;
+      grid-template-columns: repeat(5, 1fr);
+      gap: 12px;
+    }
+
+    .destination-more {
+      margin: 28px 0 0;
+      text-align: center;
+    }
+
+    .destination-more .outline-button {
+      border-color: rgba(255,255,255,.7);
+      color: var(--white);
+    }
+
+    .destination-more .outline-button:hover,
+    .destination-more .outline-button:focus-visible {
+      background: var(--white);
+      color: var(--ink);
+    }
+
+    .region-strip {
+      display: grid;
+      grid-template-columns: repeat(6, minmax(0, 1fr));
+      gap: 12px;
+    }
+
+    .region-card {
+      min-height: 170px;
+    }
+
+    .region-card h3 {
+      font-size: 18px;
+    }
+
+    .region-card p {
+      font-size: 12px;
+    }
+
+    .region-devon { background-image: url("/guides/Bigbury-on-sea/zoomed%20out%20view.jpeg"); }
+    .region-north-devon { background-image: url("/images/commons/generic-beach/106165498.webp"); }
+    .region-south-devon { background-image: url("/guides/Bantham/beach%20too.jpeg"); }
+    .region-cornwall { background-image: url("/images/commons/generic-beach/107134732.webp"); }
+    .region-help { background-image: url("/images/help%20me%20decide.jpeg"); }
+    .region-wales { background-image: url("/images/Surfers%20on%20beach.avif"); }
+    .region-scotland { background-image: url("/images/generic%20wave.jpg"); }
+    .region-northeast { background-image: url("/img/opt/images-surfers-in-waves.webp"); }
+    .region-northern-ireland { background-image: url("/images/commons/generic-beach/107638197.webp"); }
+    .region-southern-england { background-image: url("/images/Sunset%20surfer%20sat%20in%20water.jpg"); }
+
+    .destination-card h3 { font-size: 19px; }
+    .destination-card p { font-size: 12px; }
+
+    .destination-croyde { background-image: url("/img/opt/guides-croyde-croyde-town.webp"); }
+    .destination-saunton { background-image: url("/images/commons/saunton/107561339.webp"); }
+    .destination-woolacombe { background-image: url("/guides/Woolacombe/ariel%20whole%20beach.avif"); }
+    .destination-westward { background-image: url("/images/commons/westward-ho/112761047.webp"); }
+    .destination-putsborough { background-image: url("/images/commons/putsborough/105379077.webp"); }
+    .destination-bantham { background-image: url("/images/commons/bantham/101646420.webp"); }
+    .destination-bigbury { background-image: url("/images/commons/bigbury-on-sea/101643528.webp"); }
+    .destination-challaborough { background-image: url("/images/commons/challaborough/101654186.webp"); }
+    .destination-lynmouth { background-image: url("/images/commons/lynmouth/106375512.webp"); }
+    .destination-llangennith { background-image: url("/images/commons/llangennith/110557114.webp"); }
+    .destination-rhossili { background-image: url("/images/commons/rhossili/107431808.webp"); }
+    .destination-caswell { background-image: url("/images/commons/caswell/119833561.webp"); }
+    .destination-fistral { background-image: url("/images/fistral.jpg"); }
+    .destination-watergate { background-image: url("/images/commons/watergate/109878901.webp"); }
+    .destination-polzeath { background-image: url("/images/commons/polzeath/103145199.webp"); }
+    .destination-newgale { background-image: url("/images/commons/newgale/143442557.webp"); }
+    .destination-rest-bay { background-image: url("/images/commons/rest-bay/107885888.webp"); }
+    .destination-help { background-image: url("/images/Surfer%20on%20water%20ariel.avif"); }
+    .destination-help .image-card-content,
+    .destination-help .image-card-content h3,
+    .destination-help .image-card-content p {
+      color: #0f2a33;
+    }
+
+    .destination-help .image-card-content {
+      width: 100%;
+      align-self: stretch;
+      margin-top: auto;
+      display: flex;
+      flex-direction: column;
+      justify-content: flex-end;
+      padding-top: 0;
+      padding-bottom: 14px;
+    }
+
+    .destination-help .image-card-content h3 {
+      display: inline-block;
+      margin: 0;
+      padding: 7px 10px;
+      border-radius: 999px;
+      background: rgba(255,255,255,.82);
+      backdrop-filter: blur(6px);
+    }
+
+    /* =========================
+       GUIDES
+    ========================== */
+
+    .guide-grid {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 14px;
+    }
+
+    .guide-card {
+      overflow: hidden;
+      border-radius: 16px;
+      background: var(--white);
+      border: 1px solid #e6e9e7;
+    }
+
+    .guide-image {
+      aspect-ratio: 16 / 10;
+      background-size: cover;
+      background-position: center;
+    }
+
+    .guide-westward { background-image: url("/images/commons/westward-ho/112761054.webp"); }
+    .guide-croyde { background-image: url("/img/opt/guides-croyde-croyde-water-and-sand.webp"); }
+    .guide-saunton { background-image: url("/images/commons/saunton/107561442.webp"); }
+
+    .guide-copy { padding: 19px; }
+    .guide-copy h3 { margin: 0 0 7px; font-size: 20px; }
+    .guide-copy p { margin: 0 0 14px; color: var(--muted); font-size: 14px; line-height: 1.5; }
+    .text-link { font-weight: 700; }
+
+    .section-footer-link { margin-top: 24px; }
+
+    .outline-button {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      padding: 11px 18px;
+      border: 1px solid var(--ink);
+      border-radius: 999px;
+      font-weight: 700;
+    }
+
+    /* =========================
+       FOOTER
+    ========================== */
+
+    .site-footer {
+      background: var(--ink);
+      color: var(--white);
+      padding: 34px 5%;
+      text-align: center;
+    }
+
+    .footer-links {
+      display: flex;
+      justify-content: center;
+      flex-wrap: wrap;
+      gap: 18px;
+      margin-bottom: 14px;
+      font-size: 13px;
+    }
+
+    .footer-links a {
+      color: var(--brand-blue);
+      font-weight: 600;
+    }
+
+    .footer-meta {
+      margin: 0;
+      color: rgba(255,255,255,.68);
+      font-size: 13px;
+    }
+
+    .footer-meta a { color: rgba(255,255,255,.9); }
+
+    /* =========================
+       MOBILE
+    ========================== */
+
+    @media (max-width: 960px) {
+      .home-nav { display: none; }
+      .category-grid { grid-template-columns: repeat(2, 1fr); }
+      .destination-grid { grid-template-columns: repeat(3, 1fr); }
+      .guide-grid { grid-template-columns: repeat(2, 1fr); }
+    }
+
+    @media (max-width: 620px) {
+      .home-header {
+        width: 100%;
+        padding: 10px 12px 0;
+        overflow: hidden;
+      }
+      .home-logo img { width: min(190px, 62vw); }
+      .home-hero {
+        min-height: min(640px, 82svh);
+        overflow: hidden;
+      }
+      .hero-actions {
+        flex-direction: column;
+        align-items: center;
+        max-width: none;
+        padding: 0 0 20px;
+        gap: 12px;
+      }
+      .hero-button {
+        width: auto;
+        flex: 0 0 auto;
+        min-height: 42px;
+        padding: 10px 18px;
+        border-radius: 999px;
+      }
+
+      .hero-content {
+        width: 100%;
+        max-width: 390px;
+        padding-left: 12px;
+        padding-right: 12px;
+        transform: none;
+      }
+      .hero-content h1 {
+        max-width: 100%;
+        font-size: clamp(42px, 13vw, 54px);
+        line-height: .96;
+        overflow-wrap: anywhere;
+      }
+      .hero-intro {
+        width: 100%;
+        max-width: 350px;
+        font-size: 16px;
+        line-height: 1.45;
+      }
+      .home-trust {
+        width: 100%;
+        max-width: 360px;
+        padding: 0 16px 22px;
+        font-size: 12px;
+      }
+      .home-section { width: 100%; padding: 46px 12px; }
+      .section-heading { margin-bottom: 22px; }
+      .section-copy { font-size: 15px; }
+
+      .category-grid,
+      .destination-grid {
+        grid-template-columns: repeat(2, minmax(0, 1fr));
+        gap: 9px;
+      }
+
+      .region-strip {
+        grid-template-columns: repeat(2, minmax(0, 1fr));
+        gap: 9px;
+      }
+
+      .region-card {
+        min-height: 148px;
+      }
+
+      .region-card h3 {
+        font-size: 16px;
+      }
+
+      .region-card p {
+        display: none;
+      }
+
+      .image-card { border-radius: 14px; }
+      .image-card-content { padding: 13px; }
+      .image-card h3 { font-size: 17px; }
+      .image-card p { display: none; }
+      .coming-soon { font-size: 8px; padding: 4px 6px; }
+
+      .guide-grid { grid-template-columns: 1fr; }
+      .map-toolbar { flex-direction: column; align-items: flex-start; }
+      .region-controls { justify-content: flex-start; }
+      #surf-map { height: 460px; min-height: 420px; }
+      .home-section { overflow: hidden; }
+      .map-section { padding-top: 16px; }
+
+      .footer-links {
+        display: grid;
+        grid-template-columns: repeat(2, minmax(0, 1fr));
+        gap: 8px 12px;
+        max-width: 360px;
+        margin: 0 auto 18px;
+      }
+
+      .footer-links a {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        min-height: 40px;
+        padding: 8px 10px;
+        border: 1px solid rgba(53,184,201,.28);
+        border-radius: 999px;
+      }
+    }
+
+    @media (max-width: 360px) {
+      .home-logo img { width: 176px; }
+      .home-section { padding-left: 12px; padding-right: 12px; }
+      .category-grid,
+      .destination-grid,
+      .region-strip { grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 8px; }
+      .image-card-content h3 { font-size: 15px; }
+      .image-card-content p { display: none; }
+    }
+
+    @media (max-width: 480px) {
+      .category-grid,
+      .destination-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+    }
+  </style>
+
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "name": "Surfbooker",
+    "url": "https://surfbooker.com/",
+    "description": "Surf trip planning, surf lessons and beach guides."
+  }
+  </script>
+  <link rel="stylesheet" href="/site-navigation.css">
+  <link rel="stylesheet" href="/trip-planning.css">
+</head>
+
+<body>
+
+  <!-- HERO -->
+  <section class="home-hero">
+    <header class="home-header">
+      <a class="home-logo" href="/" aria-label="Surfbooker home">
+        <img src="/images/brand/logo-transparent-fbs.png" alt="Surfbooker">
+      </a>
+
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    <nav class="sb-primary-nav" aria-label="Primary navigation"><a href="/explore.html">Explore</a><a href="/surf-lessons/">Surf Lessons</a><a href="/surf-hire/">Surf Hire</a><a href="/guides/">Beach Guides</a><a href="/accommodation/">Accommodation</a><a href="/contact/">Contact</a></nav>
+    </header>
+
+    <div class="hero-content">
+      <h1>Plan your next surf trip.</h1>
+      <p class="hero-intro">Choose where you want to surf. Discover beaches, surf lessons, hire, accommodation, food &amp; drink and things to do when you get there.</p>
+    </div>
+
+    <div class="hero-actions">
+      <a class="hero-button hero-primary" href="#destination-finder">Explore destinations</a>
+    </div>
+
+    <p class="home-trust"><strong>Independent guidance. Carefully checked information.</strong></p>
+  </section>
+
+  <main>
+  <section class="home-section" id="plan-your-trip" aria-labelledby="plan-title">
+    <div class="section-heading">
+      <p class="section-label">Plan your trip</p>
+      <h2 class="section-title" id="plan-title">Plan your whole surf trip</h2>
+      <p class="section-copy">Find the places, lessons and local information you need before heading to the coast.</p>
+    </div>
+    <div class="category-grid">
+      <a class="image-card category-card category-lessons" href="/surf-lessons/"><div class="image-card-content"><h3>Surf lessons</h3><p>Find instruction by coast and beach.</p></div></a>
+      <a class="image-card category-card category-hire" href="/surf-hire/"><div class="image-card-content"><h3>Surf hire</h3><p>Compare board and wetsuit hire.</p></div></a>
+      <a class="image-card category-card category-guides" href="/guides/"><div class="image-card-content"><h3>Beach guides</h3><p>Understand access, conditions and suitability.</p></div></a>
+      <a class="image-card category-card category-accommodation" href="/accommodation/"><div class="image-card-content"><h3>Accommodation</h3><p>Choose a practical coastal base.</p></div></a>
+      <a class="image-card category-card category-food" href="/food-and-drink/"><div class="image-card-content"><h3>Food and drink</h3><p>Plan coffee, lunch and evenings.</p></div></a>
+      <article class="image-card category-card category-things inactive-card" aria-label="Things to do, coming soon"><div class="image-card-content"><span class="coming-soon">Coming soon</span><h3>Things to do</h3><p>More coastal ideas are being added.</p></div></article>
+    </div>
+  </section>
+  <!-- MAP -->
+  <section class="home-section map-section" id="surf-map-section">
+    <div class="map-toolbar">
+      <div class="toolbar-copy">
+        <p class="section-label">Explore the coast</p>
+        <h2>Find your next surf destination.</h2>
+        <p>Use the Surfbooker map to explore surf destinations around the UK, then open each destination to plan everything around your session.</p>
+      </div>
+      <div class="region-controls" role="group" aria-label="Zoom map to a region">
+        <button class="region-button active" type="button" data-region="uk" aria-pressed="true">United Kingdom</button>
+        <button class="region-button" type="button" data-region="wales" aria-pressed="false">Wales</button>
+        <button class="region-button" type="button" data-region="devon" aria-pressed="false">Devon</button>
+        <button class="region-button" type="button" data-region="cornwall" aria-pressed="false">Cornwall</button>
+      </div>
+    </div>
+
+    <div class="map-wrap">
+      <div class="vector-load-note" id="vector-load-note">Loading Surfbooker map…</div>
+      <div id="surf-map"></div>
+    </div>
+  </section>
+
+  <section class="home-section destination-finder" id="destination-finder" aria-labelledby="finder-title">
+    <div class="section-heading">
+      <p class="section-label">Find your fit</p>
+      <h2 class="section-title" id="finder-title">Find the right surf destination</h2>
+      <p class="section-copy">Search every live guide by beach, town or region, then use the filters to narrow the options by the kind of trip you are planning.</p>
+    </div>
+    <label class="finder-search">
+      <span>Search destinations</span>
+      <input type="search" id="destination-search" placeholder="Search by beach, town or region" autocomplete="off">
+    </label>
+    <div class="finder-controls" role="group" aria-label="Filter destinations">
+      <button class="finder-filter is-active" type="button" data-destination-filter="all" aria-pressed="true">Show all</button>
+      <button class="finder-filter" type="button" data-destination-filter="beginner" aria-pressed="false">First surf trip</button>
+      <button class="finder-filter" type="button" data-destination-filter="family" aria-pressed="false">Family days</button>
+      <button class="finder-filter" type="button" data-destination-filter="space" aria-pressed="false">More space</button>
+      <button class="finder-filter" type="button" data-destination-filter="lively" aria-pressed="false">Lively base</button>
+    </div>
+    <div class="finder-grid" aria-live="polite">
+      <article class="finder-card finder-westward-ho" data-destination-tags="beginner family space lively">
+        <p class="finder-location">North Devon</p><h3>Westward Ho!</h3><p>Broad sandy beach, three listed surf schools and village facilities close to the water.</p>
+        <div class="finder-tags"><span>First lessons</span><span>Families</span></div><a href="/guides/westwardho!/">Plan Westward Ho! &#8594;</a>
+      </article>
+      <article class="finder-card finder-croyde" data-destination-tags="lively">
+        <p class="finder-location">North Devon</p><h3>Croyde</h3><p>A classic surf village known for powerful beach-break waves and a strong surf culture.</p>
+        <div class="finder-tags"><span>Surf village</span><span>Powerful waves</span></div><a href="/guides/surfing-croyde-bay/">Explore Croyde &#8594;</a>
+      </article>
+      <article class="finder-card finder-saunton" data-destination-tags="beginner family space">
+        <p class="finder-location">North Devon</p><h3>Saunton Sands</h3><p>A long sandy beach with plenty of room and forgiving waves on suitable days.</p>
+        <div class="finder-tags"><span>Long beach</span><span>Room to practise</span></div><a href="/guides/surfing-saunton-sands/">Explore Saunton &#8594;</a>
+      </article>
+      <article class="finder-card finder-woolacombe" data-destination-tags="family space lively">
+        <p class="finder-location">North Devon</p><h3>Woolacombe</h3><p>A huge beach with surf schools, village facilities and plenty to do nearby.</p>
+        <div class="finder-tags"><span>Families</span><span>Village base</span></div><a href="/guides/surfing-woolacombe/">Explore Woolacombe &#8594;</a>
+      </article>
+      <article class="finder-card finder-card-featured finder-llangennith" data-destination-tags="space lively">
+        <p class="finder-location">Gower, Wales</p><h3>Llangennith</h3><p>A vast Atlantic-facing beach with space, exposure and a proper surf-trip atmosphere.</p>
+        <div class="finder-tags"><span>Welsh surf classic</span><span>Open beach</span></div><a href="/guides/surfing-llangennith/">Explore Llangennith &#8594;</a>
+      </article>
+      <article class="finder-card finder-caswell-bay" data-destination-tags="beginner family">
+        <p class="finder-location">Gower, Wales</p><h3>Caswell Bay</h3><p>A compact, accessible sandy bay that can work well for coached first sessions.</p>
+        <div class="finder-tags"><span>Families</span><span>Lesson option</span></div><a href="/guides/surfing-caswell-bay/">Explore Caswell Bay &#8594;</a>
+      </article>
+      <article class="finder-card finder-newgale" data-destination-tags="beginner family space">
+        <p class="finder-location">Pembrokeshire, Wales</p><h3>Newgale</h3><p>A long, exposed beach with plenty of room and several options for lessons and equipment hire.</p>
+        <div class="finder-tags"><span>Open beach</span><span>Lessons</span></div><a href="/guides/surfing-newgale/">Explore Newgale &#8594;</a>
+      </article>
+      <article class="finder-card finder-fistral" data-destination-tags="lively">
+        <p class="finder-location">Cornwall</p><h3>Fistral Beach</h3><p>Newquay's best-known surf beach, with a lively setting and established surf services.</p>
+        <div class="finder-tags"><span>Surf culture</span><span>Lively base</span></div><a href="/guides/surfing-fistral-beach/">Explore Fistral Beach &#8594;</a>
+      </article>
+    </div>
+    <p class="finder-empty" hidden>No destination matches that filter yet.</p>
+  </section>
+
+  <!-- REGIONS -->
+  <section class="home-section" id="region-explorer">
+    <div class="section-heading">
+      <p class="section-label">Explore by region</p>
+      <p class="section-copy">Start with the stretch of coast first, then drill into the best beach guides and surf schools inside it.</p>
+    </div>
+
+    <div class="region-strip">
+      <a class="image-card destination-card region-card region-devon" href="/guides/devon/">
+        <div class="image-card-content">
+          <h3>Devon</h3>
+        </div>
+      </a>
+
+      <a class="image-card destination-card region-card region-north-devon" href="/guides/north-devon/">
+        <div class="image-card-content">
+          <h3>North Devon</h3>
+        </div>
+      </a>
+
+      <a class="image-card destination-card region-card region-south-devon" href="/guides/south-devon/">
+        <div class="image-card-content">
+          <h3>South Devon</h3>
+        </div>
+      </a>
+
+      <a class="image-card destination-card region-card region-wales" href="/guides/wales/">
+        <div class="image-card-content">
+          <h3>Wales</h3>
+        </div>
+      </a>
+
+      <a class="image-card destination-card region-card region-cornwall" href="/guides/cornwall/">
+        <div class="image-card-content"><h3>Cornwall</h3></div>
+      </a>
+
+      <a class="image-card destination-card region-card region-scotland" href="/guides/scotland/">
+        <div class="image-card-content">
+          <h3>Scotland</h3>
+        </div>
+      </a>
+
+      <a class="image-card destination-card region-card region-northeast" href="/guides/northeast-england-yorkshire/">
+        <div class="image-card-content">
+          <h3>Northeast &amp; Yorkshire</h3>
+        </div>
+      </a>
+
+      <a class="image-card destination-card region-card region-northern-ireland" href="/guides/northern-ireland/">
+        <div class="image-card-content"><h3>Northern Ireland</h3></div>
+      </a>
+
+      <a class="image-card destination-card region-card region-southern-england" href="/guides/southern-england/">
+        <div class="image-card-content"><h3>Southern England</h3></div>
+      </a>
+
+      <a class="image-card destination-card region-card region-help" href="#destination-finder" aria-label="Help me decide">
+        <div class="image-card-content">
+          <h3>Help me decide</h3>
+        </div>
+      </a>
+    </div>
+  </section>
+
+  </main>
+  <script src="/trip-planning.js" defer></script>
+
+  <footer class="sb-site-footer">
+    <nav class="sb-footer-group" aria-label="Visitor links">
+      <a href="/explore.html">Explore</a>
+      <a href="/surf-lessons/">Surf Lessons</a>
+      <a href="/surf-hire/">Surf Hire</a>
+      <a href="/guides/">Beach Guides</a>
+      <a href="/accommodation/">Accommodation</a>
+      <a href="/contact/">Contact</a>
+    </nav>
+    <nav class="sb-footer-group sb-footer-business" aria-label="Business links">
+      <a href="/list-your-school/">List or upgrade your surf school</a>
+      <a href="/list-your-accommodation/">List your accommodation</a>
+    </nav>
+    <nav class="sb-footer-group" aria-label="Legal links">
+      <a href="/privacy/">Privacy Policy</a>
+      <a href="/terms/">Terms &amp; Conditions</a>
+      <a href="/image-credits/">Image credits</a>
+    </nav>
+    <p class="sb-footer-meta">&copy; 2026 Surfbooker. All rights reserved. <a href="mailto:hello@surfbooker.com">hello@surfbooker.com</a></p>
+  </footer>
+
+  <script src="/scotland-destinations.js"></script>
+  <script src="/northeast-destinations.js"></script>
+  <script src="/northern-ireland-destinations.js"></script>
+  <script src="/southern-england-destinations.js"></script>
+  <script>
+    function initialiseSurfMap() {
+    const regions = {
+      uk:       { centre: [54.6, -3.4], zoom: 5 },
+      devon:    { centre: [50.80, -3.95], zoom: 9 },
+      cornwall: { centre: [50.38, -4.85], zoom: 9 },
+      wales:    { centre: [52.15, -3.90], zoom: 7 },
+      scotland: { centre: [57.25, -4.20], zoom: 6 },
+      northeast:{ centre: [54.95, -1.05], zoom: 7 },
+      northernIreland: { centre: [55.12, -6.55], zoom: 8 },
+      dorset:   { centre: [50.70, -2.45], zoom: 9 }
+    };
+
+    const surfSpots = window.surfbookerDestinations = [
+      ...(window.scotlandDestinations || []),
+      ...(window.northeastDestinations || []),
+      ...(window.northernIrelandDestinations || []),
+      ...(window.southernEnglandDestinations || []),
+      { title: "Westward Ho!", region: "devon", lat: 51.039, lng: -4.238, description: "Long sandy beach with plenty of room and a choice of surf schools.", url: "/guides/westwardho!/" },
+      { title: "Saunton Sands", region: "devon", lat: 51.116, lng: -4.229, description: "Long beach that can suit learners with professional instruction in suitable conditions.", url: "/guides/surfing-saunton-sands/" },
+      { title: "Croyde Bay", region: "devon", lat: 51.130, lng: -4.238, description: "Classic North Devon beach break that becomes powerful when conditions build.", url: "/guides/surfing-croyde-bay/" },
+      { title: "Putsborough Sands", region: "devon", lat: 51.149, lng: -4.218, description: "A more sheltered option at the southern end of Woolacombe Sands.", url: "/guides/surfing-putsborough/" },
+      { title: "Woolacombe", region: "devon", lat: 51.173, lng: -4.210, description: "Huge sandy beach with several peaks and suitability that changes with conditions.", url: "/guides/surfing-woolacombe/" },
+      { title: "Lynmouth", region: "devon", lat: 51.231, lng: -3.831, description: "North Devon point break best left to experienced surfers when it is working.", url: "/guides/surfing-lynmouth/" },
+      { title: "Bantham", region: "devon", lat: 50.280, lng: -3.890, description: "Popular South Devon surf beach beside the Avon estuary.", url: "/guides/surfing-bantham/" },
+      { title: "Bigbury-on-Sea", region: "devon", lat: 50.284, lng: -3.900, description: "South Devon beach overlooking Burgh Island with surf in the right conditions.", url: "/guides/surfing-bigbury-on-sea/" },
+      { title: "Challaborough", region: "devon", lat: 50.281, lng: -3.898, description: "Compact South Devon beach tucked into the bay beside Bigbury.", url: "/guides/surfing-challaborough/" },
+      { title: "Summerleaze Beach", region: "cornwall", lat: 50.831, lng: -4.553, description: "Bude's town surf beach with two verified lesson operators.", url: "/guides/surfing-summerleaze-beach/" },
+      { title: "Widemouth Bay", region: "cornwall", lat: 50.791, lng: -4.560, description: "Wide sandy Bude-area beach with established surf schools.", url: "/guides/surfing-widemouth-bay/" },
+      { title: "Polzeath", region: "cornwall", lat: 50.573, lng: -4.919, description: "Popular North Cornwall surf beach with a strong beginner scene.", url: "/guides/surfing-polzeath/" },
+      { title: "Harlyn Bay", region: "cornwall", lat: 50.538, lng: -4.999, description: "Sandy bay with a dedicated verified surf school.", url: "/guides/surfing-harlyn-bay/" },
+      { title: "Constantine Bay", region: "cornwall", lat: 50.532, lng: -5.024, description: "Exposed North Cornwall beach for condition-aware surfers.", url: "/guides/surfing-constantine-bay/" },
+      { title: "Mawgan Porth", region: "cornwall", lat: 50.466, lng: -5.035, description: "Compact village beach between Padstow and Newquay.", url: "/guides/surfing-mawgan-porth/" },
+      { title: "Watergate Bay", region: "cornwall", lat: 50.442, lng: -5.043, description: "Wide sandy Cornish beach with plenty of Atlantic exposure.", url: "/guides/surfing-watergate-bay/" },
+      { title: "Fistral Beach", region: "cornwall", lat: 50.415, lng: -5.100, description: "One of Britain's best-known surf beaches on the edge of Newquay.", url: "/guides/surfing-fistral-beach/" },
+      { title: "Towan Beach", region: "cornwall", lat: 50.416, lng: -5.083, description: "Central Newquay beach with verified lesson coverage.", url: "/guides/surfing-towan-beach-newquay/" },
+      { title: "Great Western Beach", region: "cornwall", lat: 50.415, lng: -5.074, description: "Newquay town beach with dedicated on-beach schools.", url: "/guides/surfing-great-western-beach/" },
+      { title: "Crantock Beach", region: "cornwall", lat: 50.405, lng: -5.113, description: "National Trust beach where estuary awareness matters.", url: "/guides/surfing-crantock-beach/" },
+      { title: "Holywell Bay", region: "cornwall", lat: 50.389, lng: -5.142, description: "Dune-backed sandy bay with verified lesson coverage.", url: "/guides/surfing-holywell-bay/" },
+      { title: "Perranporth", region: "cornwall", lat: 50.344, lng: -5.154, description: "Long exposed beach with two verified surf schools.", url: "/guides/surfing-perranporth/" },
+      { title: "Porthtowan", region: "cornwall", lat: 50.286, lng: -5.241, description: "Compact surf village with seasonal public lessons.", url: "/guides/surfing-porthtowan/" },
+      { title: "Trevaunance Cove", region: "cornwall", lat: 50.320, lng: -5.202, description: "St Agnes' principal beach with a verified local school.", url: "/guides/surfing-trevaunance-cove/" },
+      { title: "Gwithian & Godrevy", region: "cornwall", lat: 50.231, lng: -5.391, description: "One combined St Ives Bay surf area with two verified schools.", url: "/guides/surfing-gwithian-godrevy/" },
+      { title: "Hayle Towans", region: "cornwall", lat: 50.199, lng: -5.432, description: "Dune-backed St Ives Bay beach with a verified local school.", url: "/guides/surfing-hayle-towans/" },
+      { title: "Porthmeor Beach", region: "cornwall", lat: 50.215, lng: -5.486, description: "St Ives town surf beach with a permanent school base.", url: "/guides/surfing-porthmeor-beach/" },
+      { title: "Sennen Cove", region: "cornwall", lat: 50.077, lng: -5.699, description: "Far-west Cornwall surf beach with an established centre.", url: "/guides/surfing-sennen-cove/" },
+      { title: "Praa Sands", region: "cornwall", lat: 50.104, lng: -5.389, description: "South-coast beach with verified seasonal lesson coverage.", url: "/guides/surfing-praa-sands/" },
+      { title: "Llangennith", region: "wales", lat: 51.605, lng: -4.304, description: "Exposed Gower beach and one of South Wales' best-known surf spots.", url: "/guides/surfing-llangennith/" },
+      { title: "Rhossili Bay", region: "wales", lat: 51.568, lng: -4.294, description: "Landmark west Gower bay with a dramatic clifftop approach.", url: "/guides/surfing-rhossili-bay/" },
+      { title: "Caswell Bay", region: "wales", lat: 51.570, lng: -4.034, description: "Accessible sandy Gower bay suited to families and lessons on suitable days.", url: "/guides/surfing-caswell-bay/" },
+      { title: "Langland Bay", region: "wales", lat: 51.567, lng: -4.010, description: "Popular Swansea-side reef and beach setup for capable surfers.", url: "/guides/surfing-langland-bay/" },
+      { title: "Oxwich Bay", region: "wales", lat: 51.554, lng: -4.150, description: "Sheltered south Gower bay that works when swell direction lines up.", url: "/guides/surfing-oxwich-bay/" },
+      { title: "Port Eynon", region: "wales", lat: 51.545, lng: -4.213, description: "Sheltered Gower village beach and occasional small-wave alternative.", url: "/guides/surfing-port-eynon/" },
+      { title: "Newgale", region: "wales", lat: 51.854, lng: -5.127, description: "Long Pembrokeshire beach popular with surfers and watersports visitors.", url: "/guides/surfing-newgale/" },
+      { title: "Freshwater West", region: "wales", lat: 51.657, lng: -5.058, description: "Powerful Pembrokeshire beach break for more experienced surfers.", url: "/guides/surfing-freshwater-west/" },
+      { title: "Whitesands", region: "wales", lat: 51.897, lng: -5.297, description: "Scenic exposed beach near St Davids with broad surf appeal.", url: "/guides/surfing-whitesands/" },
+      { title: "Broad Haven", region: "wales", lat: 51.780, lng: -5.103, description: "Village-backed sandy beach for learners and families on suitable days.", url: "/guides/surfing-broad-haven/" },
+      { title: "Manorbier", region: "wales", lat: 51.644, lng: -4.800, description: "Compact Pembrokeshire bay with a punchier reef-influenced surf character.", url: "/guides/surfing-manorbier/" },
+      { title: "Freshwater East", region: "wales", lat: 51.646, lng: -4.866, description: "Sheltered sandy bay and conditional small-wave alternative.", url: "/guides/surfing-freshwater-east/" },
+      { title: "Marloes Sands", region: "wales", lat: 51.721, lng: -5.207, description: "Remote-feeling Pembrokeshire beach for capable, self-sufficient surfers.", url: "/guides/surfing-marloes-sands/" },
+      { title: "Nolton Haven", region: "wales", lat: 51.821, lng: -5.106, description: "Compact Pembrokeshire cove that works in the right conditions.", url: "/guides/surfing-nolton-haven/" },
+      { title: "Rhosneigr", region: "wales", lat: 53.228, lng: -4.520, description: "Anglesey surf and watersports base with accessible beaches and village facilities.", url: "/guides/surfing-rhosneigr/" },
+      { title: "Hell's Mouth", region: "wales", lat: 52.822, lng: -4.550, description: "Long, exposed Llŷn Peninsula beach for condition-aware surfers.", url: "/guides/surfing-hells-mouth-porth-neigwl/" },
+      { title: "Rest Bay", region: "wales", lat: 51.493, lng: -3.729, description: "Porthcawl's established surf beach with lessons and visitor facilities.", url: "/guides/surfing-rest-bay-porthcawl/" },
+      { title: "Bournemouth", region: "dorset", lat: 50.714, lng: -1.875, description: "South coast surf option that can come alive when conditions line up.", url: "/guides/surfing-bournemouth/" },
+      { title: "Kimmeridge Bay", region: "dorset", lat: 50.611, lng: -2.130, description: "Reef and point-style waves on Dorset's Jurassic Coast.", url: "/guides/surfing-kimmeridge-bay/" }
+    ];
+
+    const isMobileMap = window.matchMedia("(max-width: 850px)").matches;
+    const initialMapView = isMobileMap
+      ? { center: [54.6, -3.8], zoom: 5 }
+      : { center: [54.6, -3.8], zoom: 5 };
+
+    const map = L.map("surf-map", { scrollWheelZoom: true, zoomControl: true }).setView(initialMapView.center, initialMapView.zoom);
+    map.attributionControl.setPrefix(false);
+
+    function addCountyLabels() {
+      const labelIcon = text => L.divIcon({
+        className: "",
+        html: `<div class="county-map-label">${text}</div>`,
+        iconSize: null,
+        iconAnchor: [0, 0]
+      });
+      L.marker([50.85, -3.85], { icon: labelIcon("Devon"), interactive: false }).addTo(map);
+      L.marker([50.28, -4.96], { icon: labelIcon("Cornwall"), interactive: false }).addTo(map);
+      L.marker([52.15, -3.72], { icon: labelIcon("Wales"), interactive: false }).addTo(map);
+      L.marker([57.15, -4.10], { icon: labelIcon("Scotland"), interactive: false }).addTo(map);
+    }
+
+    function addFallbackTiles() {
+      L.tileLayer("https://{s}.basemaps.cartocdn.com/light_nolabels/{z}/{x}/{y}{r}.png", {
+        maxZoom: 20,
+        subdomains: "abcd",
+        attribution: '&copy; OpenStreetMap contributors &copy; CARTO'
+      }).addTo(map);
+    }
+
+    fetch("https://services1.arcgis.com/ESMARspQHYMw9BZ9/arcgis/rest/services/Countries_December_2025_Boundaries_UK_BSC/FeatureServer/0/query?where=1%3D1&outFields=CTRY25NM&returnGeometry=true&outSR=4326&f=geojson")
+      .then(response => {
+        if (!response.ok) throw new Error("Map geometry failed to load");
+        return response.json();
+      })
+      .then(countries => {
+        L.geoJSON(countries, {
+          pane: "overlayPane",
+          style: {
+            fillColor: "#0f2a33",
+            fillOpacity: 1,
+            color: "rgba(255,255,255,.18)",
+            weight: 0.7,
+            opacity: 1
+          },
+          interactive: false
+        }).addTo(map);
+        const vectorLoadNote = document.getElementById("vector-load-note");
+        if (vectorLoadNote) vectorLoadNote.remove();
+        addCountyLabels();
+        window.requestAnimationFrame(() => map.invalidateSize());
+      })
+      .catch(() => {
+        addFallbackTiles();
+        const vectorLoadNote = document.getElementById("vector-load-note");
+        if (vectorLoadNote) {
+          vectorLoadNote.textContent = "Using fallback map";
+          setTimeout(() => vectorLoadNote.remove(), 1800);
+        }
+        window.requestAnimationFrame(() => map.invalidateSize());
+      });
+
+    const markerIcon = L.divIcon({
+      className: "surf-marker-wrap",
+      html: '<div class="surf-marker"><img src="/images/brand/logo-no-words-transparent.png" alt=""></div>',
+      iconSize: [38, 38],
+      iconAnchor: [19, 19],
+      popupAnchor: [0, -20]
+    });
+
+    const mapMarkers = [];
+
+    const escapeMapText = value => String(value).replace(/[&<>"']/g, character => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" })[character]);
+    surfSpots.filter(spot => spot.url).forEach(spot => {
+      const marker = L.marker([spot.lat, spot.lng], { icon: markerIcon }).addTo(map);
+      const destinationAction = spot.url
+        ? `<a class="popup-link" href="${escapeMapText(spot.url)}">View destination &#8594;</a>`
+        : `<span class="popup-coming-soon">Destination page coming soon</span>`;
+      marker.bindPopup(`
+        <div class="surf-popup">
+          <span class="popup-label">Surf destination</span>
+          <h3>${escapeMapText(spot.title)}</h3>
+          <p>${escapeMapText(spot.description)}</p>
+          ${destinationAction}
+        </div>
+      `);
+      mapMarkers.push({ marker, spot });
+    });
+
+    const updateMarkerScale = () => {
+      const mapElement = map.getContainer();
+      const zoom = map.getZoom();
+      mapElement.classList.toggle("map-zoomed-out", zoom <= 5);
+      mapElement.classList.toggle("map-zoomed-mid", zoom === 6);
+    };
+
+    map.on("zoomend", updateMarkerScale);
+    updateMarkerScale();
+
+    document.querySelectorAll(".region-button").forEach(button => {
+      button.addEventListener("click", () => {
+        document.querySelectorAll(".region-button").forEach(item => { item.classList.remove("active"); item.setAttribute("aria-pressed", "false"); });
+        button.classList.add("active");
+        button.setAttribute("aria-pressed", "true");
+        const region = regions[button.dataset.region];
+        if (region) map.flyTo(region.centre, region.zoom, { duration: 0.8 });
+      });
+    });
+    }
+
+    const mapSection = document.getElementById("surf-map-section");
+    const loadMap = () => {
+      if (loadMap.started) return;
+      loadMap.started = true;
+      const leafletScript = document.createElement("script");
+      leafletScript.src = "https://unpkg.com/leaflet@1.9.4/dist/leaflet.js";
+      leafletScript.onload = initialiseSurfMap;
+      leafletScript.onerror = () => {
+        const note = document.getElementById("vector-load-note");
+        if (note) note.textContent = "The interactive map could not load. Use the destination finder above instead.";
+      };
+      document.head.appendChild(leafletScript);
+    };
+    if ("IntersectionObserver" in window) {
+      const mapObserver = new IntersectionObserver(entries => {
+        if (!entries.some(entry => entry.isIntersecting)) return;
+        mapObserver.disconnect();
+        loadMap();
+      }, { rootMargin: "500px 0px" });
+      mapObserver.observe(mapSection);
+    } else {
+      loadMap();
+    }
+  </script>
+
+
+</body>
+</html>

@@ -1,0 +1,150 @@
+{
+ "slug": "lynmouth",
+ "schools": [],
+ "hire": [],
+ "shops": [],
+ "lessonsIntro": "Lynmouth is a rocky river-mouth point break for experienced surfers, and no surf schools teach here. If you're learning, book a lesson on one of the sandy beaches further west.",
+ "learn": {
+  "text": [
+   "Lynmouth isn't a place to learn. Visit Devon describes it as an experts-only spot: rocky, often rough, and needing real care getting in and out of the water. The main wave is a left that peels off the eastern side of the Lyn river mouth along a cobblestone shore, and there is a rip from the river that pushes against the waves. It is often crowded when it breaks.",
+   "It also needs a big swell to work, typically when the open west-facing beaches are too large, and it is at its best in winter. If you're a beginner staying on Exmoor, the sandy beaches at Woolacombe, Putsborough, Croyde and Saunton have surf schools, hire and lifeguards in season. Come back to Lynmouth once you're comfortable paddling and reading waves on your own."
+  ],
+  "cards": [
+   {
+    "label": "Level",
+    "title": "Experienced only",
+    "text": "A rocky point break; not suitable for lessons or beginners."
+   },
+   {
+    "label": "Best time",
+    "title": "Big winter swells",
+    "text": "Works only on large swells, most often in winter. Sources differ on tide, so check locally."
+   },
+   {
+    "label": "Watch out for",
+    "title": "Rocks and river rip",
+    "text": "Rocks, shallow sections, and a rip from the river mouth."
+   }
+  ]
+ },
+ "hireIntro": "There is no surf hire in Lynmouth, so bring your own board or hire on the sandy beaches further west.",
+ "kit": {
+  "text": [
+   "Bring your own board. Surf guides suggest the main point suits longer boards and mini-mals, while a shortboard comes into its own on bigger, cleaner days. Sea temperatures peak at roughly 15-18C in mid-August and fall to about 8-9C in early March, so in the main winter season you'll want a 5/4mm or thicker with boots, gloves and a hood."
+  ],
+  "cards": [
+   {
+    "label": "Board",
+    "title": "Your own board",
+    "text": "Longboards and mini-mals on the main point; shortboards when it's bigger."
+   },
+   {
+    "label": "Wetsuit",
+    "title": "5/4 plus boots",
+    "text": "A 5/4mm or 6/5/4mm with gloves, boots and a hood in winter; 3/2mm or 4/3mm in summer."
+   },
+   {
+    "label": "Other craft",
+    "title": "Not for bodyboarding beginners",
+    "text": "The rocky shoreline and river rip make this a poor spot for casual bodyboarding."
+   }
+  ]
+ },
+ "shopsIntro": "Lynmouth has no surf shop, so buy or repair kit before you arrive.",
+ "shopsText": [
+  "There are no surf shops in Lynmouth or Lynton. The nearest dedicated surf shops we could confirm are in Woolacombe, such as The Bay Surf Shop and Shore 2 Surf, and in Braunton, where Tiki Surf Shop sells boards and wetsuits. Plan to pick up wax, a leash or a spare wetsuit there before driving over to Exmoor."
+ ],
+ "faqs": {
+  "lessons": [
+   {
+    "q": "Can I take surf lessons at Lynmouth?",
+    "a": "No surf schools teach at Lynmouth, and local guides say it's for experienced surfers only."
+   },
+   {
+    "q": "Where's the nearest place to learn?",
+    "a": "The sandy beaches at Woolacombe, Putsborough, Croyde and Saunton all have surf schools."
+   },
+   {
+    "q": "When does Lynmouth have waves?",
+    "a": "Only on big swells, most often in winter, when the exposed beaches to the west are too large."
+   }
+  ],
+  "hire": [
+   {
+    "q": "Can I hire a surfboard in Lynmouth?",
+    "a": "We couldn't find any surf hire. The nearest confirmed hire is in Woolacombe."
+   },
+   {
+    "q": "Is there kayak or SUP hire nearby?",
+    "a": "OSKC Watersports in Combe Martin hires kayaks and paddleboards, but not surfboards."
+   }
+  ],
+  "shops": [
+   {
+    "q": "Is there a surf shop in Lynmouth?",
+    "a": "No. Woolacombe and Braunton have the nearest surf shops."
+   }
+  ]
+ },
+ "sources": [
+  {
+   "label": "Visit Devon: where to surf in North Devon",
+   "url": "https://www.visitdevon.co.uk/northdevon/blog/post/where-to-surf-this-summer/"
+  },
+  {
+   "label": "The Surf Atlas: Lynmouth",
+   "url": "https://thesurfatlas.com/surfing-england/lynmouth-surf/"
+  },
+  {
+   "label": "Surf-forecast: Lynmouth",
+   "url": "https://www.surf-forecast.com/breaks/Lynmouth"
+  },
+  {
+   "label": "Surf-forecast: Lynmouth sea temperature",
+   "url": "https://www.surf-forecast.com/breaks/Lynmouth/seatemp"
+  },
+  {
+   "label": "Visit Lynton & Lynmouth: activities",
+   "url": "https://visitlyntonandlynmouth.com/activities/?term=88"
+  },
+  {
+   "label": "Woolacombe Tourism: OSKC Watersports",
+   "url": "https://www.woolacombetourism.co.uk/things-do/out-about/oskc-watersports"
+  },
+  {
+   "label": "The Bay Surf Shop",
+   "url": "https://thebaysurfshop.co.uk"
+  },
+  {
+   "label": "Shore 2 Surf",
+   "url": "https://www.shoretosurf.co.uk/"
+  },
+  {
+   "label": "Tiki Surf Shop",
+   "url": "https://www.tikisurf.co.uk/pages/about"
+  }
+ ],
+ "factCheck": [
+  {
+   "fact": "Lynmouth for experts only, very rocky, can be rough",
+   "url": "https://www.visitdevon.co.uk/northdevon/blog/post/where-to-surf-this-summer/"
+  },
+  {
+   "fact": "Main Point left off eastern side of Lyn river; needs big swell; river-mouth rip; no surf camps, bring own board; minimals/longboards",
+   "url": "https://thesurfatlas.com/surfing-england/lynmouth-surf/"
+  },
+  {
+   "fact": "Point/river break, best in winter, rocks and rips, often crowded",
+   "url": "https://www.surf-forecast.com/breaks/Lynmouth"
+  },
+  {
+   "fact": "Sea temp ~15-18C mid-Aug, ~8-9C early March; wetsuit suggestions",
+   "url": "https://www.surf-forecast.com/breaks/Lynmouth/seatemp"
+  },
+  {
+   "fact": "OSKC is in Combe Martin, kayak/SUP hire only",
+   "url": "https://www.woolacombetourism.co.uk/things-do/out-about/oskc-watersports"
+  }
+ ],
+ "gaps": "No surf schools, surf hire or surf shops found in Lynmouth/Lynton (lists left empty). Tide advice conflicts between sources (Surf Atlas says low tide, Surf-forecast says all tides). No RNLI lifeguard cover found. Distances to Woolacombe/Braunton not given in sources."
+}

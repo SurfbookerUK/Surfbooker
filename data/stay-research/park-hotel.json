@@ -1,0 +1,22 @@
+{
+ "name": "Park Hotel",
+ "officialUrl": "http://www.parkhotelthurso.co.uk/",
+ "trading": true,
+ "stayType": "Hotel with bar and restaurant",
+ "accommodation": "20 en-suite bedrooms including a disabled-adapted room",
+ "suitableFor": "Travellers wanting a hotel with parking and an EV charger",
+ "parking": "Off-street parking at the front, included",
+ "dogs": null,
+ "beachAccess": null,
+ "boardStorage": null,
+ "confirmedFeatures": "Bar, restaurant, free Wi-Fi, breakfast included, EV charging on request",
+ "overview": "The Park Hotel is just off the main road in Thurso, about a ten-minute walk from the station and close to the town centre. It has 20 en-suite bedrooms, including one adapted for disabled guests, plus a bar and restaurant. Breakfast and parking are included.",
+ "surfTripFit": "Off-street parking and an in-house restaurant keep things simple between sessions on Thurso's town beach.",
+ "sources": [
+  {
+   "label": "Park Hotel official site",
+   "url": "http://www.parkhotelthurso.co.uk/"
+  }
+ ],
+ "slug": "park-hotel"
+}

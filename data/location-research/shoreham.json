@@ -1,0 +1,145 @@
+{
+ "slug": "shoreham",
+ "schools": [
+  {
+   "name": "Brighton Watersports",
+   "type": "Surf school",
+   "url": "https://thebrightonwatersports.co.uk/",
+   "base": "Mobile lessons, mostly held at a spot in Shoreham; centre at 185 Kings Road Arches, Brighton",
+   "note": "Group, private and progression surf lessons for all ages, run to the tide, with wetsuits and buoyancy aids provided. You need to be able to swim.",
+   "source": "https://thebrightonwatersports.co.uk/surf-school.html"
+  }
+ ],
+ "hire": [
+  {
+   "name": "Brighton Watersports",
+   "type": "SUP & kayak hire",
+   "url": "https://thebrightonwatersports.co.uk/",
+   "base": "185 Kings Road Arches, Brighton seafront",
+   "note": "Hires paddleboards and kayaks from the seafront. Its site doesn't say surfboards are available to hire, so ask first.",
+   "source": "https://thebrightonwatersports.co.uk/pages/about-us"
+  }
+ ],
+ "shops": [
+  {
+   "name": "Brighton Watersports",
+   "type": "Surf shop",
+   "url": "https://thebrightonwatersports.co.uk/",
+   "town": "185 Kings Road Arches, Brighton seafront",
+   "note": "Beachfront store and online shop selling wetsuits, boards, clothing and watersports kit, with changing rooms, lockers and showers.",
+   "source": "https://thebrightonwatersports.co.uk/pages/about-us"
+  }
+ ],
+ "lessonsIntro": "Brighton Watersports runs mobile surf lessons, most of them at a spot in Shoreham, timed to the tide and with wetsuits included.",
+ "learn": {
+  "text": [
+   "Brighton Watersports teaches surfing to all ages in groups, one-to-one or as progression sessions for people who already ride. Lessons are mobile but mostly happen in Shoreham, and the school tells you where to meet when you book. Wetsuits and buoyancy aids are provided, and you need to be able to swim. Bring your own board if you'd like to practise on it.",
+   "Sessions are planned around the tide, so you're asked to turn up on time. Surf on this stretch of the Sussex coast depends on Channel swell and wind, so flat days happen and the school picks the time and place to suit conditions. We couldn't confirm lifeguard cover or specific hazards at Shoreham Beach, so stick with the school while you're learning."
+  ],
+  "cards": [
+   {
+    "label": "Level",
+    "title": "All ages and levels",
+    "text": "Group, private and progression lessons. You must be able to swim."
+   },
+   {
+    "label": "Best time",
+    "title": "Whenever the tide suits",
+    "text": "The school times lessons to the tide, so check the meeting time when you book."
+   },
+   {
+    "label": "Watch out for",
+    "title": "Unconfirmed lifeguard cover",
+    "text": "We couldn't confirm lifeguards at Shoreham Beach. Learn with an instructor."
+   }
+  ]
+ },
+ "hireIntro": "Brighton Watersports hires paddleboards and kayaks from its Brighton seafront centre, a few miles east of Shoreham.",
+ "kit": {
+  "text": [
+   "For learning, a large foam board is the easy option on small Channel waves. Brighton Watersports supplies wetsuits and buoyancy aids with lessons, and sells wetsuits and boards at its Brighton shop. Water temperatures on this coast run from about 6 to 8°C in late winter to 17 to 19°C in late summer, according to Wittering Surf Shop further west."
+  ],
+  "cards": [
+   {
+    "label": "Board",
+    "title": "Foam to start",
+    "text": "A big, stable board helps on small waves. You can bring your own to a lesson."
+   },
+   {
+    "label": "Wetsuit",
+    "title": "3/2 summer, 5/4 winter",
+    "text": "Wittering Surf Shop, further west on the same coast, suggests a 3/2 or shorty July to October, 4/3 in May, June and November, and 5/4 with boots and gloves December to April."
+   },
+   {
+    "label": "Other craft",
+    "title": "SUP and kayak",
+    "text": "Paddleboards and kayaks can be hired from Brighton Watersports on Brighton seafront."
+   }
+  ]
+ },
+ "shopsIntro": "The nearest surf shop we could confirm is Brighton Watersports on Brighton seafront.",
+ "shopsText": [
+  "We couldn't confirm a surf shop in Shoreham itself. Brighton Watersports, in the Kings Road Arches on Brighton seafront, sells wetsuits, boards, clothing and accessories in store and online, and has changing rooms, lockers and showers."
+ ],
+ "faqs": {
+  "lessons": [
+   {
+    "q": "Who runs surf lessons in Shoreham?",
+    "a": "Brighton Watersports runs mobile surf lessons, mostly at a spot in Shoreham."
+   },
+   {
+    "q": "Do I need to be able to swim?",
+    "a": "Yes, everyone taking part must be able to swim."
+   },
+   {
+    "q": "Is a wetsuit included?",
+    "a": "Yes, wetsuits and buoyancy aids are provided."
+   }
+  ],
+  "hire": [
+   {
+    "q": "Can I hire a surfboard in Shoreham?",
+    "a": "We couldn't confirm board hire. Brighton Watersports hires SUPs and kayaks in Brighton."
+   },
+   {
+    "q": "Can I bring my own board to a lesson?",
+    "a": "Yes, the school says you can bring your own equipment to practise with."
+   }
+  ],
+  "shops": [
+   {
+    "q": "Where can I buy a wetsuit near Shoreham?",
+    "a": "Brighton Watersports on Brighton seafront sells wetsuits and boards."
+   }
+  ]
+ },
+ "sources": [
+  {
+   "label": "Brighton Watersports - Surf school",
+   "url": "https://thebrightonwatersports.co.uk/surf-school.html"
+  },
+  {
+   "label": "Brighton Watersports - About",
+   "url": "https://thebrightonwatersports.co.uk/pages/about-us"
+  },
+  {
+   "label": "Wittering Surf Shop - Surf report",
+   "url": "https://witteringsurfshop.com/pages/surf-report"
+  }
+ ],
+ "factCheck": [
+  {
+   "fact": "Mobile lessons mostly at Shoreham; group/private/progression; all ages; must swim; tide-timed; wetsuits and buoyancy aids provided; bring own kit",
+   "url": "https://thebrightonwatersports.co.uk/surf-school.html"
+  },
+  {
+   "fact": "Centre at 185 Kings Road Arches BN1 1NB; SUP and kayak hire; shop sells wetsuits, boards",
+   "url": "https://thebrightonwatersports.co.uk/pages/about-us"
+  },
+  {
+   "fact": "Water temps for Sussex coast",
+   "url": "https://witteringsurfshop.com/pages/surf-report"
+  }
+ ],
+ "gaps": "No lifeguard, hazard (e.g. River Adur mouth) or council info confirmed for Shoreham Beach. No surfboard hire or Shoreham surf shop confirmed. Exact lesson meeting point not published."
+}

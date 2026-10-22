@@ -1,0 +1,261 @@
+{
+ "slug": "woolacombe",
+ "schools": [
+  {
+   "name": "Woolacombe Surf Centre",
+   "type": "Surf school",
+   "url": "https://www.woolacombesurfcentre.com/",
+   "base": "Barton Road, in the centre of Woolacombe village",
+   "note": "Lessons for beginner to advanced surfers, private sessions and family groups; tailored private sessions for under-8s. Surfing England Centre of Excellence.",
+   "source": "https://www.woolacombesurfcentre.com/"
+  },
+  {
+   "name": "Surfing Woolacombe",
+   "type": "Surf school",
+   "url": "https://www.surfingwoolacombe.co.uk/",
+   "base": "On the Woolacombe beach slipway, Challacombe Hill Road",
+   "note": "Qualified coaches teaching the basics and water safety, with showers, changing and lockers at the base. Open 9am to 6pm, seven days a week.",
+   "source": "https://www.surfingwoolacombe.co.uk/"
+  }
+ ],
+ "hire": [
+  {
+   "name": "Surfing Woolacombe",
+   "type": "Board & wetsuit hire",
+   "url": "https://www.surfingwoolacombe.co.uk/",
+   "base": "Woolacombe beach slipway",
+   "note": "Hourly, daily or weekly hire of surfboards, SUPs, bodyboards and wetsuits. SoftDog boards for beginners and semi-soft Softech boards for improvers.",
+   "source": "https://www.surfingwoolacombe.co.uk/"
+  },
+  {
+   "name": "Woolacombe Surf Centre",
+   "type": "Board & wetsuit hire",
+   "url": "https://www.woolacombesurfcentre.com/hire/",
+   "base": "Barton Road, Woolacombe",
+   "note": "Soft and hard surfboards, wetsuits, bodyboards and SUPs, plus boots, gloves and hoods. Book by phone or in the shop.",
+   "source": "https://www.woolacombesurfcentre.com/hire/"
+  },
+  {
+   "name": "The Bay Surf Shop",
+   "type": "Board & wetsuit hire",
+   "url": "https://thebaysurfshop.co.uk",
+   "base": "Barton Road, Woolacombe",
+   "note": "Year-round hire, weather permitting, with boards from soft-tops to 6'3\" shortboards.",
+   "source": "https://www.woolacombetourism.co.uk/things-do/shopping/bay-surf-shop"
+  },
+  {
+   "name": "Shore 2 Surf",
+   "type": "Board & wetsuit hire",
+   "url": "https://www.shoretosurf.co.uk/",
+   "base": "7 West Road, Woolacombe",
+   "note": "Independent, family-run shop hiring out surfboards, wetsuits and bodyboards.",
+   "source": "https://www.shoretosurf.co.uk/"
+  }
+ ],
+ "shops": [
+  {
+   "name": "The Bay Surf Shop",
+   "type": "Surf shop",
+   "url": "https://thebaysurfshop.co.uk",
+   "town": "Woolacombe (Barton Road)",
+   "note": "Stocks surfboards from softboards to longboards, wetsuits for adults and kids, bodyboards, handplanes, fins, leashes and changing robes all year.",
+   "source": "https://thebaysurfshop.co.uk"
+  },
+  {
+   "name": "Shore 2 Surf",
+   "type": "Surf shop",
+   "url": "https://www.shoretosurf.co.uk/",
+   "town": "Woolacombe (7 West Road)",
+   "note": "Family-run shop with surfboards, fins, leashes, traction pads and wetsuits for men, women and kids.",
+   "source": "https://www.shoretosurf.co.uk/"
+  },
+  {
+   "name": "Surfing Woolacombe",
+   "type": "Surf shop",
+   "url": "https://www.surfingwoolacombe.co.uk/",
+   "town": "Woolacombe (beach slipway)",
+   "note": "Shop on the slipway with surf gear and clothing. It is a Softech test centre, so you can try a board before you buy.",
+   "source": "https://www.surfingwoolacombe.co.uk/"
+  },
+  {
+   "name": "Saltrock",
+   "type": "Surf clothing shop",
+   "url": "https://www.saltrock.com/",
+   "town": "Woolacombe",
+   "note": "Surf-inspired clothing, footwear and accessories. Use the store locator for the exact address.",
+   "source": "https://www.saltrock.com/pages/store-locator"
+  }
+ ],
+ "lessonsIntro": "Woolacombe has two surf schools in the village, one right on the beach slipway, and a long sandy beach with room for lessons even in summer.",
+ "learn": {
+  "text": [
+   "Woolacombe is a big, open beach that suits all levels. Beginners stay in the smaller waves close to shore, while more experienced surfers paddle further out, so there's usually space for lessons even when the beach is busy. Schools run sessions for complete beginners through to advanced surfers, and Woolacombe Surf Centre welcomes everyone from age 8, with tailored private sessions for younger children.",
+   "The RNLI describes Woolacombe as a family beach with good surf, and in peak season there are two patrolled bathing areas when conditions allow. Lifeguards are on duty daily from early May to late September, plus Easter, some October weekends and October half term. Outside those dates there may be no cover at all, so if there are no flags, there are no lifeguards. Book a lesson rather than heading out alone on your first day."
+  ],
+  "cards": [
+   {
+    "label": "Level",
+    "title": "All abilities",
+    "text": "Smaller waves close to shore for beginners, bigger peaks further out for experienced surfers."
+   },
+   {
+    "label": "Best time",
+    "title": "May to September",
+    "text": "Daily RNLI patrols from 2 May to 27 September 2026, 10am to 6pm."
+   },
+   {
+    "label": "Watch out for",
+    "title": "No flags, no lifeguards",
+    "text": "Swim and bodyboard between the red and yellow flags, and don't go in alone outside patrol times."
+   }
+  ]
+ },
+ "hireIntro": "Woolacombe has plenty of hire, from the slipway on the beach to shops a short walk up in the village.",
+ "kit": {
+  "text": [
+   "Start on a fully soft board such as a SoftDog, then move to a semi-soft Softech or a mid-length as you improve. Surf guides describe Woolacombe's summer waves as fat and friendly, with much tougher conditions in winter. The sea here runs from about 15-18C in mid-August to 8-9C in early March. Wear a 3/2mm or 4/3mm in summer, and a 5/4mm or thicker with boots, gloves and a hood in early spring."
+  ],
+  "cards": [
+   {
+    "label": "Board",
+    "title": "Soft to semi-soft",
+    "text": "Fully soft boards for beginners; semi-soft boards for improvers."
+   },
+   {
+    "label": "Wetsuit",
+    "title": "3/2 summer, 5/4 winter",
+    "text": "A 3/2mm or 4/3mm in summer; 5/4mm or thicker with boots, gloves and a hood in early spring."
+   },
+   {
+    "label": "Other craft",
+    "title": "Bodyboards and SUPs",
+    "text": "Both are available to hire. Bodyboard between the red and yellow flags on patrolled days."
+   }
+  ]
+ },
+ "shopsIntro": "Woolacombe has several surf shops within walking distance of the beach, selling boards, wetsuits and accessories.",
+ "shopsText": [
+  "Surfing Woolacombe's shop sits on the slipway, steps from the sand, and doubles as a Softech test centre. Up in the village, The Bay Surf Shop on Barton Road stocks boards, wetsuits and bodyboards all year, and Shore 2 Surf on West Road is a family-run shop with boards, wetsuits and accessories. Saltrock also has a Woolacombe store for surf clothing."
+ ],
+ "faqs": {
+  "lessons": [
+   {
+    "q": "Is Woolacombe good for beginners?",
+    "a": "Yes. Beginners learn in the smaller waves near the shore, and both village schools teach complete beginners."
+   },
+   {
+    "q": "Can young children have lessons?",
+    "a": "Woolacombe Surf Centre welcomes surfers from age 8, and offers tailored private sessions for under-8s if you contact them."
+   },
+   {
+    "q": "When are lifeguards on duty?",
+    "a": "In 2026 the RNLI patrols daily from 2 May to 27 September, 10am to 6pm, plus Easter, some October weekends and October half term."
+   }
+  ],
+  "hire": [
+   {
+    "q": "Can I hire a board right on the beach?",
+    "a": "Yes. Surfing Woolacombe hires boards, bodyboards, SUPs and wetsuits from its base on the beach slipway."
+   },
+   {
+    "q": "Can I hire for a whole week?",
+    "a": "Surfing Woolacombe offers hourly, daily and weekly hire."
+   }
+  ],
+  "shops": [
+   {
+    "q": "Can I try a board before buying?",
+    "a": "Surfing Woolacombe is a Softech test centre, so you can rent a board before you buy one."
+   },
+   {
+    "q": "Are the shops open in winter?",
+    "a": "The Bay Surf Shop says it stocks kit all year round."
+   }
+  ]
+ },
+ "sources": [
+  {
+   "label": "Woolacombe Surf Centre",
+   "url": "https://www.woolacombesurfcentre.com/"
+  },
+  {
+   "label": "Woolacombe Surf Centre hire",
+   "url": "https://www.woolacombesurfcentre.com/hire/"
+  },
+  {
+   "label": "Woolacombe Tourism: Woolacombe Surf Centre",
+   "url": "https://www.woolacombetourism.co.uk/things-do/out-about/woolacombe-surf-centre"
+  },
+  {
+   "label": "Surfing Woolacombe",
+   "url": "https://www.surfingwoolacombe.co.uk/"
+  },
+  {
+   "label": "The Bay Surf Shop",
+   "url": "https://thebaysurfshop.co.uk"
+  },
+  {
+   "label": "Woolacombe Tourism: The Bay Surf Shop",
+   "url": "https://www.woolacombetourism.co.uk/things-do/shopping/bay-surf-shop"
+  },
+  {
+   "label": "Shore 2 Surf",
+   "url": "https://www.shoretosurf.co.uk/"
+  },
+  {
+   "label": "Woolacombe surfing holidays guide",
+   "url": "https://woolacombe.co.uk/things-to-do-devon/woolacombe-surfing-holidays-guide"
+  },
+  {
+   "label": "RNLI: Woolacombe beach",
+   "url": "https://rnli.org/find-my-nearest/lifeguarded-beaches/woolacombe-beach"
+  },
+  {
+   "label": "The Surf Atlas: North Devon / Lynmouth",
+   "url": "https://thesurfatlas.com/surfing-england/lynmouth-surf/"
+  },
+  {
+   "label": "Visit Devon: where to surf in North Devon",
+   "url": "https://www.visitdevon.co.uk/northdevon/blog/post/where-to-surf-this-summer/"
+  },
+  {
+   "label": "Saltrock store locator",
+   "url": "https://www.saltrock.com/pages/store-locator"
+  },
+  {
+   "label": "Surf-forecast: Croyde sea temperature",
+   "url": "https://www.surf-forecast.com/breaks/Croyde/seatemp"
+  }
+ ],
+ "factCheck": [
+  {
+   "fact": "Woolacombe Surf Centre, Barton Road EX34 7BA; ages 8 to 80+, private tailored sessions for under-8s",
+   "url": "https://www.woolacombesurfcentre.com/"
+  },
+  {
+   "fact": "Woolacombe Surf Centre is a Surfing England Centre of Excellence",
+   "url": "https://www.woolacombetourism.co.uk/things-do/out-about/woolacombe-surf-centre"
+  },
+  {
+   "fact": "Surfing Woolacombe is on the beach slipway, hires boards/SUPs/bodyboards/wetsuits hourly-weekly, Softech test centre",
+   "url": "https://www.surfingwoolacombe.co.uk/"
+  },
+  {
+   "fact": "The Bay Surf Shop hires year-round with boards 6'3\" to soft-tops",
+   "url": "https://www.woolacombetourism.co.uk/things-do/shopping/bay-surf-shop"
+  },
+  {
+   "fact": "Shore 2 Surf, 7 West Road, family-run, sells and hires",
+   "url": "https://www.shoretosurf.co.uk/"
+  },
+  {
+   "fact": "Beginners catch smaller waves close to shore at Woolacombe",
+   "url": "https://woolacombe.co.uk/things-to-do-devon/woolacombe-surfing-holidays-guide"
+  },
+  {
+   "fact": "RNLI 2026 dates, two bathing areas in peak season",
+   "url": "https://rnli.org/find-my-nearest/lifeguarded-beaches/woolacombe-beach"
+  }
+ ],
+ "gaps": "No specific rip or rock hazard detail found from RNLI/council for Woolacombe. Surfing Woolacombe's lesson formats and minimum ages not stated. Saltrock Woolacombe exact address not shown."
+}

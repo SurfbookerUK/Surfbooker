@@ -1,0 +1,200 @@
+{
+ "slug": "trevaunance-cove",
+ "schools": [
+  {
+   "name": "Breakers Surf School",
+   "type": "Surf school",
+   "url": "https://www.surf-lessons.co.uk/",
+   "base": "On the slipway down to Trevaunance Cove, St Agnes",
+   "note": "Teaches at St Agnes and nearby beaches including Chapel Porth and Porthtowan, picking the spot that suits the day. Offers one-to-one tuition, group lessons and courses from a two-hour intro to five days.",
+   "source": "https://www.aspects-holidays.co.uk/blog/things-to-do/surfing-in-st-agnes"
+  }
+ ],
+ "hire": [],
+ "shops": [
+  {
+   "name": "Finisterre",
+   "type": "Surf brand store",
+   "url": "https://finisterre.com/blogs/broadcast/st-agnes-microadventures",
+   "town": "St Agnes (Wheal Kitty Workshops)",
+   "note": "The cold-water surf company's store and HQ sit at Wheal Kitty, under 10 minutes' walk up the cliff path from Trevaunance Cove. It's mainly technical clothing; Finisterre also makes wetsuits, so ask what's in stock.",
+   "source": "https://finisterre.com/blogs/broadcast/st-agnes-microadventures"
+  }
+ ],
+ "lessonsIntro": "Trevaunance Cove is St Agnes's small, cliff-lined beach, and the local surf school is based on the slipway. Lessons may move to nearby beaches when conditions suit them better.",
+ "learn": {
+  "text": [
+   "Trevaunance faces north, with long cliffs sheltering it from the prevailing south-westerly winds, and it can produce good waves when the wind is from the south or south-west. Aspects Holidays notes there's plenty of whitewater for beginners, while the waves out the back can be fast, hollow and powerful. Breakers Surf School, based on the slipway, chooses between St Agnes and nearby beaches such as Chapel Porth and Porthtowan depending on the day.",
+   "This is a small cove, and the RNLI notes that at high tide there's no beach at all, so plan sessions around the lower half of the tide and check tide times first. Rocks separate it from Trevellas Porth next door, and the remains of an old harbour wall lie to the south. RNLI lifeguards patrol daily from 16 May to 27 September 2026, 10am to 6pm. Strong rip currents can occur, so stay between the flags."
+  ],
+  "cards": [
+   {
+    "label": "Level",
+    "title": "Whitewater for beginners",
+    "text": "Plenty of broken waves to learn on near the shore; the outside can be powerful and is for experienced surfers."
+   },
+   {
+    "label": "Best time",
+    "title": "Lower tides, south-west winds",
+    "text": "There's no beach at high tide. South and south-westerly winds tend to bring good conditions."
+   },
+   {
+    "label": "Watch out for",
+    "title": "Rising tide, rocks and rips",
+    "text": "The tide reaches the cliffs, there are rocks and an old harbour wall, and strong rips can form."
+   }
+  ]
+ },
+ "hireIntro": "We couldn't confirm a surf hire shop at Trevaunance Cove. Breakers Surf School on the slipway is your best first call for kit with a lesson.",
+ "kit": {
+  "text": [
+   "For learning in the whitewater, a big foam board is what you want, and it's provided with lessons. Improvers who can handle the punchier waves out the back will want something with less volume. Water temperatures along this coast run from about 9-10C in early March to 15-18C in August, so a full wetsuit and boots make sense year round."
+  ],
+  "cards": [
+   {
+    "label": "Board",
+    "title": "Foam board in the whitewater",
+    "text": "Stick to the inside whitewater on a soft-top while you learn; the outside waves are fast and hollow."
+   },
+   {
+    "label": "Wetsuit",
+    "title": "4/3 in summer, 5mm in winter",
+    "text": "A 4/3mm or 3/2mm with boots in summer; a 5/4mm or 5/3mm with gloves, boots and a hood in late winter."
+   },
+   {
+    "label": "Other craft",
+    "title": "Bodyboards and kayaks",
+    "text": "Bodyboard between the red and yellow flags. Koru Kayaking runs north coast kayak trips from the cove, weather permitting."
+   }
+  ]
+ },
+ "shopsIntro": "St Agnes has a small cluster of surf-related shops at Wheal Kitty, up the cliff path from the cove.",
+ "shopsText": [
+  "Wheal Kitty Workshops sit on the cliffs above Trevaunance Cove, less than ten minutes' walk up the coast path, and are home to the Finisterre store. At the back of the beach itself there's a pub, café and general store. For a wider choice of boards and wetsuits, Bathsheba Surf in Perranporth is the nearest dedicated surf shop we could confirm."
+ ],
+ "faqs": {
+  "lessons": [
+   {
+    "q": "Is Trevaunance Cove good for beginners?",
+    "a": "Yes, in the whitewater close to shore. The waves further out can be fast and powerful, so learners should stay inside, ideally with a lesson."
+   },
+   {
+    "q": "Where does Breakers Surf School meet?",
+    "a": "Breakers is on the slipway down to the beach. It also teaches at Chapel Porth and Porthtowan, so check which beach your lesson will use."
+   },
+   {
+    "q": "Can you surf Trevaunance Cove at high tide?",
+    "a": "Not really. The RNLI says there's no beach at high tide, so plan around the lower half of the tide."
+   }
+  ],
+  "hire": [
+   {
+    "q": "Can I hire a surfboard at Trevaunance Cove?",
+    "a": "We couldn't confirm a hire shop at the cove. Ask Breakers Surf School on the slipway, or hire in Perranporth, where Stoked hires boards and wetsuits on the beach."
+   },
+   {
+    "q": "What wetsuit do I need at St Agnes?",
+    "a": "A 3/2mm or 4/3mm with boots in summer, and a 5mm suit with gloves, boots and a hood from late autumn to spring."
+   }
+  ],
+  "shops": [
+   {
+    "q": "Is there a surf shop in St Agnes?",
+    "a": "Finisterre has a store at Wheal Kitty Workshops above the cove. For a full range of boards and wetsuits, Bathsheba Surf in Perranporth is the nearest dedicated surf shop we confirmed."
+   }
+  ]
+ },
+ "sources": [
+  {
+   "label": "RNLI: St Agnes Beach (Trevaunance Cove)",
+   "url": "https://rnli.org/find-my-nearest/lifeguarded-beaches/st-agnes-beach"
+  },
+  {
+   "label": "Aspects Holidays: surfing in St Agnes",
+   "url": "https://www.aspects-holidays.co.uk/blog/things-to-do/surfing-in-st-agnes"
+  },
+  {
+   "label": "Proper Cornwall: Trevaunance Cove",
+   "url": "https://propercornwall.co.uk/beaches/trevaunance-cove/"
+  },
+  {
+   "label": "The Cornish Way: St Agnes",
+   "url": "https://www.thecornishway.co.uk/st-agnes"
+  },
+  {
+   "label": "Breakers Surf School",
+   "url": "https://www.surf-lessons.co.uk/"
+  },
+  {
+   "label": "Finisterre: St Agnes microadventures",
+   "url": "https://finisterre.com/blogs/broadcast/st-agnes-microadventures"
+  },
+  {
+   "label": "Stoked Surf School: surf hire",
+   "url": "https://www.stokedsurfschool.co.uk/surf-hire"
+  },
+  {
+   "label": "Bathsheba Surf",
+   "url": "http://www.bathshebasurf.co.uk/"
+  },
+  {
+   "label": "Surf-forecast.com: Perranporth sea temperature",
+   "url": "https://www.surf-forecast.com/breaks/Perranporth/seatemp"
+  }
+ ],
+ "factCheck": [
+  {
+   "fact": "St Agnes beach is small, enclosed by cliffs and rocks; at high tide there is no beach; rocks separate it from Trevellas Porth; old harbour wall to the south",
+   "url": "https://rnli.org/find-my-nearest/lifeguarded-beaches/st-agnes-beach"
+  },
+  {
+   "fact": "Lifeguards daily 16 May-27 September 2026, 10am-6pm",
+   "url": "https://rnli.org/find-my-nearest/lifeguarded-beaches/st-agnes-beach"
+  },
+  {
+   "fact": "Cove faces north, sheltered from south-westerlies; good waves in south/south-westerly winds; plenty of whitewater for beginners; fast hollow powerful waves; strong rips; high tide reaches cliffs",
+   "url": "https://www.aspects-holidays.co.uk/blog/things-to-do/surfing-in-st-agnes"
+  },
+  {
+   "fact": "Breakers Surf School is on the slipway and teaches at St Agnes and nearby beaches depending on conditions",
+   "url": "https://www.aspects-holidays.co.uk/blog/things-to-do/surfing-in-st-agnes"
+  },
+  {
+   "fact": "Breakers teaches St Agnes, Chapel Porth and Porthtowan; one-to-one, group courses, two-hour intro to five-day course",
+   "url": "https://www.surf-lessons.co.uk/"
+  },
+  {
+   "fact": "Pub, general store and café at the back of the beach; lifeguards May to September",
+   "url": "https://propercornwall.co.uk/beaches/trevaunance-cove/"
+  },
+  {
+   "fact": "Finisterre store and HQ at Wheal Kitty, less than a 10-minute walk via the cliff path from Trevaunance Cove; Koru Kayaking runs trips from the cove",
+   "url": "https://finisterre.com/blogs/broadcast/st-agnes-microadventures"
+  },
+  {
+   "fact": "Finisterre is a cold-water surf company with a shop at Wheal Kitty Workshops",
+   "url": "https://www.thecornishway.co.uk/st-agnes"
+  },
+  {
+   "fact": "Finisterre sells wetsuits (online catalogue lists men's and women's wetsuits)",
+   "url": "https://finisterre.com/pages/stores"
+  },
+  {
+   "fact": "Stoked hires boards and wetsuits on Perranporth beach",
+   "url": "https://www.stokedsurfschool.co.uk/surf-hire"
+  },
+  {
+   "fact": "Bathsheba Surf sells boards and wetsuits in Perranporth",
+   "url": "http://www.bathshebasurf.co.uk/"
+  },
+  {
+   "fact": "Sea temperature on this stretch of coast (Perranporth) peaks at 15-18C in August and drops to 9-10C around 1 March",
+   "url": "https://www.surf-forecast.com/breaks/Perranporth/seatemp"
+  },
+  {
+   "fact": "Suggested wetsuits: 4/3mm or 3/2mm with boots in summer; 5/4mm or 5/3mm with gloves and boots in winter; hood if windy",
+   "url": "https://www.surf-forecast.com/breaks/Perranporth/seatemp"
+  }
+ ],
+ "gaps": "No surf hire at Trevaunance Cove confirmed (hire list empty); Breakers' equipment page blocked automated access, so whether it hires kit separately is unknown. Only one school found. 'Open' surf shop and café at Wheal Kitty (2019 Dezeen article mentions boards and rentals) couldn't be confirmed as still trading, so it's left out; worth checking, as it may be a hire and shop option. The Cornish Way lists 'St Agnes Water Sports' but that business is on St Agnes in the Isles of Scilly, so it's excluded. Wetsuit guidance uses Perranporth sea temperature data (nearest station). Breakers' minimum age not stated. Search budget ran out before more St Agnes hire searches."
+}

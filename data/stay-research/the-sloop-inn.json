@@ -1,0 +1,22 @@
+{
+ "name": "The Sloop Inn",
+ "officialUrl": "https://www.sloop-inn.co.uk/",
+ "trading": true,
+ "stayType": "Harbourside inn with rooms and cottages",
+ "accommodation": "Doubles, twins, suites, family rooms and cottages, many with harbour or sea views",
+ "suitableFor": "Couples, families and friends wanting to stay in the centre of town",
+ "parking": null,
+ "dogs": null,
+ "beachAccess": "On the harbour front at The Wharf; Porthmeor is across the town",
+ "boardStorage": null,
+ "confirmedFeatures": "Pub food, restaurant, breakfast, bar, webcams including Porthmeor",
+ "overview": "A historic inn on the harbour front at The Wharf in St Ives, with rooms ranging from doubles and twins to suites, family rooms and cottages. Many rooms look over the harbour or the sea. The inn serves food from breakfast onwards, and Porthmeor Beach is a short walk across the old town.",
+ "surfTripFit": "You stay in the centre of St Ives, a short walk through the old town to Porthmeor, and the inn runs a Porthmeor webcam.",
+ "sources": [
+  {
+   "label": "Official website",
+   "url": "https://www.sloop-inn.co.uk/"
+  }
+ ],
+ "slug": "the-sloop-inn"
+}

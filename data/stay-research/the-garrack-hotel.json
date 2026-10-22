@@ -1,0 +1,22 @@
+{
+ "slug": "the-garrack-hotel",
+ "officialUrl": null,
+ "trading": "unclear",
+ "stayType": null,
+ "accommodation": null,
+ "suitableFor": null,
+ "parking": null,
+ "dogs": null,
+ "beachAccess": null,
+ "boardStorage": null,
+ "confirmedFeatures": null,
+ "overview": null,
+ "surfTripFit": null,
+ "sources": [
+  {
+   "label": "Kayak listing (search result only)",
+   "url": "https://www.kayak.com/St-Ives-Cornwall--Hotels-The-Garrack.73368.ksp"
+  }
+ ],
+ "gaps": "Official site (garrack.com) blocked by robots.txt; only OTA/wedding listings found. Trading and facilities unconfirmed."
+}

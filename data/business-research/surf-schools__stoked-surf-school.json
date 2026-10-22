@@ -1,0 +1,29 @@
+{
+ "slug": "stoked-surf-school",
+ "kind": "surf-schools",
+ "officialUrl": "https://www.stokedsurfschool.co.uk/",
+ "trading": true,
+ "about": "Stoked Surf School is on Beach Road in Perranporth and teaches on Perranporth Beach. Lessons run from first-timers to more experienced surfers, with progress tracked through The Loop, its own seven-level ability system. It also hires out boards and wetsuits daily on the beach.",
+ "offers": [
+  "Standard group lessons",
+  "Private lessons",
+  "Family lessons",
+  "Large group lessons",
+  "Time2Move lessons",
+  "Daily board and wetsuit hire"
+ ],
+ "where": "7 Beach Road, Perranporth TR6 0JL; lessons on Perranporth Beach",
+ "goodToKnow": [
+  "Book online",
+  "Fully qualified instructors",
+  "Listed as a Surfing England surf school"
+ ],
+ "season": "Seven days a week through the season",
+ "sources": [
+  {
+   "label": "Official homepage",
+   "url": "https://www.stokedsurfschool.co.uk/"
+  }
+ ],
+ "gaps": "Lesson inclusions, what to bring, kids' ages and cancellation terms were not stated."
+}

@@ -1,0 +1,122 @@
+{
+ "overview": [
+  "Manorbier sits between Tenby and Pembroke, and its bay is overlooked by a medieval castle. Gerald of Wales, who was born there in the 12th century, called it the pleasantest spot in Wales. The beach mixes sand, rock and pebbles beneath cliffs and dunes. The 12th-century Church of St James watches from the opposite slope, and the Neolithic chambered tomb of King's Quoit sits on the headland above.",
+  "It faces south-west, which makes it one of the more reliable surf beaches on the south Pembrokeshire coast and a long-standing local favourite. There are no lifeguards, and the water can have strong currents, so it is better suited to people who already surf. At low tide there is good rock pooling. In summer it gets very busy, so arrive early if you want to get in the water.",
+  "The beach has excellent water quality, a Green Coast Award and Marine Conservation Society recommendation. The coast path runs east from here to Tenby and west towards Freshwater East."
+ ],
+ "suits": [
+  "Improvers and intermediate surfers",
+  "Families who like rock pooling and a castle in the background",
+  "Walkers on the coast path towards Tenby or Freshwater East"
+ ],
+ "notFor": [
+  "Learners without an instructor — there are no lifeguards",
+  "Late arrivals on busy summer days"
+ ],
+ "surf": {
+  "text": [
+   "Manorbier faces south-west and picks up the westerly swells that run along the south Pembrokeshire coast. There is a beach break over sand, with rocky reef sections that can give better-shaped waves at the right stage of tide. Northerly winds are offshore.",
+   "Rocks show around low tide, and the incoming tide can cut off parts of the beach, so check tide times before you go. Visit Pembrokeshire notes strong currents. With no lifeguards, never surf alone here.",
+   "Manorbier is a beach and point break with lefts and rights, best on a south-westerly swell with a north-easterly offshore. High tide is generally better. When it's working expect company, and watch for rips and rocks. There's some shelter from north-westerlies. Winter is the best season and summer is mostly flat."
+  ],
+  "cards": [
+   {
+    "label": "Level",
+    "title": "Improvers upwards",
+    "text": "Rocky sections and no lifeguards make it best for surfers with some experience."
+   },
+   {
+    "label": "Conditions",
+    "title": "South-west swell, northerly wind",
+    "text": "Reef sections and rocks change the beach a lot with the tide."
+   },
+   {
+    "label": "Hazards",
+    "title": "Rocks, currents and tide",
+    "text": "Take care over rocks, watch for strong currents and keep an eye on the incoming tide."
+   }
+  ]
+ },
+ "practical": [
+  {
+   "label": "Parking",
+   "title": "National Park car park",
+   "text": "A pay-and-display car park run by the National Park Authority, free outside the main season, with disabled spaces. Postcode SA70 8QR."
+  },
+  {
+   "label": "Facilities",
+   "title": "Toilets",
+   "text": "Toilets including accessible facilities. Cafés and a pub are nearby in the village."
+  },
+  {
+   "label": "Access",
+   "title": "Level path and viewing platform",
+   "text": "A level path leads to a beach-head platform with seating. The last 40 metres include three short slopes of up to 1:10. A hearing loop is available."
+  },
+  {
+   "label": "Lifeguards",
+   "title": "None",
+   "text": "There is no lifeguard service. Avoid rough or unfamiliar conditions."
+  },
+  {
+   "label": "Dogs",
+   "title": "Allowed",
+   "text": "Dogs are allowed on the beach."
+  }
+ ],
+ "faqs": [
+  {
+   "q": "Is Manorbier good for surfing?",
+   "a": "Yes, for surfers with some experience. It faces south-west and picks up westerly swell, but it has rocks and no lifeguards."
+  },
+  {
+   "q": "Are dogs allowed on Manorbier beach?",
+   "a": "Yes, dogs are allowed."
+  },
+  {
+   "q": "Is Manorbier beach accessible?",
+   "a": "There is a level path from the car park to a beach-head viewing platform with seating, with a few short slopes near the end."
+  },
+  {
+   "q": "What is King's Quoit?",
+   "a": "A Neolithic chambered tomb above the bay."
+  }
+ ],
+ "sources": [
+  {
+   "label": "The Beach Guide — Manorbier Bay",
+   "url": "https://www.thebeachguide.co.uk/south-wales/pembrokeshire/manorbier-bay.htm"
+  },
+  {
+   "label": "Visit Pembrokeshire — Manorbier",
+   "url": "https://www.visitpembrokeshire.com/explore-pembrokeshire/beaches/manorbier"
+  }
+ ],
+ "factCheck": [
+  {
+   "fact": "Church of St James 12th century; Manorbier Castle; King's Quoit Neolithic tomb",
+   "url": "https://www.thebeachguide.co.uk/south-wales/pembrokeshire/manorbier-bay.htm"
+  },
+  {
+   "fact": "NPA pay-and-display, free off-season, disabled spaces; postcode SA70 8QR",
+   "url": "https://www.thebeachguide.co.uk/south-wales/pembrokeshire/manorbier-bay.htm"
+  },
+  {
+   "fact": "No lifeguards; dogs allowed; Green Coast Award; very crowded in summer",
+   "url": "https://www.thebeachguide.co.uk/south-wales/pembrokeshire/manorbier-bay.htm"
+  },
+  {
+   "fact": "South-west facing; strong currents; incoming tide cuts off parts",
+   "url": "https://www.visitpembrokeshire.com/explore-pembrokeshire/beaches/manorbier"
+  },
+  {
+   "fact": "Level path to platform; last 40 m three gradients up to 1:10; hearing loop",
+   "url": "https://www.visitpembrokeshire.com/explore-pembrokeshire/beaches/manorbier"
+  },
+  {
+   "fact": "Manorbier: beach and point, SW swell, NE offshore, around high tide",
+   "url": "https://www.surf-forecast.com/breaks/Manorbier"
+  }
+ ],
+ "checked": "October 2026"
+}

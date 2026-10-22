@@ -1,0 +1,22 @@
+{
+ "slug": "the-whiteleaf",
+ "officialUrl": "https://www.thewhiteleaf.co.uk/",
+ "trading": true,
+ "stayType": "Guest house B&B with licensed restaurant",
+ "accommodation": "En-suite rooms, three with balconies overlooking Croyde",
+ "suitableFor": "Couples and food-focused guests",
+ "parking": null,
+ "dogs": null,
+ "beachAccess": null,
+ "boardStorage": null,
+ "confirmedFeatures": "En-suite rooms, balconies (three rooms), lounge, licensed à la carte restaurant",
+ "overview": "The Whiteleaf is a detached 1930s guest house in Croyde with en-suite rooms, three of which have balconies looking over the village. It has a lounge and a licensed restaurant using local produce where possible.",
+ "surfTripFit": "Comfortable for surfers who want a good dinner after a session, but the site does not give the distance to the beach or mention board storage.",
+ "sources": [
+  {
+   "label": "The Whiteleaf official site",
+   "url": "https://www.thewhiteleaf.co.uk/"
+  }
+ ],
+ "gaps": "Number of rooms, parking, dogs, beach distance, board storage and opening dates not stated."
+}

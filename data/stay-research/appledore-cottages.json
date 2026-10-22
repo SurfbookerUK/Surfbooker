@@ -1,0 +1,22 @@
+{
+ "name": "Appledore Cottages",
+ "officialUrl": "https://www.appledorecottages.net/",
+ "trading": true,
+ "stayType": "Small self-catering cottage business",
+ "accommodation": "Five properties: Myrtle Cottage (4 bed), Gannets Annexe (2 bed), Rose Cottage (4 bed, up to 10), Bimbo's Cottage (2 bed, up to 8) and Sea View Cottage",
+ "suitableFor": "Families, large groups (Myrtle and Gannets can be joined) and dog owners",
+ "parking": "Myrtle Cottage has a driveway for 3-4 cars; others not stated",
+ "dogs": "Pets welcome",
+ "beachAccess": "Bimbo's Cottage is on Irsha Street near Appledore beach; Rose Cottage is a few level steps from the quay",
+ "boardStorage": null,
+ "confirmedFeatures": "Walled and enclosed gardens, open fireplace (Rose Cottage), en-suite bathrooms (Bimbo's), linkable units for large groups",
+ "overview": "A local business letting a handful of cottages around Appledore, from a two-bedroom annexe to four-bedroom houses that can be combined for large groups. Properties include one on Irsha Street near the beach and another a few steps from the quay, and pets are welcome.",
+ "surfTripFit": "Options for big groups, plus driveway parking at Myrtle Cottage, suit a crew travelling with several boards; Westward Ho! is close by.",
+ "sources": [
+  {
+   "label": "Appledore Cottages",
+   "url": "https://www.appledorecottages.net/"
+  }
+ ],
+ "slug": "appledore-cottages"
+}

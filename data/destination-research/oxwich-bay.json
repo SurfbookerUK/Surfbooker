@@ -1,0 +1,116 @@
+{
+ "overview": [
+  "Oxwich Bay is a 2.5-mile (4km) curve of sand on the south of the Gower, reached from the small village of Oxwich. Behind the dunes is a wetland that forms Oxwich Burrows National Nature Reserve, home to rare plants, insects and birds, so the bay feels wilder than its car park suggests. In 2007 it was even named the most beautiful beach in Britain.",
+  "At its eastern end the bay finishes at High Tor, but at low tide a continuous stretch of sand links it to Three Cliffs Bay beyond. A private car park sits right behind the beach, with a café, restaurant and toilets close by. High-top vans are not allowed in the car park, though pop-tops are. With so much sand, it rarely feels crowded once you walk away from the main access point.",
+  "Because the bay faces south-east, it is well sheltered from the usual swell. It is a favourite for swimming, diving, sailing, windsurfing, kayaking and paddleboarding, and only gets surf in a big south-westerly storm. There are no lifeguards, and dogs are allowed all year. Keep to the paths through the dunes to protect the nature reserve, and check tide times if you plan to walk round to Three Cliffs."
+ ],
+ "suits": [
+  "Families on calm days",
+  "Paddlesports, sailing and diving",
+  "Walkers exploring the dunes and nature reserve",
+  "Dog owners — dogs are allowed all year"
+ ],
+ "notFor": [
+  "Regular surf",
+  "Lifeguarded swimming — there is no lifeguard service",
+  "High-top vans, which are banned from the car park"
+ ],
+ "surf": {
+  "text": [
+   "Most of the time Oxwich is flat. It only comes alive when a big south-westerly swell wraps into the bay, usually when the exposed beaches are huge or blown out, and then the sheltered waves draw a crowd quickly.",
+   "On those days it is worth a look, but treat it as a bonus rather than a plan. If you want consistent surf, west Gower is a much safer bet.",
+   "Oxwich faces south-east and is sheltered, so it only turns on when a big Atlantic storm swell wraps in, from the south-west. Locals describe the classic day as a deep low with strong south-westerly or westerly winds, and the topography around the car park can create a localised offshore even then. Around high tide the waves are hollow. It can close out toward the east end, and it gets crowded when it works, even midweek, though the mood is friendly. It's mostly a late autumn and winter wave; summer is flat."
+  ],
+  "cards": [
+   {
+    "label": "Level",
+    "title": "Depends on the storm",
+    "text": "When it works, waves are sheltered, but it only breaks in big swells."
+   },
+   {
+    "label": "Conditions",
+    "title": "Big south-west swell",
+    "text": "Needs a large swell to wrap in; flat on most days."
+   },
+   {
+    "label": "Hazards",
+    "title": "No lifeguards",
+    "text": "There is no lifeguard service. Check conditions and tides before swimming or paddling out."
+   }
+  ]
+ },
+ "practical": [
+  {
+   "label": "Parking",
+   "title": "Private beach car park",
+   "text": "A large car park right behind the beach. High-top vans are not allowed; pop-tops are."
+  },
+  {
+   "label": "Facilities",
+   "title": "Café, restaurant, toilets",
+   "text": "A beachside café and a restaurant/bar, plus toilets."
+  },
+  {
+   "label": "Lifeguards",
+   "title": "None",
+   "text": "There is no lifeguard service at Oxwich Bay."
+  },
+  {
+   "label": "Dogs",
+   "title": "Allowed all year",
+   "text": "Swansea Council lists Oxwich among the beaches where dogs are allowed all year round."
+  },
+  {
+   "label": "Nature",
+   "title": "Oxwich Burrows",
+   "text": "The wetland behind the dunes is a national nature reserve — keep to paths."
+  }
+ ],
+ "faqs": [
+  {
+   "q": "Can you surf at Oxwich?",
+   "a": "Only when a big south-west swell wraps into the bay. It is usually flat, which suits families and paddlesports."
+  },
+  {
+   "q": "Are dogs allowed at Oxwich Bay?",
+   "a": "Yes. Swansea Council allows dogs on Oxwich all year round."
+  },
+  {
+   "q": "Can I walk from Oxwich to Three Cliffs?",
+   "a": "At low tide a continuous stretch of sand joins the two bays past High Tor."
+  },
+  {
+   "q": "Can I park a high-top van at Oxwich?",
+   "a": "No — high-top vans are banned from the beach car park, though pop-tops are allowed."
+  }
+ ],
+ "sources": [
+  {
+   "label": "Wikipedia — Oxwich Bay",
+   "url": "https://en.wikipedia.org/wiki/Oxwich_Bay"
+  },
+  {
+   "label": "Swansea Council — dogs on beaches",
+   "url": "https://www.swansea.gov.uk/dogsonbeaches"
+  },
+  {
+   "label": "The Beach Guide — Oxwich Bay",
+   "url": "https://www.thebeachguide.co.uk/south-wales/glamorgan/oxwich-bay.htm"
+  }
+ ],
+ "factCheck": [
+  {
+   "fact": "2.5 miles / 4km; Oxwich Burrows NNR; ends at High Tor, links to Three Cliffs at low tide; swimming, diving, sailing, water skiing, windsurfing",
+   "url": "https://en.wikipedia.org/wiki/Oxwich_Bay"
+  },
+  {
+   "fact": "Dogs allowed all year (current.json said 'check signs' — updated)",
+   "url": "https://www.swansea.gov.uk/dogsonbeaches"
+  },
+  {
+   "fact": "Oxwich: sheltered SE-facing, needs big SW storm swell, high tide hollow",
+   "url": "https://www.surf-forecast.com/breaks/Oxwich-Bay"
+  }
+ ],
+ "checked": "October 2026"
+}

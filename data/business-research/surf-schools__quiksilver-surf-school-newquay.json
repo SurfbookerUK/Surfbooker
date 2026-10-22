@@ -1,0 +1,28 @@
+{
+ "slug": "quiksilver-surf-school-newquay",
+ "kind": "surf-schools",
+ "officialUrl": "https://www.quiksilversurfschoolnewquay.com/",
+ "trading": "unclear",
+ "about": "Quiksilver Surf School Newquay is based in Pentire, about 100 metres from Fistral Beach, and is affiliated with Quiksilver and Roxy. It runs beginner to intermediate group lessons, private and family sessions, coasteering and equipment hire, and hosts women-only surf weekends with Newquay Women's Surf Club.",
+ "offers": [
+  "Beginner, improver and intermediate group lessons",
+  "Private lessons",
+  "Family lessons",
+  "Women-only surf weekends",
+  "Coasteering",
+  "Equipment hire"
+ ],
+ "where": "9 Esplanade Road, Pentire, Newquay TR7 1PS, about 100 metres from Fistral Beach",
+ "goodToKnow": [
+  "Full-length wetsuit and board included with lessons",
+  "Indoor changing rooms, hot showers and secure lockers"
+ ],
+ "season": null,
+ "sources": [
+  {
+   "label": "Cornish Secrets directory listing",
+   "url": "https://directory.cornishsecrets.co.uk/listing/quiksilver-surf-school-newquay/"
+  }
+ ],
+ "gaps": "The official site blocks automated fetching, so details come from the directory listing. The listing shows Friday to Sunday hours only, so seasonal or current trading status is unclear."
+}

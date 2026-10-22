@@ -1,0 +1,22 @@
+{
+ "slug": "trevornick-holiday-park",
+ "officialUrl": "https://www.trevornick.co.uk/",
+ "trading": true,
+ "stayType": "Holiday park with caravans, lodges, cottages and touring pitches",
+ "accommodation": "Static caravans, lodges, holiday cottages, ready tents, touring and camping pitches, and a large self-catering farmhouse",
+ "suitableFor": "Families, groups, dog owners, campers and tourers",
+ "parking": null,
+ "dogs": "Dog friendly, with dog-friendly accommodation and a dog walking field",
+ "beachAccess": "Described as within walking distance of the beach at Holywell Bay; no distance given",
+ "boardStorage": null,
+ "confirmedFeatures": "Outdoor heated pool with splash zone, spa, four food and drink venues, bar, entertainment, arcade, soft play, playgrounds, kids' club, par-3 golf, fishing lakes, bike and forest trails, launderette, free Wi-Fi, local surf school link-up",
+ "overview": "A large holiday park at Holywell Bay near Newquay, offering everything from touring pitches and ready tents to caravans, lodges and cottages. It has an outdoor pool, spa, bars and a long list of family activities, and the beach is within walking distance.",
+ "surfTripFit": "Holywell Bay is a surf beach within walking distance and the park links with a local surf school, though it is geared mainly to family holidays.",
+ "sources": [
+  {
+   "label": "Trevornick official site",
+   "url": "https://www.trevornick.co.uk/"
+  }
+ ],
+ "gaps": "LOCATION MISMATCH: Trevornick is at Holywell Bay (TR8 5PW), not Gwithian - should be moved to a Holywell/Newquay area. Parking and board storage not stated."
+}

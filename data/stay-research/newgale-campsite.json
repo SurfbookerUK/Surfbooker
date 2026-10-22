@@ -1,0 +1,26 @@
+{
+ "name": "Newgale Campsite",
+ "officialUrl": "https://newgalecampsite.co.uk/",
+ "trading": true,
+ "stayType": "Beachside campsite with bar",
+ "accommodation": "Grass, electric and fully serviced pitches for tents, campervans, motorhomes and caravans",
+ "suitableFor": "Campers and campervans",
+ "parking": null,
+ "dogs": "Welcome (charge per dog per night)",
+ "beachAccess": "About two minutes' walk across the road and over the pebble bank to the sand",
+ "boardStorage": null,
+ "confirmedFeatures": "Showers, laundry, phone-charging kiosk, free freezer-block storage, dishwashing area, Wi-Fi, The Landsker Line bar and takeaway",
+ "overview": "Newgale Campsite sits just behind the pebble bank, about two minutes' walk from two miles of sand. It takes tents, campervans, motorhomes and caravans on grass or serviced pitches. The Landsker Line bar and takeaway is on site.",
+ "surfTripFit": "Being two minutes from the water makes it easy to check conditions and surf several times a day.",
+ "sources": [
+  {
+   "label": "Newgale Campsite official site",
+   "url": "https://newgalecampsite.co.uk/"
+  },
+  {
+   "label": "Visit Pembrokeshire listing",
+   "url": "https://www.visitpembrokeshire.com/accommodation-listing/newgale-campsite"
+  }
+ ],
+ "slug": "newgale-campsite"
+}

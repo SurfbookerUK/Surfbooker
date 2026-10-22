@@ -1,0 +1,277 @@
+{
+ "slug": "gwithian-godrevy",
+ "schools": [
+  {
+   "name": "Gwithian Academy of Surfing",
+   "type": "Surf school",
+   "url": "https://www.surfacademy.co.uk/",
+   "base": "1 Godrevy Towans, Gwithian (TR27 5ED), beside a large car park and a short level walk to the sand",
+   "note": "Two-hour group lessons for beginners through to advanced, plus private, small-group and family lessons, surf clubs and video coaching. It teaches from age 8, with private lessons suggested for younger children, and has indoor changing rooms.",
+   "source": "https://www.surfacademy.co.uk/"
+  },
+  {
+   "name": "Global Boarders (now Makai)",
+   "type": "Surf school",
+   "url": "https://www.globalboarders.com/",
+   "base": "Below Sunset Surf Cafe, 10 Gwithian Towans (TR27 5BT)",
+   "note": "Beginner, improver and advanced lessons, private and family lessons, and summer surf camps for 8 to 14 year olds run from Gwithian. The business is now trading as Makai.",
+   "source": "https://www.globalboarders.com/"
+  },
+  {
+   "name": "Shore Surf School",
+   "type": "Surf school",
+   "url": "https://shoresurf.com/",
+   "base": "Beach camp in the bottom National Trust car park at Godrevy (TR27 5ED), plus an HQ at St Ives Bay Beach Resort above Gwithian",
+   "note": "Group lessons and private coaching from age 7 (seven-year-olds need an adult in the water with them). Everyone needs to be able to swim 25m.",
+   "source": "https://shoresurf.com/pages/faqs"
+  }
+ ],
+ "hire": [
+  {
+   "name": "Gwithian Academy of Surfing",
+   "type": "Board & wetsuit hire",
+   "url": "https://www.surfacademy.co.uk/",
+   "base": "Godrevy Towans, Gwithian",
+   "note": "Surfboard and wetsuit hire, plus SUP hire at Gwithian. Lesson-goers can keep their kit for an hour afterwards to practise.",
+   "source": "https://www.surfacademy.co.uk/"
+  },
+  {
+   "name": "Shore Surf School",
+   "type": "Board & wetsuit hire",
+   "url": "https://shoresurf.com/",
+   "base": "Godrevy National Trust car park and St Ives Bay Beach Resort",
+   "note": "Wetsuits, soft boards, soft tops, hard boards, bodyboards, bellyboards and SUPs, from either site.",
+   "source": "https://shoresurf.com/pages/surf-hire"
+  },
+  {
+   "name": "Global Boarders / Sunset Surf",
+   "type": "Board & wetsuit hire",
+   "url": "https://www.sunset-surf.com/",
+   "base": "Sunset Surf, 10 Gwithian Towans",
+   "note": "Surf hire at Gwithian, with a delivery service offered by Global Boarders. Sunset Surf's listing also mentions paddleboard and kayak hire.",
+   "source": "https://www.globalboarders.com/"
+  }
+ ],
+ "shops": [
+  {
+   "name": "Sunset Surf",
+   "type": "Surf shop",
+   "url": "https://www.sunset-surf.com/",
+   "town": "Gwithian",
+   "note": "An independent surf shop with a cafe at Gwithian Towans, on the beach access.",
+   "source": "https://www.sunset-surf.com/"
+  },
+  {
+   "name": "Shore Surf shop",
+   "type": "Surf shop",
+   "url": "https://shoresurf.com/collections/shore-surf-shop",
+   "town": "St Ives Bay Beach Resort, above Gwithian",
+   "note": "A small shop at the surf school HQ with wetsuits, sun care, ear plugs and clothing.",
+   "source": "https://shoresurf.com/"
+  },
+  {
+   "name": "Down The Line Surf Co",
+   "type": "Surf shop",
+   "url": "https://www.downthelinesurf.co.uk/",
+   "town": "Hayle (Copperhouse)",
+   "note": "Large surf shop with boards from beginner to custom, summer and winter wetsuits and accessories, plus demo board and wetsuit hire.",
+   "source": "https://www.downthelinesurf.co.uk/pages/about-us"
+  }
+ ],
+ "lessonsIntro": "Gwithian and Godrevy form one long stretch of sand, and three surf schools teach along it. It's one of the most popular places in west Cornwall to learn.",
+ "learn": {
+  "text": [
+   "Gwithian sits on the east side of St Ives Bay, part of the three-mile run of sand that ends at Godrevy Point. Holiday guides describe its waves as gently sloping and easier to catch than those at Godrevy, which tends to pick up the most swell and draws more experienced surfers. Because the beach shelves gently, waves can break a long way out, so expect a fair paddle on bigger days. Gwithian Academy says there's almost always some surf.",
+   "Godrevy and Gwithian join at low tide. Lessons at Godrevy start from the National Trust car park, while Gwithian schools sit on the towans just behind the beach. RNLI lifeguards cover Godrevy daily from mid-May to late September, with Gwithian North covered into the autumn. The RNLI has warned of surging waves and flash rips here, especially outside the patrolled zones."
+  ],
+  "cards": [
+   {
+    "label": "Level",
+    "title": "Good for complete beginners",
+    "text": "Gwithian's softer, sloping waves suit first-timers. Godrevy is more exposed and better once you're progressing."
+   },
+   {
+    "label": "Best time",
+    "title": "Lifeguarded season, smaller swells",
+    "text": "Learn while lifeguards are on, from mid-May to late September at Godrevy. Book ahead in summer."
+   },
+   {
+    "label": "Watch out for",
+    "title": "Flash rips and the Godrevy channel",
+    "text": "The RNLI warns of flash rip currents and surging waves. The channel between Godrevy Island and the mainland can run strongly around mid-tide."
+   }
+  ]
+ },
+ "hireIntro": "All three surf schools here also hire kit, so you can get a board and wetsuit at either end of the beach. Hayle, a few minutes away, has a big surf shop with hire too.",
+ "kit": {
+  "text": [
+   "Shore Surf recommends a soft board with plenty of volume for first-timers on Gwithian's gentle waves, and the local hire racks carry them from 6 to 9 feet. Improvers can try a soft top with a hard base for extra glide before moving to a hard board. Water here is around 9 to 10°C in early March and 15 to 18°C by mid-August, so wetsuit choice really matters."
+  ],
+  "cards": [
+   {
+    "label": "Board",
+    "title": "Soft board, then soft top",
+    "text": "Shore Surf recommends soft boards for first-timers and soft tops for beginners heading towards intermediate."
+   },
+   {
+    "label": "Wetsuit",
+    "title": "4/3 in milder months, 5/3 in winter",
+    "text": "Hire suits here are 4/3 and 5/3mm. Surf-forecast suggests a 4/3 (or 3/2 with boots) in August and 5mm with gloves and boots in late winter."
+   },
+   {
+    "label": "Other craft",
+    "title": "Bodyboards, bellyboards and SUP",
+    "text": "Bodyboards and bellyboards suit families. SUP hire is available at Gwithian for calm days. Surf craft stay in the black and white flagged zone."
+   }
+  ]
+ },
+ "shopsIntro": "There's a surf shop and cafe right on the Gwithian towans, and a much bigger choice in Hayle a short drive away.",
+ "shopsText": [
+  "Sunset Surf at Gwithian Towans has an independent surf shop alongside its cafe, and Shore Surf runs a small shop at its St Ives Bay Beach Resort base. For boards, winter wetsuits and accessories, Down The Line Surf Co in Copperhouse, Hayle, carries a wide range from beginner boards to customs."
+ ],
+ "faqs": {
+  "lessons": [
+   {
+    "q": "What's the youngest age for surf lessons at Gwithian?",
+    "a": "Gwithian Academy of Surfing teaches from 8 and suggests private lessons for younger children. Shore Surf takes children from 7 if an adult joins them in the water."
+   },
+   {
+    "q": "Is Gwithian or Godrevy better for beginners?",
+    "a": "Gwithian's gently sloping waves are easier to learn on. Godrevy gets bigger surf and is a step up."
+   },
+   {
+    "q": "Do I need to be able to swim?",
+    "a": "Yes. Shore Surf, for example, asks that everyone can swim at least 25m unaided."
+   }
+  ],
+  "hire": [
+   {
+    "q": "Where can I hire a surfboard at Godrevy?",
+    "a": "Shore Surf hires from its beach camp in the Godrevy National Trust car park, and Gwithian Academy of Surfing is just along the towans."
+   },
+   {
+    "q": "Can I hire a SUP at Gwithian?",
+    "a": "Yes. Gwithian Academy of Surfing and Shore Surf both list SUP hire, best on calm days."
+   }
+  ],
+  "shops": [
+   {
+    "q": "Is there a surf shop at Gwithian beach?",
+    "a": "Yes, Sunset Surf has an independent surf shop with its cafe at Gwithian Towans."
+   },
+   {
+    "q": "Where's the nearest bigger surf shop?",
+    "a": "Down The Line Surf Co in Copperhouse, Hayle, has boards, wetsuits and accessories."
+   }
+  ]
+ },
+ "sources": [
+  {
+   "label": "Gwithian Academy of Surfing",
+   "url": "https://www.surfacademy.co.uk/"
+  },
+  {
+   "label": "Global Boarders / Makai",
+   "url": "https://www.globalboarders.com/"
+  },
+  {
+   "label": "Sunset Surf",
+   "url": "https://www.sunset-surf.com/"
+  },
+  {
+   "label": "Shore Surf - locations",
+   "url": "https://shoresurf.com/pages/our-locations"
+  },
+  {
+   "label": "Shore Surf - FAQs",
+   "url": "https://shoresurf.com/pages/faqs"
+  },
+  {
+   "label": "Shore Surf - hire",
+   "url": "https://shoresurf.com/pages/surf-hire"
+  },
+  {
+   "label": "Shore Surf - beach safety",
+   "url": "https://shoresurf.com/blogs/shore-surf-blogs/beach-safety-essential-tips-for-a-safe-day-at-the-beach"
+  },
+  {
+   "label": "Down The Line Surf Co",
+   "url": "https://www.downthelinesurf.co.uk/pages/about-us"
+  },
+  {
+   "label": "RNLI Godrevy Beach",
+   "url": "https://rnli.org/find-my-nearest/lifeguarded-beaches/hayle-godrevy-beach"
+  },
+  {
+   "label": "RNLI Gwithian and Godrevy rescue (2022)",
+   "url": "https://rnli.org/news-and-media/2022/june/29/gwithian-and-godrevy-rnli-lifeguards-rescue-two-swimmers-in-danger"
+  },
+  {
+   "label": "RNLI end of 2025 peak season",
+   "url": "https://rnli.org/news-and-media/2025/september/03/24-rnli-lifeguarded-beaches-in-south-west-prepare-to-end-peak-season-patrols"
+  },
+  {
+   "label": "Aspects Holidays - surfing Gwithian & Godrevy",
+   "url": "https://www.aspects-holidays.co.uk/blog/things-to-do/surfing-gwithian-godrevy"
+  },
+  {
+   "label": "Visit Cornwall - Gwithian Towans",
+   "url": "https://www.visitcornwall.com/things-to-do/beaches/gwithian-towans-beach"
+  },
+  {
+   "label": "National Trust Godrevy",
+   "url": "https://www.nationaltrust.org.uk/visit/cornwall/godrevy"
+  },
+  {
+   "label": "Surf-forecast Gwithian water temperature",
+   "url": "https://www.surf-forecast.com/breaks/Gwithian/seatemp"
+  }
+ ],
+ "factCheck": [
+  {
+   "fact": "GAS at 1 Godrevy Towans; lessons at Gwithian and Godrevy; 2-hour lessons; private, family, video; teaches over 8; board, wetsuit and SUP hire",
+   "url": "https://www.surfacademy.co.uk/"
+  },
+  {
+   "fact": "Global Boarders at Sunset Surf Cafe 10 Gwithian Towans; surf camps 8-14; hire at Gwithian; now Makai",
+   "url": "https://www.globalboarders.com/"
+  },
+  {
+   "fact": "Sunset Surf has independent surf shop and hire; Global Boarders runs school below cafe",
+   "url": "https://www.sunset-surf.com/"
+  },
+  {
+   "fact": "Shore Surf two sites: St Ives Bay Beach Resort (Gwithian below) and Godrevy NT car park",
+   "url": "https://shoresurf.com/pages/our-locations"
+  },
+  {
+   "fact": "Shore Surf minimum age 7 with adult; 25m swim",
+   "url": "https://shoresurf.com/pages/faqs"
+  },
+  {
+   "fact": "Shore Surf hire list and 4/3 & 5/3 C-Skins wetsuits",
+   "url": "https://shoresurf.com/pages/surf-hire"
+  },
+  {
+   "fact": "Godrevy lifeguards daily 16 May-27 Sept 2026; joins Gwithian at low tide",
+   "url": "https://rnli.org/find-my-nearest/lifeguarded-beaches/hayle-godrevy-beach"
+  },
+  {
+   "fact": "Surging waves and flash rips at Gwithian/Godrevy",
+   "url": "https://rnli.org/news-and-media/2022/june/29/gwithian-and-godrevy-rnli-lifeguards-rescue-two-swimmers-in-danger"
+  },
+  {
+   "fact": "Gwithian gentle sloping waves; Godrevy bigger; long paddle; Godrevy channel currents at mid tide",
+   "url": "https://www.aspects-holidays.co.uk/blog/things-to-do/surfing-gwithian-godrevy"
+  },
+  {
+   "fact": "Black and white flags for surfboards",
+   "url": "https://shoresurf.com/blogs/shore-surf-blogs/beach-safety-essential-tips-for-a-safe-day-at-the-beach"
+  },
+  {
+   "fact": "Sea temp 9-10C early March, 15-18C August",
+   "url": "https://www.surf-forecast.com/breaks/Gwithian/seatemp"
+  }
+ ],
+ "gaps": "No school publishes adaptive surfing here. Global Boarders' site is mid-rebrand to Makai, so its URL and name may change. Sunset Surf's own site doesn't say exactly what it hires (its Cornish Secrets listing says boards, wetsuits, paddleboards and kayaks) and its opening days look limited outside summer. Lifeguard dates for Gwithian North/South in 2026 weren't confirmed directly (2025 dates only)."
+}

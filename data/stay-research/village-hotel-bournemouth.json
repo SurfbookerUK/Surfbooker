@@ -1,0 +1,22 @@
+{
+ "name": "Village Hotel Bournemouth",
+ "officialUrl": "",
+ "trading": true,
+ "stayType": "Hotel with leisure club",
+ "accommodation": "116 rooms",
+ "suitableFor": "Families and couples wanting facilities",
+ "parking": "Free parking",
+ "dogs": null,
+ "beachAccess": "Short drive to Boscombe, Southbourne and Christchurch",
+ "boardStorage": null,
+ "confirmedFeatures": "Spa, indoor pool, health club, restaurant, bar, Starbucks",
+ "overview": "A 116-room hotel on Deansleigh Road, a short drive inland from Southbourne, Boscombe and Christchurch. It has free parking, an indoor pool, spa and gym, plus a restaurant and bar.",
+ "surfTripFit": "Free parking and a pool make it a practical drive-in base for the Southbourne beaches.",
+ "sources": [
+  {
+   "label": "Visit Bournemouth listing",
+   "url": "https://www.visitbournemouth.com/accommodation/village-hotel-bournemouth"
+  }
+ ],
+ "slug": "village-hotel-bournemouth"
+}

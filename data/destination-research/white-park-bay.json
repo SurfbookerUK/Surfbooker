@@ -1,0 +1,134 @@
+{
+ "overview": [
+  "White Park Bay is a white arc of sand between two chalk headlands on the North Antrim coast, backed by ancient dunes and cared for by the National Trust since 1938. It lies off the B146, 6.5 miles from Bushmills and 7.5 miles from Ballycastle with the hamlet of Portbraddan at its western end. The National Trust car park is open all day, and the bay itself is open from dawn to dusk.",
+  "It's a place for a walk rather than a swim. The National Trust warns that swimming is unsafe because of dangerous rip currents, and there are no lifeguards, toilets or facilities. Getting down involves steep steps, slopes and kissing gates, and the small free car park has a rough surface. Cattle and sheep graze the dunes and beach, so dogs must stay on leads at all times. NCN route 93 passes nearby for cyclists.",
+  "Look out for fossils in the chalk cliffs and on the beach, including fragments of belemnites, squid-like creatures from the late Cretaceous. There is a scheduled historic cairn above the beach. Avoid the unstable cliff between the bay and Portbraddan after a rockfall there, and only walk across to Portbraddan along the beach at low tide. A National Trust holiday cottage sits at Portbraddan."
+ ],
+ "suits": [
+  "Coastal walks",
+  "Fossil hunting",
+  "Quiet, wild scenery"
+ ],
+ "notFor": [
+  "Swimming — the National Trust says it is unsafe",
+  "Beginner surfing",
+  "Wheelchairs and pushchairs"
+ ],
+ "surf": {
+  "title": "Surf and safety",
+  "text": [
+   "Forecast sites describe White Park Bay as a fairly exposed beach break that works best on a north-westerly swell with south-easterly offshore winds. That doesn't make it a sensible surf beach for most people: it is remote, unpatrolled and known for strong rips.",
+   "Any surfing here is only for experienced surfers who know the area and are with others. For lessons or a lifeguarded session, head to Whiterocks, Portrush or Benone.",
+   "Behind the warnings, the wave is real: a beach break with several peaks, lefts and rights, and a cleaner, lined-up right at the east end that's described as surprisingly powerful for a beach break. It works from around 2ft to 12ft on a west to north-westerly swell, with a south-easterly to southerly wind offshore, at any tide, though a rising tide is generally better. Winter is the best season and summer is mostly flat.",
+   "The long walk in keeps the crowd down, so the lineup is usually light. That's exactly the issue: you're a long way from help, with no lifeguards and rips, so go with others and be sure of your ability."
+  ],
+  "cards": [
+   {
+    "label": "Level",
+    "title": "Experienced only",
+    "text": "No lifeguards, dangerous rips and a long walk in."
+   },
+   {
+    "label": "Conditions",
+    "title": "NW swell, south-east wind",
+    "text": "Works at any tide; a rising tide is generally better."
+   },
+   {
+    "label": "Season",
+    "title": "Winter",
+    "text": "February is cleanest in forecast data; summer is mostly flat."
+   },
+   {
+    "label": "Hazards",
+    "title": "Rips and cliffs",
+    "text": "National Trust: dangerous rips and an unstable cliff towards Portbraddan."
+   }
+  ]
+ },
+ "practical": [
+  {
+   "label": "Parking",
+   "title": "Small free car park",
+   "text": "On the B146. It fills quickly — if it's full, come back another time."
+  },
+  {
+   "label": "Access",
+   "title": "Steep",
+   "text": "High-gradient steps, slopes and kissing gates."
+  },
+  {
+   "label": "Facilities",
+   "title": "None",
+   "text": "No toilets."
+  },
+  {
+   "label": "Dogs",
+   "title": "On leads",
+   "text": "Livestock graze the site, so dogs must be on leads."
+  },
+  {
+   "label": "Bus and bike",
+   "title": "Causeway Rambler",
+   "text": "The Causeway Rambler bus runs between Coleraine and Ballycastle; NCN route 93 passes the bay."
+  }
+ ],
+ "faqs": [
+  {
+   "q": "Can you swim at White Park Bay?",
+   "a": "The National Trust says swimming is unsafe because of dangerous rip currents. There are no lifeguards."
+  },
+  {
+   "q": "Are there toilets?",
+   "a": "No."
+  },
+  {
+   "q": "Can I walk to Portbraddan?",
+   "a": "Only along the beach at low tide, and keep away from the unstable cliff."
+  },
+  {
+   "q": "Can I bring my dog?",
+   "a": "Yes, on a lead, because livestock graze the bay."
+  }
+ ],
+ "sources": [
+  {
+   "label": "National Trust — White Park Bay",
+   "url": "https://www.nationaltrust.org.uk/visit/northern-ireland/white-park-bay"
+  },
+  {
+   "label": "Wikipedia — White Park Bay",
+   "url": "https://en.wikipedia.org/wiki/White_Park_Bay"
+  },
+  {
+   "label": "Surf-forecast — White Park Bay",
+   "url": "https://www.surf-forecast.com/breaks/White-Park-Bay"
+  }
+ ],
+ "factCheck": [
+  {
+   "fact": "Rip warning, no toilets, steep access, dogs on leads, Portbraddan low-tide crossing",
+   "url": "https://www.nationaltrust.org.uk/visit/northern-ireland/white-park-bay"
+  },
+  {
+   "fact": "B146, 6.5mi Bushmills, 7.5mi Ballycastle; Causeway Rambler; NCN93",
+   "url": "https://www.nationaltrust.org.uk/visit/northern-ireland/white-park-bay"
+  },
+  {
+   "fact": "NT since 1938; chalk; belemnite fossils; cairn; sheep and cattle",
+   "url": "https://en.wikipedia.org/wiki/White_Park_Bay"
+  },
+  {
+   "fact": "NW swell, SE offshore",
+   "url": "https://www.surf-forecast.com/breaks/White-Park-Bay"
+  },
+  {
+   "fact": "Multiple peaks, cleaner right at east end, powerful for a beach break, W-N swell 2-12ft, SE offshore, rips, light crowd, long walk in",
+   "url": "https://www.surfnerd.com/surf-forecast/white-park-bay"
+  },
+  {
+   "fact": "Winter/February best, summer flat",
+   "url": "https://www.surf-forecast.com/breaks/White-Park-Bay"
+  }
+ ],
+ "checked": "October 2026"
+}

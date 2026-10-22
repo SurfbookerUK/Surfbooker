@@ -1,0 +1,22 @@
+{
+ "slug": "an-mor-hotel",
+ "officialUrl": "https://www.anmorhotel.co.uk/",
+ "trading": true,
+ "stayType": "Sea-view hotel with bar and function rooms",
+ "accommodation": "28 rooms in luxury, superior, standard and family suite categories, many with views",
+ "suitableFor": "Couples, families (family suites), groups and wedding or event parties",
+ "parking": null,
+ "dogs": null,
+ "beachAccess": "Less than a five-minute walk to the beach, shops and restaurants (official site)",
+ "boardStorage": null,
+ "confirmedFeatures": "Bar, lounges, food, function rooms, terrace and gazebo, outdoor bar and BBQ area, beach huts, conference facilities",
+ "overview": "An Mor is a 28-room hotel on Hartland Terrace in Bude, with sea views from many rooms and a lawn running down towards the ocean. It is under five minutes on foot from the beach and the town's shops and restaurants, and also hosts weddings and events in its function suites.",
+ "surfTripFit": "The short walk to the beach and town makes it a practical base for surfing Bude without driving, though the site says nothing about board storage or parking.",
+ "sources": [
+  {
+   "label": "An Mor official site",
+   "url": "https://www.anmorhotel.co.uk/"
+  }
+ ],
+ "gaps": "Parking, dog policy, board/wetsuit storage and season dates not stated; which beach is closest not named."
+}

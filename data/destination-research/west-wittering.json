@@ -1,0 +1,136 @@
+{
+ "overview": [
+  "West Wittering is a long sandy beach at the mouth of Chichester Harbour, privately owned and run by the West Wittering Estate. Behind the dunes is a big grass car park, and at the western end East Head, a National Trust sand and shingle spit, curls into the harbour. On sunny weekends it's one of the busiest beaches on the south coast, and on sold-out days you can only park if you've booked in advance.",
+  "Surf at the Witterings is mostly an autumn and winter affair, when Channel swell is more likely and the beach is quiet. In summer the focus shifts to swimming between the lifeguards' red and yellow flags, sailing and windsurfing. Near the harbour mouth, The Hinge is off limits for swimming because of dangerous currents and sandbars, so keep to the patrolled area, and check conditions before you paddle out.",
+  "East Head is one of the last natural stretches of coast left in West Sussex and one of the fastest-moving spits in the country. Its dunes, salt marsh and tidal channels are a good walk from the main beach on a mix of soft sand, shingle and boardwalk. Dogs are welcome there on a lead but must be kept out of the dunes during the bird nesting season."
+ ],
+ "suits": [
+  "Families wanting a big sandy beach with lifeguards",
+  "Windsurfers and sailors",
+  "Surfers on autumn and winter swells",
+  "Walkers heading out to East Head"
+ ],
+ "notFor": [
+  "Turning up without a parking booking on summer weekends",
+  "Swimming at The Hinge",
+  "Campers and overnight vans"
+ ],
+ "surf": {
+  "text": [
+   "West Wittering is a sandy beach break that depends on south-westerly Channel swell, which is most likely from autumn to early spring. Summer days are usually small and the water is busy with swimmers, so surfers tend to come out when the crowds have gone.",
+   "Close to the harbour entrance, the estate prohibits swimming at The Hinge because of dangerous currents and sandbars. Stay away from that end in the water, and in summer keep surfing and windsurfing clear of the flagged swimming zone.",
+   "West Wittering is a sheltered beach and groyne break that works on a south-westerly swell with a north-easterly offshore around high tide. Beware of groynes and rips, and it can get busy when it works. Winter is best, but clean days are rare."
+  ],
+  "cards": [
+   {
+    "label": "Level",
+    "title": "Learners on small days",
+    "text": "A gently shelving sandy beach, but check the conditions and stay clear of The Hinge."
+   },
+   {
+    "label": "Hazards",
+    "title": "The Hinge",
+    "text": "Swimming is prohibited there due to dangerous currents and sandbars."
+   },
+   {
+    "label": "Season",
+    "title": "Autumn and winter",
+    "text": "Channel swell is most likely from autumn to early spring; summer is usually small and much busier."
+   }
+  ]
+ },
+ "practical": [
+  {
+   "label": "Parking",
+   "title": "Book ahead",
+   "text": "Car park open 06:30–20:30. On sold-out days you can't pay at the gate, so book in advance. Disabled bays are by the entrance and opposite the café."
+  },
+  {
+   "label": "Lifeguards",
+   "title": "Estate lifeguards",
+   "text": "Mid-May to mid-September, 10am–5pm daily. Swim between the red and yellow flags."
+  },
+  {
+   "label": "Dogs",
+   "title": "Main beach restriction",
+   "text": "No dogs on the main swimming beach (groynes 14a–18) from May to 14 September in 2026; allowed elsewhere all year."
+  },
+  {
+   "label": "Facilities",
+   "title": "Toilets, showers, water",
+   "text": "Three toilet blocks with accessible toilets (RADAR key from the café or kiosks), two cold showers and drinking water taps."
+  },
+  {
+   "label": "Access",
+   "title": "Ramp and beach wheelchairs",
+   "text": "A steep concrete ramp near the windsurf club is the main structured access; the estate has beach wheelchairs."
+  }
+ ],
+ "faqs": [
+  {
+   "q": "Do I need to book parking at West Wittering?",
+   "a": "It's recommended, and on sold-out days you can only park with a booking."
+  },
+  {
+   "q": "Can dogs go on West Wittering beach?",
+   "a": "Not on the main swimming beach (groynes 14a–18) from May to 14 September in 2026. They're allowed on the rest of the beach year-round."
+  },
+  {
+   "q": "Is West Wittering good for surfing?",
+   "a": "It can be in autumn and winter, when Channel swell is more likely. Summer is mostly small."
+  },
+  {
+   "q": "Can you walk to East Head from the beach?",
+   "a": "Yes. It's at the western end, reached over sand, shingle and some boardwalk. Dogs must be on leads."
+  }
+ ],
+ "sources": [
+  {
+   "label": "West Wittering Estate — FAQs",
+   "url": "https://www.westwitteringestate.co.uk/faqs/"
+  },
+  {
+   "label": "National Trust — East Head",
+   "url": "https://www.nationaltrust.org.uk/visit/sussex/east-head"
+  },
+  {
+   "label": "The Great Sussex Way — surfing in the Witterings",
+   "url": "https://www.thegreatsussexway.org/listing/surfing-in-the-witterings/207586101/"
+  }
+ ],
+ "factCheck": [
+  {
+   "fact": "Parking 06:30–20:30; pre-book required on sold-out days",
+   "url": "https://www.westwitteringestate.co.uk/faqs/"
+  },
+  {
+   "fact": "Lifeguards mid-May–mid-Sep 10am–5pm; red and yellow flags",
+   "url": "https://www.westwitteringestate.co.uk/faqs/"
+  },
+  {
+   "fact": "Dogs banned groynes 14a–18 May–14 Sep 2026",
+   "url": "https://www.westwitteringestate.co.uk/faqs/"
+  },
+  {
+   "fact": "The Hinge: swimming prevented, dangerous currents and sandbars",
+   "url": "https://www.westwitteringestate.co.uk/faqs/"
+  },
+  {
+   "fact": "Three toilet blocks, RADAR key; two cold showers; ramp near windsurf club; beach wheelchairs; no camping",
+   "url": "https://www.westwitteringestate.co.uk/faqs/"
+  },
+  {
+   "fact": "East Head: fastest-moving spit; dogs on lead, out of dunes in nesting season",
+   "url": "https://www.nationaltrust.org.uk/visit/sussex/east-head"
+  },
+  {
+   "fact": "Witterings surf best autumn/winter",
+   "url": "https://www.thegreatsussexway.org/listing/surfing-in-the-witterings/207586101/"
+  },
+  {
+   "fact": "West Wittering: sheltered, SW swell, NE offshore, high tide, groynes, rips",
+   "url": "https://www.surf-forecast.com/breaks/West-Wittering"
+  }
+ ],
+ "checked": "October 2026"
+}

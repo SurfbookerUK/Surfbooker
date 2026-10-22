@@ -1,0 +1,197 @@
+{
+ "slug": "whitesands",
+ "schools": [
+  {
+   "name": "Whitesands Surf School (Ma Simes)",
+   "type": "Surf school",
+   "url": "https://masimes.co.uk/surf-school-hire",
+   "base": "On the beach at Whitesands; look for the ice cream van on the beachfront. Shop at 28 High Street, St Davids",
+   "note": "Two-hour beginner and improver group lessons (up to eight people) and private lessons for one to four. Minimum age 8 and you must be able to swim 50 metres; equipment included.",
+   "source": "https://masimes.co.uk/surf-school-hire"
+  },
+  {
+   "name": "TYF",
+   "type": "Surf school",
+   "url": "https://www.tyf.com/adventures/surfing/",
+   "base": "Meet at TYF, 20 High Street, St Davids",
+   "note": "Half-day surf sessions at Whitesands Bay in small groups: Discovery for mixed ages from 8, and Explorer for ages 16 and up. Wetsuits (5mm in winter) and kit included.",
+   "source": "https://www.tyf.com/adventures/surfing/"
+  },
+  {
+   "name": "Pembrokeshire Surf School",
+   "type": "Surf school",
+   "url": "https://pembrokeshiresurfschool.co.uk/",
+   "base": "Keeston, near Haverfordwest; beach chosen the evening before from the forecast",
+   "note": "Names Whitesands as one of its teaching beaches, suitable for beginners to advanced depending on the tide. Minimum age 8.",
+   "source": "https://pembrokeshiresurfschool.co.uk/learn-to-surf/"
+  }
+ ],
+ "hire": [
+  {
+   "name": "Ma Simes Surf Hire",
+   "type": "Board & wetsuit hire",
+   "url": "https://masimes.co.uk/surf-school-hire",
+   "base": "On the beach at Whitesands",
+   "note": "Surfboards and wetsuits are hired out on the beach and must be pre-booked, up to 24 hours ahead.",
+   "source": "https://masimes.co.uk/surf-school-hire"
+  }
+ ],
+ "shops": [
+  {
+   "name": "Ma Simes Surf Hut",
+   "type": "Surf shop",
+   "url": "https://masimes.co.uk/",
+   "town": "St Davids",
+   "note": "High Street surf shop selling new and second-hand boards, wetsuits, bodyboards, neoprene accessories, surf hardware and clothing. Open Monday to Friday.",
+   "source": "https://masimes.co.uk/"
+  }
+ ],
+ "lessonsIntro": "Whitesands, just outside St Davids, is one of Wales' best-known surf beaches, with a surf school working daily on the sand in season.",
+ "learn": {
+  "text": [
+   "Whitesands (Porth Mawr) is a wide curve of fine sand facing west, about three miles from St Davids. The main break is at the northern end, and Visit Pembrokeshire notes that on busy days surfers, bodyboarders and canoeists share the waves. Ma Simes runs lessons from the beach, timing them around the best tide, and Pembrokeshire Surf School says the beach suits anyone from beginners to advanced surfers depending on the tide.",
+   "Whitesands has one of the longest lifeguard seasons in Pembrokeshire. In 2026 the RNLI patrols daily from 23 May to 6 September, then weekends until mid-October and over October half term, 10am to 6pm. Visit Pembrokeshire lists currents as a hazard and the area at the northern end is the busiest, so keep to the flagged zone. The car park is small and fills in summer, so arrive early."
+  ],
+  "cards": [
+   {
+    "label": "Level",
+    "title": "Beginners to advanced",
+    "text": "Local schools teach beginners here, and the beach also draws experienced surfers. How suitable it is depends on the tide and swell on the day."
+   },
+   {
+    "label": "Best time",
+    "title": "Late spring to October",
+    "text": "Lifeguards cover the beach from late May, and at weekends into October. Lesson times are set around the best tide."
+   },
+   {
+    "label": "Watch out for",
+    "title": "Currents and crowds at the north end",
+    "text": "Visit Pembrokeshire warns about currents. The break at the northern end gets busy, so beginners should stay in the area their instructor or the lifeguards set."
+   }
+  ]
+ },
+ "hireIntro": "Boards and wetsuits can be hired directly on the beach at Whitesands, but you need to book ahead.",
+ "kit": {
+  "text": [
+   "Whitesands picks up plenty of swell, so beginners should stick to a big soft-top and stay in the whitewater until they're confident. Improvers often move to a longer hard board or a mid-length. The water is cold for much of the year: TYF uses 5mm winter wetsuits for its sessions, and you'll want boots, gloves and a hood in winter. Bodyboarding is popular in the flagged zone."
+  ],
+  "cards": [
+   {
+    "label": "Board",
+    "title": "Soft-top first",
+    "text": "A wide soft-top is the safest choice for learning in the whitewater here. Move to a hard board once you can turn and catch unbroken waves."
+   },
+   {
+    "label": "Wetsuit",
+    "title": "4/3mm in summer, 5mm or more in winter",
+    "text": "Sea temperature data for the south Pembrokeshire coast suggests a 4/3 or 3/2 in mid-August and a 5/4 or thicker with boots, gloves and a hood around late February, when the water drops to roughly 7 to 9°C. Spring and autumn sit in between."
+   },
+   {
+    "label": "Other craft",
+    "title": "Bodyboards and canoes",
+    "text": "Bodyboarders and canoeists also use the break. Lifeguards ask swimmers and bodyboarders to stay between the red and yellow flags."
+   }
+  ]
+ },
+ "shopsIntro": "The nearest surf shop is in St Davids, a short drive or shuttle ride from the beach.",
+ "shopsText": [
+  "Ma Simes Surf Hut on St Davids High Street has been running since the 1980s and stocks boards (new and second-hand), wetsuits for adults and children, bodyboards, boots, gloves and hoods, leashes, wax, fins and changing robes. It also runs the surf school and beach hire at Whitesands. A summer shuttle bus runs from the Oriel y Parc car park in St Davids to the beach."
+ ],
+ "faqs": {
+  "lessons": [
+   {
+    "q": "Who runs surf lessons at Whitesands?",
+    "a": "Ma Simes (Whitesands Surf School) teaches on the beach daily in season, TYF brings half-day sessions from St Davids, and Pembrokeshire Surf School uses Whitesands when the tide suits."
+   },
+   {
+    "q": "What's the minimum age for lessons at Whitesands?",
+    "a": "Ma Simes and TYF's Discovery sessions take children from age 8. Ma Simes also asks that you can swim 50 metres. TYF's Explorer sessions are for ages 16 and over."
+   },
+   {
+    "q": "Where do I meet for a lesson?",
+    "a": "Ma Simes meets on the beach, near the ice cream van on the beachfront. TYF meets at its base at 20 High Street, St Davids."
+   }
+  ],
+  "hire": [
+   {
+    "q": "Can I hire a surfboard at Whitesands?",
+    "a": "Yes. Ma Simes hires surfboards and wetsuits on the beach, but hire must be booked in advance, up to 24 hours ahead."
+   },
+   {
+    "q": "Can I hire kit after a lesson?",
+    "a": "Ma Simes says private lesson customers can hire equipment afterwards, so ask when you book."
+   }
+  ],
+  "shops": [
+   {
+    "q": "Where is the nearest surf shop to Whitesands?",
+    "a": "Ma Simes Surf Hut at 28 High Street, St Davids, about three miles from the beach. It's open Monday to Friday."
+   }
+  ]
+ },
+ "sources": [
+  {
+   "label": "Ma Simes: surf school and hire",
+   "url": "https://masimes.co.uk/surf-school-hire"
+  },
+  {
+   "label": "Ma Simes: shop",
+   "url": "https://masimes.co.uk/"
+  },
+  {
+   "label": "Visit Pembrokeshire: Whitesands Surf School",
+   "url": "https://visitpembrokeshire.com/activity-listing/whitesands-surf-school"
+  },
+  {
+   "label": "TYF: surfing",
+   "url": "https://www.tyf.com/adventures/surfing/"
+  },
+  {
+   "label": "Pembrokeshire Surf School: learn to surf",
+   "url": "https://pembrokeshiresurfschool.co.uk/learn-to-surf/"
+  },
+  {
+   "label": "RNLI: Whitesands",
+   "url": "https://rnli.org/find-my-nearest/lifeguarded-beaches/whitesands-beach"
+  },
+  {
+   "label": "Visit Pembrokeshire: Whitesands beach",
+   "url": "https://www.visitpembrokeshire.com/explore-pembrokeshire/beaches/whitesands"
+  },
+  {
+   "label": "Surf-forecast: sea temperature",
+   "url": "https://www.surf-forecast.com/breaks/Manorbier/seatemp"
+  }
+ ],
+ "factCheck": [
+  {
+   "fact": "Ma Simes lessons at Whitesands, ice cream van meeting point, about 3 miles from St Davids, min age 8, swim 50m, groups max 8, private 1 to 4",
+   "url": "https://masimes.co.uk/surf-school-hire"
+  },
+  {
+   "fact": "Hire on the beach, pre-book up to 24 hours ahead",
+   "url": "https://masimes.co.uk/surf-school-hire"
+  },
+  {
+   "fact": "Shop at 28 High St, sells boards new and second-hand, wetsuits, accessories; Mon to Fri 9 to 5",
+   "url": "https://masimes.co.uk/"
+  },
+  {
+   "fact": "TYF meets 20 High Street; Discovery min age 8, Explorer 16+; 5mm winter wetsuits; Whitesands Bay",
+   "url": "https://www.tyf.com/adventures/surfing/"
+  },
+  {
+   "fact": "Whitesands suits beginners to advanced depending on tide",
+   "url": "https://pembrokeshiresurfschool.co.uk/learn-to-surf/"
+  },
+  {
+   "fact": "RNLI 2026: daily 23 May to 6 Sept, weekends to 18 Oct, October half term",
+   "url": "https://rnli.org/find-my-nearest/lifeguarded-beaches/whitesands-beach"
+  },
+  {
+   "fact": "Break at northern end; currents; ~60-space car park; shuttle from Oriel y Parc",
+   "url": "https://www.visitpembrokeshire.com/explore-pembrokeshire/beaches/whitesands"
+  }
+ ],
+ "gaps": "Ma Simes' shop hours list weekdays only; weekend hours not confirmed. No surf repair service confirmed. Ma Simes' site is current (2026 footer) but some content dates from 2024."
+}

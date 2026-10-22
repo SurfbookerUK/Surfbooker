@@ -1,0 +1,126 @@
+{
+ "overview": [
+  "Lossiemouth's East Beach is a long strip of sand and dunes cut off from the town by the River Lossie. The dark, peaty river meets the clear water of the Moray Firth right in front of the town, and the best view of it all is from Prospect Terrace above the esplanade.",
+  "The beach is reached by a footbridge from the esplanade. The original wooden bridge, built in the 19th-century railway era and used for over a century, failed and closed in 2019, and a community-funded replacement has since been built. Waders such as ringed plover and curlew feed under the bridge.",
+  "Behind the beach is Seatown, the old fishing quarter known locally as The Toonie, with its fisher cottages. On the other side of town, West Beach runs out towards Covesea Lighthouse, a quieter, rockier place for sunsets."
+ ],
+ "suits": [
+  "Beginners and families",
+  "Intermediates on a north-east swell",
+  "Weekend trips with a town on hand"
+ ],
+ "notFor": [
+  "Experienced surfers wanting powerful waves",
+  "Lifeguarded swimming"
+ ],
+ "surf": {
+  "text": [
+   "Surf-forecast describes East Beach as a fairly exposed beach break with lefts and rights, best on a north to north-east swell with a southerly offshore wind. It's surfable on all stages of the tide and the bottom is sand, with no protruding rock.",
+   "Winter, especially January, gives the most clean days, though small conditions are common even then. Crowds are rarely a problem. Keep away from the river mouth, where the flow can pull you, and check water-quality advice after heavy rain.",
+   "Lossiemouth is a sandy beach break with no protruding rocks, so it's a safe bet for beginners when conditions are not too messy. A north-north-easterly swell with a southerly offshore works best and all tides are fine. It rarely gets crowded. Pollution can be a problem in places, and the water is cold, so a spring wetsuit with boots is the minimum."
+  ],
+  "cards": [
+   {
+    "label": "Level",
+    "title": "Beginners to intermediates",
+    "text": "Sand-bottom waves that are forgiving on most days."
+   },
+   {
+    "label": "Hazards",
+    "title": "River mouth",
+    "text": "Stay clear of the River Lossie outflow and the breakwater."
+   },
+   {
+    "label": "Crowds",
+    "title": "Rarely crowded",
+    "text": "Even on a swell, the line-up is usually quiet."
+   }
+  ]
+ },
+ "practical": [
+  {
+   "label": "Parking",
+   "title": "Gregory Place",
+   "text": "Free parking for East Beach, by the footbridge."
+  },
+  {
+   "label": "Access",
+   "title": "Footbridge from the esplanade",
+   "text": "Cross the river on the footbridge; check it's open before you go."
+  },
+  {
+   "label": "Facilities",
+   "title": "Toilets in town",
+   "text": "Moray Council toilets are close to the beach; the surf school has changing rooms for customers."
+  },
+  {
+   "label": "West Beach",
+   "title": "Café and beach wheelchair",
+   "text": "West Beach has a free car park, a café with toilets and a free beach wheelchair."
+  },
+  {
+   "label": "Lifeguards",
+   "title": "None",
+   "text": "In an emergency call 999 or 112 and ask for the Coastguard."
+  }
+ ],
+ "faqs": [
+  {
+   "q": "What conditions suit Lossiemouth?",
+   "a": "A north to north-east swell with a southerly offshore wind. It works on all tides."
+  },
+  {
+   "q": "How do I get onto East Beach?",
+   "a": "Over the footbridge from the esplanade; park at Gregory Place."
+  },
+  {
+   "q": "Is Lossiemouth good for beginners?",
+   "a": "Yes. East Beach has a sandy bottom and is rarely crowded, but there are no lifeguards."
+  },
+  {
+   "q": "Where's best for sunset?",
+   "a": "West Beach, which stretches towards Covesea Lighthouse at low tide."
+  }
+ ],
+ "sources": [
+  {
+   "label": "Lossiemouth — beaches",
+   "url": "https://www.lossiemouth.org/inspire/beaches/"
+  },
+  {
+   "label": "Wikipedia — Lossiemouth",
+   "url": "https://en.wikipedia.org/wiki/Lossiemouth"
+  },
+  {
+   "label": "Surf-forecast — Lossiemouth",
+   "url": "https://www.surf-forecast.com/breaks/Lossiemouth"
+  },
+  {
+   "label": "Moray Council — public toilets",
+   "url": "https://www.moray.gov.uk/roads-and-transport/street-cleaning/public-toilets/"
+  }
+ ],
+ "factCheck": [
+  {
+   "fact": "Peaty River Lossie meets clear Firth; Prospect Terrace view; free Gregory Place parking; old bridge closed July 2019",
+   "url": "https://www.lossiemouth.org/inspire/beaches/"
+  },
+  {
+   "fact": "West Beach: free car park, café with toilets, free beach wheelchair, flat sands to Covesea at low tide",
+   "url": "https://www.lossiemouth.org/inspire/beaches/"
+  },
+  {
+   "fact": "Waders under bridge; Seatown 'The Toonie'; bridge built in railway era",
+   "url": "https://en.wikipedia.org/wiki/Lossiemouth"
+  },
+  {
+   "fact": "Beach break, NNE swell, south offshore, all tides, sand bottom, rarely crowded",
+   "url": "https://www.surf-forecast.com/breaks/Lossiemouth"
+  },
+  {
+   "fact": "Lossiemouth: sandy beach, NNE swell, S offshore, rarely crowded, pollution",
+   "url": "https://www.surf-forecast.com/breaks/Lossiemouth"
+  }
+ ],
+ "checked": "October 2026"
+}

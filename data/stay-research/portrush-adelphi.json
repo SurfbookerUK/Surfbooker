@@ -1,0 +1,26 @@
+{
+ "name": "Portrush Adelphi",
+ "officialUrl": "https://marineandlawn.com/portrushadelphi",
+ "trading": true,
+ "stayType": "Town-centre hotel",
+ "accommodation": "34 rooms: doubles, deluxe kings, twins and family suites",
+ "suitableFor": "Couples, friends, families and dog owners",
+ "parking": "Not stated",
+ "dogs": "Dogs welcome inside for an additional charge (tourism listing)",
+ "beachAccess": "About 0.32 miles from East Strand and 0.43 miles from West Strand, per tourism listing",
+ "boardStorage": null,
+ "confirmedFeatures": "Red Sail Room restaurant, bar, room service, lift, 24-hour concierge, laundry service, Wi-Fi, games room, cycle hire, accessible rooms",
+ "overview": "Portrush Adelphi is a 34-room hotel on Main Street, about a third of a mile from East Strand. It has the Red Sail Room Italian restaurant, a bar and a games room, with family suites and accessible rooms available. Dogs can stay for a charge.",
+ "surfTripFit": "Both town beaches are within a short walk, and family suites and dog-friendly rooms suit groups and travellers with a dog.",
+ "sources": [
+  {
+   "label": "Portrush Adelphi official site",
+   "url": "https://marineandlawn.com/portrushadelphi"
+  },
+  {
+   "label": "Visit Causeway Coast and Glens listing",
+   "url": "https://www.visitcausewaycoastandglens.com/accommodation/portrush-adelphi-p956751"
+  }
+ ],
+ "slug": "portrush-adelphi"
+}

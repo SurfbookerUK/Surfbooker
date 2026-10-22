@@ -1,0 +1,165 @@
+{
+ "slug": "melvich",
+ "schools": [
+  {
+   "name": "North Coast Watersports (guided surf trips)",
+   "type": "Surf coaching trips",
+   "url": "https://www.northcoastwatersports.com/surftrips",
+   "base": "Based at Dunnet; trips go to whichever beach between Reay and Bettyhill suits the forecast",
+   "note": "Four-hour guided trips with two hours of coaching for improvers and intermediates aged 10 and over. The beach is chosen a couple of days ahead, so it may or may not be Melvich.",
+   "source": "https://www.northcoastwatersports.com/surftrips"
+  }
+ ],
+ "hire": [
+  {
+   "name": "North Coast Watersports",
+   "type": "Board & wetsuit hire",
+   "url": "https://www.northcoastwatersports.com/equipment-hire",
+   "base": "Collect from Dunnet beach car park, next to Dunnet Bay caravan site, or from their base about 5 minutes away",
+   "note": "Hires 5/4mm wetsuits with boots, gloves and hoods, 7-9ft foam boards, hardboards from shortboards to longboards, bodyboards, sit-on-top kayaks and SUPs (SUPs by arrangement, calm days only). Free foam roof racks are included.",
+   "source": "https://www.northcoastwatersports.com/equipment-hire"
+  }
+ ],
+ "shops": [
+  {
+   "name": "North Coast Watersports",
+   "type": "Surf kit sales (collection only)",
+   "url": "https://www.northcoastwatersports.com/buy-equipment",
+   "town": "Dunnet",
+   "note": "Not a walk-in shop: you can buy wax, leashes and some second-hand wetsuits, boots and gloves for collection from their Dunnet base, or ask them to order boards and wetsuits from their trade brands.",
+   "source": "https://www.northcoastwatersports.com/buy-equipment"
+  }
+ ],
+ "lessonsIntro": "No surf school is based at Melvich. North Coast Watersports runs guided coaching trips to the beaches between Reay and Bettyhill for improvers, while beginners are pointed to Dunnet Bay.",
+ "learn": {
+  "text": [
+   "Melvich sits on the stretch of coast between Reay and Bettyhill, which North Coast Watersports recommends for intermediate surfers rather than complete beginners. There's no school based here and we couldn't find any lifeguard cover. The school's guided trips cover this stretch, picking whichever beach suits the forecast, and include a private lesson followed by a guided session. They're for improvers and intermediates aged 10 and over.",
+   "If you've never surfed, the school recommends its standard lessons at Dunnet Bay instead. Group lessons can also be arranged at Strathy or Farr on request. Strathy, a little further west, can work for beginners in small surf but has strong currents in bigger swell, and Farr has a rip by the stream in its western corner. There are no changing rooms or showers on these beaches."
+  ],
+  "cards": [
+   {
+    "label": "Level",
+    "title": "Improvers and intermediates",
+    "text": "The local school recommends the beaches between Melvich and Bettyhill for intermediate surfers. Beginners should learn at Dunnet."
+   },
+   {
+    "label": "Best time",
+    "title": "Summer for mellow beach breaks",
+    "text": "The school says beach breaks on this coast are most consistent and mellow in summer, while winter brings big swells."
+   },
+   {
+    "label": "Watch out for",
+    "title": "Remote, no lifeguards",
+    "text": "We couldn't find lifeguard cover. Go with a guide or experienced friends and check conditions on the day."
+   }
+  ]
+ },
+ "hireIntro": "There's no hire at Melvich. North Coast Watersports hires boards and 5/4mm wetsuits from Dunnet, with free foam roof racks for the drive west.",
+ "kit": {
+  "text": [
+   "Improvers will get on best with a longer hardboard or a foamie in small surf, and North Coast Watersports will bring a hardboard to your preferred size on its guided trips if you ask in advance. The water on this coast is cold: the school quotes roughly 6-10°C in winter and spring and 11-15°C in summer, and its kit is a 5mm wetsuit with boots, plus gloves when needed."
+  ],
+  "cards": [
+   {
+    "label": "Board",
+    "title": "Hardboard for improvers",
+    "text": "Hire anything from a longboard to a shortboard at Dunnet, or 7-9ft foamies for small days."
+   },
+   {
+    "label": "Wetsuit",
+    "title": "5/4mm with boots",
+    "text": "The school kits out in 5/4mm with boots, gloves and hoods, for water of roughly 6-15°C through the year."
+   },
+   {
+    "label": "Other craft",
+    "title": "Bodyboards",
+    "text": "Bodyboards can be hired at Dunnet. We found no craft rules specific to Melvich."
+   }
+  ]
+ },
+ "shopsIntro": "There's no surf shop at Melvich; the nearest kit sales we could confirm are through North Coast Watersports at Dunnet.",
+ "shopsText": [
+  "Melvich is a small village with no surf shop that we could find, and we couldn't confirm a walk-in surf shop in Thurso either. North Coast Watersports, based at Dunnet east of Thurso, sells wax, leashes and some second-hand wetsuits, boots and gloves for collection, and can order boards and wetsuits in. Sort kit before you head west."
+ ],
+ "faqs": {
+  "lessons": [
+   {
+    "q": "Is there a surf school at Melvich?",
+    "a": "No. North Coast Watersports runs guided coaching trips to beaches between Reay and Bettyhill for improvers, but the exact beach depends on the forecast."
+   },
+   {
+    "q": "Can beginners surf at Melvich?",
+    "a": "The local school recommends this stretch for intermediates and sends beginners to its lessons at Dunnet Bay."
+   },
+   {
+    "q": "Can I book a lesson nearby?",
+    "a": "Group lessons can be arranged at Strathy or Farr on request, for an extra travel fee, or you can learn at Dunnet."
+   }
+  ],
+  "hire": [
+   {
+    "q": "Can I hire a board at Melvich?",
+    "a": "Not at the beach. Hire from North Coast Watersports at Dunnet, which lends free foam roof racks."
+   },
+   {
+    "q": "What wetsuit do I need?",
+    "a": "A 5/4mm with boots, and gloves and a hood outside summer. That's what the local school hires out."
+   }
+  ],
+  "shops": [
+   {
+    "q": "Where's the nearest surf shop to Melvich?",
+    "a": "We couldn't confirm a walk-in surf shop nearby. North Coast Watersports at Dunnet sells some kit for collection."
+   }
+  ]
+ },
+ "sources": [
+  {
+   "label": "North Coast Watersports: home page",
+   "url": "https://www.northcoastwatersports.com/"
+  },
+  {
+   "label": "North Coast Watersports: surf trips",
+   "url": "https://www.northcoastwatersports.com/surftrips"
+  },
+  {
+   "label": "North Coast Watersports: group lessons",
+   "url": "https://www.northcoastwatersports.com/groupsurflesson"
+  },
+  {
+   "label": "North Coast Watersports: north coast surf guide",
+   "url": "https://www.northcoastwatersports.com/northcoastofscotlandsurfguide"
+  },
+  {
+   "label": "North Coast Watersports: equipment hire",
+   "url": "https://www.northcoastwatersports.com/equipment-hire"
+  },
+  {
+   "label": "North Coast Watersports: buy equipment",
+   "url": "https://www.northcoastwatersports.com/buy-equipment"
+  }
+ ],
+ "factCheck": [
+  {
+   "fact": "Beaches between Melvich and Bettyhill are recommended for intermediate surfers, with guided lessons via the surf trip option.",
+   "url": "https://www.northcoastwatersports.com/"
+  },
+  {
+   "fact": "Surf trips: 4 hours incl. 2 hours surfing, beach likely between Reay and Bettyhill chosen two days ahead, improvers/intermediates, ages 10+, beginners recommended to take Dunnet lessons; no changing or shower facilities.",
+   "url": "https://www.northcoastwatersports.com/surftrips"
+  },
+  {
+   "fact": "Group lessons can run at Strathy and Farr on request for an extra travel fee.",
+   "url": "https://www.northcoastwatersports.com/groupsurflesson"
+  },
+  {
+   "fact": "Strathy suits intermediates, beginners in small conditions; currents can be strong in larger swell. Farr has a rip from a stream in the western corner.",
+   "url": "https://www.northcoastwatersports.com/northcoastofscotlandsurfguide"
+  },
+  {
+   "fact": "North Coast Watersports quotes water of 6-10°C in winter and spring, 11-15°C in summer and 10-15°C in autumn; its FAQ gives 7-13°C.",
+   "url": "https://www.northcoastwatersports.com/northcoastofscotlandsurfguide"
+  }
+ ],
+ "gaps": "The north coast surf guide doesn't describe Melvich itself, so no Melvich-specific wave, tide or hazard info. No lifeguard information found (none listed). No surf shop confirmed nearby."
+}

@@ -1,0 +1,26 @@
+{
+ "name": "The Kings Head",
+ "officialUrl": "https://www.kingsheadgower.co.uk/",
+ "trading": true,
+ "stayType": "Village inn with rooms",
+ "accommodation": "En-suite inn rooms in several types, including suites and king rooms",
+ "suitableFor": "Couples and small groups who want a pub base",
+ "parking": null,
+ "dogs": null,
+ "beachAccess": "In Llangennith village; no distance stated by the inn",
+ "boardStorage": null,
+ "confirmedFeatures": "En-suite rooms, tea and coffee making, in-room cooler, TV, underfloor heating, pub food and drink",
+ "overview": "The Kings Head is a 17th-century inn in the middle of Llangennith village, inland from the north end of Rhossili Bay. Its rooms are all en-suite with underfloor heating, and the pub downstairs means food and a drink are on hand after a day on the beach.",
+ "surfTripFit": "It puts you in the village closest to the Llangennith peak, with a pub and meals under the same roof.",
+ "sources": [
+  {
+   "label": "Kings Head official site",
+   "url": "https://www.kingsheadgower.co.uk/"
+  },
+  {
+   "label": "Kings Head accommodation",
+   "url": "https://www.kingsheadgower.co.uk/accommodation"
+  }
+ ],
+ "slug": "the-kings-head"
+}

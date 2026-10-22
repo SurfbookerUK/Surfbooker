@@ -1,0 +1,111 @@
+{
+ "overview": [
+  "Eastbourne's seafront curves north-east from the foot of the South Downs, with Beachy Head's chalk cliffs rising just west of town. The beach is shingle, with sand showing at low tide, and the Victorian pier sits roughly in the middle. Designed by Eugenius Birch and opened in 1870, the pier lost much of its central building to a fire in 2014, though around two-thirds of the structure was saved.",
+  "Beachy Head shelters the bay from the prevailing south-westerlies, which is good news for swimmers and paddlers and bad news for surfers. Surfable waves are rare, so think of Eastbourne as a calm-water base for swimming, kayaking, paddleboarding and sailing rather than a surf beach. The flip side is that on a calm summer morning the water can be glassy and inviting, and the providers along the seafront make it easy to get out on it.",
+  "The main resort beach between the Wish Tower and the pier has a seasonal council lifeguard patrol, based just east of the Wish Tower on Grand Parade, which also serves as the first aid post. Parents can pick up free waterproof Kidzsafe wristbands there to write a phone number on. In summer dogs aren't allowed on that stretch, but there are other parts of the seafront where they can go."
+ ],
+ "suits": [
+  "Swimmers and paddleboarders",
+  "Family seaside holidays",
+  "Walkers heading for Beachy Head"
+ ],
+ "notFor": [
+  "Surf trips",
+  "Dogs on the main beach in summer"
+ ],
+ "surf": {
+  "title": "Surf and sea",
+  "text": [
+   "Surf is rare here because Beachy Head blocks most swell. On most days the sea is calm enough for swimming and paddle sports, and providers along the seafront offer kayaking, paddleboarding, sailing and windsurfing in season.",
+   "Away from the patrolled beach, Visit Eastbourne points you to its beach safety tips. In an emergency call 999 and ask for the Coastguard.",
+   "Eastbourne is a sheltered beach break that only works once in a while. A south-south-westerly swell with a north-westerly offshore around mid tide is the best match, with some shelter from westerlies. The sea here can be polluted, so check water quality warnings. Autumn and winter are best, but most days are too small."
+  ],
+  "cards": [
+   {
+    "label": "Level",
+    "title": "Paddle sports",
+    "text": "Calm water suits kayaks and SUPs more than surfboards."
+   },
+   {
+    "label": "Lifeguards",
+    "title": "Wish Tower to Pier",
+    "text": "The seasonal patrol covers the main resort beach."
+   },
+   {
+    "label": "Shelter",
+    "title": "Beachy Head",
+    "text": "Shields the bay from the prevailing south-westerlies."
+   }
+  ]
+ },
+ "practical": [
+  {
+   "label": "Lifeguards",
+   "title": "Council patrol",
+   "text": "In 2025 the patrol covered Wish Tower to the Pier from 24 May to 7 September, with hours varying by month. Station on Grand Parade."
+  },
+  {
+   "label": "Dogs",
+   "title": "Seasonal",
+   "text": "1 May–30 September: no dogs Wish Tower to Pier; on leads from Holywell to Harbour Reach; off-lead allowed on Western and Middle Parades if they cause no inconvenience."
+  },
+  {
+   "label": "Children",
+   "title": "Kidzsafe wristbands",
+   "text": "Free from the lifeguard station or Seafront Office."
+  },
+  {
+   "label": "Parking",
+   "title": "Seafront zones",
+   "text": "Seafront parking in zones N and S and at Wilmington Square."
+  },
+  {
+   "label": "Accessibility",
+   "title": "Changing Places",
+   "text": "A Changing Places facility is on the seafront."
+  }
+ ],
+ "faqs": [
+  {
+   "q": "Can you surf in Eastbourne?",
+   "a": "Rarely. Beachy Head shelters the bay from most swell."
+  },
+  {
+   "q": "Can dogs go on Eastbourne beach?",
+   "a": "Not between the Wish Tower and the Pier from 1 May to 30 September. Elsewhere on the seafront they need to be on leads, except on Western and Middle Parades."
+  },
+  {
+   "q": "Where are the lifeguards in Eastbourne?",
+   "a": "On the main resort beach between the Wish Tower and the Pier, in season, from a station on Grand Parade."
+  }
+ ],
+ "sources": [
+  {
+   "label": "Visit Eastbourne — lifeguards and seafront",
+   "url": "https://www.visiteastbourne.com/seafront/lifeguards.aspx"
+  },
+  {
+   "label": "Wikipedia — Eastbourne Pier",
+   "url": "https://en.wikipedia.org/wiki/Eastbourne_Pier"
+  }
+ ],
+ "factCheck": [
+  {
+   "fact": "2025 patrol 24 May–7 Sep, Wish Tower to Pier, station on Grand Parade, first aid",
+   "url": "https://www.visiteastbourne.com/seafront/lifeguards.aspx"
+  },
+  {
+   "fact": "Kidzsafe wristbands; dog zones; parking zones N, S, Wilmington Square; Changing Places",
+   "url": "https://www.visiteastbourne.com/seafront/lifeguards.aspx"
+  },
+  {
+   "fact": "Pier opened 1870, Eugenius Birch, 2014 fire, two-thirds saved",
+   "url": "https://en.wikipedia.org/wiki/Eastbourne_Pier"
+  },
+  {
+   "fact": "Eastbourne: sheltered, SSW swell, NW offshore, mid tide, pollution",
+   "url": "https://www.surf-forecast.com/breaks/Eastbourne_1"
+  }
+ ],
+ "checked": "October 2026"
+}

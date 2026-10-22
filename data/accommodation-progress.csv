@@ -1,0 +1,617 @@
+sheet,name,area,type,on_site,existing_slug,shared_domain_group,status,outstanding,surfbooker_page
+Cornwall,The Beach at Bude,Bude,Hotel,Yes,the-beach-at-bude,,listed,,/accommodation/stays/the-beach-at-bude/
+Cornwall,The Brendon Arms (rooms),Bude,Inn,Yes,the-brendon-arms-rooms,,listed,,/accommodation/stays/the-brendon-arms-rooms/
+Cornwall,The Falcon Hotel,Bude,Hotel,Yes,the-falcon-hotel,,listed,,/accommodation/stays/the-falcon-hotel/
+Cornwall,Harlyn Sands Holiday Park,Constantine Bay,Holiday park,Yes,harlyn-sands-holiday-park,,listed,,/accommodation/stays/harlyn-sands-holiday-park/
+Cornwall,Martha's Orchard,Constantine Bay,Self-catering,Yes,martha-s-orchard,,listed,,/accommodation/stays/martha-s-orchard/
+Cornwall,Crantock Bay Holidays,Crantock Beach,Self-catering,Yes,crantock-bay-holidays,,listed,,/accommodation/stays/crantock-bay-holidays/
+Cornwall,Crantock Holiday,Crantock Beach,Self-catering,Yes,crantock-holiday,,listed,,/accommodation/stays/crantock-holiday/
+Cornwall,Oceanside Hotel,Fistral Beach,Hotel,Yes,oceanside-hotel,,listed,,/accommodation/stays/oceanside-hotel/
+Cornwall,The Headland Hotel,Fistral Beach,Hotel,Yes,the-headland-hotel-and-spa,,listed,,/accommodation/stays/the-headland-hotel-and-spa/
+Cornwall,Tolcarne Beach,Great Western Beach,Self-catering,Yes,tolcarne-beach,,listed,,/accommodation/stays/tolcarne-beach/
+Cornwall,The Penellen Bed and Breakfast,Gwithian,B&B,Yes,the-penellen-bed-and-breakfast,,listed,,/accommodation/stays/the-penellen-bed-and-breakfast/
+Cornwall,Cornish Gems (Gwithian homes),Gwithian and Godrevy,Self-catering,Yes,cornish-gems-gwithian-homes,,listed,,/accommodation/stays/cornish-gems-gwithian-homes/
+Cornwall,St Ives Bay Holiday Park,Gwithian and Godrevy,Holiday park,Yes,st-ives-bay-holiday-park,,listed,,/accommodation/stays/st-ives-bay-holiday-park/
+Cornwall,Mother Ivey's Bay Holiday Park,Harlyn Bay,Holiday park,Yes,mother-ivey-s-bay-holiday-park,,listed,,/accommodation/stays/mother-ivey-s-bay-holiday-park/
+Cornwall,Trevose Golf & Country Club,Harlyn Bay,Self-catering,Yes,trevose-golf-and-country-club,,listed,,/accommodation/stays/trevose-golf-and-country-club/
+Cornwall,Yellow Sands Cottages,Harlyn Bay,Self-catering,Yes,yellow-sands-cottages,,listed,,/accommodation/stays/yellow-sands-cottages/
+Cornwall,Trebellan Park,Holywell Bay,Holiday park,Yes,trebellan-park,,listed,,/accommodation/stays/trebellan-park/
+Cornwall,Trevornick Holiday Park,Holywell Bay,Holiday park,Yes,trevornick-holiday-park,,listed,,/accommodation/stays/trevornick-holiday-park/
+Cornwall,Bedruthan Hotel & Spa,Mawgan Porth,Hotel,Yes,bedruthan-hotel-and-spa,,listed,,/accommodation/stays/bedruthan-hotel-and-spa/
+Cornwall,Bluebay House,Mawgan Porth,Self-catering,No,,,researched,,
+Cornwall,The Merrymoor Inn (rooms),Mawgan Porth,Inn,Yes,the-merrymoor-inn-rooms,,listed,,/accommodation/stays/the-merrymoor-inn-rooms/
+Cornwall,The Scarlet Hotel,Mawgan Porth,Hotel,Yes,the-scarlet-hotel,,listed,,/accommodation/stays/the-scarlet-hotel/
+Cornwall,Fistral Beach Hotel & Spa,Newquay,Hotel,Yes,fistral-beach-hotel-and-spa,,listed,,/accommodation/stays/fistral-beach-hotel-and-spa/
+Cornwall,Pentire Hotel,Newquay,Hotel,Yes,pentire-hotel,,listed,blocked: no official site found; search returns National Trust/OTA results only,/accommodation/stays/pentire-hotel/
+Cornwall,The Esplanade Hotel,Newquay,Hotel,Yes,the-esplanade-hotel,,listed,,/accommodation/stays/the-esplanade-hotel/
+Cornwall,The Lewinnick Lodge (rooms),Newquay,Inn,Yes,the-lewinnick-lodge-rooms,,listed,,/accommodation/stays/the-lewinnick-lodge-rooms/
+Cornwall,The Seiners Arms (rooms),Perranporth,Inn,Yes,the-seiners-arms-rooms,,listed,,/accommodation/stays/the-seiners-arms-rooms/
+Cornwall,St Moritz Hotel,Polzeath,Hotel,Yes,st-moritz-hotel,,listed,,/accommodation/stays/st-moritz-hotel/
+Cornwall,The Point at Polzeath,Polzeath,Self-catering,Yes,the-point-at-polzeath,,listed,,/accommodation/stays/the-point-at-polzeath/
+Cornwall,Ayr Holiday Park,Porthmeor Beach,Holiday park,Yes,ayr-holiday-park,,listed,,/accommodation/stays/ayr-holiday-park/
+Cornwall,Pedn Olva,Porthmeor Beach,Hotel,Yes,pedn-olva,,listed,,/accommodation/stays/pedn-olva/
+Cornwall,The Sloop Inn,Porthmeor Beach,Inn,Yes,the-sloop-inn,,listed,,/accommodation/stays/the-sloop-inn/
+Cornwall,Tregenna Castle,Porthmeor Beach,Hotel,Yes,tregenna-castle,,listed,,/accommodation/stays/tregenna-castle/
+Cornwall,"The Godolphin Arms, Marazion",Praa Sands,Inn,Yes,the-godolphin-arms-marazion,,listed,,/accommodation/stays/the-godolphin-arms-marazion/
+Cornwall,"The Victoria Inn, Perranuthnoe (rooms)",Praa Sands,Inn,Yes,the-victoria-inn-perranuthnoe-rooms,,listed,,/accommodation/stays/the-victoria-inn-perranuthnoe-rooms/
+Cornwall,Lands End Hotel,Sennen,Hotel,Yes,lands-end-hotel,,listed,,/accommodation/stays/lands-end-hotel/
+Cornwall,The Cape Cornwall Club,Sennen,Hotel,Yes,the-cape-cornwall-club,,listed,,/accommodation/stays/the-cape-cornwall-club/
+Cornwall,"The Commercial Hotel, St Just",Sennen,Inn,Yes,the-commercial-hotel-st-just,,listed,,/accommodation/stays/the-commercial-hotel-st-just/
+Cornwall,The Old Success Inn (rooms),Sennen,Inn,Yes,the-old-success-inn-rooms,,listed,,/accommodation/stays/the-old-success-inn-rooms/
+Cornwall,Beacon Country House Hotel,St Agnes,Hotel,Yes,beacon-country-house-hotel,,listed,"blocked: no matching hotel found (Dunkery Beacon Country House is a different, adults-only property)",/accommodation/stays/beacon-country-house-hotel/
+Cornwall,The Driftwood Spars (rooms),St Agnes,Inn,Yes,the-driftwood-spars-rooms,,listed,,/accommodation/stays/the-driftwood-spars-rooms/
+Cornwall,Primrose Valley Hotel,St Ives,Hotel,Yes,primrose-valley-hotel,,listed,"blocked: hotel-guide listing has conflicting room counts (9 vs 11), no pets, adults only; trading unconfirmed",/accommodation/stays/primrose-valley-hotel/
+Cornwall,The Queens Hotel,St Ives,Inn,Yes,the-queens-hotel,,listed,,/accommodation/stays/the-queens-hotel/
+Cornwall,The St Ives Harbour Hotel and Spa,St Ives,Hotel,Yes,the-st-ives-harbour-hotel-and-spa,harbourhotels.co.uk,listed,,/accommodation/stays/the-st-ives-harbour-hotel-and-spa/
+Cornwall,The Western Hotel,St Ives,Hotel,Yes,the-western-hotel,,listed,,/accommodation/stays/the-western-hotel/
+Cornwall,Upper Lynstone Caravan Park,Summerleaze Beach,Holiday park,Yes,upper-lynstone-caravan-park,,listed,,/accommodation/stays/upper-lynstone-caravan-park/
+Cornwall,Harbour Hotel,Towan Beach,Hotel,Yes,harbour-hotel,,listed,,/accommodation/stays/harbour-hotel/
+Cornwall,"SeaSpace, Newquay",Watergate Bay,Self-catering,Yes,seaspace-newquay,,listed,,/accommodation/stays/seaspace-newquay/
+Cornwall,Watergate Bay Hotel,Watergate Bay,Hotel,No,,,researched,,
+Cornwall,Penhalt Farm Holiday Park,Widemouth Bay,Holiday park,Yes,penhalt-farm-holiday-park,,listed,,/accommodation/stays/penhalt-farm-holiday-park/
+Cornwall,The Bay View Inn (rooms),Widemouth Bay,Inn,Yes,the-bay-view-inn-rooms,,listed,,/accommodation/stays/the-bay-view-inn-rooms/
+Cornwall,An Mor Hotel,Bude,Hotel,Yes,an-mor-hotel,,listed,,/accommodation/stays/an-mor-hotel/
+Cornwall,Bude Holiday Resort,Bude,Holiday park,Yes,bude-holiday-resort,,listed,,/accommodation/stays/bude-holiday-resort/
+Cornwall,The Edgcumbe Hotel,Bude,Hotel,Yes,the-edgcumbe-hotel,,listed,confirm directly; no own-site check; no images,/accommodation/stays/the-edgcumbe-hotel/
+Cornwall,The Grosvenor Guest House,Bude,Guest house,Yes,the-grosvenor-guest-house,,listed,,/accommodation/stays/the-grosvenor-guest-house/
+Cornwall,Coswarth House,Constantine Bay,B&B,Yes,coswarth-house,,listed,,/accommodation/stays/coswarth-house/
+Cornwall,The Pig at Harlyn Bay,Constantine Bay,Hotel,Yes,the-pig-at-harlyn-bay,,listed,,/accommodation/stays/the-pig-at-harlyn-bay/
+Cornwall,Crantock Beach Holiday Park,Crantock Beach,Holiday park,Yes,crantock-beach-holiday-park,parkdeanresorts.co.uk,listed,,/accommodation/stays/crantock-beach-holiday-park/
+Cornwall,Great Western,Great Western Beach,Hotel,Yes,great-western,greatwesternnewquay.co.uk,listed,,/accommodation/stays/great-western/
+Cornwall,"The Beachcomber, Gwithian",Gwithian,Other,Yes,the-beachcomber-gwithian,,listed,,/accommodation/stays/the-beachcomber-gwithian/
+Cornwall,The Godrevy Beach Hotel,Gwithian,Hotel,Yes,the-godrevy-beach-hotel,,listed,,/accommodation/stays/the-godrevy-beach-hotel/
+Cornwall,"The Old Quay House, Hayle",Gwithian,Other,Yes,the-old-quay-house-hayle,,listed,,/accommodation/stays/the-old-quay-house-hayle/
+Cornwall,"The White Hart Hotel, Hayle",Gwithian,Hotel,Yes,the-white-hart-hotel-hayle,,listed,,/accommodation/stays/the-white-hart-hotel-hayle/
+Cornwall,Upton Towans holiday cottages,Gwithian,Self-catering,Yes,upton-towans-holiday-cottages,,listed,,/accommodation/stays/upton-towans-holiday-cottages/
+Cornwall,Riviere Sands Holiday Park,Hayle,Holiday park,Yes,riviere-sands-holiday-park,haven.com,listed,,/accommodation/stays/riviere-sands-holiday-park/
+Cornwall,Sandy Acres Lodge,Hayle,Self-catering,Yes,sandy-acres-lodge,,listed,,/accommodation/stays/sandy-acres-lodge/
+Cornwall,Haven Riviere Sands,Hayle Towans,Holiday park,Yes,haven-riviere-sands,haven.com,listed,,/accommodation/stays/haven-riviere-sands/
+Cornwall,Holywell Bay Holiday Park,Holywell Bay,Holiday park,Yes,holywell-bay-holiday-park,parkdeanresorts.co.uk,listed,,/accommodation/stays/holywell-bay-holiday-park/
+Cornwall,Trevella Park,Holywell Bay,Holiday park,Yes,trevella-park,,listed,,/accommodation/stays/trevella-park/
+Cornwall,Mawgan Porth Apartments,Mawgan Porth,Self-catering,Yes,mawgan-porth-apartments,breaksincornwall.com,listed,,/accommodation/stays/mawgan-porth-apartments/
+Cornwall,Retallack Resort and Spa,Mawgan Porth,Holiday park,Yes,retallack-resort-and-spa,,listed,,/accommodation/stays/retallack-resort-and-spa/
+Cornwall,The Nook at Mawgan Porth,Mawgan Porth,Other,Yes,the-nook-at-mawgan-porth,,listed,,/accommodation/stays/the-nook-at-mawgan-porth/
+Cornwall,The Park Cornwall,Mawgan Porth,Holiday park,Yes,the-park-cornwall,,listed,,/accommodation/stays/the-park-cornwall/
+Cornwall,Atlantic Hotel Newquay,Newquay,Hotel,Yes,atlantic-hotel-newquay,atlantichotelnewquay.co.uk,listed,,/accommodation/stays/atlantic-hotel-newquay/
+Cornwall,Newquay Beach Hotel,Newquay,Hotel,Yes,newquay-beach-hotel,,listed,confirm directly; no own-site check; no images,/accommodation/stays/newquay-beach-hotel/
+Cornwall,Ocean Surf Lodge,Newquay,Hostel,Yes,ocean-surf-lodge,,listed,,/accommodation/stays/ocean-surf-lodge/
+Cornwall,The Beresford Hotel,Newquay,Hotel,Yes,the-beresford-hotel,,listed,confirm directly; no own-site check; no images,/accommodation/stays/the-beresford-hotel/
+Cornwall,The Fort Inn (rooms),Newquay,Inn,Yes,the-fort-inn-rooms,,listed,,/accommodation/stays/the-fort-inn-rooms/
+Cornwall,The Great Western Hotel,Newquay,Hotel,Yes,the-great-western-hotel,greatwesternnewquay.co.uk,listed,,/accommodation/stays/the-great-western-hotel/
+Cornwall,The Harbour Hotel,Newquay,Hotel,Yes,the-harbour-hotel,,listed,,/accommodation/stays/the-harbour-hotel/
+Cornwall,"Town Lodge, Newquay",Newquay,Other,Yes,town-lodge-newquay,,listed,,/accommodation/stays/town-lodge-newquay/
+Cornwall,Perran Sands Holiday Park,Perranporth,Holiday park,Yes,perran-sands-holiday-park,haven.com,listed,,/accommodation/stays/perran-sands-holiday-park/
+Cornwall,The Inn at Perranporth,Perranporth,Inn,Yes,the-inn-at-perranporth,,listed,,/accommodation/stays/the-inn-at-perranporth/
+Cornwall,The Rose in Vale Country House Hotel,Perranporth,Hotel,Yes,the-rose-in-vale-country-house-hotel,,listed,,/accommodation/stays/the-rose-in-vale-country-house-hotel/
+Cornwall,"The Summer House, Perranporth",Perranporth,Other,Yes,the-summer-house-perranporth,,listed,,/accommodation/stays/the-summer-house-perranporth/
+Cornwall,"Pentire Hotel, New Polzeath",Polzeath,Hotel,Yes,pentire-hotel-new-polzeath,,listed,blocked: as pentire-hotel,/accommodation/stays/pentire-hotel-new-polzeath/
+Cornwall,Polzeath Beach House,Polzeath,Self-catering,Yes,polzeath-beach-house,,listed,,/accommodation/stays/polzeath-beach-house/
+Cornwall,"Surfside, Polzeath",Polzeath,Other,Yes,surfside-polzeath,,listed,,/accommodation/stays/surfside-polzeath/
+Cornwall,"The Mowhay, Polzeath",Polzeath,Other,Yes,the-mowhay-polzeath,,listed,,/accommodation/stays/the-mowhay-polzeath/
+Cornwall,The Oystercatcher,Polzeath,Self-catering,Yes,the-oystercatcher,,listed,,/accommodation/stays/the-oystercatcher/
+Cornwall,"The White House, Polzeath",Polzeath,Other,Yes,the-white-house-polzeath,,listed,,/accommodation/stays/the-white-house-polzeath/
+Cornwall,The Perranporth Inn (nearby),Porthtowan,Inn,Yes,the-perranporth-inn-nearby,,listed,,/accommodation/stays/the-perranporth-inn-nearby/
+Cornwall,The Towan Valley holiday homes,Porthtowan,Self-catering,Yes,the-towan-valley-holiday-homes,,listed,,/accommodation/stays/the-towan-valley-holiday-homes/
+Cornwall,The Unicorn on the Beach (rooms),Porthtowan,Inn,Yes,the-unicorn-on-the-beach-rooms,,listed,,/accommodation/stays/the-unicorn-on-the-beach-rooms/
+Cornwall,Mount Haven Hotel,Praa Sands,Hotel,Yes,mount-haven-hotel,,listed,,/accommodation/stays/mount-haven-hotel/
+Cornwall,Praa Sands Holiday Park,Praa Sands,Holiday park,Yes,praa-sands-holiday-park,haulfrynholidays.co.uk,listed,,/accommodation/stays/praa-sands-holiday-park/
+Cornwall,"The Old Coastguard, Mousehole",Praa Sands,Hotel,Yes,the-old-coastguard-mousehole,,listed,,/accommodation/stays/the-old-coastguard-mousehole/
+Cornwall,"The Old Vicarage, Perranuthnoe",Praa Sands,Other,Yes,the-old-vicarage-perranuthnoe,,listed,,/accommodation/stays/the-old-vicarage-perranuthnoe/
+Cornwall,"The Queens Arms, Breage (rooms)",Praa Sands,Inn,Yes,the-queens-arms-breage-rooms,,listed,,/accommodation/stays/the-queens-arms-breage-rooms/
+Cornwall,The Sand Bar (rooms / apartments),Praa Sands,Other,Yes,the-sand-bar-rooms-apartments,,listed,,/accommodation/stays/the-sand-bar-rooms-apartments/
+Cornwall,Sennen Rise,Sennen,Self-catering,Yes,sennen-rise,,listed,,/accommodation/stays/sennen-rise/
+Cornwall,"The Wellington Hotel, Penzance",Sennen,Hotel,Yes,the-wellington-hotel-penzance,,listed,,/accommodation/stays/the-wellington-hotel-penzance/
+Cornwall,"The Cottage Hotel, St Agnes",St Agnes,Hotel,Yes,the-cottage-hotel-st-agnes,,listed,,/accommodation/stays/the-cottage-hotel-st-agnes/
+Cornwall,"The Old School House, St Agnes",St Agnes,Other,Yes,the-old-school-house-st-agnes,,listed,,/accommodation/stays/the-old-school-house-st-agnes/
+Cornwall,Trevaunance Cove Holiday Cottages,St Agnes,Self-catering,Yes,trevaunance-cove-holiday-cottages,,listed,,/accommodation/stays/trevaunance-cove-holiday-cottages/
+Cornwall,27 The Terrace,St Ives,Self-catering,Yes,27-the-terrace,,listed,,/accommodation/stays/27-the-terrace/
+Cornwall,"The Atlantic, St Ives",St Ives,Hotel,Yes,the-atlantic-st-ives,,listed,,/accommodation/stays/the-atlantic-st-ives/
+Cornwall,The Garrack Hotel,St Ives,Hotel,Yes,the-garrack-hotel,,listed,,/accommodation/stays/the-garrack-hotel/
+Cornwall,"The Nook, St Ives",St Ives,Self-catering,Yes,the-nook-st-ives,,listed,,/accommodation/stays/the-nook-st-ives/
+Cornwall,Elements Hotel,Summerleaze Beach,Hotel,Yes,elements-hotel,,listed,,/accommodation/stays/elements-hotel/
+Cornwall,The Atlantic Hotel,Towan Beach,Hotel,Yes,the-atlantic-hotel,atlantichotelnewquay.co.uk,listed,,/accommodation/stays/the-atlantic-hotel/
+Cornwall,St Agnes Hotel,Trevaunance Cove,Inn,Yes,st-agnes-hotel,,listed,,/accommodation/stays/st-agnes-hotel/
+Cornwall,Newquay Holiday Park,Watergate Bay,Holiday park,Yes,newquay-holiday-park,parkdeanresorts.co.uk,listed,,/accommodation/stays/newquay-holiday-park/
+Cornwall,The Beachcomber,Watergate Bay,Other,Yes,the-beachcomber,,listed,,/accommodation/stays/the-beachcomber/
+Cornwall,The Traveller's Rest (rooms),Watergate Bay,Other,Yes,the-traveller-s-rest-rooms,,listed,,/accommodation/stays/the-traveller-s-rest-rooms/
+Cornwall,"Gwel-an-Mor, Widemouth Bay",Widemouth Bay,Self-catering,Yes,gwel-an-mor-widemouth-bay,,listed,,/accommodation/stays/gwel-an-mor-widemouth-bay/
+Cornwall,"The Beach House, Widemouth Bay",Widemouth Bay,Other,Yes,the-beach-house-widemouth-bay,,listed,,/accommodation/stays/the-beach-house-widemouth-bay/
+Cornwall,The Weir Bistro and Hotel,Widemouth Bay,Hotel,Yes,the-weir-bistro-and-hotel,,listed,,/accommodation/stays/the-weir-bistro-and-hotel/
+Cornwall,Widemouth Bay Caravan Park,Widemouth Bay,Holiday park,Yes,widemouth-bay-caravan-park,johnfowlerholidays.com,listed,,/accommodation/stays/widemouth-bay-caravan-park/
+Cornwall,Pentire Newquay Cornwall Hotel,Newquay,Hotel,No,,,todo,,
+Cornwall,SeaSpace,Newquay,Self-catering,No,,,todo,,
+Cornwall,Oceanside,Newquay,Hotel,No,,,todo,,
+Cornwall,Camelot Castle Hotel,Trebarwith Strand,Hotel,No,,,researched,,
+Cornwall,The Old Custom House,Harlyn Bay / Constantine Bay,Inn,No,,,todo,,
+Cornwall,Mullion Cove Hotel & Spa,Poldhu / Mullion,Hotel,No,,,researched,,
+Cornwall,Kilbirnie Hotel,Newquay,Hotel,No,,,researched,,
+Cornwall,OYO Minerva Guesthouse,Newquay,Guest house,No,,,todo,,
+Cornwall,The Port William,Trebarwith Strand,Inn,No,,,researched,,
+Cornwall,Lifeboat Inn,St Ives,Inn,No,,,todo,,
+Cornwall,Hotel Penzance Harbour View,Penzance (Praa Sands/Sennen),Hotel,No,,,todo,,
+Cornwall,Harbour View House,St Ives,Guest house,No,,,researched,,
+Cornwall,Polurrian on the Lizard,Poldhu / Mullion,Hotel,No,,,researched,,
+Cornwall,Oystercatcher Apartments,Polzeath,Apartments,No,,,todo,,
+Cornwall,Reef Lodge,Newquay,Hostel,No,,,todo,,
+Cornwall,Uno - St Ives,St Ives,Hotel,No,,,todo,,
+Cornwall,Hotel Penzance Promenade,Penzance (Praa Sands/Sennen),Hotel,No,,,todo,,
+Cornwall,THE NICI Newquay,Newquay,Hotel,No,,thenici.com,researched,,
+Cornwall,Well Parc Hotel,Harlyn Bay / Constantine Bay,Hotel,No,,,todo,,
+Cornwall,The Stanley,Penzance (Praa Sands/Sennen),Hotel,No,,,todo,,
+Cornwall,Trevarrian Lodge,Newquay,Guest house,No,,,researched,,
+Cornwall,Boskerris Hotel,St Ives,Hotel,No,,,todo,,
+Cornwall,The Lugger Inn,Penzance (Praa Sands/Sennen),Inn,No,,,todo,,
+Cornwall,Marazion Hotel,Praa Sands / Marazion,Hotel,No,,,researched,,
+Cornwall,The Yacht Inn,Penzance (Praa Sands/Sennen),Inn,No,,,researched,,
+Cornwall,Sennen Cove Cottages,Penzance (Praa Sands/Sennen),Self-catering,No,,,todo,,
+Cornwall,Uno Carbis Bay,St Ives,Hotel,No,,,todo,,
+Cornwall,Tee-Side Guest House,Bude,Guest house,No,,,researched,,
+Cornwall,Sunrise Guest House,Bude,Guest house,No,,,researched,,
+Cornwall,Stratton Gardens Guest House,Bude (Stratton),Guest house,No,,,researched,,
+Cornwall,Carnmarth Hotel,Newquay (Fistral),Hotel,No,,,todo,,
+Cornwall,Sandy Lodge Hotel,Newquay,Hotel,No,,,todo,,
+Cornwall,Hotel Bristol,Newquay,Hotel,No,,,todo,,
+Cornwall,Hotel California,Newquay,Hotel,No,,,todo,,
+Cornwall,Porth Veor Manor,Newquay (Porth),Hotel,No,,,todo,,
+Cornwall,Porth Sands Penthouse,Newquay (Porth),Self-catering,No,,,todo,,
+Cornwall,Berties Lodge,Newquay,Hostel,No,,,todo,,
+Cornwall,Cornish Horizons Holiday Cottages,Padstow/North Cornwall,Self-catering,No,,,todo,,
+Cornwall,Cornish Cottage Holidays,Cornwall,Self-catering,No,,,todo,,
+Cornwall,Beachcombers Apartments,Newquay,Apartments,No,,breaksincornwall.com,researched,,
+Cornwall,Self Cater Cornwall,Cornwall,Self-catering,No,,,todo,,
+Cornwall,Cornish Traditional Cottages,Cornwall,Self-catering,No,,,todo,,
+Cornwall,Beachside Cottage,Newquay,Self-catering,No,,,todo,,
+Cornwall,Trencreek Holiday Park,Newquay,Holiday park,No,,,todo,,
+Cornwall,Riverside Holiday Park,Newquay (Lane),Holiday park,No,,,todo,,
+Cornwall,Sun Haven Valley Holiday Park,Mawgan Porth,Holiday park,No,,,todo,,
+Cornwall,Treworgans Holiday Park,Holywell/Cubert,Holiday park,No,,,todo,,
+Cornwall,Hendra Holiday Park,Newquay,Holiday park,No,,,todo,,
+Cornwall,Trenance Holiday Park,Newquay,Holiday park,No,,,todo,,
+Cornwall,Newquay Bay Resort,Newquay (Porth),Holiday park,No,,,todo,,
+Cornwall,Big Domain,Newquay,Self-catering,No,,,todo,,
+Cornwall,Blue Hayes Private Hotel,St Ives,Hotel,No,,,researched,,
+Cornwall,Carlill Guesthouse,St Ives,Guest house,No,,,researched,,
+Cornwall,Saltwater Guesthouse,St Ives,Guest house,No,,,researched,,
+Cornwall,St Ives Bay Hotel,St Ives,Hotel,No,,,researched,,
+Cornwall,Treloyhan Manor,St Ives,Self-catering,No,,,researched,,
+Cornwall,The Anchorage,St Ives,Guest house,No,,,researched,,
+Cornwall,Blue Sky Bed & Breakfast,St Ives,B&B,No,,,researched,,
+Cornwall,Cornish Escapes,St Ives,Self-catering,No,,,researched,,
+Cornwall,Cohort St Ives,St Ives,Hostel,No,,,researched,,
+Cornwall,Star-Gazy Porthmeor Beach,St Ives (Porthmeor),Self-catering,No,,,researched,,
+Cornwall,St Ives Holidays,St Ives / Carbis Bay,Self-catering,No,,,researched,,
+Cornwall,Cornish Riviera Holidays,St Ives,Self-catering,No,,,researched,,
+Cornwall,Host St Ives,St Ives,Hotel,No,,,researched,,
+Cornwall,Tregowan Holiday Apartments,St Ives,Apartments,No,,,researched,,
+Cornwall,Headland House,Carbis Bay,B&B,No,,,researched,,
+Cornwall,Green Apple Bed and Breakfast,Carbis Bay,B&B,No,,,researched,,
+Cornwall,Carbis Bay Holidays,Carbis Bay,Self-catering,No,,,researched,,
+Cornwall,Polmanter Self Catering Cottages,St Ives (Halsetown),Self-catering,No,,,researched,,
+Cornwall,The Gannet Inn,Carbis Bay,Inn,No,,,researched,,
+Cornwall,Sail Lofts,St Ives,Self-catering,No,,,researched,,
+Cornwall,"The Old Vicarage, St Ives",St Ives,B&B,No,,,researched,,
+Cornwall,Bosavern House,St Just,Guest house,No,,,researched,,
+Cornwall,East Thorne - Cornwall,Bude,holiday cottages (owner),No,,,researched,,
+Cornwall,St. Tinney Farm,Bude,farm holiday lodges,No,,,todo,,
+Cornwall,Carbis Bay and Spa Hotel,St Ives,hotel,No,,,researched,,
+Cornwall,Gwel an Mor,Portreath,Lodge resort,No,,,researched,,
+North Devon,Appledore Cottages,Appledore,Self-catering,Yes,appledore-cottages,,listed,,/accommodation/stays/appledore-cottages/
+North Devon,Catboat Cottage,Appledore,Self-catering,Yes,catboat-cottage,,listed,,/accommodation/stays/catboat-cottage/
+North Devon,Ellerton B&B,Bideford,B&B,Yes,ellerton-b-and-b,,listed,,/accommodation/stays/ellerton-b-and-b/
+North Devon,Moorview House,Bideford,B&B,Yes,moorview-house,,listed,,/accommodation/stays/moorview-house/
+North Devon,Stockwell Lodge,Braunton,B&B,Yes,stockwell-lodge,,listed,,/accommodation/stays/stockwell-lodge/
+North Devon,The Brookfield,Braunton,B&B,Yes,the-brookfield,,listed,,/accommodation/stays/the-brookfield/
+North Devon,The George Inn,Braunton,Inn,Yes,the-george-inn,,listed,,/accommodation/stays/the-george-inn/
+North Devon,Putsborough Manor Holiday Cottages,Croyde,Self-catering,Yes,putsborough-manor-holiday-cottages,,listed,,/accommodation/stays/putsborough-manor-holiday-cottages/
+North Devon,The Thatch Croyde,Croyde,Inn,Yes,the-thatch-croyde,,listed,,/accommodation/stays/the-thatch-croyde/
+North Devon,Commodore Hotel,Instow,Hotel,Yes,commodore-hotel,,listed,,/accommodation/stays/commodore-hotel/
+North Devon,Instow Beach Cottage,Instow,Self-catering,Yes,instow-beach-cottage,,listed,,/accommodation/stays/instow-beach-cottage/
+North Devon,Sinai House,Lynmouth,Guest house,Yes,sinai-house,,listed,,/accommodation/stays/sinai-house/
+North Devon,The Bath Hotel,Lynmouth,Hotel,Yes,the-bath-hotel,,listed,,/accommodation/stays/the-bath-hotel/
+North Devon,"The Blue Ball Inn, Countisbury",Lynmouth,Inn,Yes,the-blue-ball-inn-countisbury,,listed,,/accommodation/stays/the-blue-ball-inn-countisbury/
+North Devon,The Rising Sun Hotel,Lynmouth,Hotel,Yes,the-rising-sun-hotel,,listed,,/accommodation/stays/the-rising-sun-hotel/
+North Devon,Seafield Holiday Park (Braddicks),Northam,Holiday park,Yes,seafield-holiday-park-braddicks,,listed,,/accommodation/stays/seafield-holiday-park-braddicks/
+North Devon,Braddicks Holiday Park,Westward Ho!,Holiday park,Yes,braddicks-holiday-park,,listed,,/accommodation/stays/braddicks-holiday-park/
+North Devon,The Seagate Hotel,Westward Ho!,Inn,Yes,the-seagate-hotel,,listed,,/accommodation/stays/the-seagate-hotel/
+North Devon,Lower Campscott Farm Holiday Cottages,Woolacombe,Self-catering,Yes,lower-campscott-farm-holiday-cottages,,listed,,/accommodation/stays/lower-campscott-farm-holiday-cottages/
+North Devon,The Smugglers Rest,Woolacombe,Inn,Yes,the-smugglers-rest,,listed,,/accommodation/stays/the-smugglers-rest/
+North Devon,Watersmeet Hotel,Woolacombe,Hotel,Yes,watersmeet-hotel,,listed,,/accommodation/stays/watersmeet-hotel/
+North Devon,Woolacombe Bay Hotel,Woolacombe,Hotel,Yes,woolacombe-bay-hotel,,listed,,/accommodation/stays/woolacombe-bay-hotel/
+North Devon,Premier Inn Bideford,Bideford,Hotel,Yes,premier-inn-bideford,premierinn.com,listed,,/accommodation/stays/premier-inn-bideford/
+North Devon,The Royal Hotel,Bideford,Hotel,Yes,the-royal-hotel-bideford,,listed,,/accommodation/stays/the-royal-hotel-bideford/
+North Devon,Croyde Holidays,Croyde,Self-catering,Yes,croyde-holidays,,listed,,/accommodation/stays/croyde-holidays/
+North Devon,Ruda Holiday Park,Croyde,Holiday park,Yes,ruda-holiday-park,johnfowlerholidays.com,listed,,/accommodation/stays/ruda-holiday-park/
+North Devon,The Whiteleaf,Croyde,Guest house,Yes,the-whiteleaf,,listed,,/accommodation/stays/the-whiteleaf/
+North Devon,Thistledoo Bed and Breakfast,Croyde,B&B,Yes,thistledoo-bed-and-breakfast,,listed,,/accommodation/stays/thistledoo-bed-and-breakfast/
+North Devon,The Wayfarer Inn,Instow,Inn,Yes,the-wayfarer-inn,,listed,,/accommodation/stays/the-wayfarer-inn/
+North Devon,Exmoor Manor Hotel,Lynmouth,Guest house,Yes,exmoor-manor-hotel,,listed,confirm directly; no own-site check; no images,/accommodation/stays/exmoor-manor-hotel/
+North Devon,Lynton Cottage Hotel,Lynmouth,Hotel,Yes,lynton-cottage-hotel,,listed,"blocked: no hotel found, only holiday-let listings; may not exist/trading",/accommodation/stays/lynton-cottage-hotel/
+North Devon,Rock House Hotel,Lynmouth,Hotel,Yes,rock-house-hotel,,listed,confirm with hotel; no images,/accommodation/stays/rock-house-hotel/
+North Devon,The Seawood Hotel,Lynmouth,Hotel,Yes,the-seawood-hotel,,listed,,/accommodation/stays/the-seawood-hotel/
+North Devon,Braunton Inn,Saunton,Inn,Yes,braunton-inn,,listed,,/accommodation/stays/braunton-inn/
+North Devon,Croyde Bay Holiday Resort,Saunton,Holiday park,Yes,croyde-bay-holiday-resort,,listed,,/accommodation/stays/croyde-bay-holiday-resort/
+North Devon,Sandy Hollow Bed and Breakfast,Saunton,B&B,Yes,sandy-hollow-bed-and-breakfast,,listed,,/accommodation/stays/sandy-hollow-bed-and-breakfast/
+North Devon,Saunton Sands Farm Holiday Cottages,Saunton,Self-catering,Yes,saunton-sands-farm-holiday-cottages,,listed,,/accommodation/stays/saunton-sands-farm-holiday-cottages/
+North Devon,Saunton Sands Hotel,Saunton,Hotel,Yes,saunton-sands-hotel,,listed,confirm with hotel; no images,/accommodation/stays/saunton-sands-hotel/
+North Devon,Silver Cottage Bed & Breakfast,Saunton,B&B,Yes,silver-cottage-bed-and-breakfast,,listed,,/accommodation/stays/silver-cottage-bed-and-breakfast/
+North Devon,Beachside Holiday Park,Westward Ho!,Holiday park,Yes,beachside-holiday-park,,listed,,/accommodation/stays/beachside-holiday-park/
+North Devon,Durrant House Hotel (Northam),Westward Ho!,Hotel,Yes,durrant-house-hotel-northam,,listed,,/accommodation/stays/durrant-house-hotel-northam/
+North Devon,Golden Bay Holiday Village,Westward Ho!,Holiday park,Yes,golden-bay-holiday-village,,listed,,/accommodation/stays/golden-bay-holiday-village/
+North Devon,Morans Bed and Breakfast at Lower Lodge,Westward Ho!,B&B,Yes,morans-bed-and-breakfast-at-lower-lodge,,listed,,/accommodation/stays/morans-bed-and-breakfast-at-lower-lodge/
+North Devon,"Spacious 2 Bedroom Apartment with Fantastic View, Westward Ho!",Westward Ho!,Self-catering,Yes,modern-apartment-westward-ho,,listed,,/accommodation/stays/modern-apartment-westward-ho/
+North Devon,Surf Bay Holiday Park,Westward Ho!,Holiday park,Yes,surf-bay-holiday-park,,listed,,/accommodation/stays/surf-bay-holiday-park/
+North Devon,The Waterfront Inn,Westward Ho!,Inn,Yes,the-waterfront-inn,,listed,,/accommodation/stays/the-waterfront-inn/
+North Devon,Westbeach Holiday Apartments,Westward Ho!,Self-catering,Yes,westbeach-holiday-apartments,,listed,,/accommodation/stays/westbeach-holiday-apartments/
+North Devon,Easewell Farm Holiday Park,Woolacombe,Holiday park,Yes,easewell-farm-holiday-park,woolacombe.co.uk,listed,,/accommodation/stays/easewell-farm-holiday-park/
+North Devon,Stowford Farm Meadows,Woolacombe,Holiday park,Yes,stowford-farm-meadows,,listed,,/accommodation/stays/stowford-farm-meadows/
+North Devon,The Granary,Woolacombe,Self-catering,Yes,the-granary,,listed,,/accommodation/stays/the-granary/
+North Devon,Twitchen House Holiday Park,Woolacombe,Holiday park,Yes,twitchen-house-holiday-park,woolacombe.co.uk,listed,,/accommodation/stays/twitchen-house-holiday-park/
+North Devon,Woolacombe Bay Holiday Park,Woolacombe,Holiday park,Yes,woolacombe-bay-holiday-park,woolacombe.co.uk,listed,,/accommodation/stays/woolacombe-bay-holiday-park/
+North Devon,Woolacombe Sands Holiday Park,Woolacombe,Holiday park,Yes,woolacombe-sands-holiday-park,,listed,,/accommodation/stays/woolacombe-sands-holiday-park/
+North Devon,North Walk House,Lynmouth,Guest house,No,,,researched,,
+North Devon,The Royal George,Appledore,Inn,No,,,researched,,
+North Devon,The North Cliff Hotel,Lynmouth,Hotel,No,,,researched,,
+North Devon,Saunton Sands Hotel Source Spa and Wellness,Saunton,Hotel,No,,,duplicate of Saunton Sands Hotel,,
+North Devon,The Olive Branch,Ilfracombe (Woolacombe),Guest house,No,,,researched,,
+North Devon,Sailors Rest,Appledore,Other,No,,,todo,,
+North Devon,North Devon Resort,Ilfracombe (Woolacombe),Holiday park,No,,,todo,,
+North Devon,Highcliffe House,Lynmouth,B&B,No,,,researched,,
+North Devon,Rockvale House B&B,Lynton,B&B,No,,,todo,,
+North Devon,The Chough's Nest Hotel,Lynton,Hotel,No,,,todo,,
+North Devon,Longmead House B&B,Lynton,B&B,No,,,todo,,
+North Devon,Martinhoe Cleave Cottages (Exmoor Hideaway),Heddon Valley / Lynton,Self-catering,No,,,researched,,
+North Devon,Tors Park,Lynmouth,Self-catering apartments,No,,,researched,,
+North Devon,Byron Woolacombe Holidays,Woolacombe,agency/managed complex,No,,,researched,,
+North Devon,Choice Cottages,Croyde / Saunton,Self-catering agency,No,,,todo,,
+North Devon,Chalet Saunton,Saunton Sands,Self-catering,No,,,researched,,
+North Devon,Olde Lantern Holiday Lets,Ilfracombe / North Devon,Self-catering,No,,,researched,,
+North Devon,Torridge House Cottages,Little Torrington / Westward Ho!,Self-catering,No,,,researched,,
+South Devon,Gara Rock,Bantham,Hotel,Yes,gara-rock,,listed,,/accommodation/stays/gara-rock/
+South Devon,"The Cottage Hotel, Hope Cove",Bantham,Hotel,Yes,the-cottage-hotel-hope-cove,,listed,,/accommodation/stays/the-cottage-hotel-hope-cove/
+South Devon,Thurlestone Hotel,Bantham,Hotel,Yes,thurlestone-hotel,,listed,,/accommodation/stays/thurlestone-hotel/
+South Devon,Burgh Island Hotel,Bigbury-on-Sea,Hotel,Yes,burgh-island-hotel,,listed,,/accommodation/stays/burgh-island-hotel/
+South Devon,"Marine Hotel, Salcombe",Bigbury-on-Sea,Hotel,Yes,marine-hotel-salcombe,harbourhotels.co.uk,listed,area should be Salcombe not Bigbury; name change unconfirmed; dogs/parking unknown,/accommodation/stays/marine-hotel-salcombe/
+South Devon,The Henley Hotel,Bigbury-on-Sea,Hotel,No,,,researched,,
+South Devon,Perfect Stays,Bigbury-on-Sea / Hope Cove,Self-catering,No,,,researched,,
+South Devon,Finest Stays,Kingsbridge / South Hams,Self-catering,No,,,researched,,
+South Devon,Toad Hall Cottages,Kingsbridge / South Hams,Self-catering,No,,,researched,,
+South Devon,Salcombe Abode,Salcombe,Self-catering,No,,,researched,,
+South Devon,Soar Mill Cove Hotel,Salcombe,Hotel,No,,,researched,,
+South Devon,Bantham Holiday Cottages,Bantham,Self-catering,Yes,bantham-holiday-cottages,,listed,,/accommodation/stays/bantham-holiday-cottages/
+South Devon,"Coastguards Cottage, Bantham",Bantham,Self-catering,Yes,coastguards-cottage-bantham,,listed,,/accommodation/stays/coastguards-cottage-bantham/
+South Devon,Hope and Anchor Inn (rooms),Bantham,Inn,Yes,hope-and-anchor-inn-rooms,,listed,,/accommodation/stays/hope-and-anchor-inn-rooms/
+South Devon,"The Old Forge, Bantham",Bantham,Self-catering,Yes,the-old-forge-bantham,,listed,,/accommodation/stays/the-old-forge-bantham/
+South Devon,The Sloop Inn (rooms),Bantham,Inn,Yes,the-sloop-inn-rooms,,listed,,/accommodation/stays/the-sloop-inn-rooms/
+South Devon,Bigbury-on-Sea Holiday Cottages,Bigbury-on-Sea,Self-catering,Yes,bigbury-on-sea-holiday-cottages,,listed,,/accommodation/stays/bigbury-on-sea-holiday-cottages/
+South Devon,Challaborough Bay Holiday Park,Bigbury-on-Sea,Holiday park,Yes,challaborough-bay-holiday-park,parkdeanresorts.co.uk,listed,,/accommodation/stays/challaborough-bay-holiday-park/
+South Devon,Ringmore Holiday Cottages,Bigbury-on-Sea,Self-catering,Yes,ringmore-holiday-cottages,,listed,,/accommodation/stays/ringmore-holiday-cottages/
+South Devon,Harbour Beach Club & Hotel,Salcombe,Hotel,No,,harbourhotels.co.uk,researched,,
+South Devon,The Cricket Inn,"Beesands, Kingsbridge",Inn,No,,,researched,,
+South Devon,Coast & Country Cottages,Salcombe,Self-catering,No,,,researched,,
+South Devon,Dittiscombe Estate & Cottages,"Slapton, Kingsbridge",Self-catering,No,,,todo,,
+Wales,Rwts Rooms and Resto,Broad Haven,Inn,Yes,rwts-rooms-and-resto,,listed,,/accommodation/stays/rwts-rooms-and-resto/
+Wales,Sunset B&B,Broad Haven,B&B,Yes,sunset-b-and-b,,listed,,/accommodation/stays/sunset-b-and-b/
+Wales,YHA Broad Haven,Broad Haven,Hostel,Yes,yha-broad-haven,yha.org.uk,listed,,/accommodation/stays/yha-broad-haven/
+Wales,Tides Reach Guest House,Caswell Bay,Guest house,Yes,tides-reach-guest-house,,listed,,/accommodation/stays/tides-reach-guest-house/
+Wales,East Trewent Farm,Freshwater East,Self-catering,Yes,east-trewent-farm,,listed,,/accommodation/stays/east-trewent-farm/
+Wales,Pembrokeshire Wales Coastal Holidays,Freshwater East,Self-catering,Yes,pembrokeshire-wales-coastal-holidays,,listed,,/accommodation/stays/pembrokeshire-wales-coastal-holidays/
+Wales,Portclew House,Freshwater East,Self-catering,Yes,portclew-house,,listed,,/accommodation/stays/portclew-house/
+Wales,The Burrows,Freshwater East,Self-catering,Yes,the-burrows,,listed,,/accommodation/stays/the-burrows/
+Wales,Kitewell,Freshwater West,Self-catering,Yes,kitewell,,listed,,/accommodation/stays/kitewell/
+Wales,Porth Tocyn Hotel,Hell's Mouth (Porth Neigwl),Hotel,Yes,porth-tocyn-hotel,,listed,,/accommodation/stays/porth-tocyn-hotel/
+Wales,Rhydolion,Hell's Mouth (Porth Neigwl),Self-catering,Yes,rhydolion,,listed,,/accommodation/stays/rhydolion/
+Wales,The Kings Head,Llangennith,Inn,Yes,the-kings-head,,listed,,/accommodation/stays/the-kings-head/
+Wales,Western House B&B,Llangennith,B&B,Yes,western-house-b-and-b,,listed,,/accommodation/stays/western-house-b-and-b/
+Wales,Worms Head Hotel,Llangennith,Hotel,No,,,researched,,
+Wales,Manorbier Country Park,Manorbier,Holiday park,Yes,manorbier-country-park,,listed,,/accommodation/stays/manorbier-country-park/
+Wales,Sea Breeze Beach House,Manorbier,Self-catering,Yes,sea-breeze-beach-house,,listed,,/accommodation/stays/sea-breeze-beach-house/
+Wales,YHA Manorbier,Manorbier,Hostel,No,,yha.org.uk,todo,,
+Wales,Musselwick Farm Cottages,Marloes Sands,Self-catering,Yes,musselwick-farm-cottages,,listed,,/accommodation/stays/musselwick-farm-cottages/
+Wales,Orlandon Farm Cottages,Marloes Sands,Self-catering,Yes,orlandon-farm-cottages,,listed,,/accommodation/stays/orlandon-farm-cottages/
+Wales,Newgale Holidays,Newgale,Self-catering,Yes,newgale-holidays,,listed,,/accommodation/stays/newgale-holidays/
+Wales,Druidstone,Nolton Haven,Hotel,Yes,druidstone,,listed,,/accommodation/stays/druidstone/
+Wales,Nolton Cross Holiday Park,Nolton Haven,Holiday park,Yes,nolton-cross-holiday-park,,listed,,/accommodation/stays/nolton-cross-holiday-park/
+Wales,Nolton Haven Mill – The Mill House,Nolton Haven,Self-catering,Yes,nolton-haven-mill-the-mill-house,,listed,,/accommodation/stays/nolton-haven-mill-the-mill-house/
+Wales,Oxwich Bay Hotel,Oxwich Bay,Hotel,Yes,oxwich-bay-hotel,,listed,,/accommodation/stays/oxwich-bay-hotel/
+Wales,Three Cliffs Bay Holiday Park,Oxwich Bay,Holiday park,Yes,three-cliffs-bay-holiday-park,,listed,,/accommodation/stays/three-cliffs-bay-holiday-park/
+Wales,Bank Farm Leisure,Port Eynon,Holiday park,Yes,bank-farm-leisure,,listed,,/accommodation/stays/bank-farm-leisure/
+Wales,YHA Port Eynon,Port Eynon,Hostel,Yes,yha-port-eynon,yha.org.uk,listed,,/accommodation/stays/yha-port-eynon/
+Wales,Atlantic Hotel,"Rest Bay, Porthcawl",Hotel,Yes,atlantic-hotel,,listed,,/accommodation/stays/atlantic-hotel/
+Wales,Driftwood,Rhosneigr,Guest house,Yes,driftwood,,listed,,/accommodation/stays/driftwood/
+Wales,Craig Y Môr B&B,Whitesands,B&B,No,,,todo,,
+Wales,Penrhiw Hotel,Whitesands,Hotel,Yes,penrhiw-hotel,,listed,,/accommodation/stays/penrhiw-hotel/
+Wales,Twr y Felin Hotel,Whitesands,Hotel,Yes,twr-y-felin-hotel,,listed,,/accommodation/stays/twr-y-felin-hotel/
+Wales,YHA St Davids,Whitesands,Hostel,No,,yha.org.uk,todo,,
+Wales,Langland Bay Manor,Langland Bay,Self-catering,Yes,langland-bay-manor,originalcottages.co.uk,listed,,/accommodation/stays/langland-bay-manor/
+Wales,Ocean View Studio,Newgale,Self-catering,Yes,ocean-view-studio-newgale,,listed,,/accommodation/stays/ocean-view-studio-newgale/
+Wales,Southwood Cottage,Newgale,Self-catering,Yes,southwood-cottage-newgale,originalcottages.co.uk,listed,,/accommodation/stays/southwood-cottage-newgale/
+Wales,Culver House,Port Eynon,Self-catering,Yes,culver-house,,listed,,/accommodation/stays/culver-house/
+Wales,Ty Hen Holiday Park,Rhosneigr,Holiday park,Yes,ty-hen-holiday-park,,listed,,/accommodation/stays/ty-hen-holiday-park/
+Wales,The Egryn,Abersoch,Guest house,No,,,researched,,
+Wales,Felin Traeth Cottage,Rhosneigr,Self-catering,No,,,researched,,
+Wales,Sandy Mount House,Rhosneigr,Inn,No,,,researched,,
+Wales,Hael Farm Cottages (Port Eynon Beach Cottage),"Port Eynon, Gower",Self-catering,No,,,researched,,
+Wales,Croft Acre Holiday Cottages,"Port Eynon, Gower",Self-catering,No,,,researched,,
+Wales,Little Hill End (Pilton Moor),"Llangennith, Gower",Self-catering,No,,,researched,,
+Wales,Glendower,St Davids,Guest house,No,,,researched,,
+Wales,Ramsey House,St Davids,Guest house,No,,,researched,,
+Wales,"Carn Llidi, Lleithyr Farm","Whitesands, St Davids",Self-catering,No,,,researched,,
+Wales,Olivia House,Porthcawl,B&B,No,,,researched,,
+Wales,The Warren Holiday Park,Abersoch,Holiday park,No,,haulfrynholidays.co.uk,researched,,
+Wales,"Cwt Mochyn & The Chalet, Tan Y Bryn",Abersoch,Self-catering,No,,,todo,,
+Wales,"Broadhaven Cottage, Lake House",Freshwater East,Self-catering,No,,,todo,,
+Wales,The Haggard,Manorbier,Self-catering,No,,,researched,,
+Wales,Castle House (Manorbier Castle),Manorbier,Self-catering,No,,,researched,,
+Wales,Atlantic View Cottages,Broad Haven,Self-catering,No,,,researched,,
+Wales,"Swallows Nest, Gordy Hall",Little Haven,Self-catering,No,,,researched,,
+Wales,Rocksdrift & Seaview Apartments,Broad Haven,Apartments,No,,,researched,,
+Wales,Timber Hill,Broad Haven,Self-catering,No,,,researched,,
+Wales,Oakland House,Mumbles (Langland/Caswell),Self-catering,No,,,researched,,
+Wales,The Oyster House,Mumbles (Langland/Caswell),Guest house,No,,,researched,,
+Wales,Parkmill Cottages,"Parkmill, Gower (Oxwich/Three Cliffs)",Self-catering,No,,,researched,,
+Wales,"Coastal View, Sealands Farm","Oxwich, Gower",Self-catering,No,,,todo,,
+Wales,Castellmarch,Abersoch,Self-catering,No,,,researched,,
+Wales,Top Flat 38 Victoria Avenue,Porthcawl,Apartments,No,,,todo,,
+Wales,St Davids Escapes (Yr Hendy),St Davids,Self-catering,No,,,researched,,
+Wales,Freshwater Holidays (16 Freshwater Bay),Freshwater East,Self-catering,No,,,researched,,
+Southern England,Hotel Miramar,Bournemouth,Hotel,Yes,hotel-miramar,,listed,,/accommodation/stays/hotel-miramar/
+Southern England,A Room With A View,Brighton,Guest house,Yes,a-room-with-a-view,,listed,,/accommodation/stays/a-room-with-a-view/
+Southern England,Drakes,Brighton,Hotel,Yes,drakes,,listed,,/accommodation/stays/drakes/
+Southern England,Queens Hotel,Brighton,Hotel,Yes,queens-hotel,,listed,,/accommodation/stays/queens-hotel/
+Southern England,Dinosaur Farm Holidays,Compton Bay,Self-catering,Yes,dinosaur-farm-holidays,,listed,,/accommodation/stays/dinosaur-farm-holidays/
+Southern England,Beach Front Guest House,Eastbourne,Guest house,Yes,beach-front-guest-house,,listed,,/accommodation/stays/beach-front-guest-house/
+Southern England,East Beach Hotel,Eastbourne,Hotel,Yes,east-beach-hotel,,listed,,/accommodation/stays/east-beach-hotel/
+Southern England,The Lansdowne Hotel,Eastbourne,Hotel,Yes,the-lansdowne-hotel,,listed,,/accommodation/stays/the-lansdowne-hotel/
+Southern England,York House Hotel,Eastbourne,Hotel,Yes,york-house-hotel,,listed,,/accommodation/stays/york-house-hotel/
+Southern England,Farringford,Freshwater Bay,Hotel,Yes,farringford,,listed,,/accommodation/stays/farringford/
+Southern England,The Albion,Freshwater Bay,Hotel,Yes,the-albion,,listed,,/accommodation/stays/the-albion/
+Southern England,Botany Bay Hotel,Joss Bay,Hotel,Yes,botany-bay-hotel,,listed,,/accommodation/stays/botany-bay-hotel/
+Southern England,Fagin's Den (The Fishermen's Cottages),Joss Bay,Self-catering,Yes,fagin-s-den-the-fishermen-s-cottages,,listed,,/accommodation/stays/fagin-s-den-the-fishermen-s-cottages/
+Southern England,The Yarrow,Joss Bay,Hotel,Yes,the-yarrow,,listed,,/accommodation/stays/the-yarrow/
+Southern England,The Scott Arms,Kimmeridge Bay,Inn,Yes,the-scott-arms,,listed,,/accommodation/stays/the-scott-arms/
+Southern England,Bedford Lodge,Shanklin,Guest house,No,,,researched,,
+Southern England,Channel View Hotel,Shanklin,Hotel,Yes,channel-view-hotel,,listed,,/accommodation/stays/channel-view-hotel/
+Southern England,Hambledon Hotel,Shanklin,Hotel,No,,,researched,,
+Southern England,Haven Hall,Shanklin,Hotel,Yes,haven-hall,,listed,,/accommodation/stays/haven-hall/
+Southern England,St George's House,Shanklin,Guest house,No,,,todo,,
+Southern England,The Chestnuts,Shanklin,Guest house,No,,,researched,,
+Southern England,The Clifton,Shanklin,B&B,No,,,researched,,
+Southern England,The Osborne,Shanklin,Guest house,No,,,researched,,
+Southern England,The Swiss Cottage,Shanklin,Guest house,No,,,researched,,
+Southern England,Beach Green Hotel,Shoreham,Hotel,Yes,beach-green-hotel,,listed,,/accommodation/stays/beach-green-hotel/
+Southern England,Grand Hotel Swanage,Swanage,Hotel,Yes,grand-hotel-swanage,,listed,,/accommodation/stays/grand-hotel-swanage/
+Southern England,Purbeck House Hotel,Swanage,Hotel,Yes,purbeck-house-hotel,,listed,,/accommodation/stays/purbeck-house-hotel/
+Southern England,The Pines Hotel,Swanage,Hotel,Yes,the-pines-hotel,,listed,,/accommodation/stays/the-pines-hotel/
+Southern England,Boscombe Reef Hotel,Boscombe Pier,Hotel,Yes,boscombe-reef-hotel,,listed,,/accommodation/stays/boscombe-reef-hotel/
+Southern England,Chine Hotel,Boscombe Pier,Hotel,Yes,chine-hotel,,listed,,/accommodation/stays/chine-hotel/
+Southern England,Premier Inn Bournemouth East (Boscombe),Boscombe Pier,Hotel,Yes,premier-inn-bournemouth-east-boscombe,premierinn.com,listed,,/accommodation/stays/premier-inn-bournemouth-east-boscombe/
+Southern England,Urban Beach Hotel,Boscombe Pier,Hotel,Yes,urban-beach-hotel,,listed,,/accommodation/stays/urban-beach-hotel/
+Southern England,Bournemouth Beach Lodges,Bournemouth,Self-catering,Yes,bournemouth-beach-lodges,,listed,,/accommodation/stays/bournemouth-beach-lodges/
+Southern England,Seal Bay Resort,Bracklesham Bay,Holiday park,Yes,seal-bay-resort,,listed,,/accommodation/stays/seal-bay-resort/
+Southern England,Wicks Farm Holiday Park,Bracklesham Bay,Holiday park,Yes,wicks-farm-holiday-park,,listed,,/accommodation/stays/wicks-farm-holiday-park/
+Southern England,Malmaison Brighton,Brighton,Hotel,Yes,malmaison-brighton,,listed,,/accommodation/stays/malmaison-brighton/
+Southern England,Freshwater Bay House (HF Holidays),Freshwater Bay,Hotel,Yes,freshwater-bay-house-hf-holidays,,listed,,/accommodation/stays/freshwater-bay-house-hf-holidays/
+Southern England,Tollgate Cottages Bed & Breakfast,Freshwater Bay,B&B,Yes,tollgate-cottages-bed-and-breakfast,,listed,,/accommodation/stays/tollgate-cottages-bed-and-breakfast/
+Southern England,Chewton Glen,Highcliffe,Hotel,Yes,chewton-glen,,listed,,/accommodation/stays/chewton-glen/
+Southern England,Hoburne Naish,Highcliffe,Holiday park,Yes,hoburne-naish,hoburne.com,listed,,/accommodation/stays/hoburne-naish/
+Southern England,Hoburne Park,Highcliffe,Holiday park,Yes,hoburne-park,hoburne.com,listed,,/accommodation/stays/hoburne-park/
+Southern England,Premier Inn Christchurch/Highcliffe,Highcliffe,Hotel,Yes,premier-inn-christchurch-highcliffe,premierinn.com,listed,,/accommodation/stays/premier-inn-christchurch-highcliffe/
+Southern England,Clavell Tower (Landmark Trust),Kimmeridge Bay,Self-catering,Yes,clavell-tower-landmark-trust,,listed,,/accommodation/stays/clavell-tower-landmark-trust/
+Southern England,The Fig Tree,Shanklin,Guest house,Yes,the-fig-tree,thefigtreeshanklin.co.uk,listed,,/accommodation/stays/the-fig-tree/
+Southern England,Spyglass and Kettle,Southbourne,Inn,Yes,spyglass-and-kettle,,listed,,/accommodation/stays/spyglass-and-kettle/
+Southern England,Village Hotel Bournemouth,Southbourne,Hotel,Yes,village-hotel-bournemouth,,listed,,/accommodation/stays/village-hotel-bournemouth/
+Southern England,Millbrook Guest House,Swanage,Guest house,Yes,millbrook-guest-house,,listed,,/accommodation/stays/millbrook-guest-house/
+Southern England,Hilton Bournemouth,Bournemouth,Hotel,No,,hilton.com,todo,,
+Southern England,Bournemouth Highcliff Marriott Hotel,Bournemouth,Hotel,No,,marriott.com,todo,,
+Southern England,Harbour Hotel Christchurch,Highcliffe,Hotel,No,,harbourhotels.co.uk,researched,,
+Southern England,Bournemouth East Cliff by Belvilla,Bournemouth,Apartments,No,,,todo,,
+Southern England,Maldron Hotel Brighton City Centre,Brighton,Hotel,No,,,todo,,
+Southern England,Majestic Hotel Eastbourne by Belvilla,Eastbourne,Hotel,No,,,todo,,
+Southern England,Lulworth Cove Inn,Kimmeridge Bay,Inn,No,,,researched,,
+Southern England,Russell Court Hotel Bournemouth Central,Bournemouth,Hotel,No,,,todo,,
+Southern England,The Charm Brighton Boutique Hotel and Spa,Brighton,Hotel,No,,,researched,,
+Southern England,Best Western Princes Marine Hotel,Brighton,Hotel,No,,,researched,,
+Southern England,DoubleTree by Hilton Brighton Metropole,Brighton,Hotel,No,,hilton.com,todo,,
+Southern England,Fort Road Hotel,Joss Bay,Hotel,No,,,researched,,
+Southern England,Four Points Flex by Sheraton Brighton Seafront,Brighton,Hotel,No,,marriott.com,todo,,
+Southern England,The Chatsworth Hotel,Eastbourne,Hotel,No,,,todo,,
+Southern England,Relax Inn Guest House,Brighton,Guest house,No,,,todo,,
+Southern England,Q Square by Supercity Aparthotels,Brighton,Apartments,No,,,todo,,
+Southern England,Cavendish Hotel,Eastbourne,Hotel,No,,,todo,,
+Southern England,Mercure Brighton Seafront Hotel,Brighton,Hotel,No,,,todo,,
+Southern England,The View Hotel,Eastbourne,Hotel,No,,,todo,,
+Southern England,The Knoll House,Swanage,Hotel,No,,,researched,,
+Southern England,INNit Bliss,Brighton,Guest house,No,,,todo,,
+Southern England,Legends Hotel Brighton,Brighton,Hotel,No,,,todo,,
+Southern England,Marsham Court Hotel,Bournemouth,Hotel,No,,,researched,,
+Southern England,Harbour Hotel Brighton,Brighton,Hotel,No,,harbourhotels.co.uk,researched,,
+Southern England,Hotel Nineteen,Brighton,Hotel,No,,,todo,,
+Southern England,The Burlington Hotel,Eastbourne,Hotel,No,,,researched,,
+Southern England,Sandbanks Hotel,Bournemouth,Hotel,No,,,todo,,
+Southern England,One Broad Street,Brighton,Guest house,No,,,researched,,
+Southern England,Sea Stone Hotel,Bournemouth,Hotel,No,,,todo,,
+Southern England,The Halcyon,Eastbourne,Guest house,No,,,todo,,
+Southern England,Royal Albion Hotel,Joss Bay,Hotel,No,,,researched,,
+Southern England,The Beach House,Highcliffe,Inn,No,,,researched,,
+Southern England,Ambassador Hotel,Brighton,Hotel,No,,,researched,,
+Southern England,THE NICI Bournemouth,Bournemouth,Hotel,No,,thenici.com,todo,,
+Southern England,Hamptons Brighton,Brighton,Guest house,No,,,todo,,
+Southern England,Hotel Pelirocco,Brighton,Hotel,No,,,researched,,
+Southern England,The Mowbray,Eastbourne,Hotel,No,,,researched,,
+Southern England,Durdle Door Hotel,Kimmeridge Bay,Hotel,No,,,todo,,
+Southern England,New Steine,Brighton,Hotel,No,,,researched,,
+Southern England,The Grand Brighton,Brighton,Hotel,No,,,researched,,
+Southern England,The Brighton Hotel,Brighton,Hotel,No,,,todo,,
+Southern England,Hydro Hotel,Eastbourne,Hotel,No,,,researched,,
+Southern England,Strawberry Fields,Brighton,Guest house,No,,,researched,,
+Southern England,Eastbourne Riviera Hotel,Eastbourne,Hotel,No,,,researched,,
+Southern England,The Grand Hotel Eastbourne,Eastbourne,Hotel,No,,,researched,,
+Southern England,Royal Bath Hotel,Bournemouth,Hotel,No,,,todo,,
+Southern England,The Beach Hotel,Brighton,Hotel,No,,,todo,,
+Southern England,Square Townhouse,Brighton,Hotel,No,,,researched,,
+Southern England,Port Hotel,Eastbourne,Hotel,No,,,researched,,
+Southern England,Pebble Beach,Highcliffe,Hotel,No,,,researched,,
+Southern England,The Cumberland Hotel,Eastbourne,Hotel,No,,,researched,,
+Southern England,Citrus Hotel Eastbourne by Compass Hospitality,Eastbourne,Hotel,No,,,todo,,
+Southern England,The Fig Tree Shanklin,Shanklin,Hotel,No,,thefigtreeshanklin.co.uk,todo,,
+Southern England,Amsterdam Hotel and A Bar,Brighton,Hotel,No,,,todo,,
+Southern England,Marine Parade Hotel,Eastbourne,Hotel,No,,,todo,,
+Southern England,Eastbourne Reymar - B&B,Eastbourne,B&B,No,,,todo,,
+Southern England,Artist Residence Brighton,Brighton,Hotel,No,,,todo,,
+Southern England,The Twenty One B&B,Brighton,B&B,No,,,todo,,
+Southern England,Amherst Brighton,Brighton,Guest house,No,,,todo,,
+Southern England,Drakes of Brighton,Brighton,Hotel,No,,,todo,,
+Southern England,Haven Hotel,Bournemouth,Hotel,No,,,todo,,
+Southern England,Luccombe Manor Country House Hotel,Shanklin,Hotel,No,,,researched,,
+Southern England,Luccombe Hall Hotel,Shanklin,Hotel,No,,,researched,,
+Southern England,Atlanta Guesthouse,Eastbourne,Guest house,No,,,todo,,
+Southern England,The Belmont Hotel,Shanklin,Hotel,No,,,todo,,
+Southern England,Sea Spray,Brighton,Hotel,No,,,researched,,
+Southern England,The Cliff House Hotel,Highcliffe,Hotel,No,,,todo,,
+Southern England,Number29,Shanklin,Hotel,No,,,todo,,
+Southern England,Alexander Lodge,"Southbourne, Bournemouth",Guest house,No,,,researched,,
+Southern England,Mory House,"Southbourne, Bournemouth",B&B,No,,,researched,,
+Southern England,Southbourne Holiday Lets,"Southbourne, Bournemouth",Self-catering,No,,,researched,,
+Southern England,Harewood Haven,"Boscombe/Southbourne, Bournemouth",Self-catering,No,,,researched,,
+Southern England,Riviera Hotel & Holiday Apartments,"Alum Chine, Bournemouth",Hotel,No,,,researched,,
+Southern England,The Green House Hotel,"East Cliff, Bournemouth",Hotel,No,,,researched,,
+Southern England,Regency Court Holiday Flats,"West Cliff, Bournemouth",Apartments,No,,,researched,,
+Southern England,The Ashleigh,Bournemouth (East Cliff/Boscombe),Guest house,No,,,todo,,
+Southern England,The Coach House Holiday Apartments,"West Cliff, Bournemouth",Apartments,No,,,researched,,
+Southern England,The Suncliff Hotel,"East Cliff, Bournemouth",Hotel,No,,,researched,,
+Southern England,Sentry Mead,"Totland Bay, Isle of Wight",Guest house,No,,,researched,,
+Southern England,Chale Bay Farm,"Chale, Isle of Wight (south-west coast)",Guest house,No,,,researched,,
+Southern England,Linstone Chine Holiday Village,"Freshwater/Colwell Bay, Isle of Wight",Holiday park,No,,,researched,,
+Southern England,Tapnell Farm,"Yarmouth/West Wight, Isle of Wight",Self-catering,No,,,researched,,
+Southern England,Ebenezer's Place,Broadstairs,Self-catering,No,,,todo,,
+Southern England,The Corner Broadstairs Boutique B&B,Broadstairs,B&B,No,,,todo,,
+Southern England,The Victoria B&B,Broadstairs,B&B,No,,,todo,,
+Southern England,Belvidere Place,Broadstairs,B&B,No,,,todo,,
+Southern England,Harbour Haven (Beautiful Broadstairs),Broadstairs,Self-catering,No,,,researched,,
+Northeast & Yorkshire,Budle Bay Croft Holiday Cottages,Bamburgh,Self-catering,No,,,researched,,
+Northeast & Yorkshire,Glebe House & Cottage,Bamburgh,Self-catering,No,,,researched,,
+Northeast & Yorkshire,Greystead Bamburgh,Bamburgh,B&B,Yes,greystead-bamburgh,,listed,,/accommodation/stays/greystead-bamburgh/
+Northeast & Yorkshire,The Victoria Hotel,Bamburgh,Hotel,No,,,researched,,
+Northeast & Yorkshire,Beadnell Towers,Beadnell Bay,Hotel,Yes,beadnell-towers,,listed,,/accommodation/stays/beadnell-towers/
+Northeast & Yorkshire,Brunton House and Cottages,Beadnell Bay,Self-catering,Yes,brunton-house-and-cottages,,listed,,/accommodation/stays/brunton-house-and-cottages/
+Northeast & Yorkshire,Coast & Country Stays,Beadnell Bay,Self-catering,Yes,coast-and-country-stays,,listed,,/accommodation/stays/coast-and-country-stays/
+Northeast & Yorkshire,Armada Guest House,Redcar,Guest house,Yes,armada-guest-house,,listed,,/accommodation/stays/armada-guest-house/
+Northeast & Yorkshire,Bellevue Apartments,Redcar,Self-catering,Yes,bellevue-apartments,,listed,,/accommodation/stays/bellevue-apartments/
+Northeast & Yorkshire,The Claxton Hotel,Redcar,Hotel,Yes,the-claxton-hotel,,listed,,/accommodation/stays/the-claxton-hotel/
+Northeast & Yorkshire,The Park Hotel,Redcar,Hotel,Yes,the-park-hotel,,listed,,/accommodation/stays/the-park-hotel/
+Northeast & Yorkshire,Brockley Hall Hotel,Saltburn,Hotel,Yes,brockley-hall-hotel,,listed,,/accommodation/stays/brockley-hall-hotel/
+Northeast & Yorkshire,Moon Fleet Guest House,Saltburn,Guest house,Yes,moon-fleet-guest-house,,listed,,/accommodation/stays/moon-fleet-guest-house/
+Northeast & Yorkshire,No 48,Saltburn,Self-catering,No,,,todo,,
+Northeast & Yorkshire,The Spa Hotel,Saltburn,Hotel,Yes,the-spa-hotel,,listed,,/accommodation/stays/the-spa-hotel/
+Northeast & Yorkshire,Raithwaite Sandsend,Sandsend,Hotel,Yes,raithwaite-sandsend,,listed,,/accommodation/stays/raithwaite-sandsend/
+Northeast & Yorkshire,The Kensington Guesthouse,Scarborough North Bay,Guest house,No,,,researched,,
+Northeast & Yorkshire,Sandhaven Beach Chalets,South Shields,Self-catering,Yes,sandhaven-beach-chalets,,listed,,/accommodation/stays/sandhaven-beach-chalets/
+Northeast & Yorkshire,The Sea Hotel,South Shields,Hotel,Yes,the-sea-hotel,,listed,,/accommodation/stays/the-sea-hotel/
+Northeast & Yorkshire,Grand Hotel Tynemouth,Tynemouth Longsands,Hotel,Yes,grand-hotel-tynemouth,,listed,,/accommodation/stays/grand-hotel-tynemouth/
+Northeast & Yorkshire,The Tynemouth Castle Inn,Tynemouth Longsands,Inn,Yes,the-tynemouth-castle-inn,inncollectiongroup.com,listed,,/accommodation/stays/the-tynemouth-castle-inn/
+Northeast & Yorkshire,Royal Whitby,Whitby,Hotel,Yes,royal-whitby,,listed,,/accommodation/stays/royal-whitby/
+Northeast & Yorkshire,Glororum Caravan Park,Bamburgh,Holiday park,Yes,glororum-caravan-park,northumbrianleisure.co.uk,listed,,/accommodation/stays/glororum-caravan-park/
+Northeast & Yorkshire,Cayton Bay Holiday Park (Parkdean Resorts),Cayton Bay,Holiday park,Yes,cayton-bay-holiday-park-parkdean-resorts,parkdeanresorts.co.uk,listed,,/accommodation/stays/cayton-bay-holiday-park-parkdean-resorts/
+Northeast & Yorkshire,Crows Nest Caravan Park,Cayton Bay,Holiday park,Yes,crows-nest-caravan-park,,listed,,/accommodation/stays/crows-nest-caravan-park/
+Northeast & Yorkshire,Haven Blue Dolphin Holiday Park,Cayton Bay,Holiday park,Yes,haven-blue-dolphin-holiday-park,haven.com,listed,,/accommodation/stays/haven-blue-dolphin-holiday-park/
+Northeast & Yorkshire,Cresswell Towers Holiday Park,Druridge Bay,Holiday park,Yes,cresswell-towers-holiday-park,parkdeanresorts.co.uk,listed,,/accommodation/stays/cresswell-towers-holiday-park/
+Northeast & Yorkshire,Golden Sands Holiday Park,Druridge Bay,Holiday park,Yes,golden-sands-holiday-park,northumbrianleisure.co.uk,listed,,/accommodation/stays/golden-sands-holiday-park/
+Northeast & Yorkshire,Haven Primrose Valley Holiday Park,Filey Bay,Holiday park,Yes,haven-primrose-valley-holiday-park,haven.com,listed,,/accommodation/stays/haven-primrose-valley-holiday-park/
+Northeast & Yorkshire,Runswick Bay Hotel,Runswick Bay,Inn,Yes,runswick-bay-hotel,,listed,,/accommodation/stays/runswick-bay-hotel/
+Northeast & Yorkshire,Mulgrave Estate Cottages,Sandsend,Self-catering,Yes,mulgrave-estate-cottages,,listed,,/accommodation/stays/mulgrave-estate-cottages/
+Northeast & Yorkshire,Premier Inn Scarborough (North Bay),Scarborough North Bay,Hotel,Yes,premier-inn-scarborough-north-bay,premierinn.com,listed,,/accommodation/stays/premier-inn-scarborough-north-bay/
+Northeast & Yorkshire,The Clarence Gardens Hotel,Scarborough North Bay,Hotel,Yes,the-clarence-gardens-hotel,,listed,,/accommodation/stays/the-clarence-gardens-hotel/
+Northeast & Yorkshire,YHA Scarborough,Scarborough North Bay,Hostel,Yes,yha-scarborough,yha.org.uk,listed,,/accommodation/stays/yha-scarborough/
+Northeast & Yorkshire,Sandhaven Caravan Park,South Shields,Holiday park,Yes,sandhaven-caravan-park,northumbrianleisure.co.uk,listed,,/accommodation/stays/sandhaven-caravan-park/
+Northeast & Yorkshire,Whitley Bay Holiday Park,Tynemouth Longsands,Holiday park,Yes,whitley-bay-holiday-park,parkdeanresorts.co.uk,listed,,/accommodation/stays/whitley-bay-holiday-park/
+Northeast & Yorkshire,YHA Whitby,Whitby,Hostel,Yes,yha-whitby,yha.org.uk,listed,,/accommodation/stays/yha-whitby/
+Northeast & Yorkshire,Hillcrest House Bed & Breakfast,Bamburgh,B&B,No,,,todo,,
+Northeast & Yorkshire,"The Clarence Gardens Hotel, BW Signature Collection",Scarborough,Hotel,No,,,todo,,
+Northeast & Yorkshire,The Norbreck Hotel by Compass Hospitality,Scarborough,Hotel,No,,,todo,,
+Northeast & Yorkshire,Bike & Boot,Scarborough,Hotel,No,,,researched,,
+Northeast & Yorkshire,Crown Spa Hotel Scarborough by Compass Hospitality,Scarborough,Hotel,No,,,researched,,
+Northeast & Yorkshire,The Clifton Hotel,Scarborough,Hotel,No,,,todo,,
+Northeast & Yorkshire,The Bamburgh Castle Inn - The Inn Collection Group,Beadnell Bay,Inn,No,,inncollectiongroup.com,researched,,
+Northeast & Yorkshire,Grand Hotel Scarborough,Scarborough,Hotel,No,,,todo,,
+Northeast & Yorkshire,Ivy By The Sea,Scarborough,B&B,No,,,todo,,
+Northeast & Yorkshire,The Helaina,Scarborough,Hotel,No,,thehelaina.co.uk,researched,,
+Northeast & Yorkshire,Harmony Country Lodge,Scarborough,Guest house,No,,,researched,,
+Northeast & Yorkshire,The Beacon Hotel,Redcar,Hotel,No,,,todo,,
+Northeast & Yorkshire,The Albert,Scarborough,Inn,No,,,researched,,
+Northeast & Yorkshire,The Waterford Arms,Tynemouth,Inn,No,,,todo,,
+Northeast & Yorkshire,La Rosa Hotel,Whitby,Hotel,No,,,todo,,
+Northeast & Yorkshire,Mansion House,Scarborough,Guest house,No,,,researched,,
+Northeast & Yorkshire,Blue Horizon Apartments at The Helaina,Scarborough,Self-catering,No,,thehelaina.co.uk,researched,,
+Northeast & Yorkshire,Harcourt Place,Scarborough,Hotel,No,,,researched,,
+Northeast & Yorkshire,Red Lea Apartments,Scarborough,Apartments,No,,,todo,,
+Northeast & Yorkshire,The Sands - Sea Front Apartments,Scarborough,Apartments,No,,,todo,,
+Northeast & Yorkshire,Haven Crest,Whitby,Guest house,No,,,researched,,
+Northeast & Yorkshire,Seafront Apartments,Tynemouth,Apartments,No,,,todo,,
+Northeast & Yorkshire,Baytown Holiday Cottages,Robin Hood's Bay,Self-catering,No,,,researched,,
+Northeast & Yorkshire,Magnolia Guest House,Whitby,Guest house,No,,,researched,,
+Northeast & Yorkshire,Whitby Holiday Home,Whitby,Self-catering,No,,,researched,,
+Northeast & Yorkshire,Riviera Guesthouse,Whitby,Guest house,No,,,researched,,
+Northeast & Yorkshire,The White House Inn,Whitby,Inn,No,,,researched,,
+Northeast & Yorkshire,Beach House Hotel,Seahouses,Hotel,No,,,researched,,
+Northeast & Yorkshire,The Olde Ship Inn,Seahouses,Inn,No,,,researched,,
+Northeast & Yorkshire,North Bay Guest Accommodation,Scarborough,Guest house,No,,,researched,,
+Northeast & Yorkshire,Fayvan Apartments,Whitby,Self-catering,No,,,researched,,
+Northeast & Yorkshire,Whitby Bridge Luxury Apartments,Whitby,Self-catering,No,,,researched,,
+Northeast & Yorkshire,Admiral Hotel,Scarborough,Hotel,No,,,researched,,
+Scotland,Priory View B&B,Coldingham,B&B,No,,,todo,,
+Scotland,Gearrannan Blackhouse Village,"Dalmore Bay, Lewis",Self-catering,Yes,gearrannan-blackhouse-village,,listed,,/accommodation/stays/gearrannan-blackhouse-village/
+Scotland,Emmaus Guest House,Dunbar,Guest house,No,,,todo,,
+Scotland,Castletown Hotel,Dunnet Bay,Hotel,Yes,castletown-hotel,,listed,,/accommodation/stays/castletown-hotel/
+Scotland,Northern Sands Hotel,Dunnet Bay,Hotel,Yes,northern-sands-hotel,,listed,,/accommodation/stays/northern-sands-hotel/
+Scotland,Dunlossit House B&B,Machrihanish,B&B,No,,,todo,,
+Scotland,Machrihanish Holiday Park,Machrihanish,Holiday park,Yes,machrihanish-holiday-park,,listed,,/accommodation/stays/machrihanish-holiday-park/
+Scotland,Ugadale Hotel & Cottages (Machrihanish Dunes),Machrihanish,Hotel,No,,,researched,,
+Scotland,The Sheiling,Melvich,B&B,Yes,the-sheiling,,listed,,/accommodation/stays/the-sheiling/
+Scotland,"The Granary Lodge, Castle of Mey",Mey / Dunnet,B&B,No,,,researched,,
+Scotland,Hawthorns B&B,Mey / Dunnet Head,B&B,No,,,todo,,
+Scotland,Camfield House (Riverside Accommodation),Thurso,B&B,No,,,researched,,
+Scotland,Manor House Thurso,Thurso,Guest house,No,,,researched,,
+Scotland,Pentland Lodge House,Thurso,Guest house,No,,,researched,,
+Scotland,Aurora Bed and Breakfast,Thurso Beach,B&B,Yes,aurora-bed-and-breakfast,,listed,,/accommodation/stays/aurora-bed-and-breakfast/
+Scotland,Park Hotel,Thurso Beach,Hotel,Yes,park-hotel,,listed,,/accommodation/stays/park-hotel/
+Scotland,Pennyland House B&B,Thurso East,B&B,Yes,pennyland-house-b-and-b,,listed,,/accommodation/stays/pennyland-house-b-and-b/
+Scotland,Royal Hotel Thurso,Thurso East,Hotel,Yes,royal-hotel-thurso,,listed,,/accommodation/stays/royal-hotel-thurso/
+Scotland,The Pentland Hotel,Thurso East,Hotel,Yes,the-pentland-hotel,,listed,,/accommodation/stays/the-pentland-hotel/
+Scotland,Dunnet Bay Accommodation,Dunnet Bay,Self-catering,Yes,dunnet-bay-accommodation,,listed,,/accommodation/stays/dunnet-bay-accommodation/
+Scotland,Dunnet Bay Escapes,Dunnet Bay,Self-catering,Yes,dunnet-bay-escapes,,listed,,/accommodation/stays/dunnet-bay-escapes/
+Scotland,Stotfield Hotel,Lossiemouth,Hotel,Yes,stotfield-hotel,,listed,,/accommodation/stays/stotfield-hotel/
+Scotland,Pease Bay Holiday Park,Pease Bay,Holiday park,Yes,pease-bay-holiday-park,verdantparks.co.uk,listed,,/accommodation/stays/pease-bay-holiday-park/
+Scotland,Thurston Manor Holiday Park,Pease Bay,Holiday park,Yes,thurston-manor-holiday-park,verdantparks.co.uk,listed,,/accommodation/stays/thurston-manor-holiday-park/
+Scotland,Valleyview House,Thurso Beach,B&B,Yes,valleyview-house,,listed,,/accommodation/stays/valleyview-house/
+Scotland,Bed & Breakfast @ 4,Thurso East,B&B,Yes,bed-and-breakfast-4,,listed,,/accommodation/stays/bed-and-breakfast-4/
+Scotland,The Weigh Inn Hotel & Lodges,Thurso,Hotel and lodges,No,,,researched,,
+Northern Ireland,Benone Holiday and Leisure Park,Benone Strand,Holiday park,Yes,benone-holiday-and-leisure-park,causewaycoastandglens.gov.uk,listed,,/accommodation/stays/benone-holiday-and-leisure-park/
+Northern Ireland,Railway Sleeper Hostel,Benone Strand,Hostel,Yes,railway-sleeper-hostel,,listed,,/accommodation/stays/railway-sleeper-hostel/
+Northern Ireland,Beulah Guest House,Portrush,Guest house,No,,,researched,,
+Northern Ireland,Blackrock House B&B,Portrush,B&B,No,,,todo,,
+Northern Ireland,Pier 39 Portrush,Portrush,B&B,No,,,researched,,
+Northern Ireland,The Carrick,Portrush,B&B,No,,,researched,,
+Northern Ireland,Elephant Rock Hotel,Portrush East Strand,Hotel,Yes,elephant-rock-hotel,,listed,,/accommodation/stays/elephant-rock-hotel/
+Northern Ireland,Portrush Adelphi,Portrush East Strand,Hotel,Yes,portrush-adelphi,,listed,,/accommodation/stays/portrush-adelphi/
+Northern Ireland,Portrush Atlantic Hotel,Portrush East Strand,Hotel,Yes,portrush-atlantic-hotel,,listed,,/accommodation/stays/portrush-atlantic-hotel/
+Northern Ireland,Carrick Dhu Holiday Park,Portrush West Strand,Holiday park,Yes,carrick-dhu-holiday-park,causewaycoastandglens.gov.uk,listed,,/accommodation/stays/carrick-dhu-holiday-park/
+Northern Ireland,Rockdene Beach House,Portrush West Strand,Self-catering,Yes,rockdene-beach-house,,listed,,/accommodation/stays/rockdene-beach-house/
+Northern Ireland,Cul-Erg House,Portstewart,Guest house,No,,,researched,,
+Northern Ireland,Port 56 Boutique Accommodation,Portstewart,Guest house,No,,,researched,,
+Northern Ireland,Port House Portstewart,Portstewart,Self-catering,No,,,researched,,
+Northern Ireland,Juniper Hill Holiday Park,Portstewart Strand,Holiday park,Yes,juniper-hill-holiday-park,causewaycoastandglens.gov.uk,listed,,/accommodation/stays/juniper-hill-holiday-park/
+Northern Ireland,HINI White Park Bay,White Park Bay,Hostel,Yes,hini-white-park-bay,,listed,,/accommodation/stays/hini-white-park-bay/
+Northern Ireland,Downhill Beachhouse,Benone Strand,Hostel,Yes,downhill-beachhouse,,listed,,/accommodation/stays/downhill-beachhouse/
+Northern Ireland,Our Beach House - Castlerock,Benone Strand,Self-catering,Yes,our-beach-house-castlerock,,listed,,/accommodation/stays/our-beach-house-castlerock/
+Northern Ireland,O'Neills Holiday Accommodation at Castlerock Holiday Park,Castlerock,Holiday park,Yes,o-neills-holiday-accommodation-at-castlerock-holiday-park,,listed,,/accommodation/stays/o-neills-holiday-accommodation-at-castlerock-holiday-park/
+Northern Ireland,The Marcus Portrush,Portrush East Strand,Hotel,Yes,the-marcus-portrush,,listed,,/accommodation/stays/the-marcus-portrush/
+Northern Ireland,Causeway Bay Guest Accommodation,Portrush West Strand,Guest house,Yes,causeway-bay-guest-accommodation,,listed,,/accommodation/stays/causeway-bay-guest-accommodation/
+Northern Ireland,Me & Mrs Jones,Portstewart Strand,Hotel,Yes,me-and-mrs-jones,,listed,,/accommodation/stays/me-and-mrs-jones/
+Northern Ireland,Mount Oriel,Portstewart Strand,Self-catering,Yes,mount-oriel,,listed,,/accommodation/stays/mount-oriel/
+Northern Ireland,Rick's Causeway Coast Hostel,Portstewart Strand,Hostel,Yes,rick-s-causeway-coast-hostel,,listed,,/accommodation/stays/rick-s-causeway-coast-hostel/
+Northern Ireland,Ballinastraid Farm Cottage,White Park Bay,Self-catering,Yes,ballinastraid-farm-cottage,,listed,,/accommodation/stays/ballinastraid-farm-cottage/
+Northern Ireland,Fullerton Arms,White Park Bay,Inn,Yes,fullerton-arms,,listed,,/accommodation/stays/fullerton-arms/
+Northern Ireland,Sheep Island View,White Park Bay,Hostel,Yes,sheep-island-view,,listed,,/accommodation/stays/sheep-island-view/
+Northern Ireland,Royal Court Hotel,Whiterocks,Hotel,Yes,royal-court-hotel,,listed,,/accommodation/stays/royal-court-hotel/
+Northern Ireland,DB Stays,Portrush,holiday let operator,No,,,researched,,
+Northern Ireland,Bayview Farm Holiday Cottages,Bushmills,farm cottages (owner),No,,,researched,,

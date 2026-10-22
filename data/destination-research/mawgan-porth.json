@@ -1,0 +1,117 @@
+{
+ "overview": [
+  "Mawgan Porth is a small settlement about four miles north of Newquay, where the River Menalhyl reaches the sea at the end of the Vale of Lanherne. The sandy beach is backed by dunes and sheltered by high cliffs at each end. The village sits right behind the sand, with a pub, a general store, hotels and guest houses, so it is an easy park-and-walk beach day.",
+  "The river crosses the beach on its way to the sea, so keep an eye on younger children around it, especially as the tide changes. The South West Coast Path runs behind the beach, linking it south to Watergate Bay, just around the headland, and north along the cliffs towards Bedruthan. The coast path makes it easy to combine a surf with a cliff walk, and parking right behind the beach means you can come and go with the tide.",
+  "People have lived here for a long time. Excavations between 1949 and 1974 uncovered a late Saxon settlement from roughly 850 to 1050 AD, with courtyard houses and a burial ground. The beach holds a Marine Conservation Society recommendation, and The Beach Guide describes its waves as good and often uncrowded compared with its busier neighbours. Bring a picnic or use the village shop."
+ ],
+ "suits": [
+  "Families wanting the village on the doorstep",
+  "Improvers looking for a quieter alternative to Watergate",
+  "Coast-path walkers"
+ ],
+ "notFor": [
+  "Big-wave surfers on most days",
+  "Anyone after a long, empty stretch of sand"
+ ],
+ "surf": {
+  "text": [
+   "Mawgan Porth faces west and works on a west-north-west swell with an easterly, offshore wind. Surf-forecast classes it as a river break, with waves peeling left near the river mouth, and several peaks can form across the bay when the banks are good. On most days it is smaller than Watergate.",
+   "Surf-forecast says the tide doesn't greatly affect quality, but it warns of dangerous rips and notes it can get crowded when the surf is working. The river changes the sandbanks, so check the flags and ask the lifeguards before paddling out.",
+   "Mawgan Porth is a river-mouth break that likes a west-north-westerly swell and an easterly offshore, and tide has little effect on quality. Dangerous rips are the hazard, and it can get crowded when it's working. Winter is best; summer is often small."
+  ],
+  "cards": [
+   {
+    "label": "Level",
+    "title": "Families and improvers",
+    "text": "Usually smaller than Watergate; a lesson is the best start for complete beginners."
+   },
+   {
+    "label": "Best conditions",
+    "title": "WNW swell, east wind",
+    "text": "Easterly winds blow offshore."
+   },
+   {
+    "label": "Hazards",
+    "title": "Rips and the river",
+    "text": "Rips form on the banks; watch children near the river channel."
+   }
+  ]
+ },
+ "practical": [
+  {
+   "label": "Parking",
+   "title": "Behind the beach",
+   "text": "Pay parking sits right behind the beach — arrive early in summer."
+  },
+  {
+   "label": "Facilities",
+   "title": "Village amenities",
+   "text": "Toilets, shops, a pub and a surf school with equipment hire are close to the sand."
+  },
+  {
+   "label": "Lifeguards",
+   "title": "Seasonal patrol",
+   "text": "Swim between the red and yellow flags when lifeguards are on duty."
+  },
+  {
+   "label": "Dogs",
+   "title": "Allowed all year",
+   "text": "The Beach Guide lists dogs as allowed all year, and Mawgan Porth isn't in Cornwall Council's restrictions table. Check entrance signs."
+  }
+ ],
+ "faqs": [
+  {
+   "q": "Are dogs allowed at Mawgan Porth?",
+   "a": "The Beach Guide lists dogs as allowed all year round, and it isn't in Cornwall Council's restrictions table. Check signs on arrival."
+  },
+  {
+   "q": "How far is Mawgan Porth from Newquay?",
+   "a": "About four miles north, just beyond Watergate Bay."
+  },
+  {
+   "q": "Is Mawgan Porth quieter than Watergate?",
+   "a": "Usually. It is smaller, and The Beach Guide describes its waves as often uncrowded, though it can get busy when the surf is working."
+  }
+ ],
+ "sources": [
+  {
+   "label": "Wikipedia — Mawgan Porth",
+   "url": "https://en.wikipedia.org/wiki/Mawgan_Porth"
+  },
+  {
+   "label": "Surf-forecast — Mawgan Porth",
+   "url": "https://www.surf-forecast.com/breaks/Mawgan-Porth"
+  },
+  {
+   "label": "The Beach Guide — Mawgan Porth",
+   "url": "https://www.thebeachguide.co.uk/south-west-england/cornwall/mawgan-porth.htm"
+  },
+  {
+   "label": "Cornwall Council — dogs on beaches",
+   "url": "https://www.cornwall.gov.uk/environment/animal-welfare-and-enforcement/dogs-on-beaches/"
+  },
+  {
+   "label": "RNLI — lifeguarded beaches",
+   "url": "https://rnli.org/find-my-nearest/lifeguarded-beaches"
+  }
+ ],
+ "factCheck": [
+  {
+   "fact": "4 miles north of Newquay; River Menalhyl; Vale of Lanherne; Saxon settlement 850–1050 AD; coast path",
+   "url": "https://en.wikipedia.org/wiki/Mawgan_Porth"
+  },
+  {
+   "fact": "River break; left at river; WNW swell, east wind; rips",
+   "url": "https://www.surf-forecast.com/breaks/Mawgan-Porth"
+  },
+  {
+   "fact": "High cliffs at each end; pay parking behind beach; dogs all year; MCS recommended",
+   "url": "https://www.thebeachguide.co.uk/south-west-england/cornwall/mawgan-porth.htm"
+  },
+  {
+   "fact": "Mawgan Porth: river mouth, WNW swell, E offshore, rips",
+   "url": "https://www.surf-forecast.com/breaks/Mawgan-Porth"
+  }
+ ],
+ "checked": "October 2026"
+}
