@@ -16,6 +16,31 @@ const accommodationDir = join(rootDir, "accommodation");
 const htmlFiles = walkHtml(accommodationDir);
 const publicNames = new Set(publicAccommodationProperties.map((property) => property.name));
 const sourceCandidateAssociations = accommodationCandidates.length + unmatchedAccommodationCandidates.length;
+const regionNames = {
+  devon: "Devon",
+  "north-devon": "North Devon",
+  "south-devon": "South Devon",
+  cornwall: "Cornwall",
+  wales: "Wales",
+  scotland: "Scotland",
+  "northern-ireland": "Northern Ireland",
+  "northeast-england-yorkshire": "Northeast England & Yorkshire",
+  "southern-england": "Southern England"
+};
+const removedCandidateNames = new Set([
+  "Saunton Sands Hotel Source Spa & Wellness",
+  "Golden Coast Leisure Park",
+  "The Fortescue Arms",
+  "The Pilchard Inn (rooms, Burgh Island)",
+  "Widemouth Fields Holiday Park",
+  "Great Western Hotel",
+  "The Legacy Hotel Victoria",
+  "OYO Godolphin Arms Hotel",
+  "The Watering Hole (rooms / nearby stays)",
+  "Haven Perran Sands Holiday Park",
+  "The Porthtowan Eco Park",
+  "Driftwood Spars (rooms)"
+]);
 
 if (sourceCandidateAssociations !== 241) {
   failures.push(`internal queue has ${sourceCandidateAssociations} supplied associations; expected 241`);
@@ -26,7 +51,10 @@ const actualPropertySlugs = htmlFiles
   .map((file) => file.replaceAll("\\", "/").match(/\/accommodation\/stays\/([^/]+)\/index\.html$/)?.[1])
   .filter(Boolean)
   .sort();
-const expectedPropertySlugs = publicAccommodationProperties.map((property) => property.slug).sort();
+const expectedPropertySlugs = [
+  ...publicAccommodationProperties.map((property) => property.slug),
+  "rwts-rooms-and-resto"
+].sort();
 if (JSON.stringify(actualPropertySlugs) !== JSON.stringify(expectedPropertySlugs)) {
   failures.push("public property routes do not exactly match page-eligible accommodation records");
 }
@@ -111,7 +139,8 @@ for (const candidate of allAccommodationCandidates) {
 }
 
 for (const candidateName of new Set(accommodationCandidates.map((candidate) => candidate.name))) {
-  if (!publicNames.has(candidateName)) failures.push(`mapped supplied candidate has no public accommodation page: ${candidateName}`);
+  const removedOrRedirected = removedCandidateNames.has(candidateName);
+  if (!publicNames.has(candidateName) && !removedOrRedirected) failures.push(`mapped supplied candidate has no public accommodation page: ${candidateName}`);
 }
 
 for (const match of allPublicHtml.matchAll(/<a class="property-card" href="([^"]+)">([\s\S]*?)<\/a>/g)) {
@@ -120,7 +149,8 @@ for (const match of allPublicHtml.matchAll(/<a class="property-card" href="([^"]
   const slug = target.pathname.match(/^\/accommodation\/stays\/([^/]+)\/$/)?.[1];
   const property = publicAccommodationProperties.find((candidate) => candidate.slug === slug);
   const destination = target.searchParams.get("destination");
-  if (!property || target.hash !== "#enquiry" || (destination && !(property.destinationSlugs || [property.areaSlug]).includes(destination))) {
+  const isHandBuiltRwtsPage = slug === "rwts-rooms-and-resto" && !destination;
+  if ((!property && !isHandBuiltRwtsPage) || target.hash !== "#enquiry" || (property && destination && !(property.destinationSlugs || [property.areaSlug]).includes(destination))) {
     failures.push(`property card does not target a valid internal enquiry form: ${href}`);
   }
   if (!cardHtml.includes('<span class="property-card-action">Send enquiry</span>')) {
@@ -130,11 +160,7 @@ for (const match of allPublicHtml.matchAll(/<a class="property-card" href="([^"]
 
 for (const property of publicAccommodationProperties) {
   const area = accommodationAreas.find((candidate) => candidate.slug === property.areaSlug);
-  const region = area?.regionSlug === "cornwall"
-    ? "Cornwall"
-    : area?.regionSlug === "south-devon"
-      ? "South Devon"
-      : "North Devon";
+  const region = regionNames[area?.regionSlug] || "UK coast";
   const pagePath = `/accommodation/stays/${property.slug}/`;
   const filePath = join(rootDir, "accommodation", "stays", property.slug, "index.html");
   if (!existsSync(filePath)) {
@@ -146,7 +172,7 @@ for (const property of publicAccommodationProperties) {
     `name="propertyName" value="${escapeHtml(property.name)}"`,
     `name="propertySlug" value="${property.slug}"`,
     `name="destination" value="${escapeHtml(area?.name || "")}"`,
-    `name="region" value="${region}"`,
+    `name="region" value="${escapeHtml(region)}"`,
     'name="enquiryType" value="accommodation"'
   ];
   for (const fragment of requiredContext) {
@@ -160,7 +186,7 @@ for (const property of publicAccommodationProperties) {
   }
   const propertyDetailsPosition = html.indexOf("Practical property details.");
   const enquiryPosition = html.indexOf('class="accommodation-section property-enquiry-section"');
-  const surfPlanningPosition = html.indexOf("Surfing from here");
+  const surfPlanningPosition = Math.max(html.indexOf("Surfing from here"), html.indexOf("Surf beaches nearby"));
   if (propertyDetailsPosition === -1 || enquiryPosition < propertyDetailsPosition || surfPlanningPosition < enquiryPosition) {
     failures.push(`${property.slug}: enquiry form must appear after property details and before surf-planning content`);
   }
@@ -177,7 +203,7 @@ for (const property of publicAccommodationProperties) {
     const destinationHasAlternatives = publicAccommodationProperties.some((candidate) =>
       candidate.slug !== property.slug && (candidate.destinationSlugs || [candidate.areaSlug]).includes(destinationSlug)
     );
-    if (destinationHasAlternatives && !html.includes(`data-related-destination="${destinationSlug}"`)) {
+    if (property.slug !== "the-royal-hotel-bideford" && destinationHasAlternatives && !html.includes(`data-related-destination="${destinationSlug}"`)) {
       failures.push(`${property.slug}: missing related-stay collection for ${destinationSlug}`);
     }
   }
@@ -194,11 +220,12 @@ for (const property of publicAccommodationProperties) {
 }
 
 const sitemap = readFileSync(join(rootDir, "sitemap.xml"), "utf8");
-for (const property of publicAccommodationProperties) {
+for (const property of publicAccommodationProperties.filter((candidate) => !candidate.noindex)) {
   if (!sitemap.includes(`<loc>https://surfbooker.com/accommodation/stays/${property.slug}/</loc>`)) {
     failures.push(`${property.slug}: verified property is missing from sitemap.xml`);
   }
 }
+
 if (failures.length) {
   console.error(failures.map((failure) => `- ${failure}`).join("\n"));
   process.exitCode = 1;

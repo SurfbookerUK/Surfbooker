@@ -1,6 +1,6 @@
 import { placeImages } from "./lib/place-images.mjs";
 import { loadDestinations } from "./build-destination-guides.mjs";
-import { existsSync, mkdirSync, readFileSync, rmSync, writeFileSync } from "node:fs";
+import { existsSync, mkdirSync, readFileSync, readdirSync, rmSync, writeFileSync } from "node:fs";
 import { dirname, join } from "node:path";
 import { accommodationCandidates, allAccommodationCandidates } from "../data/accommodation-candidates.mjs";
 import { southernEnglandSpots } from "../data/southern-england-expansion.mjs";
@@ -1065,12 +1065,24 @@ const westwardFeaturedCards = publicAccommodationProperties.filter((property) =>
     summary: property.surfTripFit,
     type: property.stayType,
     tags: property.tags,
-    href: `/accommodation/stays/${property.slug}/`,
+    href: `/accommodation/stays/${property.slug}/#enquiry`,
     placeholder: Boolean(property.heroPlaceholder)
   }));
 
 export function buildAccommodationPages(rootDir) {
   validateAccommodationData();
+  const publicSlugs = new Set([
+    ...publicAccommodationProperties.map((property) => property.slug),
+    "rwts-rooms-and-resto"
+  ]);
+  const staysDir = join(rootDir, "accommodation/stays");
+  if (existsSync(staysDir)) {
+    for (const entry of readdirSync(staysDir, { withFileTypes: true })) {
+      if (entry.isDirectory() && !publicSlugs.has(entry.name)) {
+        rmSync(join(staysDir, entry.name, "index.html"), { force: true });
+      }
+    }
+  }
   write(rootDir, "accommodation/index.html", renderAccommodationIndex());
   for (const region of accommodationRegions) {
     write(rootDir, `accommodation/${region.slug}/index.html`, renderAccommodationRegionPage(region));
@@ -1200,7 +1212,7 @@ function renderAccommodationRegionPage(region) {
 // Stays with hand-built pages (not in the property data) that still belong on their area page.
 const HAND_BUILT_STAYS = {
   "broad-haven": [{
-    name: "Rwts Rooms and Resto", href: "/accommodation/stays/rwts-rooms-and-resto/",
+    name: "Rwts Rooms and Resto", href: "/accommodation/stays/rwts-rooms-and-resto/#enquiry",
     image: "/guides/_licensed-images/uk-destinations/broad-haven.jpg", imageAlt: "Broad Haven beach near Rwts Rooms and Resto",
     type: "Seafront rooms and restaurant", tags: ["Nine en-suite rooms", "On-site restaurant", "Review pending"]
   }]
@@ -1477,8 +1489,8 @@ function renderPropertyCollection(properties, heading, contextArea = null, optio
       summary: property.surfTripFit,
       type: property.stayType,
       tags: property.tags,
-      action: property.cardAction || (property.areaSlug === "newgale" ? "View stay" : "Send enquiry"),
-      href: `/accommodation/stays/${property.slug}/${contextArea ? `?destination=${encodeURIComponent(contextArea.slug)}` : ""}`,
+      action: "Send enquiry",
+      href: `/accommodation/stays/${property.slug}/${contextArea ? `?destination=${encodeURIComponent(contextArea.slug)}` : ""}#enquiry`,
       placeholder: Boolean(property.heroPlaceholder)
     };
   });
@@ -1529,6 +1541,7 @@ function escapeHtml(value) {
 
 function renderRoyalHotelContent(property, enquirySection) {
   return `<div class="property-page-content">
+    <div class="property-back-row"><a href="/accommodation/${property.areaSlug}/">← Back to Bideford stays</a></div>
     <section class="accommodation-section">
       <p class="section-label">Introduction</p>
       <h2>A Bideford hotel base for Westward Ho! surf trips.</h2>
@@ -1536,6 +1549,7 @@ function renderRoyalHotelContent(property, enquirySection) {
     </section>
     <section class="accommodation-section">
       <p class="section-label">At a glance</p>
+      <h2>Practical property details.</h2>
       <dl class="fact-grid property-fact-grid">
         ${renderFact("Parking", property.parking)}
         ${renderFact("Check-in", property.checkIn)}
@@ -1552,6 +1566,7 @@ function renderRoyalHotelContent(property, enquirySection) {
       <h2>Review pending.</h2>
       <p>Our independent review will be added after we visit.</p>
     </section>
+    ${enquirySection}
     <section class="accommodation-section">
       <p class="section-label">Surfing from here</p>
       <h2>Westward Ho! is the primary nearby surf beach.</h2>
@@ -1567,7 +1582,6 @@ function renderRoyalHotelContent(property, enquirySection) {
         <article><h3>North Devon surf guides</h3><p><a href="/guides/north-devon/">Compare more beaches and surf bases across North Devon.</a></p></article>
       </div>
     </section>
-    ${enquirySection}
   </div>`;
 }
 
@@ -1735,7 +1749,7 @@ export function renderAccommodationPropertyPage(property) {
     bodyClass: `accommodation-property-page${isRoyalHotel ? " rwts-property-page" : ""}`,
     breadcrumbs: [["Home", "/"], ["Accommodation", "/accommodation/"], [region?.name || "Accommodation", `/accommodation/${area?.regionSlug || "devon"}/`], [area?.name || property.location, `/accommodation/${property.areaSlug}/`], [property.name, path]],
     structuredData: property.status === "verified" ? [lodgingSchema, ...(faqSchema ? [faqSchema] : [])] : [],
-    content: isRoyalHotel ? renderRoyalHotelContent(property, enquirySection) : `<div class="property-page-content"><div class="property-back-row"><a href="/accommodation/${property.areaSlug}/">← Back to ${escapeHtml(area?.name || property.location)} stays</a></div>${statusSection}<section class="accommodation-section"><p class="section-label">At a glance</p><h2>Practical property details.</h2><dl class="fact-grid property-fact-grid">${detailRows.map(([label, value]) => renderFact(label, value)).join("")}</dl></section>${editorialSections}${collectionSection}${cardSections}${faqSection}${reviewSection}${gallerySection}<section class="accommodation-section"><p class="section-label">Surf beaches nearby</p><h2>Connect the stay with local surf information.</h2>${renderPlanCards(propertyPlanLinks(area))}</section>${relatedPropertySection}${nearbyDestinationSection}${enquirySection}<section class="accommodation-section property-information-note" aria-label="Property information note"><p>${property.status === "verified" ? "Property details are based on verified source information." : property.researchStatus === "researched" ? "Please check facilities and policies directly with the property when you enquire." : ""} An enquiry does not confirm live availability, a booking or payment.</p></section></div>`
+    content: isRoyalHotel ? renderRoyalHotelContent(property, enquirySection) : `<div class="property-page-content"><div class="property-back-row"><a href="/accommodation/${property.areaSlug}/">← Back to ${escapeHtml(area?.name || property.location)} stays</a></div>${statusSection}<section class="accommodation-section"><p class="section-label">At a glance</p><h2>Practical property details.</h2><dl class="fact-grid property-fact-grid">${detailRows.map(([label, value]) => renderFact(label, value)).join("")}</dl></section>${editorialSections}${collectionSection}${cardSections}${faqSection}${reviewSection}${gallerySection}${enquirySection}<section class="accommodation-section"><p class="section-label">Surf beaches nearby</p><h2>Connect the stay with local surf information.</h2>${renderPlanCards(propertyPlanLinks(area))}</section>${relatedPropertySection}${nearbyDestinationSection}<section class="accommodation-section property-information-note" aria-label="Property information note"><p>${property.status === "verified" ? "Property details are based on verified source information." : property.researchStatus === "researched" ? "Please check facilities and policies directly with the property when you enquire." : ""} An enquiry does not confirm live availability, a booking or payment.</p></section></div>`
   });
   return page;
 }
