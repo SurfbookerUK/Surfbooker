@@ -1,0 +1,1926 @@
+[
+ {
+  "name": "Catboat Cottage",
+  "area": "appledore"
+ },
+ {
+  "name": "Appledore Cottages",
+  "area": "appledore"
+ },
+ {
+  "name": "Tiree Campsite (Balinoe)",
+  "area": "balevullin-tiree"
+ },
+ {
+  "name": "Glororum Caravan Park",
+  "area": "bamburgh"
+ },
+ {
+  "name": "Greystead Bamburgh",
+  "area": "bamburgh"
+ },
+ {
+  "name": "Budle Hall Camping",
+  "area": "bamburgh"
+ },
+ {
+  "name": "Beadnell Towers",
+  "area": "beadnell-bay"
+ },
+ {
+  "name": "Beadnell Bay Camping and Caravanning Club Site",
+  "area": "beadnell-bay"
+ },
+ {
+  "name": "Coast & Country Stays",
+  "area": "beadnell-bay"
+ },
+ {
+  "name": "Brunton House and Cottages",
+  "area": "beadnell-bay"
+ },
+ {
+  "name": "Belhaven Bay Caravan & Camping Park",
+  "area": "belhaven-bay"
+ },
+ {
+  "name": "Benone Holiday and Leisure Park",
+  "area": "benone-strand"
+ },
+ {
+  "name": "Downhill Beachhouse",
+  "area": "benone-strand"
+ },
+ {
+  "name": "Railway Sleeper Hostel",
+  "area": "benone-strand"
+ },
+ {
+  "name": "Our Beach House - Castlerock",
+  "area": "benone-strand"
+ },
+ {
+  "name": "Ellerton B&B",
+  "area": "bideford"
+ },
+ {
+  "name": "Premier Inn Bideford",
+  "area": "bideford"
+ },
+ {
+  "name": "Moorview House",
+  "area": "bideford"
+ },
+ {
+  "name": "Boscombe Reef Hotel",
+  "area": "boscombe-pier"
+ },
+ {
+  "name": "Chine Hotel",
+  "area": "boscombe-pier"
+ },
+ {
+  "name": "Urban Beach Hotel",
+  "area": "boscombe-pier"
+ },
+ {
+  "name": "Premier Inn Bournemouth East (Boscombe)",
+  "area": "boscombe-pier"
+ },
+ {
+  "name": "Hotel Miramar",
+  "area": "bournemouth"
+ },
+ {
+  "name": "Bournemouth Beach Lodges",
+  "area": "bournemouth"
+ },
+ {
+  "name": "Chine Hotel",
+  "area": "bournemouth"
+ },
+ {
+  "name": "Boscombe Reef Hotel",
+  "area": "bournemouth"
+ },
+ {
+  "name": "Gees Camp Site",
+  "area": "bracklesham-bay"
+ },
+ {
+  "name": "Stubcroft Farm Campsite",
+  "area": "bracklesham-bay"
+ },
+ {
+  "name": "Seal Bay Resort",
+  "area": "bracklesham-bay"
+ },
+ {
+  "name": "Wicks Farm Holiday Park",
+  "area": "bracklesham-bay"
+ },
+ {
+  "name": "The Brookfield",
+  "area": "braunton"
+ },
+ {
+  "name": "The George Inn",
+  "area": "braunton"
+ },
+ {
+  "name": "Stockwell Lodge",
+  "area": "braunton"
+ },
+ {
+  "name": "Drakes",
+  "area": "brighton"
+ },
+ {
+  "name": "Queens Hotel",
+  "area": "brighton"
+ },
+ {
+  "name": "A Room With A View",
+  "area": "brighton"
+ },
+ {
+  "name": "Malmaison Brighton",
+  "area": "brighton"
+ },
+ {
+  "name": "YHA Broad Haven",
+  "area": "broad-haven"
+ },
+ {
+  "name": "Creampots Touring Caravan & Camping Park",
+  "area": "broad-haven"
+ },
+ {
+  "name": "Sunset B&B",
+  "area": "broad-haven"
+ },
+ {
+  "name": "Railway Sleeper Hostel",
+  "area": "castlerock"
+ },
+ {
+  "name": "Our Beach House - Castlerock",
+  "area": "castlerock"
+ },
+ {
+  "name": "O'Neills Holiday Accommodation at Castlerock Holiday Park",
+  "area": "castlerock"
+ },
+ {
+  "name": "Downhill Beachhouse",
+  "area": "castlerock"
+ },
+ {
+  "name": "Tides Reach Guest House",
+  "area": "caswell-bay"
+ },
+ {
+  "name": "Cayton Bay Holiday Park (Parkdean Resorts)",
+  "area": "cayton-bay"
+ },
+ {
+  "name": "Crows Nest Caravan Park",
+  "area": "cayton-bay"
+ },
+ {
+  "name": "Haven Blue Dolphin Holiday Park",
+  "area": "cayton-bay"
+ },
+ {
+  "name": "Compton Farm",
+  "area": "compton-bay"
+ },
+ {
+  "name": "Grange Farm",
+  "area": "compton-bay"
+ },
+ {
+  "name": "Dinosaur Farm Holidays",
+  "area": "compton-bay"
+ },
+ {
+  "name": "Martha's Orchard",
+  "area": "constantine-bay"
+ },
+ {
+  "name": "Harlyn Sands Holiday Park",
+  "area": "constantine-bay"
+ },
+ {
+  "name": "The Pig at Harlyn Bay",
+  "area": "constantine-bay"
+ },
+ {
+  "name": "Coswarth House",
+  "area": "constantine-bay"
+ },
+ {
+  "name": "Crantock Bay Holidays",
+  "area": "crantock-beach"
+ },
+ {
+  "name": "Crantock Beach Holiday Park",
+  "area": "crantock-beach"
+ },
+ {
+  "name": "Crantock Holiday",
+  "area": "crantock-beach"
+ },
+ {
+  "name": "Crantock Plains Touring Park",
+  "area": "crantock-beach"
+ },
+ {
+  "name": "Gearrannan Blackhouse Village",
+  "area": "dalmore-bay-lewis"
+ },
+ {
+  "name": "Downhill Beachhouse",
+  "area": "downhill-beach"
+ },
+ {
+  "name": "Railway Sleeper Hostel",
+  "area": "downhill-beach"
+ },
+ {
+  "name": "Our Beach House - Castlerock",
+  "area": "downhill-beach"
+ },
+ {
+  "name": "O'Neills Holiday Accommodation at Castlerock Holiday Park",
+  "area": "downhill-beach"
+ },
+ {
+  "name": "Benone Holiday and Leisure Park",
+  "area": "downhill-beach"
+ },
+ {
+  "name": "Cresswell Towers Holiday Park",
+  "area": "druridge-bay"
+ },
+ {
+  "name": "Golden Sands Holiday Park",
+  "area": "druridge-bay"
+ },
+ {
+  "name": "Dunnet Bay Club Campsite",
+  "area": "dunnet-bay"
+ },
+ {
+  "name": "Dunnet Bay Escapes",
+  "area": "dunnet-bay"
+ },
+ {
+  "name": "Dunnet Bay Accommodation",
+  "area": "dunnet-bay"
+ },
+ {
+  "name": "Northern Sands Hotel",
+  "area": "dunnet-bay"
+ },
+ {
+  "name": "Castletown Hotel",
+  "area": "dunnet-bay"
+ },
+ {
+  "name": "Gees Camp Site",
+  "area": "east-wittering"
+ },
+ {
+  "name": "Scotts Farm Camping Site",
+  "area": "east-wittering"
+ },
+ {
+  "name": "Stubcroft Farm Campsite",
+  "area": "east-wittering"
+ },
+ {
+  "name": "Wicks Farm Holiday Park",
+  "area": "east-wittering"
+ },
+ {
+  "name": "The Lansdowne Hotel",
+  "area": "eastbourne"
+ },
+ {
+  "name": "East Beach Hotel",
+  "area": "eastbourne"
+ },
+ {
+  "name": "York House Hotel",
+  "area": "eastbourne"
+ },
+ {
+  "name": "Beach Front Guest House",
+  "area": "eastbourne"
+ },
+ {
+  "name": "Haven Primrose Valley Holiday Park",
+  "area": "filey-bay"
+ },
+ {
+  "name": "Haven Blue Dolphin Holiday Park",
+  "area": "filey-bay"
+ },
+ {
+  "name": "Crows Nest Caravan Park",
+  "area": "filey-bay"
+ },
+ {
+  "name": "The Headland Hotel and Spa",
+  "area": "fistral-beach"
+ },
+ {
+  "name": "Fistral Beach Hotel and Spa",
+  "area": "fistral-beach"
+ },
+ {
+  "name": "The Esplanade Hotel",
+  "area": "fistral-beach"
+ },
+ {
+  "name": "Oceanside Hotel",
+  "area": "fistral-beach"
+ },
+ {
+  "name": "The Albion",
+  "area": "freshwater-bay-isle-of-wight"
+ },
+ {
+  "name": "Freshwater Bay House (HF Holidays)",
+  "area": "freshwater-bay-isle-of-wight"
+ },
+ {
+  "name": "Farringford",
+  "area": "freshwater-bay-isle-of-wight"
+ },
+ {
+  "name": "Tollgate Cottages Bed & Breakfast",
+  "area": "freshwater-bay-isle-of-wight"
+ },
+ {
+  "name": "Portclew House",
+  "area": "freshwater-east"
+ },
+ {
+  "name": "The Burrows",
+  "area": "freshwater-east"
+ },
+ {
+  "name": "Pembrokeshire Wales Coastal Holidays",
+  "area": "freshwater-east"
+ },
+ {
+  "name": "East Trewent Farm",
+  "area": "freshwater-east"
+ },
+ {
+  "name": "Gupton Farm Campsite",
+  "area": "freshwater-west"
+ },
+ {
+  "name": "Kitewell",
+  "area": "freshwater-west"
+ },
+ {
+  "name": "Great Western",
+  "area": "great-western-beach"
+ },
+ {
+  "name": "Tolcarne Beach",
+  "area": "great-western-beach"
+ },
+ {
+  "name": "Cornish Gems (Gwithian homes)",
+  "area": "gwithian-godrevy"
+ },
+ {
+  "name": "Godrevy Park Club Campsite",
+  "area": "gwithian-godrevy"
+ },
+ {
+  "name": "St Ives Bay Holiday Park",
+  "area": "gwithian-godrevy"
+ },
+ {
+  "name": "Cornish Gems (Gwithian homes)",
+  "area": "gwithian"
+ },
+ {
+  "name": "Godrevy Park Club Campsite",
+  "area": "gwithian"
+ },
+ {
+  "name": "Yellow Sands Cottages",
+  "area": "harlyn-bay"
+ },
+ {
+  "name": "Harlyn Sands Holiday Park",
+  "area": "harlyn-bay"
+ },
+ {
+  "name": "Mother Ivey's Bay Holiday Park",
+  "area": "harlyn-bay"
+ },
+ {
+  "name": "Trevose Golf & Country Club",
+  "area": "harlyn-bay"
+ },
+ {
+  "name": "St Ives Bay Holiday Park",
+  "area": "hayle-towans"
+ },
+ {
+  "name": "Beachside Holiday Park",
+  "area": "hayle-towans"
+ },
+ {
+  "name": "Haven Riviere Sands",
+  "area": "hayle-towans"
+ },
+ {
+  "name": "Gwithian Farm Campsite",
+  "area": "hayle-towans"
+ },
+ {
+  "name": "St Ives Bay Holiday Park",
+  "area": "hayle"
+ },
+ {
+  "name": "Rhydolion",
+  "area": "hells-mouth-porth-neigwl"
+ },
+ {
+  "name": "Porth Tocyn Hotel",
+  "area": "hells-mouth-porth-neigwl"
+ },
+ {
+  "name": "Trem Y Mor Touring Park",
+  "area": "hells-mouth-porth-neigwl"
+ },
+ {
+  "name": "Hoburne Naish",
+  "area": "highcliffe"
+ },
+ {
+  "name": "Hoburne Park",
+  "area": "highcliffe"
+ },
+ {
+  "name": "Premier Inn Christchurch/Highcliffe",
+  "area": "highcliffe"
+ },
+ {
+  "name": "Chewton Glen",
+  "area": "highcliffe"
+ },
+ {
+  "name": "Holywell Bay Holiday Park",
+  "area": "holywell-bay"
+ },
+ {
+  "name": "Trebellan Park",
+  "area": "holywell-bay"
+ },
+ {
+  "name": "Trevella Park",
+  "area": "holywell-bay"
+ },
+ {
+  "name": "Commodore Hotel",
+  "area": "instow"
+ },
+ {
+  "name": "Instow Beach Cottage",
+  "area": "instow"
+ },
+ {
+  "name": "The Wayfarer Inn",
+  "area": "instow"
+ },
+ {
+  "name": "Botany Bay Hotel",
+  "area": "joss-bay"
+ },
+ {
+  "name": "The Yarrow",
+  "area": "joss-bay"
+ },
+ {
+  "name": "Fagin's Den (The Fishermen's Cottages)",
+  "area": "joss-bay"
+ },
+ {
+  "name": "Smedmore Caravan Site",
+  "area": "kimmeridge-bay"
+ },
+ {
+  "name": "Clavell Tower (Landmark Trust)",
+  "area": "kimmeridge-bay"
+ },
+ {
+  "name": "The Scott Arms",
+  "area": "kimmeridge-bay"
+ },
+ {
+  "name": "Tides Reach Guest House",
+  "area": "langland-bay"
+ },
+ {
+  "name": "Langland Bay Manor",
+  "area": "langland-bay"
+ },
+ {
+  "name": "Hillend Camping Park",
+  "area": "llangennith"
+ },
+ {
+  "name": "The Kings Head",
+  "area": "llangennith"
+ },
+ {
+  "name": "Western House B&B",
+  "area": "llangennith"
+ },
+ {
+  "name": "Stotfield Hotel",
+  "area": "lossiemouth"
+ },
+ {
+  "name": "Machrihanish Holiday Park",
+  "area": "machrihanish"
+ },
+ {
+  "name": "Manorbier Country Park",
+  "area": "manorbier"
+ },
+ {
+  "name": "Sea Breeze Beach House",
+  "area": "manorbier"
+ },
+ {
+  "name": "Glamping at the Paddocks",
+  "area": "manorbier"
+ },
+ {
+  "name": "Beavers Retreat",
+  "area": "manorbier"
+ },
+ {
+  "name": "Foxdale Guesthouse & Campsite",
+  "area": "marloes-sands"
+ },
+ {
+  "name": "Musselwick Farm Cottages",
+  "area": "marloes-sands"
+ },
+ {
+  "name": "West Hook Farm Camping",
+  "area": "marloes-sands"
+ },
+ {
+  "name": "Orlandon Farm Cottages",
+  "area": "marloes-sands"
+ },
+ {
+  "name": "The Sheiling",
+  "area": "melvich"
+ },
+ {
+  "name": "Newgale Campsite",
+  "area": "newgale"
+ },
+ {
+  "name": "Nolton Haven Mill – The Mill House",
+  "area": "nolton-haven"
+ },
+ {
+  "name": "Nolton Cross Holiday Park",
+  "area": "nolton-haven"
+ },
+ {
+  "name": "Druidstone",
+  "area": "nolton-haven"
+ },
+ {
+  "name": "Surf Bay Holiday Park",
+  "area": "northam"
+ },
+ {
+  "name": "Golden Bay Holiday Village",
+  "area": "northam"
+ },
+ {
+  "name": "Seafield Holiday Park (Braddicks)",
+  "area": "northam"
+ },
+ {
+  "name": "Oxwich Bay Hotel",
+  "area": "oxwich-bay"
+ },
+ {
+  "name": "Three Cliffs Bay Holiday Park",
+  "area": "oxwich-bay"
+ },
+ {
+  "name": "Nicholaston Farm Caravan and Camping",
+  "area": "oxwich-bay"
+ },
+ {
+  "name": "Pease Bay Holiday Park",
+  "area": "pease-bay"
+ },
+ {
+  "name": "Thurston Manor Holiday Park",
+  "area": "pease-bay"
+ },
+ {
+  "name": "Perranporth Camping & Touring Park",
+  "area": "perranporth"
+ },
+ {
+  "name": "YHA Port Eynon",
+  "area": "port-eynon"
+ },
+ {
+  "name": "Bank Farm Leisure",
+  "area": "port-eynon"
+ },
+ {
+  "name": "Culver House",
+  "area": "port-eynon"
+ },
+ {
+  "name": "Ayr Holiday Park",
+  "area": "porthmeor-beach"
+ },
+ {
+  "name": "The Sloop Inn",
+  "area": "porthmeor-beach"
+ },
+ {
+  "name": "Pedn Olva",
+  "area": "porthmeor-beach"
+ },
+ {
+  "name": "Tregenna Castle",
+  "area": "porthmeor-beach"
+ },
+ {
+  "name": "The Marcus Portrush",
+  "area": "portrush-east-strand"
+ },
+ {
+  "name": "Portrush Adelphi",
+  "area": "portrush-east-strand"
+ },
+ {
+  "name": "Elephant Rock Hotel",
+  "area": "portrush-east-strand"
+ },
+ {
+  "name": "Portrush Atlantic Hotel",
+  "area": "portrush-east-strand"
+ },
+ {
+  "name": "Causeway Bay Guest Accommodation",
+  "area": "portrush-west-strand"
+ },
+ {
+  "name": "Portrush Adelphi",
+  "area": "portrush-west-strand"
+ },
+ {
+  "name": "Portrush Atlantic Hotel",
+  "area": "portrush-west-strand"
+ },
+ {
+  "name": "Rockdene Beach House",
+  "area": "portrush-west-strand"
+ },
+ {
+  "name": "Carrick Dhu Holiday Park",
+  "area": "portrush-west-strand"
+ },
+ {
+  "name": "Me & Mrs Jones",
+  "area": "portstewart-strand"
+ },
+ {
+  "name": "Rick's Causeway Coast Hostel",
+  "area": "portstewart-strand"
+ },
+ {
+  "name": "Mount Oriel",
+  "area": "portstewart-strand"
+ },
+ {
+  "name": "Juniper Hill Holiday Park",
+  "area": "portstewart-strand"
+ },
+ {
+  "name": "Carrick Dhu Holiday Park",
+  "area": "portstewart-strand"
+ },
+ {
+  "name": "The Claxton Hotel",
+  "area": "redcar"
+ },
+ {
+  "name": "The Park Hotel",
+  "area": "redcar"
+ },
+ {
+  "name": "Armada Guest House",
+  "area": "redcar"
+ },
+ {
+  "name": "Bellevue Apartments",
+  "area": "redcar"
+ },
+ {
+  "name": "Atlantic Hotel",
+  "area": "rest-bay-porthcawl"
+ },
+ {
+  "name": "Brodawel Camping & Caravan Park",
+  "area": "rest-bay-porthcawl"
+ },
+ {
+  "name": "Driftwood",
+  "area": "rhosneigr"
+ },
+ {
+  "name": "Ty Hen Holiday Park",
+  "area": "rhosneigr"
+ },
+ {
+  "name": "Hillend Camping Park",
+  "area": "rhossili-bay"
+ },
+ {
+  "name": "Western House B&B",
+  "area": "rhossili-bay"
+ },
+ {
+  "name": "The Kings Head",
+  "area": "rhossili-bay"
+ },
+ {
+  "name": "Runswick Bay Hotel",
+  "area": "runswick-bay"
+ },
+ {
+  "name": "The Spa Hotel",
+  "area": "saltburn"
+ },
+ {
+  "name": "Brockley Hall Hotel",
+  "area": "saltburn"
+ },
+ {
+  "name": "Moon Fleet Guest House",
+  "area": "saltburn"
+ },
+ {
+  "name": "Raithwaite Sandsend",
+  "area": "sandsend"
+ },
+ {
+  "name": "Mulgrave Estate Cottages",
+  "area": "sandsend"
+ },
+ {
+  "name": "Secret Spot Camping",
+  "area": "saunton"
+ },
+ {
+  "name": "The Orchard Campsite, Croyde",
+  "area": "saunton"
+ },
+ {
+  "name": "Silver Cottage Bed & Breakfast",
+  "area": "saunton"
+ },
+ {
+  "name": "Premier Inn Scarborough (North Bay)",
+  "area": "scarborough-north-bay"
+ },
+ {
+  "name": "The Clarence Gardens Hotel",
+  "area": "scarborough-north-bay"
+ },
+ {
+  "name": "Scarborough Camping and Caravanning Club Site",
+  "area": "scarborough-north-bay"
+ },
+ {
+  "name": "YHA Scarborough",
+  "area": "scarborough-north-bay"
+ },
+ {
+  "name": "Old Success Inn",
+  "area": "sennen-cove"
+ },
+ {
+  "name": "The Land's End Hotel",
+  "area": "sennen-cove"
+ },
+ {
+  "name": "Trevedra Farm Caravan & Camping Site",
+  "area": "sennen-cove"
+ },
+ {
+  "name": "Sennen Cove Camping and Caravanning Club Site",
+  "area": "sennen-cove"
+ },
+ {
+  "name": "Channel View Hotel",
+  "area": "shanklin"
+ },
+ {
+  "name": "The Fig Tree",
+  "area": "shanklin"
+ },
+ {
+  "name": "Haven Hall",
+  "area": "shanklin"
+ },
+ {
+  "name": "Beach Green Hotel",
+  "area": "shoreham"
+ },
+ {
+  "name": "The Sea Hotel",
+  "area": "south-shields"
+ },
+ {
+  "name": "Sandhaven Beach Chalets",
+  "area": "south-shields"
+ },
+ {
+  "name": "Sandhaven Caravan Park",
+  "area": "south-shields"
+ },
+ {
+  "name": "Commodore Hotel",
+  "area": "southbourne"
+ },
+ {
+  "name": "Spyglass and Kettle",
+  "area": "southbourne"
+ },
+ {
+  "name": "Village Hotel Bournemouth",
+  "area": "southbourne"
+ },
+ {
+  "name": "Chine Hotel",
+  "area": "southbourne"
+ },
+ {
+  "name": "Beacon Cottage Farm Touring Park",
+  "area": "st-agnes"
+ },
+ {
+  "name": "The Beach at Bude",
+  "area": "summerleaze-beach"
+ },
+ {
+  "name": "The Falcon Hotel",
+  "area": "summerleaze-beach"
+ },
+ {
+  "name": "Upper Lynstone Caravan Park",
+  "area": "summerleaze-beach"
+ },
+ {
+  "name": "Elements Hotel",
+  "area": "summerleaze-beach"
+ },
+ {
+  "name": "Grand Hotel Swanage",
+  "area": "swanage"
+ },
+ {
+  "name": "The Pines Hotel",
+  "area": "swanage"
+ },
+ {
+  "name": "Purbeck House Hotel",
+  "area": "swanage"
+ },
+ {
+  "name": "Millbrook Guest House",
+  "area": "swanage"
+ },
+ {
+  "name": "Park Hotel",
+  "area": "thurso-beach"
+ },
+ {
+  "name": "Valleyview House",
+  "area": "thurso-beach"
+ },
+ {
+  "name": "Aurora Bed and Breakfast",
+  "area": "thurso-beach"
+ },
+ {
+  "name": "The Pentland Hotel",
+  "area": "thurso-east"
+ },
+ {
+  "name": "Royal Hotel Thurso",
+  "area": "thurso-east"
+ },
+ {
+  "name": "Bed & Breakfast @ 4",
+  "area": "thurso-east"
+ },
+ {
+  "name": "Pennyland House B&B",
+  "area": "thurso-east"
+ },
+ {
+  "name": "The Atlantic Hotel",
+  "area": "towan-beach-newquay"
+ },
+ {
+  "name": "Great Western",
+  "area": "towan-beach-newquay"
+ },
+ {
+  "name": "Harbour Hotel",
+  "area": "towan-beach-newquay"
+ },
+ {
+  "name": "The Headland Hotel",
+  "area": "towan-beach-newquay"
+ },
+ {
+  "name": "St Agnes Hotel",
+  "area": "trevaunance-cove"
+ },
+ {
+  "name": "Beacon Cottage Farm Touring Park",
+  "area": "trevaunance-cove"
+ },
+ {
+  "name": "Grand Hotel Tynemouth",
+  "area": "tynemouth-longsands"
+ },
+ {
+  "name": "The Tynemouth Castle Inn",
+  "area": "tynemouth-longsands"
+ },
+ {
+  "name": "Whitley Bay Holiday Park",
+  "area": "tynemouth-longsands"
+ },
+ {
+  "name": "Nunnington Farm Camp Site",
+  "area": "west-wittering"
+ },
+ {
+  "name": "Wicks Farm Holiday Park",
+  "area": "west-wittering"
+ },
+ {
+  "name": "Scotts Farm Camping Site",
+  "area": "west-wittering"
+ },
+ {
+  "name": "Stubcroft Farm Campsite",
+  "area": "west-wittering"
+ },
+ {
+  "name": "Royal Whitby",
+  "area": "whitby"
+ },
+ {
+  "name": "YHA Whitby",
+  "area": "whitby"
+ },
+ {
+  "name": "HINI White Park Bay",
+  "area": "white-park-bay"
+ },
+ {
+  "name": "Fullerton Arms",
+  "area": "white-park-bay"
+ },
+ {
+  "name": "Sheep Island View",
+  "area": "white-park-bay"
+ },
+ {
+  "name": "Ballinastraid Farm Cottage",
+  "area": "white-park-bay"
+ },
+ {
+  "name": "Royal Court Hotel",
+  "area": "whiterocks"
+ },
+ {
+  "name": "Rockdene Beach House",
+  "area": "whiterocks"
+ },
+ {
+  "name": "Portrush Adelphi",
+  "area": "whiterocks"
+ },
+ {
+  "name": "Carrick Dhu Holiday Park",
+  "area": "whiterocks"
+ },
+ {
+  "name": "Juniper Hill Holiday Park",
+  "area": "whiterocks"
+ },
+ {
+  "name": "St David's Lleithyr Meadow Club Campsite",
+  "area": "whitesands"
+ },
+ {
+  "name": "Twr y Felin Hotel",
+  "area": "whitesands"
+ },
+ {
+  "name": "Penrhiw Hotel",
+  "area": "whitesands"
+ },
+ {
+  "name": "Celtic Camping & Bunkhouses",
+  "area": "whitesands"
+ },
+ {
+  "name": "Penhalt Farm Holiday Park",
+  "area": "widemouth-bay"
+ },
+ {
+  "name": "Rocksdrift & Seaview Apartments",
+  "area": "broad-haven"
+ },
+ {
+  "name": "The North Cliff Hotel",
+  "area": "lynmouth"
+ },
+ {
+  "name": "North Walk House",
+  "area": "lynmouth"
+ },
+ {
+  "name": "Highcliffe House",
+  "area": "lynmouth"
+ },
+ {
+  "name": "The Chough's Nest Hotel",
+  "area": "lynmouth"
+ },
+ {
+  "name": "The Headland Hotel",
+  "area": "fistral-beach"
+ },
+ {
+  "name": "Bedruthan Hotel & Spa",
+  "area": "mawgan-porth"
+ },
+ {
+  "name": "Bluebay House",
+  "area": "mawgan-porth"
+ },
+ {
+  "name": "Fistral Beach Hotel & Spa",
+  "area": "newquay"
+ },
+ {
+  "name": "Watergate Bay Hotel",
+  "area": "watergate-bay"
+ },
+ {
+  "name": "Kilbirnie Hotel",
+  "area": "newquay"
+ },
+ {
+  "name": "Harbour View House",
+  "area": "st-ives"
+ },
+ {
+  "name": "THE NICI Newquay",
+  "area": "newquay"
+ },
+ {
+  "name": "Trevarrian Lodge",
+  "area": "newquay"
+ },
+ {
+  "name": "Marazion Hotel",
+  "area": "praa-sands"
+ },
+ {
+  "name": "The Yacht Inn",
+  "area": "praa-sands"
+ },
+ {
+  "name": "Tee-Side Guest House",
+  "area": "bude"
+ },
+ {
+  "name": "Sunrise Guest House",
+  "area": "bude"
+ },
+ {
+  "name": "Stratton Gardens Guest House",
+  "area": "bude"
+ },
+ {
+  "name": "Carnmarth Hotel",
+  "area": "fistral-beach"
+ },
+ {
+  "name": "Sandy Lodge Hotel",
+  "area": "newquay"
+ },
+ {
+  "name": "Hotel Bristol",
+  "area": "newquay"
+ },
+ {
+  "name": "Hotel California",
+  "area": "newquay"
+ },
+ {
+  "name": "Porth Veor Manor",
+  "area": "newquay"
+ },
+ {
+  "name": "Porth Sands Penthouse",
+  "area": "newquay"
+ },
+ {
+  "name": "Berties Lodge",
+  "area": "newquay"
+ },
+ {
+  "name": "Beachcombers Apartments",
+  "area": "newquay"
+ },
+ {
+  "name": "Beachside Cottage",
+  "area": "newquay"
+ },
+ {
+  "name": "Trencreek Holiday Park",
+  "area": "newquay"
+ },
+ {
+  "name": "Riverside Holiday Park",
+  "area": "newquay"
+ },
+ {
+  "name": "Sun Haven Valley Holiday Park",
+  "area": "mawgan-porth"
+ },
+ {
+  "name": "Treworgans Holiday Park",
+  "area": "holywell-bay"
+ },
+ {
+  "name": "Hendra Holiday Park",
+  "area": "newquay"
+ },
+ {
+  "name": "Trenance Holiday Park",
+  "area": "newquay"
+ },
+ {
+  "name": "Newquay Bay Resort",
+  "area": "newquay"
+ },
+ {
+  "name": "Big Domain",
+  "area": "newquay"
+ },
+ {
+  "name": "Blue Hayes Private Hotel",
+  "area": "st-ives"
+ },
+ {
+  "name": "Carlill Guesthouse",
+  "area": "st-ives"
+ },
+ {
+  "name": "Saltwater Guesthouse",
+  "area": "st-ives"
+ },
+ {
+  "name": "St Ives Bay Hotel",
+  "area": "st-ives"
+ },
+ {
+  "name": "Treloyhan Manor",
+  "area": "st-ives"
+ },
+ {
+  "name": "The Anchorage",
+  "area": "st-ives"
+ },
+ {
+  "name": "Blue Sky Bed & Breakfast",
+  "area": "st-ives"
+ },
+ {
+  "name": "Cornish Escapes",
+  "area": "st-ives"
+ },
+ {
+  "name": "Cohort St Ives",
+  "area": "st-ives"
+ },
+ {
+  "name": "Star-Gazy Porthmeor Beach",
+  "area": "st-ives"
+ },
+ {
+  "name": "St Ives Holidays",
+  "area": "st-ives"
+ },
+ {
+  "name": "Cornish Riviera Holidays",
+  "area": "st-ives"
+ },
+ {
+  "name": "Host St Ives",
+  "area": "st-ives"
+ },
+ {
+  "name": "Tregowan Holiday Apartments",
+  "area": "st-ives"
+ },
+ {
+  "name": "Headland House",
+  "area": "st-ives"
+ },
+ {
+  "name": "Green Apple Bed and Breakfast",
+  "area": "st-ives"
+ },
+ {
+  "name": "Carbis Bay Holidays",
+  "area": "st-ives"
+ },
+ {
+  "name": "Polmanter Self Catering Cottages",
+  "area": "st-ives"
+ },
+ {
+  "name": "The Gannet Inn",
+  "area": "st-ives"
+ },
+ {
+  "name": "Sail Lofts",
+  "area": "st-ives"
+ },
+ {
+  "name": "The Old Vicarage, St Ives",
+  "area": "st-ives"
+ },
+ {
+  "name": "Bosavern House",
+  "area": "sennen-cove"
+ },
+ {
+  "name": "East Thorne - Cornwall",
+  "area": "bude"
+ },
+ {
+  "name": "Carbis Bay and Spa Hotel",
+  "area": "st-ives"
+ },
+ {
+  "name": "The Royal George",
+  "area": "appledore"
+ },
+ {
+  "name": "The Olive Branch",
+  "area": "woolacombe"
+ },
+ {
+  "name": "Rockvale House B&B",
+  "area": "lynmouth"
+ },
+ {
+  "name": "Longmead House B&B",
+  "area": "lynmouth"
+ },
+ {
+  "name": "Martinhoe Cleave Cottages (Exmoor Hideaway)",
+  "area": "lynmouth"
+ },
+ {
+  "name": "Tors Park",
+  "area": "lynmouth"
+ },
+ {
+  "name": "Byron Woolacombe Holidays",
+  "area": "woolacombe"
+ },
+ {
+  "name": "Chalet Saunton",
+  "area": "saunton"
+ },
+ {
+  "name": "Torridge House Cottages",
+  "area": "westward-ho"
+ },
+ {
+  "name": "The Henley Hotel",
+  "area": "bigbury-on-sea"
+ },
+ {
+  "name": "Perfect Stays",
+  "area": "bigbury-on-sea"
+ },
+ {
+  "name": "Worms Head Hotel",
+  "area": "llangennith"
+ },
+ {
+  "name": "YHA Manorbier",
+  "area": "manorbier"
+ },
+ {
+  "name": "Craig Y Môr B&B",
+  "area": "whitesands"
+ },
+ {
+  "name": "YHA St Davids",
+  "area": "whitesands"
+ },
+ {
+  "name": "Felin Traeth Cottage",
+  "area": "rhosneigr"
+ },
+ {
+  "name": "Sandy Mount House",
+  "area": "rhosneigr"
+ },
+ {
+  "name": "Hael Farm Cottages (Port Eynon Beach Cottage)",
+  "area": "port-eynon"
+ },
+ {
+  "name": "Croft Acre Holiday Cottages",
+  "area": "port-eynon"
+ },
+ {
+  "name": "Little Hill End (Pilton Moor)",
+  "area": "llangennith"
+ },
+ {
+  "name": "Glendower",
+  "area": "whitesands"
+ },
+ {
+  "name": "Ramsey House",
+  "area": "whitesands"
+ },
+ {
+  "name": "Carn Llidi, Lleithyr Farm",
+  "area": "whitesands"
+ },
+ {
+  "name": "Olivia House",
+  "area": "rest-bay-porthcawl"
+ },
+ {
+  "name": "Broadhaven Cottage, Lake House",
+  "area": "freshwater-east"
+ },
+ {
+  "name": "The Haggard",
+  "area": "manorbier"
+ },
+ {
+  "name": "Castle House (Manorbier Castle)",
+  "area": "manorbier"
+ },
+ {
+  "name": "Atlantic View Cottages",
+  "area": "broad-haven"
+ },
+ {
+  "name": "Swallows Nest, Gordy Hall",
+  "area": "broad-haven"
+ },
+ {
+  "name": "Timber Hill",
+  "area": "broad-haven"
+ },
+ {
+  "name": "Oakland House",
+  "area": "langland-bay"
+ },
+ {
+  "name": "The Oyster House",
+  "area": "langland-bay"
+ },
+ {
+  "name": "Parkmill Cottages",
+  "area": "oxwich-bay"
+ },
+ {
+  "name": "Coastal View, Sealands Farm",
+  "area": "oxwich-bay"
+ },
+ {
+  "name": "Top Flat 38 Victoria Avenue",
+  "area": "rest-bay-porthcawl"
+ },
+ {
+  "name": "St Davids Escapes (Yr Hendy)",
+  "area": "whitesands"
+ },
+ {
+  "name": "Freshwater Holidays (16 Freshwater Bay)",
+  "area": "freshwater-east"
+ },
+ {
+  "name": "Bedford Lodge",
+  "area": "shanklin"
+ },
+ {
+  "name": "Hambledon Hotel",
+  "area": "shanklin"
+ },
+ {
+  "name": "St George's House",
+  "area": "shanklin"
+ },
+ {
+  "name": "The Chestnuts",
+  "area": "shanklin"
+ },
+ {
+  "name": "The Clifton",
+  "area": "shanklin"
+ },
+ {
+  "name": "The Osborne",
+  "area": "shanklin"
+ },
+ {
+  "name": "The Swiss Cottage",
+  "area": "shanklin"
+ },
+ {
+  "name": "Harbour Hotel Christchurch",
+  "area": "highcliffe"
+ },
+ {
+  "name": "Lulworth Cove Inn",
+  "area": "kimmeridge-bay"
+ },
+ {
+  "name": "The Charm Brighton Boutique Hotel and Spa",
+  "area": "brighton"
+ },
+ {
+  "name": "Best Western Princes Marine Hotel",
+  "area": "brighton"
+ },
+ {
+  "name": "Fort Road Hotel",
+  "area": "joss-bay"
+ },
+ {
+  "name": "Cavendish Hotel",
+  "area": "eastbourne"
+ },
+ {
+  "name": "The Knoll House",
+  "area": "swanage"
+ },
+ {
+  "name": "Marsham Court Hotel",
+  "area": "bournemouth"
+ },
+ {
+  "name": "Harbour Hotel Brighton",
+  "area": "brighton"
+ },
+ {
+  "name": "The Burlington Hotel",
+  "area": "eastbourne"
+ },
+ {
+  "name": "One Broad Street",
+  "area": "brighton"
+ },
+ {
+  "name": "Royal Albion Hotel",
+  "area": "joss-bay"
+ },
+ {
+  "name": "The Beach House",
+  "area": "highcliffe"
+ },
+ {
+  "name": "Ambassador Hotel",
+  "area": "brighton"
+ },
+ {
+  "name": "Hotel Pelirocco",
+  "area": "brighton"
+ },
+ {
+  "name": "The Mowbray",
+  "area": "eastbourne"
+ },
+ {
+  "name": "New Steine",
+  "area": "brighton"
+ },
+ {
+  "name": "The Grand Brighton",
+  "area": "brighton"
+ },
+ {
+  "name": "Hydro Hotel",
+  "area": "eastbourne"
+ },
+ {
+  "name": "Strawberry Fields",
+  "area": "brighton"
+ },
+ {
+  "name": "Eastbourne Riviera Hotel",
+  "area": "eastbourne"
+ },
+ {
+  "name": "The Grand Hotel Eastbourne",
+  "area": "eastbourne"
+ },
+ {
+  "name": "Square Townhouse",
+  "area": "brighton"
+ },
+ {
+  "name": "Port Hotel",
+  "area": "eastbourne"
+ },
+ {
+  "name": "Pebble Beach",
+  "area": "highcliffe"
+ },
+ {
+  "name": "The Cumberland Hotel",
+  "area": "eastbourne"
+ },
+ {
+  "name": "Luccombe Manor Country House Hotel",
+  "area": "shanklin"
+ },
+ {
+  "name": "Luccombe Hall Hotel",
+  "area": "shanklin"
+ },
+ {
+  "name": "Sea Spray",
+  "area": "brighton"
+ },
+ {
+  "name": "Alexander Lodge",
+  "area": "southbourne"
+ },
+ {
+  "name": "Mory House",
+  "area": "southbourne"
+ },
+ {
+  "name": "Southbourne Holiday Lets",
+  "area": "southbourne"
+ },
+ {
+  "name": "Harewood Haven",
+  "area": "southbourne"
+ },
+ {
+  "name": "Riviera Hotel & Holiday Apartments",
+  "area": "bournemouth"
+ },
+ {
+  "name": "The Green House Hotel",
+  "area": "bournemouth"
+ },
+ {
+  "name": "Regency Court Holiday Flats",
+  "area": "bournemouth"
+ },
+ {
+  "name": "The Ashleigh",
+  "area": "bournemouth"
+ },
+ {
+  "name": "The Coach House Holiday Apartments",
+  "area": "bournemouth"
+ },
+ {
+  "name": "The Suncliff Hotel",
+  "area": "bournemouth"
+ },
+ {
+  "name": "Sentry Mead",
+  "area": "freshwater-bay-isle-of-wight"
+ },
+ {
+  "name": "Linstone Chine Holiday Village",
+  "area": "freshwater-bay-isle-of-wight"
+ },
+ {
+  "name": "Tapnell Farm",
+  "area": "freshwater-bay-isle-of-wight"
+ },
+ {
+  "name": "Ebenezer's Place",
+  "area": "joss-bay"
+ },
+ {
+  "name": "The Corner Broadstairs Boutique B&B",
+  "area": "joss-bay"
+ },
+ {
+  "name": "The Victoria B&B",
+  "area": "joss-bay"
+ },
+ {
+  "name": "Belvidere Place",
+  "area": "joss-bay"
+ },
+ {
+  "name": "Harbour Haven (Beautiful Broadstairs)",
+  "area": "joss-bay"
+ },
+ {
+  "name": "Budle Bay Croft Holiday Cottages",
+  "area": "bamburgh"
+ },
+ {
+  "name": "Glebe House & Cottage",
+  "area": "bamburgh"
+ },
+ {
+  "name": "The Victoria Hotel",
+  "area": "bamburgh"
+ },
+ {
+  "name": "No 48",
+  "area": "saltburn"
+ },
+ {
+  "name": "The Kensington Guesthouse",
+  "area": "scarborough-north-bay"
+ },
+ {
+  "name": "Bike & Boot",
+  "area": "scarborough-north-bay"
+ },
+ {
+  "name": "Crown Spa Hotel Scarborough by Compass Hospitality",
+  "area": "scarborough-north-bay"
+ },
+ {
+  "name": "The Bamburgh Castle Inn - The Inn Collection Group",
+  "area": "beadnell-bay"
+ },
+ {
+  "name": "The Helaina",
+  "area": "scarborough-north-bay"
+ },
+ {
+  "name": "Harmony Country Lodge",
+  "area": "scarborough-north-bay"
+ },
+ {
+  "name": "The Albert",
+  "area": "scarborough-north-bay"
+ },
+ {
+  "name": "Mansion House",
+  "area": "scarborough-north-bay"
+ },
+ {
+  "name": "Blue Horizon Apartments at The Helaina",
+  "area": "scarborough-north-bay"
+ },
+ {
+  "name": "Harcourt Place",
+  "area": "scarborough-north-bay"
+ },
+ {
+  "name": "Haven Crest",
+  "area": "whitby"
+ },
+ {
+  "name": "Baytown Holiday Cottages",
+  "area": "whitby"
+ },
+ {
+  "name": "Magnolia Guest House",
+  "area": "whitby"
+ },
+ {
+  "name": "Whitby Holiday Home",
+  "area": "whitby"
+ },
+ {
+  "name": "Riviera Guesthouse",
+  "area": "whitby"
+ },
+ {
+  "name": "The White House Inn",
+  "area": "whitby"
+ },
+ {
+  "name": "Beach House Hotel",
+  "area": "beadnell-bay"
+ },
+ {
+  "name": "The Olde Ship Inn",
+  "area": "beadnell-bay"
+ },
+ {
+  "name": "North Bay Guest Accommodation",
+  "area": "scarborough-north-bay"
+ },
+ {
+  "name": "Fayvan Apartments",
+  "area": "whitby"
+ },
+ {
+  "name": "Whitby Bridge Luxury Apartments",
+  "area": "whitby"
+ },
+ {
+  "name": "Admiral Hotel",
+  "area": "scarborough-north-bay"
+ },
+ {
+  "name": "Priory View B&B",
+  "area": "coldingham-bay"
+ },
+ {
+  "name": "Emmaus Guest House",
+  "area": "belhaven-bay"
+ },
+ {
+  "name": "Dunlossit House B&B",
+  "area": "machrihanish"
+ },
+ {
+  "name": "Ugadale Hotel & Cottages (Machrihanish Dunes)",
+  "area": "machrihanish"
+ },
+ {
+  "name": "The Granary Lodge, Castle of Mey",
+  "area": "dunnet-bay"
+ },
+ {
+  "name": "Hawthorns B&B",
+  "area": "dunnet-bay"
+ },
+ {
+  "name": "Camfield House (Riverside Accommodation)",
+  "area": "thurso-east"
+ },
+ {
+  "name": "Manor House Thurso",
+  "area": "thurso-east"
+ },
+ {
+  "name": "Pentland Lodge House",
+  "area": "thurso-east"
+ },
+ {
+  "name": "The Weigh Inn Hotel & Lodges",
+  "area": "thurso-east"
+ },
+ {
+  "name": "Beulah Guest House",
+  "area": "portrush-west-strand"
+ },
+ {
+  "name": "Blackrock House B&B",
+  "area": "portrush-west-strand"
+ },
+ {
+  "name": "Pier 39 Portrush",
+  "area": "portrush-west-strand"
+ },
+ {
+  "name": "The Carrick",
+  "area": "portrush-west-strand"
+ },
+ {
+  "name": "Cul-Erg House",
+  "area": "portstewart-strand"
+ },
+ {
+  "name": "Port 56 Boutique Accommodation",
+  "area": "portstewart-strand"
+ },
+ {
+  "name": "Port House Portstewart",
+  "area": "portstewart-strand"
+ },
+ {
+  "name": "DB Stays",
+  "area": "portrush-west-strand"
+ },
+ {
+  "name": "Bayview Farm Holiday Cottages",
+  "area": "white-park-bay"
+ },
+ {
+  "name": "Camelot Castle Hotel",
+  "area": "trebarwith-strand"
+ },
+ {
+  "name": "The Port William",
+  "area": "trebarwith-strand"
+ },
+ {
+  "name": "Mullion Cove Hotel & Spa",
+  "area": "mullion-lizard"
+ },
+ {
+  "name": "Polurrian on the Lizard",
+  "area": "mullion-lizard"
+ },
+ {
+  "name": "Cornish Horizons Holiday Cottages",
+  "area": "constantine-bay"
+ },
+ {
+  "name": "Olde Lantern Holiday Lets",
+  "area": "woolacombe"
+ },
+ {
+  "name": "Finest Stays",
+  "area": "kingsbridge-south-hams"
+ },
+ {
+  "name": "Toad Hall Cottages",
+  "area": "kingsbridge-south-hams"
+ },
+ {
+  "name": "The Cricket Inn",
+  "area": "kingsbridge-south-hams"
+ },
+ {
+  "name": "Dittiscombe Estate & Cottages",
+  "area": "kingsbridge-south-hams"
+ },
+ {
+  "name": "Salcombe Abode",
+  "area": "salcombe"
+ },
+ {
+  "name": "Soar Mill Cove Hotel",
+  "area": "salcombe"
+ },
+ {
+  "name": "Harbour Beach Club & Hotel",
+  "area": "salcombe"
+ },
+ {
+  "name": "Coast & Country Cottages",
+  "area": "salcombe"
+ },
+ {
+  "name": "The Egryn",
+  "area": "abersoch"
+ },
+ {
+  "name": "The Warren Holiday Park",
+  "area": "abersoch"
+ },
+ {
+  "name": "Cwt Mochyn & The Chalet, Tan Y Bryn",
+  "area": "abersoch"
+ },
+ {
+  "name": "Castellmarch",
+  "area": "abersoch"
+ },
+ {
+  "name": "Chale Bay Farm",
+  "area": "chale-isle-of-wight"
+ }
+]

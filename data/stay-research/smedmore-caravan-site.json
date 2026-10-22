@@ -1,0 +1,26 @@
+{
+ "name": "Smedmore Caravan Site",
+ "officialUrl": "https://www.smedmore-caravansite.co.uk/",
+ "trading": true,
+ "stayType": "Caravan and motorhome site on a private estate",
+ "accommodation": "40 large pitches for caravans and motorhomes (no tents mentioned)",
+ "suitableFor": "Caravanners and motorhomers who are self-contained",
+ "parking": null,
+ "dogs": null,
+ "beachAccess": "Walk to Kimmeridge Bay along the coast path from the site",
+ "boardStorage": null,
+ "confirmedFeatures": "Electric hook-ups, Wi-Fi, two water points, chemical disposal point; no toilets or showers; Caravan Club and Motorhome Club affiliated; open May to October",
+ "overview": "A caravan-only site on the private Smedmore estate at Kimmeridge, with 40 large pitches arranged around the field edge. There are hook-ups and Wi-Fi but no toilet or shower block, and Kimmeridge Bay can be reached on foot via the coast path.",
+ "surfTripFit": "About as close as you can stay to the Kimmeridge ledges, with a coast-path walk down to the bay; best for self-contained vans.",
+ "sources": [
+  {
+   "label": "Official site",
+   "url": "https://www.smedmore-caravansite.co.uk/"
+  },
+  {
+   "label": "Swanage.co.uk listing",
+   "url": "https://www.swanage.co.uk/smedmore-caravan-site/"
+  }
+ ],
+ "slug": "smedmore-caravan-site"
+}

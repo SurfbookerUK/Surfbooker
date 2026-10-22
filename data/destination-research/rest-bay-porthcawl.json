@@ -1,0 +1,119 @@
+{
+ "overview": [
+  "Rest Bay is a long sandy beach on the western edge of Porthcawl, the seaside town halfway between Swansea and Cardiff. Low cliffs and the links of Royal Porthcawl Golf Club sit behind it, and it holds Blue Flag status for its clean water. It is a beach where you can turn up with a board, the family or just a bike and find what you need.",
+  "It faces into the full force of the Atlantic swell coming up the Bristol Channel, which makes it one of the most popular surf beaches in south Wales. Rocky ledges among the sand give the waves shape, especially towards low tide. The Bristol Channel's huge tidal range means the beach looks completely different at high and low tide, so it pays to check the tide table and look at the rocks before you paddle out.",
+  "Facilities are better than almost anywhere else on this coast. Bridgend County Borough Council's Rest Bay Watersports Centre has changing cubicles, outdoor showers, toilets, lockers, a café/bistro, a kiosk, a surf shop and a beach wheelchair, with lifeguards on the beach through the summer. You can even train as a lifeguard or surf instructor at the centre, and cycle tours run from here to Porthcawl and Newton."
+ ],
+ "suits": [
+  "Beginners with a lesson on suitable days",
+  "Experienced surfers chasing consistent swell",
+  "Families wanting showers, toilets and lifeguards",
+  "Cyclists — there is covered bike storage"
+ ],
+ "notFor": [
+  "Swimmers at low tide unfamiliar with the rocky ledges",
+  "Anyone wanting a quiet beach on summer weekends"
+ ],
+ "surf": {
+  "text": [
+   "Rest Bay faces west to south-west and takes the full force of the Atlantic swell, making it one of the more consistent spots between the Gower and Cardiff. Reefs and rocky shelves among the sand shape the waves, but they also need care, particularly as the tide drops.",
+   "The Bristol Channel's large tidal range changes the beach dramatically through the day, so check tide times and look at where the rocks are before you paddle out. Learners do best on the inside on small days, inside the flagged area.",
+   "Rest Bay is the main surf beach on the south Wales coast near Porthcawl. Southerly peaks are the most popular. A south-westerly swell between about one and six feet with an easterly or north-easterly wind is the best set-up, and low to three-quarter tide, ideally rising, works best; at high tide the beach disappears and rocks come into play. It is popular and can get busy, but it's manageable and the vibe is respectful. Autumn and winter are best, from September to February. There's a large paid car park, a cafe, lifeguards, toilets and camping nearby. Check for sewage warnings after heavy rain."
+  ],
+  "cards": [
+   {
+    "label": "Level",
+    "title": "Beginner to experienced",
+    "text": "Lessons on the inside on small days; experienced surfers on the outer banks and reefs."
+   },
+   {
+    "label": "Conditions",
+    "title": "Big tides, open to swell",
+    "text": "The beach changes quickly with the large tidal range."
+   },
+   {
+    "label": "Hazards",
+    "title": "Rocks at low tide",
+    "text": "Rocky ledges show on lower tides. Use the red and yellow flags when lifeguards are on duty."
+   }
+  ]
+ },
+ "practical": [
+  {
+   "label": "Parking",
+   "title": "Pay and display",
+   "text": "A pay-and-display car park sits behind the beach."
+  },
+  {
+   "label": "Watersports centre",
+   "title": "Showers and changing",
+   "text": "Changing cubicles, outdoor showers, toilets, secure lockers, cycle storage, café/bistro, kiosk, surf shop and tourist information."
+  },
+  {
+   "label": "Access",
+   "title": "Beach wheelchair",
+   "text": "The watersports centre lists a beach wheelchair among its facilities."
+  },
+  {
+   "label": "Lifeguards",
+   "title": "Summer",
+   "text": "In 2026 the RNLI patrolled daily from 23 May to 6 September, plus the weekend of 12–13 September, 10am–6pm."
+  },
+  {
+   "label": "Dogs",
+   "title": "Check the signs",
+   "text": "Seasonal dog restrictions apply on some Bridgend beaches. Follow the signs at the beach entrance."
+  }
+ ],
+ "faqs": [
+  {
+   "q": "Are there lifeguards at Rest Bay?",
+   "a": "Yes, in summer. In 2026 the RNLI patrolled daily from 23 May to 6 September and on 12–13 September, 10am–6pm."
+  },
+  {
+   "q": "Are there showers at Rest Bay?",
+   "a": "Yes — outdoor showers and changing cubicles at the Rest Bay Watersports Centre."
+  },
+  {
+   "q": "Is Rest Bay good for beginners?",
+   "a": "Yes, with a lesson and on smaller days. Watch for rocks on lower tides."
+  },
+  {
+   "q": "Is Rest Bay a Blue Flag beach?",
+   "a": "Yes, it holds Blue Flag status."
+  }
+ ],
+ "sources": [
+  {
+   "label": "RNLI — Rest Bay",
+   "url": "https://rnli.org/find-my-nearest/lifeguarded-beaches/rest-bay-beach"
+  },
+  {
+   "label": "Bridgend Council — Rest Bay Watersports Centre",
+   "url": "https://www.bridgend.gov.uk/residents/leisure-culture-and-libraries/rest-bay-watersports-centre"
+  },
+  {
+   "label": "Wikipedia — Rest Bay",
+   "url": "https://en.wikipedia.org/wiki/Rest_Bay"
+  }
+ ],
+ "factCheck": [
+  {
+   "fact": "2026 lifeguards daily 23 May–6 Sep, weekend 12–13 Sep, 10am–6pm; faces south-west, full force of Atlantic swell; low cliffs and Royal Porthcawl golf course",
+   "url": "https://rnli.org/find-my-nearest/lifeguarded-beaches/rest-bay-beach"
+  },
+  {
+   "fact": "Facilities list incl. lockers, kiosk, surf shop, beach wheelchair; Blue Flag",
+   "url": "https://www.bridgend.gov.uk/residents/leisure-culture-and-libraries/rest-bay-watersports-centre"
+  },
+  {
+   "fact": "West-facing, pay and display car park",
+   "url": "https://en.wikipedia.org/wiki/Rest_Bay"
+  },
+  {
+   "fact": "Rest Bay: SW swell, E/NE offshore, low to 3/4 rising, rocks at high tide",
+   "url": "https://www.surfnerd.com/surf-forecast/rest-bay"
+  }
+ ],
+ "checked": "October 2026"
+}

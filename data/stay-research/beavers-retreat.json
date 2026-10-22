@@ -1,0 +1,26 @@
+{
+ "name": "Beavers Retreat",
+ "officialUrl": "http://www.beaversretreat.co.uk",
+ "trading": true,
+ "stayType": "Off-grid glamping domes",
+ "accommodation": "Glamping domes (XL and Eco Domes), each with private kitchen and toilet",
+ "suitableFor": "Couples, families and groups",
+ "parking": "Parking available (Visit Pembrokeshire)",
+ "dogs": "Small well-behaved dogs welcome in XL and Eco Domes, max two per dome",
+ "beachAccess": "About two miles from Manorbier beach",
+ "boardStorage": null,
+ "confirmedFeatures": "Private kitchen and toilet per dome, shared hot showers, lockers and charging ports, communal freezer, private garden areas, solar powered",
+ "overview": "Beavers Retreat is a solar-powered glamping site on the Ridgeway above Manorbier, around two miles from the beach. Each dome has its own kitchen and toilet, with shared hot showers and a charging shed.",
+ "surfTripFit": "A short drive to Manorbier and the south Pembrokeshire beaches, with self-catering kitchens that keep costs down.",
+ "sources": [
+  {
+   "label": "Beavers Retreat",
+   "url": "http://www.beaversretreat.co.uk"
+  },
+  {
+   "label": "Visit Pembrokeshire – Beavers Retreat",
+   "url": "https://www.visitpembrokeshire.com/accommodation-listing/beavers-retreat-glamping"
+  }
+ ],
+ "slug": "beavers-retreat"
+}

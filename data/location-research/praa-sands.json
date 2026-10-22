@@ -1,0 +1,212 @@
+{
+ "slug": "praa-sands",
+ "schools": [
+  {
+   "name": "Global Boarders (now Makai)",
+   "type": "Surf school",
+   "url": "https://www.globalboarders.com/",
+   "base": "Praa Sands Beach Car Park, Castle Drive (TR20 9TG)",
+   "note": "Beginner, improver and advanced lessons, plus private and family lessons. Lessons may move to Gwithian on the north coast when the waves are better there.",
+   "source": "https://www.globalboarders.com/"
+  },
+  {
+   "name": "Boatshed Activity Centre",
+   "type": "Surf school",
+   "url": "https://boatshedactivity-centre.co.uk/",
+   "base": "Stones Reef complex, on the beach at Praa Sands (TR20 9TQ)",
+   "note": "Surf lessons with ISA-trained instructors, including group, private and family sessions, alongside bodyboarding, SUP, kayaking and coasteering.",
+   "source": "https://directory.cornishsecrets.co.uk/listing/boatshed-activity-centre/"
+  }
+ ],
+ "hire": [
+  {
+   "name": "Global Boarders (now Makai)",
+   "type": "Board & wetsuit hire",
+   "url": "https://www.globalboarders.com/",
+   "base": "Praa Sands Beach Car Park",
+   "note": "Surf hire at Praa Sands, with a delivery service also offered.",
+   "source": "https://www.globalboarders.com/"
+  },
+  {
+   "name": "Boatshed Activity Centre",
+   "type": "Board & wetsuit hire",
+   "url": "https://boatshedactivity-centre.co.uk/",
+   "base": "Stones Reef complex, Praa Sands",
+   "note": "An all-year hire shop for people who want to surf, paddleboard or kayak on their own. Open daily.",
+   "source": "https://stonesreef.co.uk/"
+  }
+ ],
+ "shops": [],
+ "lessonsIntro": "Praa Sands is the main surf beach on Cornwall's south coast, and lessons run from the west end car park and the Stones Reef complex. It often has waves when the north coast is too big.",
+ "learn": {
+  "text": [
+   "Praa Sands is a mile-long south-facing beach in Mount's Bay, and it's usually smaller than the north coast in summer. It comes into its own in autumn and winter, often working when north coast beaches are blown out or too big. Waves tend to break best around mid to high tide, close to the shore, and the quieter east end can have the better peaks.",
+   "Local guides warn that the waves can be powerful, and windsurf guides describe a heavy shore dump at high tide, so beginners should learn with a school rather than going it alone. RNLI lifeguards patrol from Easter, daily from early May to late September, and in October, with swimming and surfing areas at the busier west end. Watch out for rocky patches, especially towards the east end."
+  ],
+  "cards": [
+   {
+    "label": "Level",
+    "title": "Beginners with a school",
+    "text": "Rated by local guides as suitable for beginners and experienced surfers, but powerful enough that a lesson is advised."
+   },
+   {
+    "label": "Best time",
+    "title": "Mid to high tide, smaller days",
+    "text": "Waves break best around mid to high tide. Lifeguards are on daily from 2 May to 27 September in 2026."
+   },
+   {
+    "label": "Watch out for",
+    "title": "High-tide shore dump and rocks",
+    "text": "The shorebreak gets heavy near high tide, and there are rocky patches along the beach, especially at the east end."
+   }
+  ]
+ },
+ "hireIntro": "You can hire kit at the west end of the beach, from the surf school in the car park or the Boatshed in the Stones Reef complex.",
+ "kit": {
+  "text": [
+   "A big foam board is the safest bet on Praa Sands, where the waves break close to shore and can dump at high tide. Improvers who can handle a quick take-off can move to something shorter, especially on punchy winter days. The sea here runs from roughly 8 to 10°C in late February to 15 to 18°C around mid-August."
+  ],
+  "cards": [
+   {
+    "label": "Board",
+    "title": "Foam board for learners",
+    "text": "Boards are included in lessons. Save harder boards for when you can make steeper, quicker take-offs."
+   },
+   {
+    "label": "Wetsuit",
+    "title": "4/3 or 3/2 in summer, 5mm in winter",
+    "text": "Surf-forecast suggests a 4/3mm (or 3/2 with boots) in August, and a 5/4 or 5/3mm with gloves and boots in late February."
+   },
+   {
+    "label": "Other craft",
+    "title": "Bodyboards and SUP on calm days",
+    "text": "The Boatshed runs bodyboarding and SUP. Praa Sands has watersports zoning, so follow the flags and lifeguards' advice."
+   }
+  ]
+ },
+ "shopsIntro": "Praa Sands has beach and hire shops at the west end, but we couldn't confirm a dedicated surf retail shop.",
+ "shopsText": [
+  "The west end of Praa Sands has the car parks, cafes and the Stones Reef complex, where the Boatshed Activity Centre runs a year-round hire shop. Beach guides mention a surf and beach shop here, but we couldn't confirm one selling boards and wetsuits. For a full range of surf kit, Down The Line Surf Co in Hayle is the closest specialist shop we could confirm."
+ ],
+ "faqs": {
+  "lessons": [
+   {
+    "q": "Where do surf lessons meet at Praa Sands?",
+    "a": "Global Boarders meets at the Praa Sands Beach Car Park on Castle Drive, and the Boatshed Activity Centre is in the Stones Reef complex on the beach."
+   },
+   {
+    "q": "Will my lesson always be at Praa Sands?",
+    "a": "Not always. Global Boarders may move lessons to Gwithian on the north coast if the waves are better there."
+   },
+   {
+    "q": "When is the best tide for surfing at Praa Sands?",
+    "a": "Waves usually break best from mid to high tide, but the shorebreak can get heavy right at high tide."
+   }
+  ],
+  "hire": [
+   {
+    "q": "Can I hire a surfboard at Praa Sands?",
+    "a": "Yes, from Global Boarders at the beach car park or the Boatshed Activity Centre's hire shop."
+   },
+   {
+    "q": "Is hire available out of season?",
+    "a": "The Boatshed describes its hire shop as running all year round, but call ahead to check."
+   }
+  ],
+  "shops": [
+   {
+    "q": "Is there a surf shop at Praa Sands?",
+    "a": "There are beach and hire shops at the west end, but no dedicated surf retailer we could confirm. Down The Line in Hayle is the closest specialist surf shop we could confirm."
+   }
+  ]
+ },
+ "sources": [
+  {
+   "label": "Global Boarders / Makai",
+   "url": "https://www.globalboarders.com/"
+  },
+  {
+   "label": "Yumping - Global Boarders Praa Sands lesson",
+   "url": "https://yumping.com/en/deals/surfing/cornwall/beginner-surfing-lesson-at-praa-sands-for-2h--o69321"
+  },
+  {
+   "label": "Boatshed Activity Centre",
+   "url": "https://boatshedactivity-centre.co.uk/"
+  },
+  {
+   "label": "Cornish Secrets - Boatshed Activity Centre",
+   "url": "https://directory.cornishsecrets.co.uk/listing/boatshed-activity-centre/"
+  },
+  {
+   "label": "Stones Reef",
+   "url": "https://stonesreef.co.uk/"
+  },
+  {
+   "label": "RNLI Praa Sands Beach",
+   "url": "https://rnli.org/find-my-nearest/lifeguarded-beaches/praa-sands-beach"
+  },
+  {
+   "label": "Aspects Holidays - surfing Praa Sands",
+   "url": "https://aspects-holidays.co.uk/blog/watersports/surfing-praa-sands"
+  },
+  {
+   "label": "Cornish Secrets - Praa Sands",
+   "url": "https://www.cornishsecrets.co.uk/guide/praa-sands/"
+  },
+  {
+   "label": "Windsurf Magazine - Praa Sands",
+   "url": "https://www.windsurf.co.uk/praa-sands-beach-guide"
+  },
+  {
+   "label": "Beach Retreats - Praa Sands",
+   "url": "https://www.beachretreats.co.uk/locations/west-cornwall/praa-sands"
+  },
+  {
+   "label": "Surf-forecast Praa Sands water temperature",
+   "url": "https://www.surf-forecast.com/breaks/Praa-Sands/seatemp"
+  }
+ ],
+ "factCheck": [
+  {
+   "fact": "Global Boarders Praa Sands base at beach car park, Castle Drive TR20 9TG; lesson types; hire at Praa Sands; now Makai",
+   "url": "https://www.globalboarders.com/"
+  },
+  {
+   "fact": "Lessons may move to Gwithian when waves better",
+   "url": "https://yumping.com/en/deals/surfing/cornwall/beginner-surfing-lesson-at-praa-sands-for-2h--o69321"
+  },
+  {
+   "fact": "Boatshed in Stones Reef complex; ISA instructors; open daily",
+   "url": "https://boatshedactivity-centre.co.uk/"
+  },
+  {
+   "fact": "Boatshed group, private, family lessons; bodyboarding, SUP",
+   "url": "https://directory.cornishsecrets.co.uk/listing/boatshed-activity-centre/"
+  },
+  {
+   "fact": "Boatshed all-year hire service",
+   "url": "https://stonesreef.co.uk/"
+  },
+  {
+   "fact": "Mile-long beach, rocky patches, rocks at east end; 2026 lifeguard dates",
+   "url": "https://rnli.org/find-my-nearest/lifeguarded-beaches/praa-sands-beach"
+  },
+  {
+   "fact": "Smaller in summer, good winter option; mid to high tide; east end Hendra; surf areas at west end",
+   "url": "https://aspects-holidays.co.uk/blog/watersports/surfing-praa-sands"
+  },
+  {
+   "fact": "Waves can be powerful; surf school advised for beginners",
+   "url": "https://www.cornishsecrets.co.uk/guide/praa-sands/"
+  },
+  {
+   "fact": "Severe shore dump at high tide; watersports zoning",
+   "url": "https://www.windsurf.co.uk/praa-sands-beach-guide"
+  },
+  {
+   "fact": "Sea temp 8-10C late Feb, 15-18C August",
+   "url": "https://www.surf-forecast.com/breaks/Praa-Sands/seatemp"
+  }
+ ],
+ "gaps": "No dedicated surf shop could be confirmed (guides mention a surf and beach shop and Stonesreef's Beachcomber beach shop page says 'info coming soon'). Boatshed's site has no dated content, so check it's operating; its hire kit isn't itemised. Global Boarders is rebranding to Makai. No minimum ages published for Praa Sands lessons."
+}

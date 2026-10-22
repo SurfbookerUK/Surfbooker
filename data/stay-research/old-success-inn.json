@@ -1,0 +1,22 @@
+{
+ "name": "Old Success Inn",
+ "officialUrl": "https://www.oldsuccess.co.uk/",
+ "trading": true,
+ "stayType": "Beachfront inn with rooms",
+ "accommodation": "23 bedrooms: 13 above the inn and 10 contemporary annexe rooms overlooking the beach, including sea-view doubles and family rooms",
+ "suitableFor": "Couples, families and dog owners",
+ "parking": "Parking listed as an amenity",
+ "dogs": "Dog friendly",
+ "beachAccess": "Overlooks Sennen Cove and is a stone's throw from the beach",
+ "boardStorage": null,
+ "confirmedFeatures": "Restaurant and café, bar, terrace overlooking the cove, WiFi, parking",
+ "overview": "A St Austell Brewery inn that sits just above the sands at Sennen Cove. It has 23 bedrooms, ten of them in a newer annexe overlooking the beach, plus sea-view doubles and family rooms. There is a restaurant, a bar and a large terrace looking over the cove, and Land's End is a coastal walk away.",
+ "surfTripFit": "You can see the surf from the terrace and walk down to the beach in a minute or two.",
+ "sources": [
+  {
+   "label": "Visit Cornwall listing",
+   "url": "https://www.visitcornwall.com/accommodation/inns-and-pubs/land-s-end/old-success-inn"
+  }
+ ],
+ "slug": "old-success-inn"
+}

@@ -1,0 +1,22 @@
+{
+ "slug": "lands-end-hotel",
+ "officialUrl": "https://www.landsendhotel.co.uk/",
+ "trading": true,
+ "stayType": "Clifftop hotel with studios and rural rooms",
+ "accommodation": "Hotel rooms at The Land's End Hotel, plus Penwith Studios and The Saddle & Stablerooms (a rustic countryside option); room numbers not stated",
+ "suitableFor": "Couples and sightseers wanting to stay at Land's End itself; the studio and stable-room options may suit those wanting more independence",
+ "parking": null,
+ "dogs": null,
+ "beachAccess": null,
+ "boardStorage": null,
+ "confirmedFeatures": "The Land's End Restaurant, First & Last Inn",
+ "overview": "The Land's End Hotel sits at Land's End, at the far western tip of Cornwall, a short drive from Sennen Cove. Alongside the main hotel, the same operator offers Penwith Studios and The Saddle & Stablerooms, a more rustic countryside option. Food is available at The Land's End Restaurant and the First & Last Inn.",
+ "surfTripFit": "It is close to Sennen, Cornwall's most consistent surf beach, but the site gives no beach distance or surf-related facilities, so it suits a sightseeing-led trip more than a dedicated surf stay.",
+ "sources": [
+  {
+   "label": "The Land's End Hotel (official)",
+   "url": "https://www.landsendhotel.co.uk/"
+  }
+ ],
+ "gaps": "Room count, parking, dogs, Wi-Fi, beach distance and board storage not stated on homepage; access statement and contact pages not checked."
+}

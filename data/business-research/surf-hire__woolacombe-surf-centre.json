@@ -1,0 +1,34 @@
+{
+ "slug": "woolacombe-surf-centre",
+ "kind": "surf-hire",
+ "officialUrl": "https://www.woolacombesurfcentre.com/",
+ "trading": true,
+ "about": "Woolacombe Surf Centre is a surf school and coastal activity provider in the middle of Woolacombe village in North Devon. It teaches surfers from beginner to advanced and runs kayaking, coasteering and eFoil sessions. It also hires surf and paddleboard kit and runs lifeguard and instructor training courses. Every surf lesson comes with free in-water photos.",
+ "offers": [
+  "Surf equipment hire",
+  "Stand-up paddleboard hire",
+  "Surf lessons from beginner to advanced",
+  "Family, school, university and club groups",
+  "Kayaking, coasteering and eFoil sessions",
+  "Lifeguard and surf instructor courses"
+ ],
+ "where": "Shop 5, Barton Court, Barton Road, Woolacombe (EX34 7BA)",
+ "goodToKnow": [
+  "Free in-water photos with all surf lessons; equipment provided, changing and storage on site",
+  "Ages about 8 to 80+; under-8s can have tailored private sessions",
+  "Surfing England Centre of Excellence; instructors are qualified beach lifeguards",
+  "Book online, by phone or by email"
+ ],
+ "season": null,
+ "sources": [
+  {
+   "label": "Woolacombe Surf Centre homepage",
+   "url": "https://www.woolacombesurfcentre.com/"
+  },
+  {
+   "label": "Visit Ilfracombe listing",
+   "url": "https://www.visitilfracombe.co.uk/item/woolacombe-surf-centre/"
+  }
+ ],
+ "gaps": "Specific hire items not listed; no season or cancellation terms"
+}

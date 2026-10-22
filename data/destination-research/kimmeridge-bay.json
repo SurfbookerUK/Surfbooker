@@ -1,0 +1,120 @@
+{
+ "overview": [
+  "Kimmeridge Bay is a roughly semicircular, south-west-facing bay on the Isle of Purbeck, about half a mile from Kimmeridge village on the Smedmore Estate. Low clay cliffs back a wide wave-cut platform, and flat ledges of bituminous shale and dolomite run out into the sea at low tide. The rocks are so significant that they gave their name to the Kimmeridgian stage of the Jurassic.",
+  "It's a Marine Conservation Zone and one of the best places on the south coast for marine life. Dorset Wildlife Trust's Fine Foundation Wild Seas Centre has displays and aquaria, and from May to September a 400-metre snorkel trail marked by buoys runs across the bay for confident swimmers on calm days. Clavell Tower watches over the eastern side, and the UK's oldest working oil pump nods on the western cliff.",
+  "For surfers, Kimmeridge only breaks on bigger swells because it has little exposure to the Atlantic. When it does, slow lefts and rights peel over the ledges, and the rights can run a long way into the bay. Broad Bench to the west sits inside the Lulworth firing ranges, so it's only reachable when the ranges are open to the public. There are no lifeguards."
+ ],
+ "suits": [
+  "Experienced surfers comfortable over rock",
+  "Snorkelling and rock pooling",
+  "Fossil and geology fans",
+  "Jurassic Coast walkers"
+ ],
+ "notFor": [
+  "Beginners",
+  "Sandy beach days",
+  "Lifeguarded swimming"
+ ],
+ "surf": {
+  "text": [
+   "Several reef breaks over shallow shale ledges, best on a solid south-westerly swell with northerly or north-easterly winds. The tide changes the reefs a lot, and it's often crowded when it works.",
+   "There are no lifeguards, the ledges are shallow and sharp, and rockpools are slippery. Check the Lulworth Ranges access times before heading west towards Broad Bench.",
+   "Kimmeridge is a reef with lefts and rights and no beach break. It works best on a south-westerly swell with a northerly offshore around high tide. Expect crowds when it's working and take care of the rocks. Winter is best and summer is usually flat."
+  ],
+  "cards": [
+   {
+    "label": "Level",
+    "title": "Experienced only",
+    "text": "Shallow ledges and rock."
+   },
+   {
+    "label": "Hazards",
+    "title": "Reef and ranges",
+    "text": "Shallow rock, sharp ledges and the Lulworth Ranges to the west."
+   },
+   {
+    "label": "Season",
+    "title": "Autumn and winter",
+    "text": "Channel swell is most likely from autumn to early spring; summer is usually small and much busier."
+   }
+  ]
+ },
+ "practical": [
+  {
+   "label": "Access",
+   "title": "Toll road",
+   "text": "A toll road from Kimmeridge village leads to the bay; parking is included and the fee goes to the Smedmore Estate."
+  },
+  {
+   "label": "Facilities",
+   "title": "Toilets and picnic area",
+   "text": "Toilets including disabled facilities, refreshments and a picnic area. The path to the Wild Seas Centre is narrow and uneven."
+  },
+  {
+   "label": "Wild Seas Centre",
+   "title": "Seasonal",
+   "text": "Closed from November to late March; mask and snorkel hire and waterproof trail guides available in season."
+  },
+  {
+   "label": "Ranges",
+   "title": "Military closures",
+   "text": "Roads and paths near the Lulworth Ranges can close for firing — check gov.uk access times."
+  },
+  {
+   "label": "Safety",
+   "title": "No lifeguards",
+   "text": "Cliff paths are steep and rocks slippery. In an emergency call 999 and ask for the Coastguard."
+  }
+ ],
+ "faqs": [
+  {
+   "q": "Can beginners surf Kimmeridge?",
+   "a": "No — it's shallow reef over rock ledges, for experienced surfers only."
+  },
+  {
+   "q": "Do you have to pay to get to Kimmeridge Bay?",
+   "a": "Yes, there's a toll road from the village; it includes parking."
+  },
+  {
+   "q": "When is the snorkel trail open?",
+   "a": "May to September, in clear, calm conditions. It's for confident sea swimmers and a wetsuit is advised."
+  },
+  {
+   "q": "Can you take dogs to Kimmeridge Bay?",
+   "a": "Dorset Wildlife Trust says dogs are welcome under effective control."
+  }
+ ],
+ "sources": [
+  {
+   "label": "Dorset National Landscape — Kimmeridge Bay",
+   "url": "https://dorset-nl.org.uk/location/kimmeridge_bay/"
+  },
+  {
+   "label": "Dorset Wildlife Trust — Wild Seas Centre",
+   "url": "https://www.dorsetwildlifetrust.org.uk/wild-seas-centre"
+  },
+  {
+   "label": "Wikipedia — Kimmeridge Bay",
+   "url": "https://en.wikipedia.org/wiki/Kimmeridge_Bay"
+  }
+ ],
+ "factCheck": [
+  {
+   "fact": "Semicircular, faces SW, Smedmore Estate, shale/dolomite ledges, Kimmeridgian stage, oldest working oil pump, ledges lefts and rights, Broad Bench in MoD range",
+   "url": "https://en.wikipedia.org/wiki/Kimmeridge_Bay"
+  },
+  {
+   "fact": "Toll includes parking; toilets incl disabled; centre closed Nov–Mar; snorkel trail May–Sep; ranges closures; Clavell Tower",
+   "url": "https://dorset-nl.org.uk/location/kimmeridge_bay/"
+  },
+  {
+   "fact": "MCZ; 400m trail with five buoys; confident swimmers; dogs under effective control; path narrow",
+   "url": "https://www.dorsetwildlifetrust.org.uk/wild-seas-centre"
+  },
+  {
+   "fact": "Kimmeridge: reef, SW swell, N offshore, high tide, rocks, crowds",
+   "url": "https://www.surf-forecast.com/breaks/Kimmeridge-Bay"
+  }
+ ],
+ "checked": "October 2026"
+}

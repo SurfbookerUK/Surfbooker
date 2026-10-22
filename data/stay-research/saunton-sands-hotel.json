@@ -1,0 +1,24 @@
+{
+  "slug": "saunton-sands-hotel",
+  "officialUrl": "https://www.sauntonsands.com/",
+  "trading": true,
+  "stayType": "4-star coastal hotel with spa",
+  "accommodation": "Double and twin rooms, small doubles, deluxe sea-view rooms and sea-view family suites",
+  "suitableFor": "Families, couples and spa breaks; not suitable if travelling with a dog",
+  "parking": "Free private on-site parking, no reservation needed",
+  "dogs": "Pets not allowed (service animals only)",
+  "beachAccess": "Public beach access listed; Saunton Sands and Croyde Bay are a short drive away",
+  "boardStorage": null,
+  "confirmedFeatures": "Indoor and outdoor pools, spa and sauna, fitness room, tennis court, mini golf, bar and restaurant, kids' club, accessible rooms, free Wi-Fi in public areas",
+  "overview": "Saunton Sands Hotel is a large 4-star hotel on the North Devon coast near Braunton, with indoor and outdoor pools, a spa, tennis and mini golf. Rooms include sea-view doubles and family suites, and Croyde Bay is about a five-minute drive away.",
+  "surfTripFit": "A full-service family or couples hotel that suits non-surfers and mixed groups; there is no board storage mentioned and dogs are not allowed.",
+  "sources": [
+    {
+      "label": "Trip.com listing (4-star, 8.8/10 from 47 reviews)",
+      "url": "https://au.trip.com/hotels/braunton-hotel-detail-4056435/saunton-sands-hotel-source-spa-and-wellness"
+    }
+  ],
+  "gaps": "Based on a booking-site listing, not the hotel's own site (which blocks automated checks). Confirm current opening, pet policy and beach distance with the hotel before promoting.",
+  "verificationNote": "Details taken from one online booking site in October 2026; the hotel's own website could not be checked. Surfbooker has not stayed here; confirm facilities and policies directly when you enquire.",
+  "lastVerified": "2026-10-16"
+}

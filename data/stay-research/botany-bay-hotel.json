@@ -1,0 +1,22 @@
+{
+ "name": "Botany Bay Hotel",
+ "officialUrl": "https://www.botanybayhotel.co.uk/",
+ "trading": true,
+ "stayType": "Clifftop hotel with restaurant",
+ "accommodation": "30 en-suite bedrooms, many overlooking Botany Bay, including sea-view and family rooms",
+ "suitableFor": "Families and couples wanting a hotel right by the beaches north of Broadstairs",
+ "parking": null,
+ "dogs": null,
+ "beachAccess": "A minute's stroll from the beach at Botany Bay, Kingsgate",
+ "boardStorage": null,
+ "confirmedFeatures": "30 en-suite rooms, sea views, food and drinks, function room, outdoor area, real fire, wheelchair access, Wi-Fi",
+ "overview": "Botany Bay Hotel sits on the clifftop at Kingsgate, a minute's walk from the sand at Botany Bay and a short way up the coast from Joss Bay. Many of its 30 en-suite rooms look over the bay, there are family rooms, and food and drinks are served in the hotel, with an outdoor area and a real fire.",
+ "surfTripFit": "The closest hotel to Joss Bay, with sea-view rooms that make it easy to check the north-east Kent coast before heading out.",
+ "sources": [
+  {
+   "label": "Official website",
+   "url": "https://www.botanybayhotel.co.uk/"
+  }
+ ],
+ "slug": "botany-bay-hotel"
+}

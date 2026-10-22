@@ -1,0 +1,153 @@
+{
+ "overview": [
+  "Shanklin's beach runs along the foot of the cliffs on the Isle of Wight's east coast, with a pedestrian esplanade, gardens and hotels behind it. The sand is mostly fine, with an area of shingle towards the southern end. Above the seafront sit the town centre and the thatched Old Village, linked to the beach by a public cliff lift. It's a traditional family resort beach, well set up for a day by the sea rather than a surf mission.",
+  "Surf here is occasional. Shanklin faces east, away from the south-westerly swell that feeds the island's best spots, so it's a spot you check rather than plan a trip around. Surf guides rate it an inconsistent sandbar beach break that works best in winter, around high tide, with a westerly wind blowing off the land, and it's the sort of place that suits a flat summer's day on the beach far more than a surf session. If you're after consistent surf, Compton Bay on the south-west coast is the island's most popular spot.",
+  "At the south end of the seafront, Shanklin Chine cuts down 32 metres to sea level through a wooded ravine. It has welcomed visitors since at least 1817, was used by commandos as an assault course before the 1942 Dieppe Raid, and carried part of the PLUTO fuel pipeline to Normandy in 1944. A short stretch of that pipework is still preserved there."
+ ],
+ "suits": [
+  "Families wanting a sandy beach with facilities close by",
+  "Bodyboarders and first-timers on small days",
+  "Visitors arriving by train",
+  "Walkers combining the beach with the Chine and Old Village"
+ ],
+ "notFor": [
+  "Anyone planning a trip around surf",
+  "Dog walkers on the beach between May and September"
+ ],
+ "surf": {
+  "text": [
+   "Shanklin is a sandbar beach break giving lefts and rights, and it's quite exposed to what the east brings. It's described as unreliable: it comes and goes, and it's winter when it's most likely to show, usually around high tide with a westerly offshore. When it does work, expect small, soft waves over sand, better suited to a bodyboard or a first stand-up than to a performance session.",
+   "Rips are the one thing to take seriously: surf guides flag them as a real danger here, and there's no lifeguard patrol listed in the council's beach information. The council advises reading the safety signs and checking tide tables, lifebelts are placed along the esplanade and an inshore rescue service is nearby.",
+   "For learning, the next beach along is the better bet. Sandown shares the same long bay and is where the island's surf school operates in the main season, with parking, changing rooms and a café close by."
+  ],
+  "cards": [
+   {
+    "label": "Level",
+    "title": "Beginners on small days",
+    "text": "Waves are occasional, small and usually gentle, but rips can be a problem."
+   },
+   {
+    "label": "Tide",
+    "title": "High tide",
+    "text": "Surf guides give high tide as best, with a westerly offshore wind."
+   },
+   {
+    "label": "Season",
+    "title": "Winter",
+    "text": "Most likely in winter; summer is often flat."
+   },
+   {
+    "label": "Alternative",
+    "title": "Compton Bay",
+    "text": "The island's most popular surf spot, on the south-west coast."
+   }
+  ]
+ },
+ "practical": [
+  {
+   "label": "Access",
+   "title": "Cliff lift, slipways and steps",
+   "text": "A public lift links the cliff top and esplanade; several concrete slipways give wheelchair and pushchair access to the sand."
+  },
+  {
+   "label": "Toilets",
+   "title": "Three blocks",
+   "text": "By the putting green, behind the Spa car park and at the southern end, with accessible toilets."
+  },
+  {
+   "label": "Parking",
+   "title": "Spa car park and on-street",
+   "text": "Three car parks along the seafront including the Spa car park, plus on-street spaces and some disabled bays."
+  },
+  {
+   "label": "Dogs",
+   "title": "Summer ban",
+   "text": "Dogs aren't allowed on the beach from May to September inclusive; designated areas apply at other times."
+  },
+  {
+   "label": "Food",
+   "title": "Kiosk and esplanade cafés",
+   "text": "A beach kiosk and a café along the esplanade, with hotels and restaurants on the gardens side."
+  },
+  {
+   "label": "Lessons",
+   "title": "Sandown, next door",
+   "text": "The island's mobile surf school runs sessions from the Sandown slipway in the main season (April to October), when conditions allow; check with the school before travelling."
+  }
+ ],
+ "faqs": [
+  {
+   "q": "Can you surf at Shanklin?",
+   "a": "Occasionally. It's a sandbar beach break that works mostly in winter, around high tide with a westerly wind, and it's usually small. Compton Bay is the island's most popular surf spot."
+  },
+  {
+   "q": "Is Shanklin good for beginners?",
+   "a": "Only on small, gentle days, and with care: rips can be a problem and there's no lifeguard listed. Sandown, next door, is where lessons run in the main season."
+  },
+  {
+   "q": "Can dogs go on Shanklin beach?",
+   "a": "Not from May to September inclusive. Outside those months, check the designated areas on the council's dog control orders."
+  },
+  {
+   "q": "Is there step-free access to Shanklin beach?",
+   "a": "Yes. The cliff lift links the town to the esplanade, and concrete slipways lead onto the sand."
+  },
+  {
+   "q": "Is Shanklin beach lifeguarded?",
+   "a": "The council's beach information doesn't list lifeguards. There are lifebelts along the esplanade and an inshore rescue service nearby."
+  }
+ ],
+ "sources": [
+  {
+   "label": "Isle of Wight Council — Shanklin beach information",
+   "url": "https://digitalservices.iow.gov.uk/documents/download/shanklin-revised-and-updated-2018-v1"
+  },
+  {
+   "label": "Wightlink — surfing on the Isle of Wight",
+   "url": "https://www.wightlink.co.uk/things-to-do-on-the-isle-of-wight/watersports/surfing"
+  },
+  {
+   "label": "Wikipedia — Shanklin Chine",
+   "url": "https://en.wikipedia.org/wiki/Shanklin_Chine"
+  }
+ ],
+ "factCheck": [
+  {
+   "fact": "Mostly sand with shingle toward the south end; pedestrian promenade",
+   "url": "https://digitalservices.iow.gov.uk/documents/download/shanklin-revised-and-updated-2018-v1"
+  },
+  {
+   "fact": "Cliff lift; concrete slipways; three toilet locations; Spa car park; dogs banned May–Sep",
+   "url": "https://digitalservices.iow.gov.uk/documents/download/shanklin-revised-and-updated-2018-v1"
+  },
+  {
+   "fact": "Lifebelts on esplanade; inshore rescue nearby; natural hazards, check tide tables",
+   "url": "https://digitalservices.iow.gov.uk/documents/download/shanklin-revised-and-updated-2018-v1"
+  },
+  {
+   "fact": "Sandown: gentle rolling waves, small swells, suits first-timers and bodyboarders",
+   "url": "https://www.wightlink.co.uk/things-to-do-on-the-isle-of-wight/watersports/surfing"
+  },
+  {
+   "fact": "Compton Bay is the island's most popular surf spot",
+   "url": "https://www.wightlink.co.uk/things-to-do-on-the-isle-of-wight/watersports/surfing"
+  },
+  {
+   "fact": "Chine 32m deep; visits since 1817; commandos pre-Dieppe 1942; PLUTO 1944; pipework preserved",
+   "url": "https://en.wikipedia.org/wiki/Shanklin_Chine"
+  },
+  {
+   "fact": "Sandbar beach break, exposed, inconsistent, winter, high tide, westerly offshore, rips a risk, lefts and rights",
+   "url": "https://it.surf-forecast.com/breaks/Shanklin"
+  },
+  {
+   "fact": "Sandown Bay gentle waves, schools at Sandown, cafés and parking",
+   "url": "https://www.wightlink.co.uk/things-to-do-on-the-isle-of-wight/watersports/surfing"
+  },
+  {
+   "fact": "iSurf at Ave Rd slipway Sandown, April-October, mobile school usually west side",
+   "url": "https://www.ukschooltrips.co.uk/isurf-watersports-isle-of-wight/"
+  }
+ ],
+ "checked": "October 2026"
+}

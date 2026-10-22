@@ -1,0 +1,22 @@
+{
+ "name": "Western House B&B",
+ "officialUrl": "https://westernhousebandb.co.uk/",
+ "trading": true,
+ "stayType": "Family-run B&B",
+ "accommodation": "Four en-suite bedrooms, two with sea views",
+ "suitableFor": "Couples and small groups wanting a B&B with breakfast",
+ "parking": "Off-street parking in the yard",
+ "dogs": "By arrangement",
+ "beachAccess": "A short distance from Llangennith beach, within walking distance",
+ "boardStorage": null,
+ "confirmedFeatures": "Free Wi-Fi, flat-screen TVs, wet room, fridge storage, wood-burning stove, deck with BBQ by arrangement, cooked, vegetarian, vegan or continental breakfast",
+ "overview": "Western House is a small B&B in Llangennith with four en-suite rooms, two of them looking out to sea. It is within walking distance of the beach and the village pub, and has off-street parking in the yard and a deck with a barbecue.",
+ "surfTripFit": "It's a short walk to Llangennith beach, with off-road parking and a cooked breakfast before an early surf.",
+ "sources": [
+  {
+   "label": "Western House official site",
+   "url": "https://westernhousebandb.co.uk/"
+  }
+ ],
+ "slug": "western-house-b-and-b"
+}

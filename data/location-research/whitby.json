@@ -1,0 +1,144 @@
+{
+ "slug": "whitby",
+ "schools": [
+  {
+   "name": "Whitby Surf School",
+   "type": "Surf school",
+   "url": "https://whitbysurf.co.uk/",
+   "base": "Promenade by the lower cliff lift entrance, West Cliff Beach, Whitby",
+   "note": "Surf and stand-up paddleboard lessons for first-timers through to improvers; the YHA lists it as suitable for children aged 8 and over and adults. You need to be able to swim 50m.",
+   "source": "https://whitbysurf.co.uk/"
+  }
+ ],
+ "hire": [
+  {
+   "name": "Whitby Surf School",
+   "type": "Board & wetsuit hire",
+   "url": "https://whitbysurf.co.uk/",
+   "base": "Promenade by the lower cliff lift entrance, West Cliff Beach, Whitby",
+   "note": "Offers a wide range of surf and SUP equipment to hire from its West Cliff base.",
+   "source": "https://whitbysurf.co.uk/"
+  }
+ ],
+ "shops": [],
+ "lessonsIntro": "Whitby Surf School teaches surfing and SUP from the promenade on West Cliff Beach, for first-timers through to improvers.",
+ "learn": {
+  "text": [
+   "Whitby's West Cliff Beach is a long, gently sloping sandy beach that the North York Moors National Park calls ideal for learning and progressing. Whitby Surf School works from the promenade by the lower cliff lift entrance and teaches surfing and stand-up paddleboarding to first-timers and improvers. The YHA lists lessons for children aged 8 and over and adults, and the school asks that you can swim 50m.",
+   "RNLI lifeguards cover the beach in the summer season, and the Beach Management Centre has showers, toilets, a café and chalets to hire. Outside the summer there are no lifeguards, so surf with others and check the forecast. Keep clear of the harbour piers at the eastern end of the beach."
+  ],
+  "cards": [
+   {
+    "label": "Level",
+    "title": "Good for beginners",
+    "text": "The National Park describes a shallow, gently sloping sandy beach with beginner and intermediate waves."
+   },
+   {
+    "label": "Best time",
+    "title": "Summer for lifeguards",
+    "text": "RNLI lifeguards patrol in the summer season."
+   },
+   {
+    "label": "Watch out for",
+    "title": "Harbour piers",
+    "text": "Stay away from the piers at the harbour end of the beach."
+   }
+  ]
+ },
+ "hireIntro": "Whitby Surf School hires surf and SUP kit from its base on the West Cliff promenade.",
+ "kit": {
+  "text": [
+   "The beaches on this stretch are mostly sandy beach breaks, so a long foam board is the right start, moving on to a hard mini-mal or longboard as you improve. Scarborough Surf School hires only 5/4mm wetsuits because the North Sea stays cold, and adds boots, gloves and hoods for the cooler months."
+  ],
+  "cards": [
+   {
+    "label": "Board",
+    "title": "Long soft-top",
+    "text": "The gentle sandy slope suits a big foam board for learning."
+   },
+   {
+    "label": "Wetsuit",
+    "title": "5/4mm most of the year",
+    "text": "North Sea water stays cool. Scarborough Surf School hires only 5/4mm suits and treats them as year-round wear, adding boots, gloves and a hood in the colder months."
+   },
+   {
+    "label": "Other craft",
+    "title": "SUP",
+    "text": "Whitby Surf School teaches and hires stand-up paddleboards."
+   }
+  ]
+ },
+ "shopsIntro": "We could not confirm a dedicated surf shop in Whitby.",
+ "shopsText": [
+  "We have not found a dedicated surf shop in Whitby. Whitby Surf School on the West Cliff promenade handles lessons and hire. For buying boards and wetsuits, Saltburn to the north and Scarborough to the south both have established surf shops."
+ ],
+ "faqs": {
+  "lessons": [
+   {
+    "q": "What age can children start?",
+    "a": "The YHA lists Whitby Surf School lessons for children aged 8 and over."
+   },
+   {
+    "q": "Do I need to be a swimmer?",
+    "a": "Yes, Whitby Surf School asks that you can swim 50m and are confident in open water."
+   },
+   {
+    "q": "Where do I meet?",
+    "a": "On the promenade at the lower cliff lift entrance on West Cliff Beach."
+   }
+  ],
+  "hire": [
+   {
+    "q": "Can I hire a surfboard in Whitby?",
+    "a": "Yes, Whitby Surf School hires surf and SUP equipment."
+   },
+   {
+    "q": "Are there facilities on the beach?",
+    "a": "The Beach Management Centre has showers, toilets, a café and chalets for hire."
+   }
+  ],
+  "shops": [
+   {
+    "q": "Is there a surf shop in Whitby?",
+    "a": "We could not confirm one; Saltburn and Scarborough have surf shops."
+   }
+  ]
+ },
+ "sources": [
+  {
+   "label": "Whitby Surf School",
+   "url": "https://whitbysurf.co.uk/"
+  },
+  {
+   "label": "YHA: watersports in Whitby",
+   "url": "https://www.yha.org.uk/experience/watersports-in-whitby"
+  },
+  {
+   "label": "North York Moors National Park: surfing",
+   "url": "https://www.northyorkmoors.org.uk/things-to-do/coast/surfing-and-paddle-boarding"
+  },
+  {
+   "label": "Scarborough Surf School: equipment hire",
+   "url": "https://scarboroughsurfschool.co.uk/equipment-hire/"
+  }
+ ],
+ "factCheck": [
+  {
+   "fact": "Located on promenade at lower cliff lift entrance; swim 50m required",
+   "url": "https://whitbysurf.co.uk/"
+  },
+  {
+   "fact": "Children 8+ and adults",
+   "url": "https://www.yha.org.uk/experience/watersports-in-whitby"
+  },
+  {
+   "fact": "Ideal for learning, shallow gradient beach, RNLI summer cover, Beach Management Centre facilities",
+   "url": "https://www.northyorkmoors.org.uk/things-to-do/coast/surfing-and-paddle-boarding"
+  },
+  {
+   "fact": "Scarborough Surf School hires 5/4mm wetsuits only, described as suitable year round, plus boots, gloves and hoods",
+   "url": "https://scarboroughsurfschool.co.uk/equipment-hire/"
+  }
+ ],
+ "gaps": "Whitby Surf School's season and hire items not listed on its site (homepage shows dated COVID notices, but it is listed by YHA and National Park). RNLI page failed to load, so exact lifeguard dates unconfirmed. Harbour pier hazard is general advice, not from a source."
+}

@@ -1,0 +1,27 @@
+{
+ "slug": "global-boarders",
+ "kind": "surf-hire",
+ "officialUrl": "https://www.globalboarders.com/",
+ "trading": true,
+ "about": "Global Boarders is a Cornish surf school and activity centre with about 20 years' history, now rebranding as Makai under the same team. Surf hire is offered at Gwithian and Praa Sands in west Cornwall, along with a delivery service, and the company also runs lessons, coasteering, kayaking and SUP.",
+ "offers": [
+  "Surf hire at Gwithian and Praa Sands",
+  "Hire delivery service",
+  "Surf lessons (beginner to advanced, private, family)",
+  "Kids' summer surf camps (ages 8–14)",
+  "Coasteering, sea kayak tours, SUP and Mega SUP"
+ ],
+ "where": "Sunset Surf Cafe, Gwithian Towans, Hayle TR27 5BT; Praa Sands Beach Car Park TR20 9TG",
+ "goodToKnow": [
+  "Rebranding to Makai (makai.co.uk), with the same team",
+  "Book online by location"
+ ],
+ "season": "April to October opening hours stated",
+ "sources": [
+  {
+   "label": "Homepage",
+   "url": "https://www.globalboarders.com/"
+  }
+ ],
+ "gaps": "Hire items not itemised. It is in west Cornwall, not Croyde, so check which listing Surfbooker intends; consider updating to Makai."
+}

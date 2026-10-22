@@ -1,0 +1,161 @@
+{
+ "slug": "boscombe-pier",
+ "schools": [
+  {
+   "name": "Surf Steps (Bournemouth Surf School)",
+   "type": "Surf school",
+   "url": "https://www.surfsteps.co.uk/",
+   "base": "Undercliff Drive, BH5 1BN, on the beach about 500m (five minutes' walk) west of Boscombe Pier",
+   "note": "Surf and SUP courses for all levels, with ISA-accredited instructors. Open all year by advance booking; it describes itself as a Surfing GB Centre of Excellence.",
+   "source": "https://www.visitbournemouth.com/attractions/surf-steps-bournemouth-surf-school"
+  }
+ ],
+ "hire": [
+  {
+   "name": "Surf Steps (Bournemouth Surf School)",
+   "type": "Board & wetsuit hire",
+   "url": "https://www.surfsteps.co.uk/",
+   "base": "Undercliff Drive, about five minutes' walk west of Boscombe Pier",
+   "note": "Visit Bournemouth lists equipment hire alongside lessons. Neither source says exactly which items, so ask when you book.",
+   "source": "https://www.visitbournemouth.com/attractions/surf-steps-bournemouth-surf-school"
+  }
+ ],
+ "shops": [
+  {
+   "name": "Down The Line Surf",
+   "type": "Surf shop",
+   "url": "https://downthelinesurf.co.uk/",
+   "town": "42 Sea Road, Boscombe (BH5 1BQ), a short walk up from the pier",
+   "note": "Surf shop with a Bournemouth store on Sea Road in Boscombe; you can check its in-store surfboard stock online before you visit. It also offers surfboard trade-ins and custom board builds.",
+   "source": "https://downthelinesurf.co.uk/pages/contact"
+  }
+ ],
+ "lessonsIntro": "Boscombe has a surf school right on the sand, a few minutes' walk west of the pier, so lessons here are easy to get to all year.",
+ "learn": {
+  "text": [
+   "Surf Steps runs its surf and SUP courses from Undercliff Drive, about 500m west of Boscombe Pier, and takes people of all ages and abilities. It's open year-round, but you need to book ahead. Lessons are pitched at different levels, so you can start as a complete beginner and come back to progress. Instructors are ISA accredited and the school says it is the only Surfing GB Centre of Excellence on the south coast.",
+   "BCP Council runs RNLI lifeguard patrols at Boscombe East from late March to late September and at Boscombe West from late May to early September, 10am to 6pm. Red and yellow flags mark the bathing areas, and surfboards, windsurfers and large solid bodyboards aren't allowed inside them, so learners need to stay outside the flagged zone or go with a school. Waves here depend on Channel swell, so days vary a lot."
+  ],
+  "cards": [
+   {
+    "label": "Level",
+    "title": "Beginners with a school",
+    "text": "Surf Steps teaches all levels from its base near the pier, so this is a sensible place to start with an instructor."
+   },
+   {
+    "label": "Best time",
+    "title": "Book ahead, any season",
+    "text": "The school runs all year by booking. Lifeguards patrol in the main season, roughly spring to September."
+   },
+   {
+    "label": "Watch out for",
+    "title": "Flagged bathing zones",
+    "text": "Surfboards aren't allowed between the red and yellow flags. Check with the lifeguards where you can surf."
+   }
+  ]
+ },
+ "hireIntro": "Hire is available at Surf Steps on the beach just west of Boscombe Pier.",
+ "kit": {
+  "text": [
+   "For a first go, a big soft-top foam board is the easiest way to catch Boscombe's small, often short-lived Channel waves. Improvers usually move to a longer hard board that paddles well in weaker surf. Remember that hard boards and large solid bodyboards aren't allowed inside the red and yellow flagged bathing areas, so pick your spot before you paddle out."
+  ],
+  "cards": [
+   {
+    "label": "Board",
+    "title": "Foamie to start",
+    "text": "A long soft-top for beginners; a mal or mid-length helps improvers make the most of small days."
+   },
+   {
+    "label": "Wetsuit",
+    "title": "Season-dependent",
+    "text": "We couldn't confirm a sea-temperature source for this stretch of coast. As a general rule on the English Channel, most people wear a 4/3mm in late spring and autumn and a 5/4mm with boots in winter; check with the school or shop before you go."
+   },
+   {
+    "label": "Other craft",
+    "title": "SUP with Surf Steps",
+    "text": "Surf Steps teaches SUP as well as surfing. Large solid bodyboards and craft aren't allowed in the flagged bathing zone."
+   }
+  ]
+ },
+ "shopsIntro": "Boscombe has its own surf shop on Sea Road, a few minutes from the pier.",
+ "shopsText": [
+  "Down The Line Surf has its Bournemouth store at 42 Sea Road in Boscombe, a short walk up from the pier and the beach. It stocks surfboards, which you can check online before you go, and offers trade-ins and custom boards. For hire and lessons, Surf Steps is down on Undercliff Drive, about five minutes west of the pier."
+ ],
+ "faqs": {
+  "lessons": [
+   {
+    "q": "Where do surf lessons start at Boscombe?",
+    "a": "Surf Steps is based on Undercliff Drive (BH5 1BN), on the beach about 500m west of Boscombe Pier."
+   },
+   {
+    "q": "Can I learn to surf at Boscombe in winter?",
+    "a": "Yes. Surf Steps says it's open all year, but you need to book in advance."
+   },
+   {
+    "q": "Is there a minimum age?",
+    "a": "Surf Steps doesn't publish one. It says it welcomes people from 8 to 88, so ask when you book for younger children."
+   }
+  ],
+  "hire": [
+   {
+    "q": "Can I hire a surfboard at Boscombe?",
+    "a": "Yes. Surf Steps offers equipment hire from its base near the pier. Book ahead and ask what's available."
+   },
+   {
+    "q": "Can I surf in the lifeguarded area?",
+    "a": "No. BCP Council doesn't allow surfboards or large solid bodyboards between the red and yellow flags."
+   }
+  ],
+  "shops": [
+   {
+    "q": "Is there a surf shop near Boscombe Pier?",
+    "a": "Yes. Down The Line Surf is at 42 Sea Road, Boscombe, a short walk from the pier."
+   }
+  ]
+ },
+ "sources": [
+  {
+   "label": "Surf Steps",
+   "url": "https://www.surfsteps.co.uk/"
+  },
+  {
+   "label": "Visit Bournemouth: Surf Steps",
+   "url": "https://www.visitbournemouth.com/attractions/surf-steps-bournemouth-surf-school"
+  },
+  {
+   "label": "Down The Line Surf: contact",
+   "url": "https://downthelinesurf.co.uk/pages/contact"
+  },
+  {
+   "label": "BCP Council: lifeguards and beach safety",
+   "url": "https://bcpcouncil.gov.uk/beaches-and-seafront/what-you-need-to-know-before-visiting-one-of-our-beaches/lifeguards-and-beach-safety"
+  },
+  {
+   "label": "BCP Council: Boscombe Beach",
+   "url": "https://www.bcpcouncil.gov.uk/beaches-and-seafront/visit-a-beach/boscombe-beach"
+  }
+ ],
+ "factCheck": [
+  {
+   "fact": "Surf Steps is 500m from Boscombe Pier",
+   "url": "https://www.surfsteps.co.uk/"
+  },
+  {
+   "fact": "Undercliff Drive BH5 1BN, open all year by booking, hire available",
+   "url": "https://www.visitbournemouth.com/attractions/surf-steps-bournemouth-surf-school"
+  },
+  {
+   "fact": "Down The Line Bournemouth store at 42 Sea Road BH5 1BQ",
+   "url": "https://downthelinesurf.co.uk/pages/contact"
+  },
+  {
+   "fact": "Boscombe East lifeguards 28 Mar-27 Sep, West 23 May-6 Sep, 10am-6pm; no surfboards in flagged zones",
+   "url": "https://bcpcouncil.gov.uk/beaches-and-seafront/what-you-need-to-know-before-visiting-one-of-our-beaches/lifeguards-and-beach-safety"
+  },
+  {
+   "fact": "Surfing equipment hire listed as a Boscombe facility",
+   "url": "https://www.bcpcouncil.gov.uk/beaches-and-seafront/visit-a-beach/boscombe-beach"
+  }
+ ],
+ "gaps": "Couldn't confirm exactly which items Surf Steps hires, any kids' age minimum, or a local sea-temperature source. Down The Line's Google Maps pin says 26 Sea Road. No Boscombe-specific hazard info (e.g. the old reef) from an official source."
+}

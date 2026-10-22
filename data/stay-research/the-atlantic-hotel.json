@@ -1,0 +1,22 @@
+{
+ "name": "The Atlantic Hotel",
+ "officialUrl": "https://www.atlantichotelnewquay.co.uk/",
+ "trading": true,
+ "stayType": "Hotel with spa",
+ "accommodation": "A range of sea and harbour-view rooms, balcony suites, the Cliffside Apartment and The Lookout self-catering apartment (sleeps 8)",
+ "suitableFor": "Couples, families and groups",
+ "parking": null,
+ "dogs": null,
+ "beachAccess": "In the heart of Newquay overlooking the harbour and beaches",
+ "boardStorage": null,
+ "confirmedFeatures": "Restaurant, cocktail bar, spa with indoor pool, hot tub, sauna and steam room",
+ "overview": "A hotel in the heart of Newquay looking over the harbour and the town beaches, Towan among them. Rooms range from classic doubles to balcony suites, and there is a self-catering apartment that sleeps eight. Spa access is included, with an indoor pool, hot tub, sauna and steam room.",
+ "surfTripFit": "It is close to Towan and the town beaches, and the spa is a good place to recover after a surf.",
+ "sources": [
+  {
+   "label": "Official website",
+   "url": "https://www.atlantichotelnewquay.co.uk/"
+  }
+ ],
+ "slug": "the-atlantic-hotel"
+}

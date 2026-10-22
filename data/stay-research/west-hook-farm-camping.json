@@ -1,0 +1,22 @@
+{
+ "name": "West Hook Farm Camping",
+ "officialUrl": "https://www.westhookfarm-camping.co.uk",
+ "trading": true,
+ "stayType": "Farm campsite",
+ "accommodation": "Tent and campervan camping across three fields, no hook-ups",
+ "suitableFor": "Campers and campervan travellers",
+ "parking": null,
+ "dogs": "Welcome, kept with you",
+ "beachAccess": "About 1 mile to Marloes Sands; 500m to Martin's Haven",
+ "boardStorage": null,
+ "confirmedFeatures": "Grass pitches across three fields",
+ "overview": "West Hook Farm is a simple campsite near Martin's Haven, about a mile from Marloes Sands. It reopens for 2027 on 25 March, with bookings from January.",
+ "surfTripFit": "Wild, simple camping a mile from Marloes Sands.",
+ "sources": [
+  {
+   "label": "West Hook Farm Camping",
+   "url": "https://www.westhookfarm-camping.co.uk"
+  }
+ ],
+ "slug": "west-hook-farm-camping"
+}

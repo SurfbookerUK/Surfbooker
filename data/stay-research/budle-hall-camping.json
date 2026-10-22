@@ -1,0 +1,26 @@
+{
+ "name": "Budle Hall Camping",
+ "officialUrl": "https://www.budlehall.com/camping",
+ "trading": true,
+ "stayType": "Small sea-view field campsite",
+ "accommodation": "Two large tent pitches for up to 6 people each, plus a Secret Garden pitch for one group",
+ "suitableFor": "Small groups and families who want a quiet, simple camp",
+ "parking": "Car parking separate from pitches",
+ "dogs": "One or two dogs under control welcome on Pitches 1 and 2",
+ "beachAccess": "A short walk to the beach",
+ "boardStorage": "Bike storage",
+ "confirmedFeatures": "Private hot shower and toilet per pitch, outdoor cold shower for sand, cold-water sinks, firepit allowed, wheelbarrows",
+ "overview": "An exclusive camping field at Budle Hall just outside Bamburgh, with sea views and only a handful of pitches. The two main pitches each have a private hot shower and toilet, and there is an outdoor cold shower for rinsing off sand. Small campervans fit through the gate, and the beach is a short walk away.",
+ "surfTripFit": "An outdoor shower for sandy kit and a short walk to the beach suit surfers who like to camp.",
+ "sources": [
+  {
+   "label": "Official website",
+   "url": "https://www.budlehall.com/camping"
+  },
+  {
+   "label": "Visit Northumberland listing",
+   "url": "https://www.visitnorthumberland.com/explore/things-to-do/stay/camping-sites/camping-at-budle-hall"
+  }
+ ],
+ "slug": "budle-hall-camping"
+}

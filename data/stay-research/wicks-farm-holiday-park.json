@@ -1,0 +1,26 @@
+{
+ "name": "Wicks Farm Holiday Park",
+ "officialUrl": "https://www.wicksfarm.co.uk/",
+ "trading": true,
+ "stayType": "Campsite with pods",
+ "accommodation": "40 electric pitches and camping pods sleeping up to 4",
+ "suitableFor": "Families and campers",
+ "parking": "One car per pitch; visitor car park",
+ "dogs": "Dogs welcome on leads on pitches; limited dog-friendly pods",
+ "beachAccess": "About 2 miles to West Wittering beach; under 3 miles to East Wittering and Bracklesham",
+ "boardStorage": null,
+ "confirmedFeatures": "Amenities block, laundrette, camp kitchen, pods with fridge and heater",
+ "overview": "A campsite on Redlands Lane, West Wittering, around two miles from West Wittering beach and under three from East Wittering and Bracklesham. It has 40 electric pitches and camping pods, plus a camp kitchen and laundrette.",
+ "surfTripFit": "Sits between all three Witterings beaches, so you can drive to whichever is working.",
+ "sources": [
+  {
+   "label": "Official site",
+   "url": "https://www.wicksfarm.co.uk/"
+  },
+  {
+   "label": "FAQs",
+   "url": "https://www.wicksfarm.co.uk/faqs"
+  }
+ ],
+ "slug": "wicks-farm-holiday-park"
+}

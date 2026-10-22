@@ -1,0 +1,114 @@
+{
+ "overview": [
+  "Southbourne is the eastern end of Bournemouth's long beach, below the cliff-top suburb and its high street. You reach it straight from the shops through Fisherman's Walk, or down the cliff paths and zig-zags. It's a Blue Flag beach with wide areas of sand and shingle, and because it's well away from the piers and the town centre it is noticeably quieter on busy summer days.",
+  "Facilities are low-key but enough for a full day: a kiosk for drinks and ice cream, Bistro on the Beach, a pub nearby and accessible toilets at Gordon's Steps and by the bistro. Disposable barbecues are allowed in the evenings, but open fires and camping aren't. Warren Edge and Solent Beach car parks are the closest places to leave a car, and morebus services run into Southbourne if you'd rather not drive.",
+  "Being closer to Hengistbury Head, Southbourne tends to catch a little more swell than the town-centre beaches when the Channel delivers. It's still a sheltered, small-wave spot, so treat it as one of several Bournemouth peaks to check rather than a destination in its own right, and walk on east to the headland for big views over Christchurch Harbour and the Isle of Wight."
+ ],
+ "suits": [
+  "Quieter beach days away from the piers",
+  "Surfers checking several Poole Bay peaks",
+  "Walkers heading to Hengistbury Head"
+ ],
+ "notFor": [
+  "Anyone wanting reliable surf",
+  "Big resort facilities right on the sand"
+ ],
+ "surf": {
+  "text": [
+   "A sandy and shingly beach break between groynes that needs a south-westerly swell; northerly winds are offshore. On most summer days it's small or flat.",
+   "Groynes become more of a hazard as the tide rises, so keep well clear of them. Lifeguards cover Southbourne and Fisherman's Walk in the summer holidays — use their flagged zones.",
+   "Southbourne is a groyne-assisted beach break that works once in a while. A south-westerly swell with a northerly wind does best and it works at all tides. It is a popular wave that can get crowded, and a helmet is not a bad idea around the groynes."
+  ],
+  "cards": [
+   {
+    "label": "Level",
+    "title": "Improvers on small days",
+    "text": "Gentle when it works, but inconsistent."
+   },
+   {
+    "label": "Hazards",
+    "title": "Groynes",
+    "text": "Watch for groynes, especially at higher tides."
+   },
+   {
+    "label": "Season",
+    "title": "Autumn and winter",
+    "text": "Channel swell is most likely from autumn to early spring; summer is usually small and much busier."
+   }
+  ]
+ },
+ "practical": [
+  {
+   "label": "Parking",
+   "title": "Two car parks",
+   "text": "Warren Edge and Solent Beach car parks are the nearest."
+  },
+  {
+   "label": "Toilets",
+   "title": "Including accessible",
+   "text": "Accessible toilets at Gordon's Steps, about 100m west of Gordon's zig-zag, and near Bistro on the Beach."
+  },
+  {
+   "label": "Lifeguards",
+   "title": "RNLI",
+   "text": "Southbourne and Fisherman's Walk were patrolled 23 May–6 September 2026, 10am–6pm."
+  },
+  {
+   "label": "Dogs",
+   "title": "Check the zone",
+   "text": "BCP's year-round dog-friendly stretch runs east of Fisherman's Walk to Southbourne, but the beach page lists a summer ban — check the council's dog map and signs before you go. Leads are needed on the prom and zig-zags."
+  },
+  {
+   "label": "Getting here",
+   "title": "Bus and bike",
+   "text": "Buses serve Southbourne. Cycling on the prom is allowed under 10mph, with seasonal restrictions in July and August."
+  }
+ ],
+ "faqs": [
+  {
+   "q": "Where do you park for Southbourne beach?",
+   "a": "Warren Edge or Solent Beach car parks."
+  },
+  {
+   "q": "Is Southbourne lifeguarded?",
+   "a": "Yes, Southbourne and Fisherman's Walk were patrolled from 23 May to 6 September in 2026, 10am–6pm."
+  },
+  {
+   "q": "Is Southbourne quieter than Bournemouth Pier?",
+   "a": "Yes, it's well east of the piers and town centre, so it's usually less crowded."
+  }
+ ],
+ "sources": [
+  {
+   "label": "BCP Council — Southbourne beach",
+   "url": "https://www.bcpcouncil.gov.uk/beaches-and-seafront/visit-a-beach/southbourne-beach"
+  },
+  {
+   "label": "RNLI — 2026 lifeguard season",
+   "url": "https://rnli.org/news-and-media/2026/may/20/rnli-lifeguards-set-for-main-season-at-bournemouth-christchurch-and-poole"
+  },
+  {
+   "label": "BCP Council — dogs on the beach",
+   "url": "https://www.bcpcouncil.gov.uk/beaches-and-seafront/what-you-need-to-know-before-visiting-one-of-our-beaches/where-and-when-you-can-bring-your-dog-to-the-beach"
+  }
+ ],
+ "factCheck": [
+  {
+   "fact": "Blue Flag; sand and shingle; Fisherman's Walk access; kiosk, pub, Bistro on the Beach; toilets locations; Warren Edge and Solent Beach car parks; cycling under 10mph",
+   "url": "https://www.bcpcouncil.gov.uk/beaches-and-seafront/visit-a-beach/southbourne-beach"
+  },
+  {
+   "fact": "Southbourne & Fisherman's Walk 23 May–6 Sep 2026",
+   "url": "https://rnli.org/news-and-media/2026/may/20/rnli-lifeguards-set-for-main-season-at-bournemouth-christchurch-and-poole"
+  },
+  {
+   "fact": "East of Fisherman's Walk to Southbourne dog-friendly year-round (conflicts with beach page's summer ban)",
+   "url": "https://www.bcpcouncil.gov.uk/beaches-and-seafront/what-you-need-to-know-before-visiting-one-of-our-beaches/where-and-when-you-can-bring-your-dog-to-the-beach"
+  },
+  {
+   "fact": "Southbourne: groynes, SW swell, N offshore, all tides",
+   "url": "https://www.surf-forecast.com/breaks/Southbourne"
+  }
+ ],
+ "checked": "October 2026"
+}

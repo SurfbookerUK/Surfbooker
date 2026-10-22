@@ -1,0 +1,127 @@
+{
+ "overview": [
+  "Marloes Sands is a long beach of more than a mile on the Marloes peninsula, near the south-western tip of Wales, owned by the National Trust and backed by high cliffs. Layered sandstone and shale fins run out across the sand. The tidal island of Gateholm sits at the western end, with Skokholm out on the horizon.",
+  "You reach it on foot from the National Trust car park, about half a mile away, which helps it feel remote even in summer. There are toilets at the car park, but nothing on the beach itself. Timing matters too: the beach is covered at high tide, so plan your visit around low water, when the rocks and pools are fully exposed.",
+  "The peninsula is a big draw for wildlife. Boats to Skomer and Skokholm, with their puffins and Manx shearwaters, leave from nearby Martin's Haven. Grey seals pup around the Deer Park in late summer. Gateholm has remains of prehistoric settlement and was dug by Time Team."
+ ],
+ "suits": [
+  "Walkers on the Marloes peninsula circuit",
+  "Photographers and geology fans",
+  "Experienced surfers happy with a remote, unpatrolled beach",
+  "Wildlife watchers"
+ ],
+ "notFor": [
+  "Anyone who needs facilities close to the sand",
+  "Visitors arriving at high tide, when the beach is covered"
+ ],
+ "surf": {
+  "text": [
+   "Marloes is fully exposed to the open ocean and picks up south-westerly swell, so it can have good waves. But it is rocky, remote and unpatrolled, and help is a long walk away.",
+   "The rock fins and the tide shape everything here. At low tide the sand opens up into a long stretch broken by outcrops; at high tide the sea reaches the cliffs. Surf only if you are experienced and with others, and check tide times first.",
+   "Marloes is a quiet, exposed beach break that rarely gets crowded. It likes a west-south-westerly swell and a north-easterly offshore, and it's best around low tide. The beach curves from south-west to south facing, so north winds are cross-offshore. Submerged rock and bedrock poking through the sand are the main hazards, so look at the beach at low tide before you paddle out. Winter is best and summer is mostly flat. Access is down narrow winding lanes to a cliff-top car park with a short walk down; facilities are minimal."
+  ],
+  "cards": [
+   {
+    "label": "Level",
+    "title": "Experienced only",
+    "text": "Remote, rocky and unpatrolled — not for learners."
+   },
+   {
+    "label": "Conditions",
+    "title": "South-west swell, low to mid tide",
+    "text": "The beach is covered at high tide, so plan around low water."
+   },
+   {
+    "label": "Hazards",
+    "title": "Rocks, tide and remoteness",
+    "text": "Rock fins cross the beach and the tide comes up to the cliffs. Further west, Jack Sound has tidal rips."
+   }
+  ]
+ },
+ "practical": [
+  {
+   "label": "Parking",
+   "title": "Marloes Sands car park",
+   "text": "A National Trust car park about half a mile from the beach."
+  },
+  {
+   "label": "Facilities",
+   "title": "Toilets at the car park",
+   "text": "Toilets at the Marloes Sands and Martin's Haven car parks. Nothing on the beach; more in Marloes village."
+  },
+  {
+   "label": "Lifeguards",
+   "title": "None",
+   "text": "There is no lifeguard service."
+  },
+  {
+   "label": "Dogs",
+   "title": "Allowed, no bins",
+   "text": "Dogs are allowed, but there are no dog bins, so take waste home. Keep dogs on leads near livestock and on the coast path."
+  },
+  {
+   "label": "Gateholm",
+   "title": "Tidal island",
+   "text": "Reachable on foot only at low tide, and the climb is for the sure-footed only."
+  }
+ ],
+ "faqs": [
+  {
+   "q": "Is Marloes Sands covered at high tide?",
+   "a": "Yes. The National Trust notes that the beach is covered at high tide, so check tide times."
+  },
+  {
+   "q": "How far is the walk from the car park?",
+   "a": "About half a mile from the National Trust car park."
+  },
+  {
+   "q": "Can dogs go on Marloes Sands?",
+   "a": "Yes, but there are no dog bins. Keep dogs on leads around livestock and on the coast path."
+  },
+  {
+   "q": "Can you walk to Gateholm?",
+   "a": "Only at low tide, and the climb onto the island is tricky."
+  }
+ ],
+ "sources": [
+  {
+   "label": "National Trust — visiting Marloes Sands and Mere",
+   "url": "https://www.nationaltrust.org.uk/visit/wales/marloes-sands-and-mere/visiting-marloes-sands-and-mere"
+  },
+  {
+   "label": "National Trust — Marloes Peninsula walk",
+   "url": "https://www.nationaltrust.org.uk/visit/wales/marloes-sands-and-mere/marloes-peninsula-coastal-walk"
+  },
+  {
+   "label": "The Beach Guide — Marloes Sands",
+   "url": "https://www.thebeachguide.co.uk/south-wales/pembrokeshire/marloes-sands.htm"
+  }
+ ],
+ "factCheck": [
+  {
+   "fact": "Over a mile long, backed by high cliffs, layered sandstone and shale",
+   "url": "https://www.thebeachguide.co.uk/south-wales/pembrokeshire/marloes-sands.htm"
+  },
+  {
+   "fact": "NT car park about half a mile; dogs allowed, no bins; no lifeguards",
+   "url": "https://www.thebeachguide.co.uk/south-wales/pembrokeshire/marloes-sands.htm"
+  },
+  {
+   "fact": "Beach covered at high tide; toilets at Marloes Sands and Martin's Haven car parks",
+   "url": "https://www.nationaltrust.org.uk/visit/wales/marloes-sands-and-mere/marloes-peninsula-coastal-walk"
+  },
+  {
+   "fact": "Gateholm tidal, prehistoric settlement, Time Team; tricky climb",
+   "url": "https://www.nationaltrust.org.uk/visit/wales/marloes-sands-and-mere/visiting-marloes-sands-and-mere"
+  },
+  {
+   "fact": "Boats to Skomer/Skokholm from Martin's Haven; seals best from Deer Park late summer",
+   "url": "https://www.nationaltrust.org.uk/visit/wales/marloes-sands-and-mere/visiting-marloes-sands-and-mere"
+  },
+  {
+   "fact": "Marloes: WSW swell, NE offshore, low tide, submerged rocks, rarely crowded",
+   "url": "https://www.surf-forecast.com/breaks/Marloes-Sands"
+  }
+ ],
+ "checked": "October 2026"
+}

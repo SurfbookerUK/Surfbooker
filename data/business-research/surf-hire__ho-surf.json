@@ -1,0 +1,35 @@
+{
+ "slug": "ho-surf",
+ "kind": "surf-hire",
+ "officialUrl": "https://surfsupacademy.co.uk/",
+ "trading": "unclear",
+ "about": "Ho! Surf is a surf shop and hire centre on the village green in Westward Ho!, overlooking the sea. It hires surfboards, wetsuits, bodyboards and SUPs, and SurfSUP Academy runs surf and paddleboard lessons from the shop.",
+ "offers": [
+  "Surfboard hire",
+  "Wetsuit hire",
+  "Bodyboard hire",
+  "SUP hire",
+  "Surf lessons (SurfSUP Academy)",
+  "SUP tours on the Torridge (SurfSUP Academy)",
+  "Coasteering (SurfSUP Academy)"
+ ],
+ "where": "Ho! Surf shop, village green, Westward Ho!",
+ "goodToKnow": [
+  "Safety briefing before hire",
+  "Hire only when conditions are safe, and not at high water",
+  "Changing facilities, and you can leave clothes at the shop",
+  "SurfSUP lessons are booked online"
+ ],
+ "season": null,
+ "sources": [
+  {
+   "label": "Visit Westward Ho! – Ho! Surf",
+   "url": "https://visitwestwardho.co.uk/hosurf"
+  },
+  {
+   "label": "SurfSUP Academy homepage",
+   "url": "https://surfsupacademy.co.uk/"
+  }
+ ],
+ "gaps": "No Ho! Surf website was found, and the SurfSUP site does not mention hire. Hire details come from the Visit Westward Ho! listing, and the season was not stated."
+}

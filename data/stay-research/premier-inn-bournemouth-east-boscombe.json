@@ -1,0 +1,22 @@
+{
+ "name": "Premier Inn Bournemouth East (Boscombe)",
+ "officialUrl": "https://www.premierinn.com/",
+ "trading": true,
+ "stayType": "Budget chain hotel",
+ "accommodation": "Standard hotel rooms",
+ "suitableFor": "Budget travellers and families",
+ "parking": "Free parking (per Visit Bournemouth)",
+ "dogs": null,
+ "beachAccess": "About a ten-minute walk from the seafront",
+ "boardStorage": null,
+ "confirmedFeatures": "Free parking, lift, Wi-Fi, Table Table restaurant",
+ "overview": "A chain hotel at 47 Christchurch Road, between Bournemouth and Boscombe town centres, about ten minutes on foot from the seafront. It has a lift, Wi-Fi and a Table Table restaurant next door.",
+ "surfTripFit": "A practical, budget-friendly base with free parking, around ten minutes' walk from the Boscombe seafront.",
+ "sources": [
+  {
+   "label": "Visit Bournemouth listing",
+   "url": "https://www.visitbournemouth.com/accommodation/premier-inn-bournemouth-east-boscombe"
+  }
+ ],
+ "slug": "premier-inn-bournemouth-east-boscombe"
+}

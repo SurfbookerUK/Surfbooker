@@ -1,0 +1,152 @@
+{
+ "slug": "south-shields",
+ "schools": [
+  {
+   "name": "South Shields Surf School",
+   "type": "Surf school",
+   "url": "https://www.southshieldsurf.co.uk/",
+   "base": "Sandhaven Beach Promenade, South Shields (NE33 3NG)",
+   "note": "A community interest company running open lessons (8+), kids' lessons (8 to 16), Mini Surfers (6 to 8), four-week courses, a kids' holiday club and private lessons, all with equipment included. It also runs adaptive surfing, SEND sessions and a para-surf club.",
+   "source": "https://www.southshieldsurf.co.uk/surf-lessons"
+  }
+ ],
+ "hire": [
+  {
+   "name": "South Shields Surf School hire",
+   "type": "Board & wetsuit hire",
+   "url": "https://www.southshieldsurf.co.uk/hire",
+   "base": "Surf school on Sandhaven Beach (paddleboards from Little Haven Beach)",
+   "note": "Surfboards, bodyboards, wetsuits, boots, gloves and hoods from Sandhaven, with SUP and tandem paddleboard hire from the blue containers at Harbour Drive South car park by Little Haven. You must be 18 or over to hire; book online, by email or by phone.",
+   "source": "https://www.southshieldsurf.co.uk/hire"
+  }
+ ],
+ "shops": [],
+ "lessonsIntro": "South Shields Surf School teaches on Sandhaven Beach, with sessions for kids from 6, adults, families and surfers with disabilities.",
+ "learn": {
+  "text": [
+   "Lessons in South Shields are run from Sandhaven Beach Promenade by South Shields Surf School, a community interest company. The open lesson suits complete beginners as well as people already catching whitewater who want to tidy up their pop-up or try their first turns. Kids' lessons let parents join in the water, Mini Surfers introduces 6 to 8 year olds to surf and water skills, and all equipment is included.",
+   "Lessons and hire run from mid-March to the end of October, and the school asks you to message outside that window. Open lessons are on weekend afternoons and every day in the school holidays, with Friday evening adult sessions from May to September. The school also offers adaptive surfing with specialist boards and a para-surf club. Holiday club activities change with the conditions, so check the surf report linked from the school's site before you go."
+  ],
+  "cards": [
+   {
+    "label": "Level",
+    "title": "First-timers to improvers",
+    "text": "Open lessons take ages 8 and up, Mini Surfers starts at 6, and adaptive and SEND sessions are available."
+   },
+   {
+    "label": "Best time",
+    "title": "Mid-March to October",
+    "text": "Lessons and hire run through this season, daily in school holidays and mostly at weekends in term time."
+   },
+   {
+    "label": "Watch out for",
+    "title": "Check conditions first",
+    "text": "This is the North Sea and sessions depend on conditions. Book with the school and follow your coach's instructions."
+   }
+  ]
+ },
+ "hireIntro": "South Shields Surf School hires surf kit on Sandhaven and paddleboards a short way north at Little Haven, beside the harbour.",
+ "kit": {
+  "text": [
+   "Beginners should hire a surfboard with a wetsuit from the surf school, and the team will match the board to you. Wetsuit hire can be topped up with boots, gloves and a hood, which help in the North Sea. Bodyboards are also available, and paddleboarders head to Little Haven, where the school runs SUP lessons and hire away from the surf beach."
+  ],
+  "cards": [
+   {
+    "label": "Board",
+    "title": "Hire with a wetsuit",
+    "text": "Surfboards can be hired with or without a wetsuit from the school on Sandhaven."
+   },
+   {
+    "label": "Wetsuit",
+    "title": "Boots, gloves and hood available",
+    "text": "Add boots, gloves and a hood to your wetsuit hire. Ask the school which suit thickness to take for the time of year."
+   },
+   {
+    "label": "Other craft",
+    "title": "SUP at Little Haven",
+    "text": "Paddleboard lessons and hire, including tandem boards, run only from Little Haven Beach by Harbour Drive South car park."
+   }
+  ]
+ },
+ "shopsIntro": "We couldn't confirm a dedicated surf shop in South Shields yet.",
+ "shopsText": [
+  "The nearest confirmed surf shop is Tynemouth Surf Co on Grand Parade in Tynemouth, across the mouth of the Tyne. In South Shields, the surf school hires wetsuits, boots, gloves, hoods, boards and bodyboards, and it sells its own merchandise online, but it doesn't list a retail shop for boards or wetsuits."
+ ],
+ "faqs": {
+  "lessons": [
+   {
+    "q": "How old do kids need to be for surf lessons in South Shields?",
+    "a": "Mini Surfers is for ages 6 to 8, kids' lessons are for 8 to 16, and the open lesson takes anyone aged 8 or over."
+   },
+   {
+    "q": "When can I have a lesson at Sandhaven?",
+    "a": "Lessons and hire run from mid-March to the end of October. Open lessons are on weekend afternoons and daily in the school holidays, and adults have Friday evening sessions from May to September."
+   },
+   {
+    "q": "Is there adaptive surfing in South Shields?",
+    "a": "Yes. South Shields Surf School runs adaptive surfing and SEND sessions, uses specialist boards and has a para-surf club."
+   }
+  ],
+  "hire": [
+   {
+    "q": "Can under-18s hire kit in South Shields?",
+    "a": "No. South Shields Surf School says hirers must be at least 18."
+   },
+   {
+    "q": "Where do I hire a paddleboard in South Shields?",
+    "a": "From Little Haven Beach, at the blue containers by Harbour Drive South car park. Surf hire is on Sandhaven."
+   }
+  ],
+  "shops": [
+   {
+    "q": "Is there a surf shop near South Shields?",
+    "a": "The closest confirmed one is Tynemouth Surf Co on Grand Parade, Tynemouth, on the north side of the Tyne."
+   }
+  ]
+ },
+ "sources": [
+  {
+   "label": "South Shields Surf School",
+   "url": "https://www.southshieldsurf.co.uk/"
+  },
+  {
+   "label": "South Shields Surf School - lessons",
+   "url": "https://www.southshieldsurf.co.uk/surf-lessons"
+  },
+  {
+   "label": "South Shields Surf School - hire",
+   "url": "https://www.southshieldsurf.co.uk/hire"
+  },
+  {
+   "label": "South Shields Surf School - adaptive surfing",
+   "url": "https://www.southshieldsurf.co.uk/adaptive-surfing"
+  },
+  {
+   "label": "Tynemouth Surf Co",
+   "url": "https://tynemouthsurf.co.uk/"
+  }
+ ],
+ "factCheck": [
+  {
+   "fact": "Based at Sandhaven Beach Promenade, NE33 3NG; season mid-March to end of October",
+   "url": "https://www.southshieldsurf.co.uk/"
+  },
+  {
+   "fact": "Open lesson 8+, kids 8-16, Mini Surfers 6-8, courses, holiday club, private lessons; equipment included",
+   "url": "https://www.southshieldsurf.co.uk/surf-lessons"
+  },
+  {
+   "fact": "Friday evening adult lessons May to September",
+   "url": "https://www.southshieldsurf.co.uk/surf-lessons"
+  },
+  {
+   "fact": "Hire of surfboards, bodyboards, SUP, tandem SUP, wetsuits, boots, gloves, hoods; hirers 18+; SUP only from Little Haven at Harbour Drive South car park",
+   "url": "https://www.southshieldsurf.co.uk/hire"
+  },
+  {
+   "fact": "Adaptive surfing with specialist boards and a para-surf club",
+   "url": "https://www.southshieldsurf.co.uk/adaptive-surfing"
+  }
+ ],
+ "gaps": "Search and fetch limits were hit before checking RNLI and South Tyneside Council pages for Sandhaven, so the beach's lifeguard cover and hazards (groyne, river mouth, rips) aren't confirmed. No surf shop in South Shields was confirmed, and no wetsuit thickness guidance was found."
+}

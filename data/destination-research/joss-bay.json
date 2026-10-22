@@ -1,0 +1,127 @@
+{
+ "overview": [
+  "Joss Bay is a 200-metre stretch of sand just north of Broadstairs, on the Isle of Thanet's east-facing coast. It's one of seven sandy bays around the town, sitting between Stone Bay and Kingsgate Bay, with the North Foreland headland and its lighthouse rising to the south. Fields and a golf course run right up behind the beach, so it feels open and less built-up than the town bays.",
+  "Visit Kent describes it as Thanet's best surfing beach, and it holds a Blue Flag and Seaside Award for 2026. That said, surf here is occasional. It's an exposed beach break that works best with a north or north-easterly swell, often windswell rather than groundswell, and needs offshore westerly or west-south-westerly winds. When it's on, expect a crowd, as it's the spot most Kent surfers head for first.",
+  "In summer the bay is set up for families, with lifeguards, a beach shop and café, deckchair hire and a seasonal kids' play area. Rockpooling is popular at the edges. At high tide the beach still keeps plenty of sand, but the tide cuts off both ends, so take care if you walk round to the neighbouring bays. Kingsgate Bay next door is known for its sea caves."
+ ],
+ "suits": [
+  "Learners and improvers on small days",
+  "Families with young children",
+  "London day trips by train",
+  "Rockpoolers"
+ ],
+ "notFor": [
+  "Anyone wanting reliable surf",
+  "Dogs during summer daytime"
+ ],
+ "surf": {
+  "text": [
+   "Joss Bay is a sandy beach break with lefts and rights. Surf-forecast rates it as inconsistent and best around mid-tide, with a northerly swell and a west-south-westerly offshore wind. Winter is the likeliest season, but most days are too small to surf.",
+   "Surf-forecast lists rips, rocks and crowds as hazards. Chalk ledges sit at the edges of the bay, and the incoming tide cuts off both ends of the beach, so keep an eye on where the water is. In summer, stay with the lifeguarded area.",
+   "Joss Bay gets more windswell than groundswell, and works best on a north swell with a west-south-westerly offshore around mid tide. Beware of rips, rocks and crowds. It's inconsistent, and winter is the best time of year."
+  ],
+  "cards": [
+   {
+    "label": "Level",
+    "title": "Beginners to improvers",
+    "text": "Gentle when there's swell; lessons and hire are available at the bay."
+   },
+   {
+    "label": "Conditions",
+    "title": "N swell, WSW wind",
+    "text": "Best around mid-tide; usually windswell."
+   },
+   {
+    "label": "Hazards",
+    "title": "Rips, rocks, crowds",
+    "text": "Chalk at the edges, and the tide cuts off both ends of the beach."
+   }
+  ]
+ },
+ "practical": [
+  {
+   "label": "Lifeguards",
+   "title": "Seasonal",
+   "text": "Daily from 23 May to 6 September."
+  },
+  {
+   "label": "Dogs",
+   "title": "Summer daytime ban",
+   "text": "No dogs 10am–6pm, 1 May–30 September."
+  },
+  {
+   "label": "Facilities",
+   "title": "Toilets and café",
+   "text": "Seasonal toilets, disabled toilets, beach shop and café, deckchair and lounger hire, and a seasonal kids' play area."
+  },
+  {
+   "label": "Barbecues",
+   "title": "After 6pm only",
+   "text": "Take away rubbish and coals and make sure they're fully out."
+  },
+  {
+   "label": "Getting there",
+   "title": "Joss Gap Road",
+   "text": "The bay is on Joss Gap Road, Broadstairs; Broadstairs station is on the high-speed line from London St Pancras."
+  }
+ ],
+ "faqs": [
+  {
+   "q": "Is Joss Bay good for learning to surf?",
+   "a": "Yes, on suitable days. There's lesson provision at the bay and lifeguards patrol in summer."
+  },
+  {
+   "q": "Can dogs go on Joss Bay?",
+   "a": "Not between 10am and 6pm from 1 May to 30 September."
+  },
+  {
+   "q": "When does Joss Bay get waves?",
+   "a": "Not often. It needs a north or north-easterly swell with westerly winds, and winter is the best bet."
+  },
+  {
+   "q": "Can you barbecue at Joss Bay?",
+   "a": "Only after 6pm, and you must take everything away and make sure coals are out."
+  }
+ ],
+ "sources": [
+  {
+   "label": "Visit Kent — Joss Bay",
+   "url": "https://www.visitkent.co.uk/businesses/joss-bay"
+  },
+  {
+   "label": "Surf-forecast — Joss Bay",
+   "url": "https://www.surf-forecast.com/breaks/Joss-Bay"
+  },
+  {
+   "label": "Wikipedia — Broadstairs",
+   "url": "https://en.wikipedia.org/wiki/Broadstairs"
+  }
+ ],
+ "factCheck": [
+  {
+   "fact": "200m of sand; Thanet's best surfing beach; fields and golf course behind",
+   "url": "https://www.visitkent.co.uk/businesses/joss-bay"
+  },
+  {
+   "fact": "Blue Flag and Seaside Award 2026; lifeguards 23 May–6 Sep",
+   "url": "https://www.visitkent.co.uk/businesses/joss-bay"
+  },
+  {
+   "fact": "Dogs banned 10am–6pm 1 May–30 Sep; BBQ after 6pm; facilities; tide cuts off both ends",
+   "url": "https://www.visitkent.co.uk/businesses/joss-bay"
+  },
+  {
+   "fact": "Beach break, N swell, WSW offshore, mid tide, inconsistent, rips/rocks/crowds",
+   "url": "https://www.surf-forecast.com/breaks/Joss-Bay"
+  },
+  {
+   "fact": "Seven bays; North Foreland between Stone Bay and Joss Bay",
+   "url": "https://en.wikipedia.org/wiki/Broadstairs"
+  },
+  {
+   "fact": "Joss Bay: N swell, WSW offshore, mid tide, rips/rocks/crowds",
+   "url": "https://www.surf-forecast.com/breaks/Joss-Bay"
+  }
+ ],
+ "checked": "October 2026"
+}

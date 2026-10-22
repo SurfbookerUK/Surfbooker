@@ -1,0 +1,143 @@
+{
+ "slug": "compton-bay",
+ "schools": [
+  {
+   "name": "iSurf",
+   "type": "Surf school",
+   "url": "https://www.iowsurf.com/",
+   "base": "Mobile school based in Sandown; picks the island beach that suits the day",
+   "note": "Group and private surf lessons for ages 8 and up, with boards and wetsuits provided. It moves around the island for the best conditions, so check where you'll meet.",
+   "source": "https://www.iowsurf.com/"
+  },
+  {
+   "name": "Eddie's Surf Academy",
+   "type": "Surf school",
+   "url": "https://www.surflessonsiow.com/",
+   "base": "Mobile surf school on the Isle of Wight",
+   "note": "Runs private and group lessons at a beach chosen for the conditions. Equipment can be provided or you can bring your own. Ask which beach on the day.",
+   "source": "https://www.surflessonsiow.com/"
+  }
+ ],
+ "hire": [],
+ "shops": [],
+ "lessonsIntro": "Compton Bay is the Isle of Wight's best-known surf beach. iSurf and Eddie's Surf Academy are both mobile schools that choose the island beach that suits the conditions, so ask whether they'll be at Compton when you book.",
+ "learn": {
+  "text": [
+   "Wightlink describes Compton as the island's most popular surf spot, with beach breaks that suit every level. The National Trust says the beach shelves gently and finds waves even on small swells, working best from low to mid tide in a two to five foot swell. For beginners, the area known as Fields is reliable around mid tide, and Hanover Point nearby has softer A-frame waves.",
+   "Spring and summer are calmer and better for learning; autumn and winter bring bigger south-westerly swells. The National Trust warns that surf and currents can be strong in some weather, and we found no lifeguard cover here. Access is from National Trust car parks at Brook, Hanover and Compton Chine, then steps down the cliff. Between 15 May and 15 September, dogs aren't allowed west of the Compton car park."
+  ],
+  "cards": [
+   {
+    "label": "Level",
+    "title": "All levels on small days",
+    "text": "Gently shelving sand with gentle A-frames at Hanover Point. Learners should stick to small, clean days."
+   },
+   {
+    "label": "Best time",
+    "title": "Low to mid tide, spring to autumn",
+    "text": "Best in a 2-5ft south-westerly swell with offshore north-easterly winds; summer is calmest."
+   },
+   {
+    "label": "Watch out for",
+    "title": "Strong currents in some weather",
+    "text": "The National Trust warns of strong surf and currents, and there's no lifeguard cover listed."
+   }
+  ]
+ },
+ "hireIntro": "We couldn't confirm board hire at Compton Bay. Lessons with iSurf include boards and wetsuits.",
+ "kit": {
+  "text": [
+   "On small summer days a big foam board is the easiest way to learn at Compton, and iSurf supplies boards and wetsuits with lessons. Improvers often switch to a longboard or mid-length for the softer peaks at Hanover Point, while bigger autumn swells suit a shorter board. There's no hire at the beach, so bring your own kit if you're not on a lesson."
+  ],
+  "cards": [
+   {
+    "label": "Board",
+    "title": "Foamie, then mid-length",
+    "text": "Soft-tops for learning; mid-lengths and longboards for Hanover Point's mellow A-frames."
+   },
+   {
+    "label": "Wetsuit",
+    "title": "Season-dependent",
+    "text": "We couldn't confirm a sea-temperature source for this stretch of coast. As a general rule on the English Channel, most people wear a 4/3mm in late spring and autumn and a 5/4mm with boots in winter; check with the school or shop before you go."
+   },
+   {
+    "label": "Other craft",
+    "title": "Bodyboards welcome",
+    "text": "The gently shelving beach suits bodyboarding on smaller days. Keep clear of surfers at the peaks."
+   }
+  ]
+ },
+ "shopsIntro": "We couldn't confirm a surf shop near Compton Bay.",
+ "shopsText": [
+  "Compton Bay is on an undeveloped stretch of National Trust coast, with no shops at the beach. We couldn't confirm a currently trading surf shop in Freshwater or elsewhere in West Wight. iSurf sells branded clothing online but isn't a kit shop. If you need a board or wetsuit, buy it on the mainland before you cross."
+ ],
+ "faqs": {
+  "lessons": [
+   {
+    "q": "Who teaches surfing at Compton Bay?",
+    "a": "iSurf is a mobile school that chooses the island beach that suits the day. Ask whether they'll be at Compton when you book."
+   },
+   {
+    "q": "Is Compton Bay good for beginners?",
+    "a": "On small days, yes. The beach shelves gently, and Fields and Hanover Point are recommended for beginners."
+   },
+   {
+    "q": "What's the minimum age?",
+    "a": "iSurf lists surf lessons for ages 8 and up."
+   }
+  ],
+  "hire": [
+   {
+    "q": "Can I hire a surfboard at Compton?",
+    "a": "We couldn't find hire at the beach. iSurf lessons include boards and wetsuits."
+   },
+   {
+    "q": "Where do I park?",
+    "a": "The National Trust has car parks at Brook, Hanover and Compton Chine, with steps down to the beach."
+   }
+  ],
+  "shops": [
+   {
+    "q": "Is there a surf shop near Compton Bay?",
+    "a": "We couldn't confirm one in West Wight, so bring what you need."
+   }
+  ]
+ },
+ "sources": [
+  {
+   "label": "National Trust: Compton Bay and Downs",
+   "url": "https://www.nationaltrust.org.uk/visit/isle-of-wight/compton-bay-and-downs"
+  },
+  {
+   "label": "National Trust: top spots for surfing",
+   "url": "https://www.nationaltrust.org.uk/visit/outdoor-activities/top-spots-for-surfing"
+  },
+  {
+   "label": "Wightlink: surfing",
+   "url": "https://www.wightlink.co.uk/things-to-do-on-the-isle-of-wight/watersports/surfing"
+  },
+  {
+   "label": "iSurf",
+   "url": "https://www.iowsurf.com/"
+  }
+ ],
+ "factCheck": [
+  {
+   "fact": "Gently shelving, strong surf/currents in some weather, car parks Brook/Hanover/Compton Chine, dogs banned west of Compton car park 15 May-15 Sep",
+   "url": "https://www.nationaltrust.org.uk/visit/isle-of-wight/compton-bay-and-downs"
+  },
+  {
+   "fact": "Best low-mid tide, 2-5ft swell, works on small swell, Hanover Point A-frame",
+   "url": "https://www.nationaltrust.org.uk/visit/outdoor-activities/top-spots-for-surfing"
+  },
+  {
+   "fact": "Island's most popular surf spot, Fields/Hanover Point for beginners, SW swell NE wind, summer calmer",
+   "url": "https://www.wightlink.co.uk/things-to-do-on-the-isle-of-wight/watersports/surfing"
+  },
+  {
+   "fact": "iSurf mobile, Sandown-based, ages 8+, group and private",
+   "url": "https://www.iowsurf.com/"
+  }
+ ],
+ "gaps": "iSurf's site doesn't name Compton specifically (only that it's mobile), and still shows a COVID banner. Eddie's Surf Academy (surflessonsiow.com) is listed by Wightlink but names no beaches, so left out. Wight Water doesn't mention Compton. No hire, shop or lifeguard cover confirmed; isurf.co.uk is parked. No sea-temperature source."
+}

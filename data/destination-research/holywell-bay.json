@@ -1,0 +1,122 @@
+{
+ "overview": [
+  "Holywell Bay lies about three miles west-south-west of Newquay in the parish of Cubert, and the National Trust calls it the largest bay on this stretch of coast. You reach it on foot from the end of the village through a tall dune system that is around 5,000 years old and one of the largest in Britain. The path is uneven and the sand is soft, so pack with the carry in mind.",
+  "At the northern end, Holywell Cave can be reached at low tide. Inside are mineral-formed pools and St Cubert's holy well, which gives the bay its name. The National Trust warns of a significant rockfall at this end: stay well back, don't walk beneath the cliffs and don't climb on the fallen rock. The small headland of The Kelseys holds the remains of an Iron Age cliff castle.",
+  "The bay has a long film history, from the skeet-surfing scene in Top Secret! to many episodes of Poldark. Behind the dunes, Cubert Common is an ancient registered common and SSSI with a Bronze Age barrow. The village has holiday parks and seasonal food, and the 85 bus stops at the Tregurth Inn, about 300 yards from the beach. Check the tide before you set off."
+ ],
+ "suits": [
+  "Lessons and families on a full beach day",
+  "Surfers escaping Newquay's busier beaches",
+  "Walkers exploring the dunes and Cubert Common"
+ ],
+ "notFor": [
+  "Anyone who can't manage soft sand and uneven paths",
+  "Exploring the northern cliffs — there has been a rockfall"
+ ],
+ "surf": {
+  "text": [
+   "Holywell faces west and is exposed to Atlantic swell, with banks that move along the bay producing lefts and rights. Surf-forecast lists a westerly swell with south-easterly offshore winds as ideal, with some shelter from south-westerlies. It is surfable through the tide.",
+   "Surf-forecast warns of strong rips, and the stream crossing the beach shifts the sand around it. When Newquay's town beaches are crowded, Holywell is often a calmer alternative, but stay within the lifeguarded zone, especially on bigger swells.",
+   "Holywell is a reasonably exposed beach break with lefts and rights that takes west swell and a south-easterly offshore, with some shelter from the south-west. It is surfable at all tides, but take care of the strong rips. Winter is best."
+  ],
+  "cards": [
+   {
+    "label": "Best conditions",
+    "title": "West swell, SE wind",
+    "text": "South-easterlies are offshore; some shelter from south-westerlies."
+   },
+   {
+    "label": "Level",
+    "title": "Lessons and improvers",
+    "text": "A good lesson beach on moderate days."
+   },
+   {
+    "label": "Hazards",
+    "title": "Rips and rockfall",
+    "text": "Strong rips form on the banks; keep away from the rockfall at the northern end."
+   }
+  ]
+ },
+ "practical": [
+  {
+   "label": "Parking",
+   "title": "National Trust car park",
+   "text": "At the end of Holywell village (TR8 5PF). Free for members and Blue Badge holders; no overnight parking or camping."
+  },
+  {
+   "label": "Facilities",
+   "title": "Toilets and kiosk",
+   "text": "Toilets are on the approach road; the accessible toilet with baby changing is the only one open in winter. A kiosk sells beach food."
+  },
+  {
+   "label": "Lifeguards",
+   "title": "Seasonal RNLI",
+   "text": "Seasonal RNLI cover — follow the flags."
+  },
+  {
+   "label": "Dogs",
+   "title": "Welcome all year",
+   "text": "The National Trust welcomes dogs year-round under close control, especially around livestock on Cubert Common and near cliff edges."
+  },
+  {
+   "label": "Getting there",
+   "title": "Bus 85/85A",
+   "text": "Go Cornwall 85 and 85A run Newquay–Truro via Crantock, stopping at the Tregurth Inn about 300 yards from the beach. Phone signal is poor."
+  }
+ ],
+ "faqs": [
+  {
+   "q": "Are dogs allowed on Holywell beach?",
+   "a": "Yes, all year, according to the National Trust — keep them under control near livestock and cliff edges."
+  },
+  {
+   "q": "Can you visit Holywell Cave?",
+   "a": "It's on the north side of the beach and reachable at low tide, but the National Trust warns of a rockfall at that end, so stay well back from the cliffs."
+  },
+  {
+   "q": "Can I get to Holywell by bus?",
+   "a": "Yes — Go Cornwall 85 and 85A stop at the Tregurth Inn, about 300 yards from the beach."
+  },
+  {
+   "q": "How do you get onto the beach?",
+   "a": "From the National Trust car park, an uneven path leads through the dunes to soft sand."
+  }
+ ],
+ "sources": [
+  {
+   "label": "National Trust — Holywell",
+   "url": "https://www.nationaltrust.org.uk/visit/cornwall/holywell"
+  },
+  {
+   "label": "Wikipedia — Holywell, Cornwall",
+   "url": "https://en.wikipedia.org/wiki/Holywell_Bay"
+  },
+  {
+   "label": "Surf-forecast — Holywell Bay",
+   "url": "https://www.surf-forecast.com/breaks/Holywell-Bay"
+  },
+  {
+   "label": "RNLI — lifeguarded beaches",
+   "url": "https://rnli.org/find-my-nearest/lifeguarded-beaches"
+  }
+ ],
+ "factCheck": [
+  {
+   "fact": "Rockfall warning; largest bay; The Kelseys; Cubert Common SSSI; parking TR8 5PF; toilets; dogs; bus 85/85A",
+   "url": "https://www.nationaltrust.org.uk/visit/cornwall/holywell"
+  },
+  {
+   "fact": "3 miles WSW of Newquay; 5,000-year-old dunes; Holywell Cave and St Cubert's well; Top Secret!, Poldark",
+   "url": "https://en.wikipedia.org/wiki/Holywell_Bay"
+  },
+  {
+   "fact": "West swell, SE wind; strong rips; surfable all tides",
+   "url": "https://www.surf-forecast.com/breaks/Holywell-Bay"
+  },
+  {
+   "fact": "Holywell: W swell, SE offshore, all tides, strong rips",
+   "url": "https://www.surf-forecast.com/breaks/Holywell-Bay"
+  }
+ ],
+ "checked": "October 2026"
+}

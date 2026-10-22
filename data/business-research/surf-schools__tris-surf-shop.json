@@ -1,0 +1,29 @@
+{
+ "slug": "tris-surf-shop",
+ "kind": "surf-schools",
+ "officialUrl": "https://www.trissurfshop.com/",
+ "trading": true,
+ "about": "Tris Surf Shop and School is on Porthtowan Beach on Cornwall's north coast and describes itself as the home of Porthtowan surfing for over 40 years. Alongside the shop, it runs a surf school and surf hire. A tourism listing describes surf lessons, beginner surf camps and board and wetsuit hire.",
+ "offers": [
+  "Surf lessons",
+  "Beginner surf camps",
+  "Surfboard hire",
+  "Wetsuit hire"
+ ],
+ "where": "Eastcliff, Porthtowan Beach (TR4 8AW)",
+ "goodToKnow": [
+  "Contact by phone or email"
+ ],
+ "season": "May to September (from a third-party listing)",
+ "sources": [
+  {
+   "label": "Tris Surf Shop homepage",
+   "url": "https://www.trissurfshop.com/"
+  },
+  {
+   "label": "Mimoji listing",
+   "url": "https://mimoji.com/gb-en/listing/tris-surf-shop/444582"
+  }
+ ],
+ "gaps": "Homepage has little detail on lessons or hire; the lesson types and season come from a third-party listing; no ages, inclusions, booking terms or accreditations"
+}

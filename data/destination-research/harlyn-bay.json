@@ -1,0 +1,126 @@
+{
+ "overview": [
+  "Harlyn Bay is a sandy, north-facing beach about three miles west of Padstow, between Trevone to the east and Cataclews Point to the west. It is backed by low dunes and cliffs, with a shop, café and pub right by the sand. The village behind is small and quiet for much of the year, and the area sits within the Cornwall Area of Outstanding Natural Beauty.",
+  "Because it faces north rather than west, Harlyn is tucked away from much of the prevailing wind and swell. That makes it the calmer choice when nearby Constantine and Treyarnon are big and messy, and it is why it is so often used for lessons. The Beach Guide describes it as a family favourite and one of Cornwall's best places to learn to surf.",
+  "There is deep history under the sand. In 1865 a labourer found two gold lunulae above Onjohn Cove, probably early Bronze Age, which are now at the Royal Cornwall Museum in Truro. In 2014 storms exposed an ancient burial cist. The coast path links Harlyn west to Mother Ivey's Bay and Trevose Head, and east to Trevone. Harlyn Estates still looks after the farm and many of the archaeological sites."
+ ],
+ "suits": [
+  "Beginners and families",
+  "Big-swell days when the west-facing beaches are too much",
+  "Rock-pooling and an easy beach day"
+ ],
+ "notFor": [
+  "Reliable surf in summer — it is often flat",
+  "Experienced surfers chasing power"
+ ],
+ "surf": {
+  "text": [
+   "Harlyn needs a decent swell to wake up. Surf-forecast lists it as a sheltered beach break that works only occasionally, best on a west-north-west swell with a southerly to south-westerly wind blowing offshore. It is often flat in summer and more consistent from autumn to spring.",
+   "Its value is as a shelter spot: when the open beaches round Trevose Head are maxed out, Harlyn can be the place still producing smaller, cleaner waves. That brings crowds, and submerged rocks are a hazard, so stay within the lifeguarded area.",
+   "Harlyn is a sheltered beach break with right-handers, best on a west-north-westerly groundswell with a southerly to south-westerly offshore. It is often crowded, and submerged rocks are a hazard. It's popular from autumn through spring and often flat in summer, with winter giving the cleanest days."
+  ],
+  "cards": [
+   {
+    "label": "Level",
+    "title": "Beginners and improvers",
+    "text": "Gentle on most days; a good lesson beach when there is swell."
+   },
+   {
+    "label": "Best conditions",
+    "title": "Big swell, southerly wind",
+    "text": "Southerly and south-westerly winds are offshore on this north-facing bay."
+   },
+   {
+    "label": "Hazards",
+    "title": "Submerged rocks",
+    "text": "Keep clear of the rocky edges and stay between the flags."
+   }
+  ]
+ },
+ "practical": [
+  {
+   "label": "Parking",
+   "title": "Large pay car park",
+   "text": "The Beach Guide lists a large pay car park by the beach."
+  },
+  {
+   "label": "Facilities",
+   "title": "Shop, café and pub",
+   "text": "A shop, café and pub are by the beach, with board hire on the sand and accessible toilets within half a kilometre."
+  },
+  {
+   "label": "Lifeguards",
+   "title": "Seasonal patrol",
+   "text": "Swim between the red and yellow flags when lifeguards are on duty."
+  },
+  {
+   "label": "Dogs",
+   "title": "Allowed all year",
+   "text": "The Beach Guide lists dogs as allowed all year, and Harlyn isn't in Cornwall Council's restrictions table. Check signs at the entrance."
+  },
+  {
+   "label": "Water",
+   "title": "Excellent rating",
+   "text": "The Beach Guide lists excellent water quality and a Marine Conservation Society recommendation."
+  }
+ ],
+ "faqs": [
+  {
+   "q": "Is Harlyn Bay good for beginners?",
+   "a": "Yes. It is sheltered and often used for lessons, though it needs a reasonable swell to have waves at all."
+  },
+  {
+   "q": "Why is Harlyn surfable when other beaches are too big?",
+   "a": "It faces north, so it is protected from much of the prevailing south-westerly wind and swell."
+  },
+  {
+   "q": "Are dogs allowed on Harlyn Bay?",
+   "a": "The Beach Guide lists dogs as allowed all year, and it isn't in Cornwall Council's restrictions table. Check the signs on arrival."
+  }
+ ],
+ "sources": [
+  {
+   "label": "Wikipedia — Harlyn",
+   "url": "https://en.wikipedia.org/wiki/Harlyn"
+  },
+  {
+   "label": "Surf-forecast — Harlyn",
+   "url": "https://www.surf-forecast.com/breaks/Harlyn"
+  },
+  {
+   "label": "The Beach Guide — Harlyn Bay",
+   "url": "https://www.thebeachguide.co.uk/south-west-england/cornwall/harlyn-bay.htm"
+  },
+  {
+   "label": "Cornwall Council — dogs on beaches",
+   "url": "https://www.cornwall.gov.uk/environment/animal-welfare-and-enforcement/dogs-on-beaches/"
+  },
+  {
+   "label": "RNLI — lifeguarded beaches",
+   "url": "https://rnli.org/find-my-nearest/lifeguarded-beaches"
+  }
+ ],
+ "factCheck": [
+  {
+   "fact": "3 miles from Padstow; AONB; 1865 gold lunulae, Royal Cornwall Museum; 2014 cist; Cataclews Point, Onjohn Cove, Trevone",
+   "url": "https://en.wikipedia.org/wiki/Harlyn"
+  },
+  {
+   "fact": "Sheltered beach break; WNW swell; S/SW offshore; submerged rocks; often flat in summer",
+   "url": "https://www.surf-forecast.com/breaks/Harlyn"
+  },
+  {
+   "fact": "Large pay car park; dogs allowed all year; shop, café, pub; board hire",
+   "url": "https://www.thebeachguide.co.uk/south-west-england/cornwall/harlyn-bay.htm"
+  },
+  {
+   "fact": "Not in the council restrictions table",
+   "url": "https://www.cornwall.gov.uk/environment/animal-welfare-and-enforcement/dogs-on-beaches/"
+  },
+  {
+   "fact": "Harlyn: sheltered, rights, WNW swell, submerged rocks, crowded",
+   "url": "https://www.surf-forecast.com/breaks/Harlyn"
+  }
+ ],
+ "checked": "October 2026"
+}

@@ -1,0 +1,114 @@
+{
+ "slug": "sandsend",
+ "schools": [],
+ "hire": [],
+ "shops": [],
+ "lessonsIntro": "Sandsend is a beginner-friendly beach break, but we have not confirmed a school that teaches here. Whitby Surf School is a couple of miles south on West Cliff Beach.",
+ "learn": {
+  "text": [
+   "The North York Moors National Park lists Sandsend as a good beach break for beginners. It is the northern end of the long stretch of sand that runs up from Whitby. We have not found a surf school that confirms it teaches at Sandsend, so for lessons the nearest option is Whitby Surf School on West Cliff Beach.",
+   "We could not confirm lifeguard cover or specific hazards at Sandsend. If you surf here without an instructor, go with friends, check the forecast and tide, and keep clear of the rocks and the becks that run out onto the beach."
+  ],
+  "cards": [
+   {
+    "label": "Level",
+    "title": "Beginner beach break",
+    "text": "The National Park rates Sandsend as good for beginners."
+   },
+   {
+    "label": "Best time",
+    "title": "Summer, with a friend",
+    "text": "Lifeguard cover is not confirmed here, so never surf alone."
+   },
+   {
+    "label": "Watch out for",
+    "title": "Rocks and streams",
+    "text": "Keep clear of rocky areas and stream outflows."
+   }
+  ]
+ },
+ "hireIntro": "We have not confirmed surf hire at Sandsend; Whitby Surf School hires kit on West Cliff Beach nearby.",
+ "kit": {
+  "text": [
+   "The beaches on this stretch are mostly sandy beach breaks, so a long foam board is the right start, moving on to a hard mini-mal or longboard as you improve. Scarborough Surf School hires only 5/4mm wetsuits because the North Sea stays cold, and adds boots, gloves and hoods for the cooler months."
+  ],
+  "cards": [
+   {
+    "label": "Board",
+    "title": "Long soft-top",
+    "text": "A large foam board suits this sandy beginner break."
+   },
+   {
+    "label": "Wetsuit",
+    "title": "5/4mm most of the year",
+    "text": "North Sea water stays cool. Scarborough Surf School hires only 5/4mm suits and treats them as year-round wear, adding boots, gloves and a hood in the colder months."
+   },
+   {
+    "label": "Other craft",
+    "title": "Bodyboard",
+    "text": "A sandy beach break like this suits bodyboarding in small waves."
+   }
+  ]
+ },
+ "shopsIntro": "We could not confirm a surf shop at Sandsend.",
+ "shopsText": [
+  "There is no surf shop at Sandsend that we could confirm. Whitby Surf School is a short drive south for hire, and the nearest surf shops are in Saltburn and Scarborough."
+ ],
+ "faqs": {
+  "lessons": [
+   {
+    "q": "Is Sandsend good for beginners?",
+    "a": "The National Park lists it as a good beach break for beginners."
+   },
+   {
+    "q": "Are there lessons at Sandsend?",
+    "a": "We have not confirmed any; Whitby Surf School teaches on nearby West Cliff Beach."
+   },
+   {
+    "q": "Is Sandsend lifeguarded?",
+    "a": "We could not confirm lifeguard cover, so check locally before you surf."
+   }
+  ],
+  "hire": [
+   {
+    "q": "Can I hire a board at Sandsend?",
+    "a": "Not that we could confirm. Whitby Surf School hires kit nearby."
+   },
+   {
+    "q": "What wetsuit do I need?",
+    "a": "A 5/4mm suit, as used year round by Scarborough Surf School, suits these cold waters."
+   }
+  ],
+  "shops": [
+   {
+    "q": "Where is the nearest surf shop?",
+    "a": "Saltburn or Scarborough."
+   }
+  ]
+ },
+ "sources": [
+  {
+   "label": "North York Moors National Park: surfing",
+   "url": "https://www.northyorkmoors.org.uk/things-to-do/coast/surfing-and-paddle-boarding"
+  },
+  {
+   "label": "Whitby Surf School",
+   "url": "https://whitbysurf.co.uk/"
+  },
+  {
+   "label": "Scarborough Surf School: equipment hire",
+   "url": "https://scarboroughsurfschool.co.uk/equipment-hire/"
+  }
+ ],
+ "factCheck": [
+  {
+   "fact": "Sandsend a good beach break for beginners",
+   "url": "https://www.northyorkmoors.org.uk/things-to-do/coast/surfing-and-paddle-boarding"
+  },
+  {
+   "fact": "Scarborough Surf School hires 5/4mm wetsuits only, described as suitable year round, plus boots, gloves and hoods",
+   "url": "https://scarboroughsurfschool.co.uk/equipment-hire/"
+  }
+ ],
+ "gaps": "No Sandsend surf business, lifeguard dates or official hazard info confirmed. Rocks/becks advice is general."
+}

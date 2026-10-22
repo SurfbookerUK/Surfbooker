@@ -1,0 +1,133 @@
+{
+ "overview": [
+  "Castlerock's beach runs for about a kilometre between the sea cliffs of Downhill to the west and the Barmouth, where the River Bann meets the sea, to the east. The village sits right behind it, and Castlerock Golf Club fills the dunes east of the entrance. The beach regularly holds a Blue Flag. On clear days you can look west to the Inishowen peninsula in Donegal.",
+  "Four boardwalks lead from the free promenade parking through the dunes, which are protected as a Special Area of Conservation. These dunes run upstream along the estuary to Grangemore, where the National Trust has a bird sanctuary, and include some of the oldest dated dunes in Ireland. Harbour porpoises and seals are often seen feeding in the estuary at the Barmouth, and there is on-site information about the dunes.",
+  "It is a quieter base than Portrush, with its own railway station on the Coleraine–Derry~Londonderry line and a regular Blue Flag. Cars can drive onto the eastern part of the beach all year, but wind-blown sand can make it hard going. The concrete pier at the Barmouth is open to walkers and anglers, but the council advises extreme care and says to avoid it in high winds or breaking swell."
+ ],
+ "suits": [
+  "Quiet surf trips by train",
+  "Self-catering stays",
+  "Surfers who bring their own kit",
+  "Wildlife watching at the estuary"
+ ],
+ "notFor": [
+  "Walk-up lessons or hire",
+  "Anyone tempted to surf near the Barmouth"
+ ],
+ "surf": {
+  "text": [
+   "Castlerock is an exposed beach and jetty break with lefts and rights. Forecast sites rate it best on a north-westerly groundswell with offshore winds from the south, and best around mid tide. It is fairly consistent outside summer and is rarely crowded even when it's working.",
+   "The Bann estuary is the big thing to understand: keep well away from the river mouth and the pier. Use the flagged zones when lifeguards are on duty in July and August.",
+   "The break sits by the Barmouth jetties at the mouth of the River Bann, with a long right on the Castlerock side and a left towards Portstewart. It wants a north-westerly to northerly swell from about 2ft up to 8ft, with a southerly wind offshore, and it works at all stages of the tide: mid-tide is the pick on medium swells, when the Barmouth banks light up.",
+   "Past about 8ft it turns rippy and starts to close out, and the water quality near the river mouth can be questionable. Winter is the best season, with February the cleanest month in forecast data, and it's rarely crowded. On small days the waves can be gentle and long, which suits longboards, but keep well clear of the jetties and the river mouth."
+  ],
+  "cards": [
+   {
+    "label": "Level",
+    "title": "Improvers and up",
+    "text": "No school on site; learners should book elsewhere."
+   },
+   {
+    "label": "Conditions",
+    "title": "NW swell, south wind, mid tide",
+    "text": "2 to 8ft; the Barmouth banks work best on medium swells."
+   },
+   {
+    "label": "Season",
+    "title": "Winter",
+    "text": "February is cleanest in forecast data; summer is often flat."
+   },
+   {
+    "label": "Hazards",
+    "title": "Bann estuary",
+    "text": "River and tidal currents near the Barmouth jetties; it closes out and gets rippy past 8ft."
+   }
+  ]
+ },
+ "practical": [
+  {
+   "label": "Parking",
+   "title": "Free promenade",
+   "text": "Free parking on the promenade; cars may also drive onto the eastern beach year-round."
+  },
+  {
+   "label": "Facilities",
+   "title": "Promenade",
+   "text": "Accessible toilets and accessible parking on the promenade."
+  },
+  {
+   "label": "Lifeguards",
+   "title": "Seasonal RNLI patrol",
+   "text": "The council lists a seasonal RNLI patrol, 10am–6pm daily in July and August. Check the RNLI site for this year's dates."
+  },
+  {
+   "label": "Dogs & horses",
+   "title": "Summer restrictions",
+   "text": "The council allows dogs but applies restrictions from 1 June to 15 September — check the signs at the entrance for where they apply. From 1 May to 30 September horse riding is only allowed before 11am and after 7pm."
+  },
+  {
+   "label": "Rail",
+   "title": "Castlerock station",
+   "text": "On the line between Coleraine and Derry~Londonderry."
+  }
+ ],
+ "faqs": [
+  {
+   "q": "Is it safe near the river mouth?",
+   "a": "No — keep well clear. The council advises extreme care on the Barmouth pier and not to walk it in high winds or breaking swell."
+  },
+  {
+   "q": "Is parking free?",
+   "a": "Yes, on the promenade."
+  },
+  {
+   "q": "What conditions suit Castlerock?",
+   "a": "Forecast sites rate a north-westerly swell, southerly wind and mid tide."
+  },
+  {
+   "q": "Can I see wildlife?",
+   "a": "Harbour porpoises and seals feed in the estuary at the Barmouth."
+  }
+ ],
+ "sources": [
+  {
+   "label": "Causeway Coast and Glens Borough Council — Castlerock Beach",
+   "url": "https://causewaycoastandglens.gov.uk/see-do/beaches/castlerock-beach/"
+  },
+  {
+   "label": "Surf-forecast — Castlerock",
+   "url": "https://www.surf-forecast.com/breaks/Castlerock"
+  }
+ ],
+ "factCheck": [
+  {
+   "fact": "About 1km between Downhill cliffs and the Barmouth",
+   "url": "https://causewaycoastandglens.gov.uk/see-do/beaches/castlerock-beach/"
+  },
+  {
+   "fact": "Four boardwalks; free promenade parking; cars on eastern beach",
+   "url": "https://causewaycoastandglens.gov.uk/see-do/beaches/castlerock-beach/"
+  },
+  {
+   "fact": "Grangemore bird sanctuary; oldest dated dunes; porpoises and seals",
+   "url": "https://causewaycoastandglens.gov.uk/see-do/beaches/castlerock-beach/"
+  },
+  {
+   "fact": "Barmouth pier warning",
+   "url": "https://causewaycoastandglens.gov.uk/see-do/beaches/castlerock-beach/"
+  },
+  {
+   "fact": "NW swell, south offshore, mid tide, not crowded",
+   "url": "https://www.surf-forecast.com/breaks/Castlerock"
+  },
+  {
+   "fact": "Barmouth jetties, long right Castlerock side/left Portstewart side, NW-N swell 2-8ft, S offshore, mid-tide on medium swells, rippy and closing out past 8ft, water quality at river mouth",
+   "url": "https://www.surfnerd.com/surf-forecast/castlerock"
+  },
+  {
+   "fact": "Winter/February best, rarely crowded, mid tide",
+   "url": "https://www.surf-forecast.com/breaks/Castlerock"
+  }
+ ],
+ "checked": "October 2026"
+}

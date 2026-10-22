@@ -1,0 +1,22 @@
+{
+ "slug": "the-queens-hotel",
+ "officialUrl": "https://www.queenshotelstives.com/",
+ "trading": true,
+ "stayType": "Pub with rooms",
+ "accommodation": "Ten bedrooms",
+ "suitableFor": "Couples and families (children's menu, highchairs, baby changing)",
+ "parking": null,
+ "dogs": null,
+ "beachAccess": null,
+ "boardStorage": null,
+ "confirmedFeatures": "Restaurant serving lunch and dinner, children's menu, highchairs, baby changing",
+ "overview": "The Queens is a centrally located pub with ten bedrooms upstairs in St Ives, close to the seafront. It serves lunch and dinner daily and caters for children.",
+ "surfTripFit": "A central, food-led base within reach of the town beaches; no parking, beach distance or surf facilities are stated.",
+ "sources": [
+  {
+   "label": "The Queens (official)",
+   "url": "https://www.queenshotelstives.com/"
+  }
+ ],
+ "gaps": "Parking, dogs, Wi-Fi, beach distance and board storage not stated."
+}

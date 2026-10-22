@@ -1,0 +1,273 @@
+{
+ "slug": "polzeath",
+ "schools": [
+  {
+   "name": "Surf's Up Surf School",
+   "type": "Surf school",
+   "url": "https://www.surfsupsurfschool.com/",
+   "base": "Beach HQ on Polzeath Beach (PL27 6TB)",
+   "note": "Group and private lessons for beginners, improvers and intermediates, plus residential courses, school and club trips and a local kids' after-school club. Instructors are Surfing England/ISA qualified and trained beach lifeguards.",
+   "source": "https://www.surfsupsurfschool.com/"
+  },
+  {
+   "name": "Wavehunters",
+   "type": "Surf school",
+   "url": "https://www.wavehunters.co.uk/",
+   "base": "Beachside base at Polzeath (Polzeath Beach Holiday Park, PL27 6TB)",
+   "note": "Two-hour lessons through the day for all levels, with group, one-to-one, improver and family options, and a groms surf club for young surfers.",
+   "source": "https://directory.cornishsecrets.co.uk/listing/wavehunters/"
+  },
+  {
+   "name": "George's Surf School",
+   "type": "Surf school",
+   "url": "https://www.georgessurfschool.com/",
+   "base": "Polzeath (Polzeath Beach Holiday Park, PL27 6TB)",
+   "note": "Private one-to-one and small private group lessons, children's lessons, family sessions, video coaching and longboard courses. Also runs the Polzeath Ladies Surf Club for locals.",
+   "source": "https://www.georgessurfschool.com/"
+  },
+  {
+   "name": "Saltwater Safari",
+   "type": "Surf school",
+   "url": "https://www.saltwatersafari.co.uk/surfing/",
+   "base": "Polzeath Beach, meeting spot confirmed according to the tide",
+   "note": "Beginner lessons for up to eight per instructor, private sessions and one-to-one progression coaching. Coaches bring all the kit to the beach.",
+   "source": "https://www.saltwatersafari.co.uk/surfing/"
+  }
+ ],
+ "hire": [
+  {
+   "name": "TJ's Surf Shop",
+   "type": "Board & wetsuit hire",
+   "url": "https://tjssurfshop.co.uk/",
+   "base": "Polzeath",
+   "note": "Hires hard boards, soft boards, bodyboards, wetsuits from small children's to XXXL, boots and gloves, plus wooden bellyboards. Hire is by the hour, day or week.",
+   "source": "https://tjssurfshop.co.uk/surf-hire/"
+  },
+  {
+   "name": "Wavehunters",
+   "type": "Board & wetsuit hire",
+   "url": "https://www.wavehunters.co.uk/surf-hire-cornwall/",
+   "base": "On the beach at Polzeath",
+   "note": "Grab-and-go hire of hard and foam surfboards, bodyboards, wetsuits for kids and adults, and boots, gloves and hats, with no need to book.",
+   "source": "https://www.wavehunters.co.uk/surf-hire-cornwall/"
+  },
+  {
+   "name": "North Coast Wetsuits",
+   "type": "Wetsuit hire",
+   "url": "https://www.northcoastwetsuits.co.uk/",
+   "base": "The Rubber Shack, St Endellion, about 10 minutes' drive from Polzeath",
+   "note": "Adult and kids' wetsuit hire by the day or longer, including hooded suits and boots, gloves and hoods for colder months.",
+   "source": "https://www.northcoastwetsuits.co.uk/ncw-wetsuit-hire-polzeath-cornwall/"
+  }
+ ],
+ "shops": [
+  {
+   "name": "TJ's Surf Shop",
+   "type": "Surf shop",
+   "url": "https://tjssurfshop.co.uk/",
+   "town": "Polzeath",
+   "note": "Surf shop, kitchen and bar in Polzeath offering advice and surf hire. Call ahead as hours change with the weather and season.",
+   "source": "https://tjssurfshop.co.uk/"
+  },
+  {
+   "name": "North Coast Wetsuits",
+   "type": "Wetsuit & surf shop",
+   "url": "https://www.northcoastwetsuits.co.uk/",
+   "town": "St Endellion, near Port Isaac (about 10 minutes from Polzeath)",
+   "note": "Sells its own wetsuits for adults, women and kids, second-hand suits, accessories and surfboards, bodyboards and SUPs, and offers wetsuit repairs and alterations.",
+   "source": "https://www.northcoastwetsuits.co.uk/ncw-wetsuit-hire-polzeath-cornwall/"
+  }
+ ],
+ "lessonsIntro": "Polzeath is one of north Cornwall's busiest learner beaches, with several schools teaching right on the sand. Gentle, consistent waves and a wide bay make it a good place to stand up for the first time.",
+ "learn": {
+  "text": [
+   "Polzeath is a wide, sandy bay at the mouth of the Camel estuary. Visit Cornwall describes its long, consistent, slow-breaking waves as ideal for novice and intermediate surfers and bodyboarders, and Surf's Up calls it a learner-friendly spot with plenty of room in the water. Wavehunters notes the beach is very flat, so lessons can run at any state of the tide.",
+   "The RNLI patrols Polzeath daily from early May to late September, plus Easter and October half term, from 10am to 6pm. The beach narrows at high tide and gets crowded, so the water can feel busy. Visit Cornwall warns of occasional rips and large waves. Stay between the red and yellow flags if you're bodyboarding, and keep to your instructor's area during a lesson."
+  ],
+  "cards": [
+   {
+    "label": "Level",
+    "title": "Ideal for beginners",
+    "text": "Slow-breaking, consistent waves suit novices and intermediates. Advanced surfers often look elsewhere on bigger days."
+   },
+   {
+    "label": "Best time",
+    "title": "Any tide, May to September",
+    "text": "The flat beach works across the tide, and lifeguards patrol daily from early May to late September. Expect it to be busiest around high tide."
+   },
+   {
+    "label": "Watch out for",
+    "title": "Crowds and occasional rips",
+    "text": "The beach narrows and fills up at high tide, and occasional rips and big waves are possible. Stay inside the flagged zones."
+   }
+  ]
+ },
+ "hireIntro": "You can hire boards and wetsuits right on the beach at Polzeath or from the village surf shop, with a wetsuit specialist a short drive away at St Endellion.",
+ "kit": {
+  "text": [
+   "Polzeath's mellow waves suit a big foam board, and every school includes boards and wetsuits in lessons. Improvers can hire a hard board from TJ's or Wavehunters once they're riding green waves. Sea temperatures on this stretch range from about 9 to 10°C in early March to 15 to 18°C in August, so pack or hire boots, gloves and a hood outside the summer months."
+  ],
+  "cards": [
+   {
+    "label": "Board",
+    "title": "Foamie, then a hard board",
+    "text": "Start on a soft-top in the white water. Step up to a hard board from TJ's or Wavehunters as you progress."
+   },
+   {
+    "label": "Wetsuit",
+    "title": "3/2 or 4/3 in summer, 5/4 in winter",
+    "text": "Surf-forecast suggests a 4/3 or 3/2 with boots in August and a 5/4 or 5/3 with gloves and boots in early March."
+   },
+   {
+    "label": "Other craft",
+    "title": "Bodyboards and bellyboards",
+    "text": "Polzeath is popular for bodyboarding, and TJ's hires bodyboards and traditional wooden bellyboards. Bodyboard between the red and yellow flags."
+   }
+  ]
+ },
+ "shopsIntro": "Polzeath has a surf shop in the village a short walk from the sand, and a wetsuit specialist about ten minutes away.",
+ "shopsText": [
+  "TJ's Surf Shop sits in Polzeath village near the beach, combining a surf shop with a kitchen and bar and offering hire. For wetsuits, North Coast Wetsuits at St Endellion, about ten minutes' drive towards Port Isaac, sells new and second-hand suits, accessories and boards, and carries out wetsuit repairs and alterations."
+ ],
+ "faqs": {
+  "lessons": [
+   {
+    "q": "Is Polzeath good for learning to surf?",
+    "a": "Yes. Its long, slow-breaking waves and wide, flat beach make it one of the most beginner-friendly spots in north Cornwall, and several schools teach here daily in season."
+   },
+   {
+    "q": "Which tide is best for lessons at Polzeath?",
+    "a": "Wavehunters says the beach is flat enough to teach across the whole tidal range. High tide narrows the beach and makes it busier."
+   },
+   {
+    "q": "Are there women-only surf lessons at Polzeath?",
+    "a": "George's Surf School runs the Polzeath Ladies Surf Club, a five-week subsidised course for women who live locally."
+   }
+  ],
+  "hire": [
+   {
+    "q": "Do I need to book surf hire at Polzeath?",
+    "a": "Wavehunters' beach hire is grab and go with no booking needed. TJ's hours vary with weather and season, so call ahead."
+   },
+   {
+    "q": "Can I hire a wetsuit for my child?",
+    "a": "Yes. TJ's stocks sizes from small children's to adult XXXL, and North Coast Wetsuits hires kids' suits too."
+   }
+  ],
+  "shops": [
+   {
+    "q": "Where's the nearest surf shop to Polzeath?",
+    "a": "TJ's Surf Shop is in Polzeath itself. North Coast Wetsuits is about ten minutes away at St Endellion for wetsuits, accessories and boards."
+   },
+   {
+    "q": "Can I get a wetsuit repaired near Polzeath?",
+    "a": "North Coast Wetsuits offers wetsuit repairs and alterations at its St Endellion shop."
+   }
+  ]
+ },
+ "sources": [
+  {
+   "label": "Surf's Up Surf School",
+   "url": "https://www.surfsupsurfschool.com/"
+  },
+  {
+   "label": "Surf's Up contact",
+   "url": "https://www.surfsupsurfschool.com/contact"
+  },
+  {
+   "label": "Wavehunters",
+   "url": "https://www.wavehunters.co.uk/"
+  },
+  {
+   "label": "Wavehunters surf hire",
+   "url": "https://www.wavehunters.co.uk/surf-hire-cornwall/"
+  },
+  {
+   "label": "Cornish Secrets: Wavehunters",
+   "url": "https://directory.cornishsecrets.co.uk/listing/wavehunters/"
+  },
+  {
+   "label": "George's Surf School",
+   "url": "https://www.georgessurfschool.com/"
+  },
+  {
+   "label": "George's Surf School PLSC FAQs",
+   "url": "https://www.georgessurfschool.com/plsc-faqs"
+  },
+  {
+   "label": "Cornish Secrets: George's Surf School",
+   "url": "https://directory.cornishsecrets.co.uk/listing/georges-surf-school/"
+  },
+  {
+   "label": "Saltwater Safari",
+   "url": "https://www.saltwatersafari.co.uk/surfing/"
+  },
+  {
+   "label": "TJ's Surf Shop",
+   "url": "https://tjssurfshop.co.uk/"
+  },
+  {
+   "label": "TJ's surf hire",
+   "url": "https://tjssurfshop.co.uk/surf-hire/"
+  },
+  {
+   "label": "North Coast Wetsuits hire",
+   "url": "https://www.northcoastwetsuits.co.uk/ncw-wetsuit-hire-polzeath-cornwall/"
+  },
+  {
+   "label": "Visit Cornwall: Polzeath Beach",
+   "url": "https://visitcornwall.com/things-to-do/beaches/polzeath-beach"
+  },
+  {
+   "label": "RNLI: Polzeath Beach",
+   "url": "https://rnli.org/find-my-nearest/lifeguarded-beaches/polzeath-beach"
+  },
+  {
+   "label": "Surf-forecast: Harlyn sea temperature",
+   "url": "https://www.surf-forecast.com/breaks/Harlyn/seatemp"
+  }
+ ],
+ "factCheck": [
+  {
+   "fact": "Surf's Up beach HQ Polzeath PL27 6TB; group/private; instructors ISA qualified and lifeguards",
+   "url": "https://www.surfsupsurfschool.com/"
+  },
+  {
+   "fact": "Polzeath very flat so lessons run across tidal range; grab-and-go hire",
+   "url": "https://www.wavehunters.co.uk/surf-hire-cornwall/"
+  },
+  {
+   "fact": "George's Surf School based at Polzeath, Constantine and Harlyn; formats",
+   "url": "https://www.georgessurfschool.com/"
+  },
+  {
+   "fact": "Polzeath Ladies Surf Club five-week subsidised course for locals",
+   "url": "https://www.georgessurfschool.com/plsc-faqs"
+  },
+  {
+   "fact": "Saltwater Safari teaches at Polzeath; meeting spot set by tide",
+   "url": "https://www.saltwatersafari.co.uk/surfing/"
+  },
+  {
+   "fact": "TJ's hire range and sizes",
+   "url": "https://tjssurfshop.co.uk/surf-hire/"
+  },
+  {
+   "fact": "North Coast Wetsuits 10 minutes from Polzeath, hire, sales, repairs",
+   "url": "https://www.northcoastwetsuits.co.uk/ncw-wetsuit-hire-polzeath-cornwall/"
+  },
+  {
+   "fact": "Slow-breaking waves for novices; occasional rips and large waves",
+   "url": "https://visitcornwall.com/things-to-do/beaches/polzeath-beach"
+  },
+  {
+   "fact": "Lifeguards 2 May to 27 Sept 2026, 10am-6pm; crowded at high tide",
+   "url": "https://rnli.org/find-my-nearest/lifeguarded-beaches/polzeath-beach"
+  },
+  {
+   "fact": "Sea temperatures 9-10C March, 15-18C August; wetsuit suggestions",
+   "url": "https://www.surf-forecast.com/breaks/Harlyn/seatemp"
+  }
+ ],
+ "gaps": "Busty Moo's Surf Hire is mentioned on the beach by George's Surf School but has no website I could confirm, so it's left out. Ann's Cottage may have a Polzeath store but its store locator didn't load. TJ's site doesn't list products for sale or a street address. No school states a minimum age or adaptive surfing at Polzeath. Sea temperature uses the nearby Harlyn data."
+}

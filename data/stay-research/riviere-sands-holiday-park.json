@@ -1,0 +1,22 @@
+{
+ "slug": "riviere-sands-holiday-park",
+ "officialUrl": "https://www.haven.com/parks/cornwall/riviere-sands",
+ "trading": true,
+ "stayType": "Haven holiday park with caravans",
+ "accommodation": "Static caravans in three grades, 2-3 bedrooms, sleeping 4-8",
+ "suitableFor": "Families and groups",
+ "parking": "Blue Badge spaces at the main complex; general parking not described",
+ "dogs": null,
+ "beachAccess": "Direct access to the Towans beach, including a wheelchair-accessible route near the main restaurant",
+ "boardStorage": null,
+ "confirmedFeatures": "Indoor heated pool, outdoor pool and slides (closed for rest of 2026), pub, showbar, entertainment, arcade, supermarket, fish and chips, takeaway pizza, play area, kart hire, crazy golf, archery, kids' clubs",
+ "overview": "A large Haven holiday park on the dunes above St Ives Bay near Hayle, with caravans in several grades and a busy entertainment complex. It backs directly onto the Towans, giving direct access to the beach.",
+ "surfTripFit": "Direct beach access onto the Towans is a real plus for surfers, though the park is built around family entertainment.",
+ "sources": [
+  {
+   "label": "Haven - Riviere Sands",
+   "url": "https://www.haven.com/parks/cornwall/riviere-sands"
+  }
+ ],
+ "gaps": "Dog policy, general parking and board storage not stated; trading inferred from active booking."
+}

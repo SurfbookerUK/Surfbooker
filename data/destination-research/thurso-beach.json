@@ -1,0 +1,115 @@
+{
+ "overview": [
+  "Thurso Beach is the town's own sandy bay, where the River Thurso meets Thurso Bay and looks out across the Pentland Firth to Hoy in Orkney. A promenade runs along the back, and the harbour sits in the river mouth at one end. The river is 34 miles long and well known for its salmon fishing, and the town grew as an important Norse trading port.",
+  "On a clean north-west swell it throws up lefts and rights over sand — fun, fairly consistent and far less consequential than the shallow reef at Thurso East across the river. Thurso has a long Norse history and the UK's most northerly railway station, so it's easy to reach without a car. From the station it's only a short walk down to the sand.",
+  "It's rarely the reason surfers travel this far north, but it's a handy option when the reef is too big or busy, and the promenade suits families and non-surfers who would rather watch from dry land. For first lessons, Dunnet Bay is the better choice. Check the forecast and the wind before you set out, and bring plenty of rubber."
+ ],
+ "suits": [
+  "Improvers and intermediates on clean days",
+  "Surfers waiting for Thurso East to turn on",
+  "Families on the promenade",
+  "Travellers arriving by train"
+ ],
+ "notFor": [
+  "Complete beginners without instruction",
+  "Anyone wanting warm water or lifeguards"
+ ],
+ "surf": {
+  "text": [
+   "Thurso Beach is a fairly exposed beach break with lefts and rights. North-west swell is ideal, and it picks up both groundswell and local windswell. Southerly winds blow offshore, so the best days are a north-west swell with a southerly breeze.",
+   "Winter is the most reliable season, with February the standout month. The water is cold year-round — a winter suit, hood, gloves and boots are recommended — and forecasters note that water quality can be suspect, so avoid going in after heavy rain.",
+   "Thurso Beach is the beach break next to the famous point, about a kilometre away. It is more forgiving than Thurso East, but the same swell and wind directions apply, and the cold water means a thick wetsuit with hood, gloves and boots."
+  ],
+  "cards": [
+   {
+    "label": "Level",
+    "title": "Improvers to intermediates",
+    "text": "Competent beginners on small clean days only."
+   },
+   {
+    "label": "Conditions",
+    "title": "NW swell, S wind",
+    "text": "A north-west swell with a southerly offshore is the classic combination."
+   },
+   {
+    "label": "Hazards",
+    "title": "Cold and water quality",
+    "text": "Cold water, currents, rocky edges and variable water quality."
+   }
+  ]
+ },
+ "practical": [
+  {
+   "label": "Parking",
+   "title": "Near the beach",
+   "text": "Parking around Pentland Crescent and the seafront. Check signs and don't block residential or harbour access."
+  },
+  {
+   "label": "Toilets",
+   "title": "Thurso Harbour",
+   "text": "Public toilets at the harbour, closed in winter."
+  },
+  {
+   "label": "Lifeguards",
+   "title": "None",
+   "text": "Call 999 or 112 and ask for the Coastguard in an emergency."
+  },
+  {
+   "label": "Getting there",
+   "title": "Train and ferry",
+   "text": "Thurso station, on the Far North Line from Inverness, is Britain's most northerly. Scrabster's Orkney ferry terminal is about 1.5 miles west."
+  },
+  {
+   "label": "Access",
+   "title": "Promenade",
+   "text": "The promenade suits pushchairs, with a ramp at the western end; reaching the sand isn't fully wheelchair-friendly."
+  }
+ ],
+ "faqs": [
+  {
+   "q": "Is Thurso Beach good for beginners?",
+   "a": "Only on small, clean days and ideally with instruction. Dunnet Bay is a better place for first lessons."
+  },
+  {
+   "q": "What conditions work best?",
+   "a": "A north-west swell with a southerly offshore wind, most often in winter."
+  },
+  {
+   "q": "Can I get there by train?",
+   "a": "Yes. Thurso station on the Far North Line is a short walk from the beach."
+  },
+  {
+   "q": "How does it compare to Thurso East?",
+   "a": "The beach is a forgiving sandbar break; Thurso East is a powerful, shallow reef for experts only."
+  }
+ ],
+ "sources": [
+  {
+   "label": "Surf-forecast: Thurso Beach",
+   "url": "https://www.surf-forecast.com/breaks/Thurso-Beach"
+  },
+  {
+   "label": "Wikipedia: Thurso",
+   "url": "https://en.wikipedia.org/wiki/Thurso"
+  }
+ ],
+ "factCheck": [
+  {
+   "fact": "Exposed beach break, lefts and rights, ideal NW swell, S offshore, winter best/February, cold water, suspect water quality",
+   "url": "https://www.surf-forecast.com/breaks/Thurso-Beach"
+  },
+  {
+   "fact": "Beach looks over Pentland Firth to Hoy; River Thurso estuary is a small harbour",
+   "url": "https://en.wikipedia.org/wiki/Thurso"
+  },
+  {
+   "fact": "Thurso station most northerly in UK, Far North Line; Scrabster ~1.5 miles west with ferry to Stromness",
+   "url": "https://en.wikipedia.org/wiki/Thurso"
+  },
+  {
+   "fact": "River Thurso 34 miles, salmon fishing; important Norse port",
+   "url": "https://en.wikipedia.org/wiki/Thurso"
+  }
+ ],
+ "checked": "October 2026"
+}

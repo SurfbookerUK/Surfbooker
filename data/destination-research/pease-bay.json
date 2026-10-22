@@ -1,0 +1,119 @@
+{
+ "overview": [
+  "Pease Bay is a small, enclosed bay just off the A1 near Cockburnspath, with a holiday park filling the valley behind the sand. The access is through that park: a car park just inside the entrance on the right, then a walk of under a mile through the park and onto the beach.",
+  "The headlands are what make the bay memorable. The first is red Devonian sandstone, around 360 million years old, laid down by rivers and flash floods on an arid continent south of the equator. On the far side, red sandstone at the base is capped by grey Carboniferous rock, close to the boundary between the two periods.",
+  "For surfers it's a fairly exposed beach break over a sandbar, with lefts and rights and a reputation as one of the more consistent spots on this coast. That consistency, together with a compact line-up, means it can get crowded when it's good. There are no lifeguards, so treat it as a place for confident surfers."
+ ],
+ "suits": [
+  "Intermediate and experienced surfers on a north-east swell",
+  "Families staying at the holiday park who surf",
+  "Geology fans exploring the headlands at low tide"
+ ],
+ "notFor": [
+  "First-time surfers without a lesson",
+  "Anyone who wants lifeguard cover",
+  "Quiet sessions on a good swell"
+ ],
+ "surf": {
+  "text": [
+   "Surf-forecast lists north-east as the ideal swell direction, with a south-west offshore wind. It works through the tide, so the shape of the sandbar matters more than the tide table. Both groundswell and wind swell reach the bay.",
+   "Winter and spring are the main seasons, with January the most likely month for clean waves, though small days are still the norm. The guide warns about rocks and crowds, and visiting surfers should expect a busy, competitive line-up on a good swell.",
+   "Pease Bay is a sandbar with consistent surf on a north-easterly swell and a south-westerly offshore, good at all stages of the tide. It's sometimes crowded and there are rocks to watch for. Winter and spring are best; summer is often too small."
+  ],
+  "cards": [
+   {
+    "label": "Level",
+    "title": "Intermediate+",
+    "text": "Beginners are better off in a lesson at Belhaven or Coldingham."
+   },
+   {
+    "label": "Hazards",
+    "title": "Rocks and crowds",
+    "text": "Rocks at the ends of the bay, a compact line-up, and cliffs that are best avoided after heavy rain."
+   },
+   {
+    "label": "Season",
+    "title": "Winter and spring",
+    "text": "January is the most likely month for clean surf."
+   }
+  ]
+ },
+ "practical": [
+  {
+   "label": "Parking",
+   "title": "Inside the holiday park",
+   "text": "Use the car park just inside the entrance to Pease Bay Holiday Park, on the right-hand side, and follow signs."
+  },
+  {
+   "label": "Access",
+   "title": "Under a mile on foot",
+   "text": "Walk through the holiday park and across the beach. Keep to the paths rather than crossing pitches."
+  },
+  {
+   "label": "Facilities",
+   "title": "Toilets at the park",
+   "text": "Toilets are available at the caravan park."
+  },
+  {
+   "label": "Rocks and cliffs",
+   "title": "Low tide only",
+   "text": "The second bay can only be reached at low tide. Keep away from the cliffs after heavy rain."
+  },
+  {
+   "label": "Lifeguards",
+   "title": "None",
+   "text": "In an emergency call 999 or 112 and ask for the Coastguard."
+  }
+ ],
+ "faqs": [
+  {
+   "q": "What conditions work at Pease Bay?",
+   "a": "A north-east swell with a south-west offshore wind. It can work at any stage of the tide."
+  },
+  {
+   "q": "Where do you park at Pease Bay?",
+   "a": "In the car park just inside the holiday park entrance, on the right. Check the signs for any charge."
+  },
+  {
+   "q": "Can you see the geology from the beach?",
+   "a": "Yes. The red sandstone headland is reached from the beach. Go at low tide, especially if you want to reach the second bay."
+  },
+  {
+   "q": "Is Pease Bay lifeguarded?",
+   "a": "No. It isn't on the RNLI's list of lifeguarded beaches."
+  }
+ ],
+ "sources": [
+  {
+   "label": "Berwickshire Rocks — Pease Bay geology leaflet (PDF)",
+   "url": "https://berwickshirerocks.org.uk/pdf/Pease%20Bay.pdf"
+  },
+  {
+   "label": "Surf-forecast — Pease Bay",
+   "url": "https://www.surf-forecast.com/breaks/Pease-Bay"
+  },
+  {
+   "label": "RNLI — find a lifeguarded beach",
+   "url": "https://rnli.org/find-my-nearest/lifeguarded-beaches"
+  }
+ ],
+ "factCheck": [
+  {
+   "fact": "Parking inside holiday park entrance on right; walk under a mile; toilets at park; second bay at low tide only; avoid cliffs after rain",
+   "url": "https://berwickshirerocks.org.uk/pdf/Pease%20Bay.pdf"
+  },
+  {
+   "fact": "Red Devonian sandstone c.360 million years old; grey Carboniferous above near the period boundary; arid continent south of equator",
+   "url": "https://berwickshirerocks.org.uk/pdf/Pease%20Bay.pdf"
+  },
+  {
+   "fact": "Fairly exposed beach break over sandbar; NE swell, SW offshore; all tides; rocks/crowds; winter-spring, January best",
+   "url": "https://www.surf-forecast.com/breaks/Pease-Bay"
+  },
+  {
+   "fact": "Pease Bay: sandbar, NE swell, SW offshore, all tides",
+   "url": "https://www.surf-forecast.com/breaks/Pease-Bay"
+  }
+ ],
+ "checked": "October 2026"
+}

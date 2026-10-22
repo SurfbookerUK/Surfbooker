@@ -1,0 +1,205 @@
+{
+ "slug": "harlyn-bay",
+ "schools": [
+  {
+   "name": "Harlyn Surf School",
+   "type": "Surf school",
+   "url": "https://www.harlynsurfschool.co.uk/",
+   "base": "Beach base at Harlyn Bay, near Padstow (PL28 8PD)",
+   "note": "Surf lessons including tasters, a summer surf camp for 8 to 14-year-olds, SUP, kayak tours and coasteering, plus sessions for families, schools and groups.",
+   "source": "https://www.harlynsurfschool.co.uk/"
+  },
+  {
+   "name": "George's Surf School",
+   "type": "Surf school",
+   "url": "https://www.georgessurfschool.com/",
+   "base": "Meets at Harlyn Bay (main base at Polzeath)",
+   "note": "Private one-to-one and small-group lessons for beginners to advanced surfers, children's lessons, family sessions and video coaching.",
+   "source": "https://directory.cornishsecrets.co.uk/listing/georges-surf-school/"
+  }
+ ],
+ "hire": [
+  {
+   "name": "Harlyn Surf School",
+   "type": "Board, wetsuit & SUP hire",
+   "url": "https://www.harlynsurfschool.co.uk/",
+   "base": "Beach base at Harlyn Bay",
+   "note": "Hires surfboards, bodyboards, wetsuits, stand-up paddleboards and sit-on-top kayaks from the beach.",
+   "source": "https://www.harlynsurfschool.co.uk/"
+  },
+  {
+   "name": "The Pit Surf Shop",
+   "type": "Board & wetsuit hire",
+   "url": "https://www.thepitsurfshop.co.uk/",
+   "base": "The Airfield, St Merryn (PL28 8PU), in the Seven Bays area",
+   "note": "Hires foam and epoxy surfboards, bodyboards, kids' and adult wetsuits, boots, gloves, hoods and fins, and now delivers hire kit.",
+   "source": "https://www.thepitsurfshop.co.uk/hire"
+  }
+ ],
+ "shops": [
+  {
+   "name": "The Pit Surf Shop",
+   "type": "Surf shop",
+   "url": "https://www.thepitsurfshop.co.uk/",
+   "town": "St Merryn (The Airfield, PL28 8PU)",
+   "note": "Open all year, with a big bodyboard range plus fins, leashes, wetsuit hoods, changing robes and accessories, and a board repair section. It's a short drive west of Harlyn.",
+   "source": "https://www.thepitsurfshop.co.uk/"
+  },
+  {
+   "name": "Harlyn Surf School beach boutique",
+   "type": "Beach shop",
+   "url": "https://www.harlynsurfschool.co.uk/",
+   "town": "Harlyn Bay, next to the surf school",
+   "note": "A small shop by the surf school selling surf essentials such as swimwear and suncream, alongside hoodies and lifestyle goods.",
+   "source": "https://www.harlynsurfschool.co.uk/"
+  }
+ ],
+ "lessonsIntro": "Harlyn Bay is a sheltered, sandy crescent near Padstow with a surf school based right on the beach. It's a popular choice for families and first-timers.",
+ "learn": {
+  "text": [
+   "Harlyn is a wide crescent of sand near Padstow that the local surf school describes as sheltered, spacious and quieter than Cornwall's busier beaches. Harlyn Surf School calls it one of the safest beaches on the north Cornish coast, with few rip currents and safe to use across the tide. Lessons start from the school's beach base and run on the open sand, with plenty of space and fewer crowds than the bigger surf towns.",
+   "Lifeguards patrol from Easter to the end of September and over October half term. Use the black and white chequered zone for surfboards and the red and yellow flags for swimming and bodyboarding. Visit Cornwall notes a rock at the east end with fast, ledgy rights and a stream running onto the beach, so stay clear of the rocks and cliffs, where a rising tide can cut you off."
+  ],
+  "cards": [
+   {
+    "label": "Level",
+    "title": "A safe bet for beginners",
+    "text": "Sheltered, spacious and with few rips, Harlyn suits complete beginners and families. On big swells the middle peak gets fast and hollow."
+   },
+   {
+    "label": "Best time",
+    "title": "Big swells elsewhere",
+    "text": "Visit Cornwall says Harlyn comes alive when the swell is big and the wind is south-westerly, when exposed beaches nearby are too rough. Lifeguards are on from Easter to September."
+   },
+   {
+    "label": "Watch out for",
+    "title": "Rocks and the rising tide",
+    "text": "Keep away from the rocky east end and the cliffs, and check with lifeguards before heading beyond the patrolled area."
+   }
+  ]
+ },
+ "hireIntro": "Harlyn Surf School hires boards, wetsuits and paddleboards right on the beach, and The Pit Surf Shop at St Merryn now delivers hire kit.",
+ "kit": {
+  "text": [
+   "A big foam board is the right start at Harlyn, and the school includes boards and wetsuits in lessons. Improvers can hire epoxy boards from The Pit at St Merryn. The sea here drops to around 9 to 10°C in early March and reaches 15 to 18°C by August, so add boots, gloves and a hood for spring and winter sessions."
+  ],
+  "cards": [
+   {
+    "label": "Board",
+    "title": "Foam for learning",
+    "text": "Use a soft foam board in the white water. Step up to an epoxy board once you're riding unbroken waves."
+   },
+   {
+    "label": "Wetsuit",
+    "title": "3/2 or 4/3 in summer, 5/4 in winter",
+    "text": "Surf-forecast suggests a 4/3 or 3/2 with boots in August and a 5/4 or 5/3 with gloves and boots in early March."
+   },
+   {
+    "label": "Other craft",
+    "title": "SUP and kayaks",
+    "text": "Harlyn Surf School hires SUPs and sit-on-top kayaks. Watch for the orange windsock, which means strong offshore wind and no inflatables."
+   }
+  ]
+ },
+ "shopsIntro": "Harlyn has a small beach shop by the surf school, with a full surf shop a short drive away at St Merryn.",
+ "shopsText": [
+  "At the beach, Harlyn Surf School's boutique covers the basics like swimwear and suncream. For proper kit, The Pit Surf Shop at The Airfield in St Merryn, just west of Harlyn, is open all year and stocks bodyboards, fins, leashes, hoods, robes and accessories, with a board repair service listed."
+ ],
+ "faqs": {
+  "lessons": [
+   {
+    "q": "Is Harlyn Bay good for beginners?",
+    "a": "Yes. Harlyn Surf School describes it as one of the safest beaches on the north Cornish coast, with few rips and safe surfing across the tide."
+   },
+   {
+    "q": "Are there kids' surf camps at Harlyn?",
+    "a": "Harlyn Surf School runs a summer surf camp for children aged 8 to 14."
+   },
+   {
+    "q": "What do the beach flags mean?",
+    "a": "Swim and bodyboard between the red and yellow flags, surf in the black and white chequered zone, and stay out of the water if the red flag is flying."
+   }
+  ],
+  "hire": [
+   {
+    "q": "Can I hire a board at Harlyn Bay?",
+    "a": "Yes. Harlyn Surf School hires surfboards, bodyboards, wetsuits, SUPs and kayaks from its beach base."
+   },
+   {
+    "q": "Can hire kit be delivered to my accommodation?",
+    "a": "The Pit Surf Shop at St Merryn says it now delivers hire kit. Call to check if it covers where you're staying."
+   }
+  ],
+  "shops": [
+   {
+    "q": "Where's the nearest surf shop to Harlyn?",
+    "a": "The Pit Surf Shop at The Airfield, St Merryn, a short drive west, is open all year."
+   }
+  ]
+ },
+ "sources": [
+  {
+   "label": "Harlyn Surf School",
+   "url": "https://www.harlynsurfschool.co.uk/"
+  },
+  {
+   "label": "Harlyn Surf School beach safety",
+   "url": "https://www.harlynsurfschool.co.uk/beach-safety"
+  },
+  {
+   "label": "George's Surf School",
+   "url": "https://www.georgessurfschool.com/"
+  },
+  {
+   "label": "Cornish Secrets: George's Surf School",
+   "url": "https://directory.cornishsecrets.co.uk/listing/georges-surf-school/"
+  },
+  {
+   "label": "The Pit Surf Shop",
+   "url": "https://www.thepitsurfshop.co.uk/"
+  },
+  {
+   "label": "The Pit hire",
+   "url": "https://www.thepitsurfshop.co.uk/hire"
+  },
+  {
+   "label": "Cornish Secrets: The Pit",
+   "url": "https://directory.cornishsecrets.co.uk/listing/the-pit-surf-shop/"
+  },
+  {
+   "label": "Visit Cornwall: Harlyn Bay",
+   "url": "https://www.visitcornwall.com/things-to-do/beaches/harlyn-bay-beach"
+  },
+  {
+   "label": "Surf-forecast: Harlyn sea temperature",
+   "url": "https://www.surf-forecast.com/breaks/Harlyn/seatemp"
+  }
+ ],
+ "factCheck": [
+  {
+   "fact": "Harlyn Surf School beach base PL28 8PD; surf camp 8-14; hire range; beach boutique",
+   "url": "https://www.harlynsurfschool.co.uk/"
+  },
+  {
+   "fact": "Few rips, safe across tidal range; lifeguards Easter-Sept and Oct half term; flag meanings; rocks and tides",
+   "url": "https://www.harlynsurfschool.co.uk/beach-safety"
+  },
+  {
+   "fact": "George's meeting point Harlyn Bay",
+   "url": "https://directory.cornishsecrets.co.uk/listing/georges-surf-school/"
+  },
+  {
+   "fact": "Best with big swell and SW wind; east-end rock with ledgy rights; stream onto beach",
+   "url": "https://www.visitcornwall.com/things-to-do/beaches/harlyn-bay-beach"
+  },
+  {
+   "fact": "The Pit address St Merryn; hire range and delivery",
+   "url": "https://directory.cornishsecrets.co.uk/listing/the-pit-surf-shop/"
+  },
+  {
+   "fact": "Sea temperatures and wetsuit guide",
+   "url": "https://www.surf-forecast.com/breaks/Harlyn/seatemp"
+  }
+ ],
+ "gaps": "RNLI Harlyn page wouldn't load, so lifeguard dates come from Harlyn Surf School. No minimum age for regular lessons or adaptive surfing found. No dedicated surf shop in Harlyn itself; Padstow surf shops couldn't be confirmed. The Pit's own site gives no street address (taken from Cornish Secrets listing)."
+}

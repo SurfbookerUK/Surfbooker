@@ -1,0 +1,22 @@
+{
+ "slug": "thistledoo-bed-and-breakfast",
+ "officialUrl": null,
+ "trading": "unclear",
+ "stayType": null,
+ "accommodation": null,
+ "suitableFor": null,
+ "parking": null,
+ "dogs": null,
+ "beachAccess": null,
+ "boardStorage": null,
+ "confirmedFeatures": null,
+ "overview": null,
+ "surfTripFit": null,
+ "sources": [
+  {
+   "label": "Airbnb listing (search result only)",
+   "url": "https://www.airbnb.co.uk/rooms/447729"
+  }
+ ],
+ "gaps": "Official site thistledoo.co.uk blocked fetching; only Airbnb room listings ('Croyde @ Thistledoo B&B' twin/double) surfaced in search and were not opened. Trading not confirmed."
+}

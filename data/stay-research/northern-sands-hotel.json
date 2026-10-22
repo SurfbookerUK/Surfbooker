@@ -1,0 +1,22 @@
+{
+ "name": "Northern Sands Hotel",
+ "officialUrl": "https://www.northernsands.co.uk/",
+ "trading": true,
+ "stayType": "Village hotel with restaurant",
+ "accommodation": "12 en-suite rooms, all on the first floor",
+ "suitableFor": "Couples and groups wanting a hotel with food all day",
+ "parking": "Free parking",
+ "dogs": "No pets inside; dogs welcome in the beer garden",
+ "beachAccess": "In Dunnet village beside the bay's two-mile beach",
+ "boardStorage": null,
+ "confirmedFeatures": "Restaurant, two bars, full Scottish breakfast, free Wi-Fi, smart TVs",
+ "overview": "Northern Sands is a hotel in Dunnet village, beside the two-mile sweep of Dunnet Bay and about four miles from Dunnet Head. It has 12 en-suite rooms on the first floor, a restaurant serving food all year and two bars. Dunnet Bay Distillers is next door.",
+ "surfTripFit": "A hot meal and a bar right by the beach make it an easy base, though dogs can't stay inside.",
+ "sources": [
+  {
+   "label": "Northern Sands official site",
+   "url": "https://www.northernsands.co.uk/"
+  }
+ ],
+ "slug": "northern-sands-hotel"
+}

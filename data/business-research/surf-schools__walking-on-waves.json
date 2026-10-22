@@ -1,0 +1,29 @@
+{
+ "slug": "walking-on-waves",
+ "kind": "surf-schools",
+ "officialUrl": "https://walking-on-waves.com/",
+ "trading": true,
+ "about": "Walking on Waves is a north Devon surf school with a hut at the top of the slipway at Saunton Sands. It teaches beginners to advanced surfers in small groups, private lessons and short one-to-one sessions for children. It also offers multi-lesson courses and a coach-and-ride option for more experienced surfers.",
+ "offers": [
+  "Group lessons (2 hours, ages 8+)",
+  "Private lessons (1.5 hours, ages 4+)",
+  "Kids' one-to-one lessons (1 hour, ages 4–8)",
+  "Multi-lesson courses",
+  "Coach and Ride (ages 10+, with kit hire for the day)",
+  "Large groups and school trips"
+ ],
+ "where": "Hut at the top of the slipway, Saunton Sands Car Park, Braunton EX33 1LG",
+ "goodToKnow": [
+  "All kit is included, plus a 10–15 minute beach safety talk",
+  "Arrive 20 minutes early; indoor changing and storage available",
+  "Instructors are ISA qualified and hold beach lifeguard qualifications"
+ ],
+ "season": null,
+ "sources": [
+  {
+   "label": "Saunton lessons",
+   "url": "https://walking-on-waves.com/all-surf-lessons-saunton"
+  }
+ ],
+ "gaps": "No season or cancellation terms stated."
+}

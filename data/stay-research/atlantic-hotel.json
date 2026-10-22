@@ -1,0 +1,22 @@
+{
+ "name": "Atlantic Hotel",
+ "officialUrl": "https://www.atlantichotelporthcawl.co.uk/",
+ "trading": true,
+ "stayType": "Seafront hotel",
+ "accommodation": "En-suite single, double and twin rooms",
+ "suitableFor": "Couples and solo travellers wanting a seafront hotel with dining",
+ "parking": null,
+ "dogs": null,
+ "beachAccess": "Locks Common, a few minutes' walk west, leads to Rest Bay; direct access to the coastal path",
+ "boardStorage": null,
+ "confirmedFeatures": "En-suite rooms, restaurant, accommodation packages",
+ "overview": "The Atlantic Hotel sits on Porthcawl's seafront, a few minutes' walk from the town centre and harbour. Locks Common lies a few minutes to the west and leads on to the sands of Rest Bay, and the hotel opens straight onto the coastal path. Rooms are en suite and the hotel serves lunches and evening meals.",
+ "surfTripFit": "You can walk to Rest Bay along Locks Common, and the hotel itself points guests towards nearby surf activities.",
+ "sources": [
+  {
+   "label": "Atlantic Hotel official site",
+   "url": "https://www.atlantichotelporthcawl.co.uk/"
+  }
+ ],
+ "slug": "atlantic-hotel"
+}

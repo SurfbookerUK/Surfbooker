@@ -1,0 +1,31 @@
+{
+ "slug": "discovery-surf-school",
+ "kind": "surf-schools",
+ "officialUrl": "https://www.discoverysurf.com/",
+ "trading": true,
+ "about": "Discovery Surf School is a family-run surf and SUP school in South Devon that has been operating since 2002. It teaches at Bigbury-on-Sea and Bantham, picking the break to suit the conditions. It caters for all ages and abilities, from families to school and club groups, and also hires out a wide range of kit.",
+ "offers": [
+  "Surf lessons for all ages and abilities",
+  "Private family lessons (groups of 4+)",
+  "Group lessons for schools, scouts, sports teams, language centres, stag and hen parties",
+  "Stand-up paddleboard lessons",
+  "Special needs surfing",
+  "Surf clubs, including an adult surf club",
+  "Hire: surfboards, bodyboards, wetsuits, paddleboards, kayaks and eFoils"
+ ],
+ "where": "Bigbury-on-Sea and Bantham, South Devon",
+ "goodToKnow": [
+  "Lessons include a wetsuit and surfboard",
+  "Surfing England accredited for surfing; AALA registered for SUP",
+  "Instructors hold ASI or Surfing England qualifications, DBS checks and SLSGB beach lifeguard awards",
+  "Lesson times and surf checks are posted on a 'What's on this week' page"
+ ],
+ "season": null,
+ "sources": [
+  {
+   "label": "Discovery Surf School homepage",
+   "url": "https://www.discoverysurf.com/"
+  }
+ ],
+ "gaps": "No season, what to bring or cancellation terms; age limits not given; lessons page not opened"
+}

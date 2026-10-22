@@ -1,0 +1,29 @@
+{
+ "slug": "surfing-croyde-bay",
+ "kind": "surf-hire",
+ "officialUrl": "https://surfingcroydebay.co.uk/",
+ "trading": true,
+ "about": "Surfing Croyde Bay is a surf centre at Baggy Lodge in Croyde, north Devon, run by a team led by former GB head coach Damon Beveridge. It hires surfboards, wetsuits and bodyboards, booked online, and also runs surf lessons, coasteering, sauna sessions and surf camps.",
+ "offers": [
+  "Softech surfboard hire",
+  "Tiki wetsuit hire (men's, women's, junior)",
+  "Bodyboard hire",
+  "Board-and-wetsuit packages",
+  "Surf lessons, coasteering and sauna"
+ ],
+ "where": "Baggy Lodge, Moor Lane, Croyde EX33 1PA",
+ "goodToKnow": [
+  "Book hire through the online store",
+  "Hire includes use of warm changing rooms and hot showers",
+  "Multi-day hire discounts",
+  "Surfing England Centre of Excellence"
+ ],
+ "season": null,
+ "sources": [
+  {
+   "label": "Homepage",
+   "url": "https://surfingcroydebay.co.uk/"
+  }
+ ],
+ "gaps": "Collection point not stated explicitly; no opening hours."
+}

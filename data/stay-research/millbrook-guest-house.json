@@ -1,0 +1,22 @@
+{
+ "name": "Millbrook Guest House",
+ "officialUrl": "",
+ "trading": true,
+ "stayType": "Guest house",
+ "accommodation": "Modern rooms with daily servicing",
+ "suitableFor": "Couples and budget travellers",
+ "parking": "Private off-road parking",
+ "dogs": null,
+ "beachAccess": "A few minutes' level walk from the beach",
+ "boardStorage": null,
+ "confirmedFeatures": "Full breakfast, free Wi-Fi, off-road parking",
+ "overview": "A guest house a few minutes' level walk from Swanage beach, town centre, pier and steam railway. It offers modern rooms, a full breakfast and private off-road parking.",
+ "surfTripFit": "Off-road parking and a flat walk to the sand keep things easy with kit.",
+ "sources": [
+  {
+   "label": "Visit Dorset listing",
+   "url": "https://www.visit-dorset.com/swanage/listings-swanage/millbrook-guest-house/3030301/"
+  }
+ ],
+ "slug": "millbrook-guest-house"
+}

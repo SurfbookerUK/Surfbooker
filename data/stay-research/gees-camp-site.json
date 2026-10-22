@@ -1,0 +1,22 @@
+{
+ "name": "Gees Camp Site",
+ "officialUrl": "",
+ "trading": true,
+ "stayType": "Small campsite",
+ "accommodation": "25 grass pitches (10 touring tents/tourers, 15 seasonal)",
+ "suitableFor": "Campers and dog owners",
+ "parking": null,
+ "dogs": "Dogs welcome",
+ "beachAccess": "About a three-minute walk to the beach",
+ "boardStorage": null,
+ "confirmedFeatures": "Showers, toilets, small shop, Wi-Fi, electric hook-ups; open 1 March to 31 October",
+ "overview": "A small campsite in East Wittering, about three minutes' walk from the beach and less than half a mile from Bracklesham Bay. It has 25 grass pitches, some with hook-ups, along with showers and a small shop.",
+ "surfTripFit": "Walking distance to the beach, so you can check the sea and carry boards down.",
+ "sources": [
+  {
+   "label": "Campsites.co.uk listing",
+   "url": "https://www.campsites.co.uk/search/campsites-in-sussex/east-wittering/gees-camp-site"
+  }
+ ],
+ "slug": "gees-camp-site"
+}

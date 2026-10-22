@@ -1,0 +1,26 @@
+{
+ "name": "Crantock Beach Holiday Park",
+ "officialUrl": "https://www.parkdeanresorts.co.uk/location/cornwall/crantock-beach/",
+ "trading": true,
+ "stayType": "Holiday park with caravans",
+ "accommodation": "Self-catering caravans, including sea-view and dog-friendly caravans",
+ "suitableFor": "Families",
+ "parking": "Parking listed by Visit Cornwall",
+ "dogs": "Dog-friendly caravans; direct access to dog-friendly beach walks",
+ "beachAccess": "About a five-minute stroll to Crantock Beach (Visit Cornwall)",
+ "boardStorage": null,
+ "confirmedFeatures": "Bar and restaurant, takeaway, shop, laundrette, swimming pool, adventure golf, playground, arcade, kids clubs, Wi-Fi",
+ "overview": "A Parkdean Resorts holiday park above Crantock, looking out to sea and about five minutes' walk from the beach. It offers self-catering caravans, some with sea views and some dog friendly. Facilities include a pool, bar, restaurant, shop and kids clubs.",
+ "surfTripFit": "A family base within walking distance of Crantock Beach, with Fistral just across the Gannel.",
+ "sources": [
+  {
+   "label": "Official website",
+   "url": "https://www.parkdeanresorts.co.uk/location/cornwall/crantock-beach/"
+  },
+  {
+   "label": "Visit Cornwall listing",
+   "url": "https://www.visitcornwall.com/accommodation/holiday-parks-and-camping/newquay/crantock-beach-holiday-park-parkdean-resorts"
+  }
+ ],
+ "slug": "crantock-beach-holiday-park"
+}

@@ -1,0 +1,33 @@
+{
+ "slug": "newquay-activity-centre",
+ "kind": "surf-schools",
+ "officialUrl": "https://www.newquayactivitycentre.co.uk/",
+ "trading": "unclear",
+ "about": "Newquay Activity Centre is a surf school and activity centre on Fore Street in central Newquay, running lessons since 1996. Guests change at the centre and walk about five minutes to the beach, which is usually Great Western. It also runs coasteering, paddleboarding, kayaking and group adventure days.",
+ "offers": [
+  "Two-hour group beginner lessons (age 8+)",
+  "All-day lesson and hire package (age 8+)",
+  "Private lessons (age 3+)",
+  "Family lessons (age 3+)",
+  "Improver coaching",
+  "Bodyboarding",
+  "Paddleboarding and Super SUP",
+  "Coasteering and kayaking",
+  "Stag, hen, school and corporate groups"
+ ],
+ "where": "60 Fore Street, Newquay TR7 1LW; lessons mainly on Great Western Beach, with Towan and Fistral nearby",
+ "goodToKnow": [
+  "Wetsuit, rash vest and foam board included; hoods, gloves and boots in winter",
+  "Heated changing rooms, lockers and hot showers",
+  "Bring swimwear, a towel and sun cream; you should be able to swim 50 metres",
+  "AALA licensed, with ISA-qualified, lifeguard-trained instructors"
+ ],
+ "season": "Banner says the centre is closed until the 2027 season",
+ "sources": [
+  {
+   "label": "Surf lessons page",
+   "url": "https://www.newquayactivitycentre.co.uk/surf-lessons/"
+  }
+ ],
+ "gaps": "Says 'closed until the 2027 season' (probably a winter closure), so re-check in spring. Only the lessons page was fetched."
+}

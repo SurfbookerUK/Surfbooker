@@ -1,0 +1,22 @@
+{
+ "name": "Stockwell Lodge",
+ "officialUrl": "https://stockwell-lodge.co.uk/",
+ "trading": true,
+ "stayType": "Guest house B&B",
+ "accommodation": "B&B rooms (details on accommodation page)",
+ "suitableFor": "Couples and surf or cycling visitors",
+ "parking": "Plenty of parking",
+ "dogs": null,
+ "beachAccess": "Saunton, Croyde, Putsborough and Woolacombe a short drive",
+ "boardStorage": "On-site storage for bikes and surfboards",
+ "confirmedFeatures": "Bed and breakfast, parking, board and bike storage",
+ "overview": "A homely guest house at 66 South Street, about 400 metres from Braunton village centre. It offers bed and breakfast with plenty of parking, and Saunton, Croyde, Putsborough and Woolacombe are all a short drive away.",
+ "surfTripFit": "On-site surfboard storage and parking make it a straightforward base for working around the beaches north of Braunton.",
+ "sources": [
+  {
+   "label": "Stockwell Lodge",
+   "url": "https://stockwell-lodge.co.uk/"
+  }
+ ],
+ "slug": "stockwell-lodge"
+}

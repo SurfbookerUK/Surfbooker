@@ -1,0 +1,34 @@
+{
+ "slug": "bude-surfing-experience",
+ "kind": "surf-schools",
+ "officialUrl": "https://budesurfingexperience.co.uk/",
+ "trading": true,
+ "about": "Bude Surfing Experience is a surf school led by head coach Scott, with a wider team of instructors. It teaches from trailers in the car parks at Summerleaze Beach in Bude and at Widemouth Bay. As well as surfing, it runs SUP and bodyboard sessions, and takes group bookings from parties, schools, clubs and companies.",
+ "offers": [
+  "Daily 2.5-hour group sessions for all ages and abilities",
+  "Private and bespoke sessions for individuals, couples or families",
+  "SUP sessions",
+  "Bodyboard sessions",
+  "Stag and hen, corporate, school, scout and university groups",
+  "Birthday parties for ages 8 and over"
+ ],
+ "where": "Trailer in Summerleaze Beach car park (by the beach entrance) or the main Widemouth Bay car park; arrive 10 minutes early",
+ "goodToKnow": [
+  "All equipment is included in group sessions; bring swimwear, a towel and any essential medication",
+  "Children under 8 need a non-surfing adult with them, arranged when booking",
+  "At least one instructor for every eight learners in group sessions",
+  "Approved by Surfing England; instructors are DBS checked and hold lifeguard and surf coaching awards"
+ ],
+ "season": "Open all year; in July and August private sessions run at sunrise and sunset only",
+ "sources": [
+  {
+   "label": "Surf lessons page",
+   "url": "https://budesurfingexperience.co.uk/services/surf-lessons/"
+  },
+  {
+   "label": "Visit Bude listing",
+   "url": "https://www.visitbude.info/things-to-do/surfing-with-bude-surfing-experience/"
+  }
+ ],
+ "gaps": "Cancellation terms are in a separate PDF that wasn't opened; the site mentions three locations but only two are named; the 'open all year' wording comes from the Visit Bude listing"
+}

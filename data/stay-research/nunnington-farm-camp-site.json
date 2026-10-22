@@ -1,0 +1,22 @@
+{
+ "name": "Nunnington Farm Camp Site",
+ "officialUrl": "https://camping-in-sussex.com/",
+ "trading": true,
+ "stayType": "Family-run farm campsite",
+ "accommodation": "Tent, tourer and motorhome pitches, many with electric",
+ "suitableFor": "Couples and families (no groups)",
+ "parking": null,
+ "dogs": "Dogs welcome on leads; off-lead area on the farm",
+ "beachAccess": "A short distance from West Wittering village and its beach",
+ "boardStorage": null,
+ "confirmedFeatures": "Three toilet blocks, hot showers, laundry, free Wi-Fi, play park; open Easter to mid-October",
+ "overview": "An independent, family-managed campsite on a flat five-acre field in West Wittering, a short distance from the village and its beach. Many pitches have hook-ups and there are three toilet blocks and free Wi-Fi.",
+ "surfTripFit": "Close to West Wittering's beach for summer sessions, with simple camping facilities.",
+ "sources": [
+  {
+   "label": "Official site",
+   "url": "https://camping-in-sussex.com/"
+  }
+ ],
+ "slug": "nunnington-farm-camp-site"
+}

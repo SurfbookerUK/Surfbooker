@@ -1,0 +1,111 @@
+{
+ "overview": [
+  "Beadnell Bay is a horseshoe of golden sand that runs south for miles from the village harbour, backed by big dunes. The Good Beach Guide has recommended it for the highest UK bathing water quality, and the long, open shape gives you plenty of room even when the village is busy.",
+  "The harbour at the north end is said to be the only west-facing harbour on England's east coast. Next to it stand 18th-century lime kilns, and the village's Craster Arms dates back to the 15th century, built around a three-storey stone pele tower. Beadnell Sailing Club has been here for more than 40 years.",
+  "This is one of Northumberland's best-equipped watersports bays. Alongside surfing and bodyboarding, people windsurf, kitesurf, sail, dive and snorkel here, and the Farne Islands are a popular sailing trip. If you want a walk afterwards, follow the dunes south to Low Newton."
+ ],
+ "suits": [
+  "Watersports holidays",
+  "Families in holiday lets",
+  "Mixed-ability surfers on the right swell",
+  "Coastal walkers heading to Low Newton"
+ ],
+ "notFor": [
+  "Anyone who needs lifeguard cover",
+  "Flat summer spells, when it needs swell"
+ ],
+ "surf": {
+  "text": [
+   "The north end of the bay is sheltered by the harbour, so the surf is usually best in the middle and south of the bay. Beadnell faces the North Sea and needs north-easterly to easterly swell, and westerly winds blow offshore. On a good swell, local guides say the waves can reach 15ft, which is no place for learners.",
+   "Because the bay is so popular with kitesurfers and windsurfers, you'll often share the water. Give them space, especially on windy days. There's no lifeguard cover, so check the forecast and the beach before you paddle out.",
+   "Beadnell is a mix of beach and reef, so check the sections and tide before you go. It prefers a north-east swell and a west or east-north-east offshore wind, and rarely feels crowded. Rips are the hazard to mention, and there are no lifeguards, so don't go alone."
+  ],
+  "cards": [
+   {
+    "label": "Where",
+    "title": "Middle and south",
+    "text": "The north end is sheltered by the harbour and usually smaller."
+   },
+   {
+    "label": "Shared water",
+    "title": "Kites and boards",
+    "text": "Give kitesurfers and windsurfers plenty of room."
+   },
+   {
+    "label": "Season",
+    "title": "Autumn to spring",
+    "text": "North Sea swell is most reliable outside summer; summer is often small but good for lessons."
+   }
+  ]
+ },
+ "practical": [
+  {
+   "label": "Lifeguards",
+   "title": "None",
+   "text": "Call 999 and ask for the Coastguard in an emergency."
+  },
+  {
+   "label": "Getting there",
+   "title": "NE76 5BW",
+   "text": "Beadnell is a couple of miles south of Seahouses, reached via the Northumberland Coastal Route (B1340) or the A1."
+  },
+  {
+   "label": "Parking",
+   "title": "Village and dunes",
+   "text": "Use the signed car parks. The Your Northumberland village map shows where they are."
+  },
+  {
+   "label": "Dogs",
+   "title": "Year-round",
+   "text": "There's no seasonal dog ban on Northumberland beaches, but follow any signs near nesting birds."
+  },
+  {
+   "label": "Harbour",
+   "title": "Busy in summer",
+   "text": "The harbour is a popular boat launch and gets crowded in the season."
+  }
+ ],
+ "faqs": [
+  {
+   "q": "Can you surf at Beadnell Bay?",
+   "a": "Yes, on a north-east to east swell with westerly winds. The middle and south of the bay are usually best."
+  },
+  {
+   "q": "Is Beadnell lifeguarded?",
+   "a": "No."
+  },
+  {
+   "q": "What other watersports happen at Beadnell?",
+   "a": "Windsurfing, kitesurfing, sailing, diving and snorkelling are all popular, and there's a sailing club in the village."
+  }
+ ],
+ "sources": [
+  {
+   "label": "Your Northumberland — Beadnell guide",
+   "url": "https://www.yournorthumberland.co.uk/area-guides/beadnell-guide"
+  },
+  {
+   "label": "Northside Surf School",
+   "url": "https://www.northside-surf-school.co.uk/"
+  }
+ ],
+ "factCheck": [
+  {
+   "fact": "Horseshoe beach, Good Beach Guide water quality, only west-facing east-coast harbour, 18th-c lime kilns, Craster Arms pele tower",
+   "url": "https://www.yournorthumberland.co.uk/area-guides/beadnell-guide"
+  },
+  {
+   "fact": "Middle and south best; north sheltered by harbour; swell up to 15ft",
+   "url": "https://www.yournorthumberland.co.uk/area-guides/beadnell-guide"
+  },
+  {
+   "fact": "Sailing club 40+ years; postcode NE76 5BW; walk to Low Newton",
+   "url": "https://www.yournorthumberland.co.uk/area-guides/beadnell-guide"
+  },
+  {
+   "fact": "Beadnell: NE swell, offshore W/ENE, rips",
+   "url": "https://www.surfnerd.com/surf-forecast/beadnell-bay"
+  }
+ ],
+ "checked": "October 2026"
+}

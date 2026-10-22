@@ -1,0 +1,30 @@
+{
+ "slug": "the-sloop-inn-rooms",
+ "officialUrl": "https://www.thesloop.co.uk/",
+ "trading": true,
+ "stayType": "Village inn with rooms",
+ "accommodation": "Five en-suite rooms above the inn, plus a family suite with a double bedroom and an adjoining children's room with bunk beds",
+ "suitableFor": "Couples, small families, dog owners, surfers",
+ "parking": null,
+ "dogs": "Dogs welcome throughout the inn",
+ "beachAccess": "Described as moments from the beach and a short walk from Bantham's surfing beach; no distance given",
+ "boardStorage": null,
+ "confirmedFeatures": "Bar, restaurant, locally sourced food, en-suite rooms, smart TV, tea and coffee facilities, free Wi-Fi, family suite",
+ "overview": "The Sloop is a traditional inn in Bantham village with a handful of en-suite rooms upstairs, several looking towards the coast. It sits a short walk from Bantham beach and the South West Coast Path, with a bar and restaurant downstairs serving locally sourced food. Children and dogs are welcome throughout.",
+ "surfTripFit": "Walking distance to Bantham, one of South Devon's main surf beaches, with food and drink on site, and the inn points guests to a local surf school. Limited room numbers mean booking ahead in summer.",
+ "sources": [
+  {
+   "label": "The Sloop official site",
+   "url": "https://www.thesloop.co.uk/"
+  },
+  {
+   "label": "The Sloop - Stay",
+   "url": "https://www.thesloop.co.uk/stay"
+  },
+  {
+   "label": "Thurlestone Parish - Sloop Inn",
+   "url": "https://thurlestoneparish.co.uk/sloop-inn-bantham.html"
+  }
+ ],
+ "gaps": "Parking not stated; no board/wetsuit storage info; no exact beach distance; dog policy for rooms (vs bar) not specified on Stay page."
+}

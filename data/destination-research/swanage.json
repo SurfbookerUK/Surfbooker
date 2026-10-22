@@ -1,0 +1,120 @@
+{
+ "overview": [
+  "Swanage faces east across Swanage Bay at the far end of the Isle of Purbeck, with chalk cliffs at Ballard Down to the north and Purbeck limestone at Peveril Point and Durlston to the south. Softer clays between them have worn away to form the bay, which has a gently sloping sandy beach that is usually calm and sheltered from the prevailing south-westerly winds. Timber groynes and fresh sand were added in 2005–06 to tackle erosion.",
+  "The town grew from a fishing and stone-quarrying port into a Victorian resort, and much of that era survives: the 1895 pier, built mainly for pleasure steamers, and the branch railway that the Swanage Railway volunteers rescued after British Rail closed it in 1972. Today steam trains run to Corfe Castle, and the seafront is lined with cafés, beach huts and shops.",
+  "That shelter makes Swanage one of Dorset's best family beaches but means proper surf is rare. It takes a big storm swell wrapping into the bay, or an unusual easterly swell, to produce anything rideable. If you're after Purbeck waves, experienced surfers head for Kimmeridge instead, and Swanage makes a great base for walks to Old Harry Rocks, Durlston Country Park and rest days by the sea."
+ ],
+ "suits": [
+  "Family holidays",
+  "Swimming and paddling in calm water",
+  "Walking to Old Harry Rocks and Durlston",
+  "Steam railway fans"
+ ],
+ "notFor": [
+  "Surf trips",
+  "Dogs on the main beach in summer"
+ ],
+ "surf": {
+  "title": "Surf and sea",
+  "text": [
+   "Swanage only produces surfable waves in unusual conditions — a big storm swell wrapping round or an easterly swell. Treat it as a family beach with an occasional bonus.",
+   "Peveril Point at the southern end is a shallow rocky reef where, in 877, a storm drove a Danish fleet ashore. Stay away from it in rough seas and swim in the RNLI-patrolled zone in summer.",
+   "Swanage is a very sheltered bay that rarely breaks. When it does, a south-westerly swell with a westerly offshore around low tide is the combination, and submerged rocks are a hazard. It is sometimes crowded. Winter, December in particular, is the best time."
+  ],
+  "cards": [
+   {
+    "label": "Lifeguards",
+    "title": "RNLI daily",
+    "text": "23 May–6 September 2026, 10am–6pm."
+   },
+   {
+    "label": "Hazards",
+    "title": "Peveril Point",
+    "text": "Shallow rocky reef at the south end of the bay."
+   },
+   {
+    "label": "Swimming",
+    "title": "Calm and gentle",
+    "text": "Gently sloping sand that's usually sheltered."
+   }
+  ]
+ },
+ "practical": [
+  {
+   "label": "Lifeguards",
+   "title": "RNLI",
+   "text": "Daily 23 May–6 September 2026, 10am–6pm."
+  },
+  {
+   "label": "Dogs",
+   "title": "Main Beach summer ban",
+   "text": "Dogs aren't allowed on the Town Council's Main Beach from 1 May to 30 September and must be on leads on the promenade. Monkey Beach by the Stone Quay is dog-friendly all year — check signs on North Beach."
+  },
+  {
+   "label": "Facilities",
+   "title": "Seafront",
+   "text": "Toilets, cafés and beach huts along the front."
+  },
+  {
+   "label": "Getting here",
+   "title": "Bus, ferry or rail",
+   "text": "Wareham is the nearest main-line station. Buses run to Poole and to Bournemouth via the Sandbanks Ferry, with open-top buses in summer and a park-and-ride at Norden."
+  },
+  {
+   "label": "Railway",
+   "title": "Swanage Railway",
+   "text": "Heritage steam services link Swanage with Corfe Castle and Norden."
+  }
+ ],
+ "faqs": [
+  {
+   "q": "Can you surf at Swanage?",
+   "a": "Rarely — the bay is sheltered. Kimmeridge is the Purbeck surf spot, for experienced surfers."
+  },
+  {
+   "q": "Is Swanage lifeguarded?",
+   "a": "Yes, daily from 23 May to 6 September in 2026."
+  },
+  {
+   "q": "Can dogs go on Swanage beach?",
+   "a": "Not on Main Beach from 1 May to 30 September. Monkey Beach by the Stone Quay allows dogs all year."
+  },
+  {
+   "q": "How do you get to Swanage without a car?",
+   "a": "Train to Wareham then bus, or bus from Bournemouth via the Sandbanks Ferry."
+  }
+ ],
+ "sources": [
+  {
+   "label": "RNLI — Swanage lifeguards 2026",
+   "url": "https://rnli.org/news-and-media/2026/may/21/swanage-beach-welcomes-the-return-of-rnli-lifeguard-service"
+  },
+  {
+   "label": "Wikipedia — Swanage",
+   "url": "https://en.wikipedia.org/wiki/Swanage"
+  },
+  {
+   "label": "Swanage News — dogs on Main Beach",
+   "url": "https://www.swanage.news/mayday-at-swanage-beach-as-dogs-banned-and-road-closed/"
+  }
+ ],
+ "factCheck": [
+  {
+   "fact": "East-facing, sheltered from SW, chalk north/limestone south, clays form bay, 1895 pier, railway closed 1972, Peveril Point reef & 877 Danish fleet, transport",
+   "url": "https://en.wikipedia.org/wiki/Swanage"
+  },
+  {
+   "fact": "RNLI daily 23 May–6 Sep 2026",
+   "url": "https://rnli.org/news-and-media/2026/may/21/swanage-beach-welcomes-the-return-of-rnli-lifeguard-service"
+  },
+  {
+   "fact": "Main Beach dog ban 1 May–30 Sep; Monkey Beach year-round (2021 article)",
+   "url": "https://www.swanage.news/mayday-at-swanage-beach-as-dogs-banned-and-road-closed/"
+  },
+  {
+   "fact": "Swanage: sheltered, rarely breaks, SW swell, W offshore, low tide",
+   "url": "https://www.surf-forecast.com/breaks/Swanage"
+  }
+ ],
+ "checked": "October 2026"
+}

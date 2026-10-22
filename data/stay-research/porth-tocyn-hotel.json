@@ -1,0 +1,22 @@
+{
+ "name": "Porth Tocyn Hotel",
+ "officialUrl": "https://www.porthtocynhotel.co.uk/",
+ "trading": true,
+ "stayType": "Country house hotel",
+ "accommodation": "17 individually designed bedrooms, some interconnecting; self-catering cottage Bwthyn Bach and shepherd's hut Ty Cwtch",
+ "suitableFor": "Couples and families wanting a hotel with a restaurant",
+ "parking": null,
+ "dogs": null,
+ "beachAccess": null,
+ "boardStorage": null,
+ "confirmedFeatures": "Restaurant, sea-view rooms, interconnecting family rooms, self-catering cottage and shepherd's hut in grounds",
+ "overview": "Porth Tocyn Hotel stands on the headland at Bwlchtocyn beyond Abersoch, with views across Cardigan Bay to Snowdonia. It has 17 individually designed bedrooms, many with sea views, plus a cottage and shepherd's hut for self-catering. The restaurant serves evening and daytime meals.",
+ "surfTripFit": "It suits a more comfortable surf trip, with Hell's Mouth a short drive across the peninsula and food on site after a session.",
+ "sources": [
+  {
+   "label": "Porth Tocyn official site",
+   "url": "https://www.porthtocynhotel.co.uk/"
+  }
+ ],
+ "slug": "porth-tocyn-hotel"
+}

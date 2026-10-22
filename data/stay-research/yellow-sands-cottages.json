@@ -1,0 +1,22 @@
+{
+ "name": "Yellow Sands Cottages",
+ "officialUrl": "https://www.yellowsands.co.uk/",
+ "trading": true,
+ "stayType": "Self-catering cottages by the beach",
+ "accommodation": "Six self-catering cottages with one to three bedrooms, open all year",
+ "suitableFor": "Couples, families and small groups wanting self-catering close to the sand",
+ "parking": "Parking listed as an amenity",
+ "dogs": "Listed as dog friendly",
+ "beachAccess": "Within about 250 metres of Harlyn Bay, with a garden path leading to the dunes and the centre of the bay",
+ "boardStorage": null,
+ "confirmedFeatures": "Parking, sea views, WiFi, ground-floor bedrooms, garden path to the dunes, open all year",
+ "overview": "A small group of six self-catering cottages set just back from Harlyn Bay, with a garden path that leads straight onto the dunes. The cottages range from one to three bedrooms and are open all year. Padstow is about two and a half miles away, and the Trevose and St Enodoc golf courses are both close by.",
+ "surfTripFit": "You can walk to the dunes and the surf in a few minutes, so checking conditions and getting in early is easy.",
+ "sources": [
+  {
+   "label": "Visit Cornwall listing",
+   "url": "https://www.visitcornwall.com/accommodation/self-catering-and-resorts/padstow/yellow-sands-cottages"
+  }
+ ],
+ "slug": "yellow-sands-cottages"
+}

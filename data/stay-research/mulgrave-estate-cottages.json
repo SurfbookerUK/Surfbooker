@@ -1,0 +1,22 @@
+{
+ "name": "Mulgrave Estate Cottages",
+ "officialUrl": "https://mulgrave-estate.co.uk/cottages",
+ "trading": true,
+ "stayType": "Estate self-catering cottages",
+ "accommodation": "A selection of cottages including Vancouver Cottage, The Station and Sandsend Sleeper",
+ "suitableFor": "Families, couples and dog owners",
+ "parking": "Free parking with each cottage",
+ "dogs": "Each cottage is pet friendly",
+ "beachAccess": "In the Sandsend valley; beach distance not stated",
+ "boardStorage": null,
+ "confirmedFeatures": "Pet friendly, free parking",
+ "overview": "Self-catering cottages run by the Mulgrave Estate in the heart of the Sandsend valley, including Vancouver Cottage, The Station and the Sandsend Sleeper. Every cottage is pet friendly and comes with free parking, and the long Sandsend beach is close by.",
+ "surfTripFit": "Self-catering in Sandsend village with free parking, so you can rinse kit and head back out when the tide suits.",
+ "sources": [
+  {
+   "label": "Mulgrave Estate official page",
+   "url": "https://mulgrave-estate.co.uk/cottages"
+  }
+ ],
+ "slug": "mulgrave-estate-cottages"
+}

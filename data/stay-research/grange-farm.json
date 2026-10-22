@@ -1,0 +1,26 @@
+{
+ "name": "Grange Farm",
+ "officialUrl": "https://grangefarmcamping.co.uk/",
+ "trading": true,
+ "stayType": "Clifftop farm campsite with cottages and statics",
+ "accommodation": "Tent, caravan and motorhome pitches (some with hook-up), camping pods, static caravans and converted barn cottages; open 1 April to 31 October",
+ "suitableFor": "Families, campers and anyone wanting a range of options from pitches to cottages",
+ "parking": "Off-road parking, parking next to pitches (Visit Isle of Wight listing)",
+ "dogs": "Welcome on a lead (Visit Isle of Wight listing)",
+ "beachAccess": "Direct access to Brighstone beach (Visit Isle of Wight listing)",
+ "boardStorage": null,
+ "confirmedFeatures": "Shop, shower and toilet blocks, launderette, play area, cycle hire, farm animals, electric hook-ups",
+ "overview": "Grange Farm is a family campsite on the clifftop at Brighstone Bay, a few miles along the Military Road from Compton Bay. Guests can choose from grass and hard-standing pitches, pods, static caravans and barn cottages, and there is a shop, a launderette and direct access down to Brighstone beach.",
+ "surfTripFit": "Clifftop on the same south-west-facing stretch of coast, with its own beach access and a short drive to Compton.",
+ "sources": [
+  {
+   "label": "Official website",
+   "url": "https://grangefarmcamping.co.uk/"
+  },
+  {
+   "label": "Visit Isle of Wight listing",
+   "url": "https://www.visitisleofwight.co.uk/accommodation/grange-farm-brighstone-bay-p208051"
+  }
+ ],
+ "slug": "grange-farm"
+}

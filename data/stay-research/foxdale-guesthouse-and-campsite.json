@@ -1,0 +1,30 @@
+{
+ "name": "Foxdale Guesthouse & Campsite",
+ "officialUrl": "http://www.foxdalehouse.co.uk",
+ "trading": true,
+ "stayType": "Family-run B&B and campsite",
+ "accommodation": "Four B&B rooms and 30 grass camping pitches (15 with hook-up)",
+ "suitableFor": "Couples, families and campers",
+ "parking": "Private parking for B&B (Visit Pembrokeshire)",
+ "dogs": "Up to two dogs per pitch on the campsite",
+ "beachAccess": "Not stated; edge of Marloes village, close to Marloes Sands",
+ "boardStorage": null,
+ "confirmedFeatures": "Cooked or continental breakfast, Wi-Fi, free showers, dishwashing area, electric hook-ups",
+ "overview": "Foxdale is a family-run guesthouse and campsite on Glebe Lane at the edge of Marloes village. It has four B&B rooms and a 30-pitch campsite, and the pub and shop are within walking distance.",
+ "surfTripFit": "Close to Marloes Sands, with both rooms and pitches so groups can split budgets.",
+ "sources": [
+  {
+   "label": "Foxdale",
+   "url": "http://www.foxdalehouse.co.uk"
+  },
+  {
+   "label": "Visit Pembrokeshire – Foxdale Guesthouse",
+   "url": "https://www.visitpembrokeshire.com/accommodation-listing/foxdale-guesthouse"
+  },
+  {
+   "label": "Visit Pembrokeshire – Foxdale Campsite",
+   "url": "https://www.visitpembrokeshire.com/accommodation-listing/foxdale-campsite"
+  }
+ ],
+ "slug": "foxdale-guesthouse-and-campsite"
+}

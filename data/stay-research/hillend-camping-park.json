@@ -1,0 +1,26 @@
+{
+ "name": "Hillend Camping Park",
+ "officialUrl": "https://www.hillendcamping.com/",
+ "trading": true,
+ "stayType": "Large beachside campsite with lodges",
+ "accommodation": "240 pitches (100 with electric hook-up) plus lodges",
+ "suitableFor": "Campers, families and groups wanting to be right by the beach",
+ "parking": null,
+ "dogs": null,
+ "beachAccess": "About 200 yards from the beach at the northern end of Rhossili Bay (Llangennith end)",
+ "boardStorage": null,
+ "confirmedFeatures": "Free hot showers, laundrette, shop, children's adventure playground, recreation field, phone charging, Eddy's Cafe-Bar",
+ "overview": "Hillend sits behind the dunes at the Llangennith end of Rhossili Bay, around 200 yards from the sand. It is a big, well-equipped site with 240 pitches, lodges, a shop and its own licensed cafe-bar, Eddy's. Several independent surf schools run from the main car park.",
+ "surfTripFit": "You can walk from your tent to the surf at Llangennith, and surf schools operate from the site's own car park.",
+ "sources": [
+  {
+   "label": "Hillend Camping official site",
+   "url": "https://www.hillendcamping.com/"
+  },
+  {
+   "label": "Hillend facilities",
+   "url": "https://www.hillendcamping.com/facilities"
+  }
+ ],
+ "slug": "hillend-camping-park"
+}

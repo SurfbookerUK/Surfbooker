@@ -1,0 +1,241 @@
+{
+ "slug": "perranporth",
+ "schools": [
+  {
+   "name": "Perranporth Surf School",
+   "type": "Surf school",
+   "url": "https://www.perranporthsurfschool.co.uk/",
+   "base": "On Perranporth Beach below the promenade car park in summer; at Piran Surf in winter",
+   "note": "Runs taster lessons through to week-long improver courses, plus family, group and private lessons, for ages 7 and up. All kit is included, and lessons go ahead in poor weather as long as it's safe for beginners.",
+   "source": "https://www.perranporthsurfschool.co.uk/"
+  },
+  {
+   "name": "Stoked Surf School",
+   "type": "Surf school",
+   "url": "https://www.stokedsurfschool.co.uk/",
+   "base": "7 Beach Road, Perranporth, next to the main beach car park",
+   "note": "Standard, family, private and large-group lessons seven days a week in season, from first-timers to progressing surfers, using a seven-level progression system called The Loop.",
+   "source": "https://www.stokedsurfschool.co.uk/"
+  }
+ ],
+ "hire": [
+  {
+   "name": "Stoked Surf School",
+   "type": "Board & wetsuit hire",
+   "url": "https://www.stokedsurfschool.co.uk/surf-hire",
+   "base": "On Perranporth Beach, next to the main beach car park",
+   "note": "Hires soft boards, intermediate boards, custom hardboards, bodyboards and 4/3mm wetsuits for kids and adults, plus boots, gloves and hoods. Changing facilities and storage are included.",
+   "source": "https://www.stokedsurfschool.co.uk/surf-hire"
+  },
+  {
+   "name": "Bathsheba Surf",
+   "type": "Surfboard hire",
+   "url": "http://www.bathshebasurf.co.uk/",
+   "base": "19 St Pirans Road, Perranporth village",
+   "note": "The surf shop in the village also hires boards; see its website for hire terms.",
+   "source": "http://www.bathshebasurf.co.uk/"
+  }
+ ],
+ "shops": [
+  {
+   "name": "Bathsheba Surf",
+   "type": "Surf shop",
+   "url": "http://www.bathshebasurf.co.uk/",
+   "town": "Perranporth (19 St Pirans Road)",
+   "note": "Sells surfboards from Lost, Firewire and Thunderbolt alongside softboards, wetsuits for men, women and kids, leashes, fins, board bags, wax and repair kits.",
+   "source": "http://www.bathshebasurf.co.uk/"
+  },
+  {
+   "name": "Piran Surf",
+   "type": "Surf shop",
+   "url": "https://www.holidayfox.com/en/e/dest-M2HH5SBYyLh0/piran-surf",
+   "town": "Perranporth",
+   "note": "A surf shop selling boards, wetsuits and surfing kit, which also runs lessons and hire. Perranporth Surf School uses it as its winter base.",
+   "source": "https://www.holidayfox.com/en/e/dest-M2HH5SBYyLh0/piran-surf"
+  }
+ ],
+ "lessonsIntro": "Perranporth is a long, open beach with plenty of room, and surf schools work from the village end near the main car park. It suits first-timers as well as more experienced surfers.",
+ "learn": {
+  "text": [
+   "Perranporth is a big, busy beach that joins Perran Sands at low tide, and the RNLI describes it as good for surfers and bodyboarders. Lessons usually start from the village end, by the promenade car park, where Perranporth Surf School and Stoked are both based. Both teach total beginners, and Perranporth Surf School keeps running lessons in rough weather if conditions are still safe for learners.",
+   "RNLI lifeguards cover the beach daily from 3 April to 1 November in 2026, 10am to 6pm, and Visit Cornwall notes there are toilets right by the promenade car park. Rip currents are the main hazard: in July 2025 lifeguards rescued around 10 swimmers from a flash rip inside the flagged area on a calm day. University of Plymouth research on this beach notes rips are generally more active around low tide, when the sandbars are exposed to breaking waves."
+  ],
+  "cards": [
+   {
+    "label": "Level",
+    "title": "First-timers to improvers",
+    "text": "Plenty of whitewater and space; schools teach complete beginners through to week-long improver courses."
+   },
+   {
+    "label": "Best time",
+    "title": "April to October, lifeguarded hours",
+    "text": "Lifeguards patrol daily from early April to the start of November, 10am to 6pm."
+   },
+   {
+    "label": "Watch out for",
+    "title": "Flash rips",
+    "text": "Rips can open suddenly even in small surf, and are generally more active around low tide."
+   }
+  ]
+ },
+ "hireIntro": "You can hire boards and wetsuits right on the beach next to the main car park, and from the surf shop in the village.",
+ "kit": {
+  "text": [
+   "Start on a soft board; Stoked hires softboards for beginners and intermediate boards for progressing surfers, plus custom hardboards once you're ready. Sea temperatures here range from about 9-10C in early March to 15-18C in August, so a 4/3mm full suit with boots covers most of the summer, and you'll want a 5mm suit, gloves and a hood in winter."
+  ],
+  "cards": [
+   {
+    "label": "Board",
+    "title": "Softboard, then intermediate",
+    "text": "Beginner softboards for lessons; Softech or similar intermediate boards as you progress."
+   },
+   {
+    "label": "Wetsuit",
+    "title": "4/3 in summer, 5mm in winter",
+    "text": "A 4/3mm or 3/2mm with boots in summer; a 5/4mm or 5/3mm with gloves, boots and a hood around March."
+   },
+   {
+    "label": "Other craft",
+    "title": "Great for bodyboarding",
+    "text": "The RNLI rates Perranporth for bodyboarding; hire a bodyboard on the beach and stay between the red and yellow flags."
+   }
+  ]
+ },
+ "shopsIntro": "Perranporth has its own surf shops in the village, a few minutes' walk from the beach.",
+ "shopsText": [
+  "Bathsheba Surf on St Pirans Road is the main surf shop in the village, with surfboards from several big brands, softboards, wetsuits for all ages and plenty of hardware such as leashes, fins and board bags. Piran Surf also sells boards and wetsuits. For anything bigger, Newquay's surf shops are about nine miles up the coast."
+ ],
+ "faqs": {
+  "lessons": [
+   {
+    "q": "Is Perranporth good for learning to surf?",
+    "a": "Yes. It's a big beach with lots of whitewater for beginners, and two surf schools teach right by the main car park at the village end."
+   },
+   {
+    "q": "How old do children need to be for lessons at Perranporth?",
+    "a": "Perranporth Surf School takes children from age 7. Stoked doesn't publish a minimum age, so ask them directly."
+   },
+   {
+    "q": "When are lifeguards on Perranporth beach?",
+    "a": "In 2026 the RNLI patrols daily from 3 April to 1 November, 10am to 6pm. Dates can change, so check the RNLI website."
+   }
+  ],
+  "hire": [
+   {
+    "q": "Where can I hire a surfboard at Perranporth?",
+    "a": "Stoked Surf School hires boards, bodyboards and wetsuits on the beach next to the main car park, and Bathsheba Surf in the village also does board hire."
+   },
+   {
+    "q": "What thickness wetsuit is hired at Perranporth?",
+    "a": "Stoked's hire wetsuits are 4/3mm, with boots, gloves and hoods available for colder days."
+   }
+  ],
+  "shops": [
+   {
+    "q": "Is there a surf shop in Perranporth?",
+    "a": "Yes. Bathsheba Surf on St Pirans Road sells boards, wetsuits and accessories, and Piran Surf also sells surf kit."
+   }
+  ]
+ },
+ "sources": [
+  {
+   "label": "RNLI: Perranporth Beach",
+   "url": "https://rnli.org/find-my-nearest/lifeguarded-beaches/perranporth-beach"
+  },
+  {
+   "label": "RNLI: Perranporth rip rescue, July 2025",
+   "url": "https://rnli.org/news-and-media/2025/july/14/rnli-lifeguards-rescue-10-swimmers-caught-in-a-rip-current-at-perranporth-beach"
+  },
+  {
+   "label": "University of Plymouth: understanding rip currents",
+   "url": "https://www.plymouth.ac.uk/discover/understanding-rip-currents"
+  },
+  {
+   "label": "Visit Cornwall: Perranporth Beach",
+   "url": "https://www.visitcornwall.com/things-to-do/beaches/perranporth-beach"
+  },
+  {
+   "label": "Visit Cornwall: Perranporth",
+   "url": "https://www.visitcornwall.com/destinations/perranporth"
+  },
+  {
+   "label": "Perranporth Surf School",
+   "url": "https://www.perranporthsurfschool.co.uk/"
+  },
+  {
+   "label": "Stoked Surf School",
+   "url": "https://www.stokedsurfschool.co.uk/"
+  },
+  {
+   "label": "Stoked Surf School: surf hire",
+   "url": "https://www.stokedsurfschool.co.uk/surf-hire"
+  },
+  {
+   "label": "Bathsheba Surf",
+   "url": "http://www.bathshebasurf.co.uk/"
+  },
+  {
+   "label": "Wanderlog: Bathsheba Surf",
+   "url": "https://wanderlog.com/place/details/10281175"
+  },
+  {
+   "label": "Holidayfox: Piran Surf",
+   "url": "https://www.holidayfox.com/en/e/dest-M2HH5SBYyLh0/piran-surf"
+  },
+  {
+   "label": "Surf-forecast.com: Perranporth sea temperature",
+   "url": "https://www.surf-forecast.com/breaks/Perranporth/seatemp"
+  }
+ ],
+ "factCheck": [
+  {
+   "fact": "Large busy beach joining Perran Sands at low tide; great for surfers and bodyboarders; lifeguards daily 3 April-1 November 2026, 10am-6pm",
+   "url": "https://rnli.org/find-my-nearest/lifeguarded-beaches/perranporth-beach"
+  },
+  {
+   "fact": "Flash rip on 12 July 2025, about 10 swimmers rescued between the red and yellow flags in small surf",
+   "url": "https://rnli.org/news-and-media/2025/july/14/rnli-lifeguards-rescue-10-swimmers-caught-in-a-rip-current-at-perranporth-beach"
+  },
+  {
+   "fact": "West-coast sandbars mean more rip current activity at low tide; research carried out at Perranporth",
+   "url": "https://www.plymouth.ac.uk/discover/understanding-rip-currents"
+  },
+  {
+   "fact": "Newquay is about 9 miles away",
+   "url": "https://www.visitcornwall.com/things-to-do/beaches/perranporth-beach"
+  },
+  {
+   "fact": "Perranporth Surf School: summer base on the beach, winter at Piran Surf; promenade car park overlooks base; ages 7+; family, group, private, week courses; kit included; runs in bad weather if safe",
+   "url": "https://www.perranporthsurfschool.co.uk/"
+  },
+  {
+   "fact": "Stoked: 7 Beach Road; standard, family, private, large group lessons 7 days a week in season; The Loop seven-level system; mentions Chapel Rock",
+   "url": "https://www.stokedsurfschool.co.uk/"
+  },
+  {
+   "fact": "Stoked hire next to main beach car park: softboards, intermediate boards, custom hardboards, bodyboards, 4/3mm kids and adult wetsuits, boots, gloves, hoods",
+   "url": "https://www.stokedsurfschool.co.uk/surf-hire"
+  },
+  {
+   "fact": "Bathsheba Surf sells Lost, Firewire, Thunderbolt and softboards, wetsuits, hardware, repair kits; links to surfboard hire",
+   "url": "http://www.bathshebasurf.co.uk/"
+  },
+  {
+   "fact": "Bathsheba Surf is at 19 St Pirans Rd, Perranporth TR6 0BH and rents boards",
+   "url": "https://wanderlog.com/place/details/10281175"
+  },
+  {
+   "fact": "Piran Surf is a surf shop in Perranporth selling surfboards, wetsuits and equipment, with lessons and hire",
+   "url": "https://www.holidayfox.com/en/e/dest-M2HH5SBYyLh0/piran-surf"
+  },
+  {
+   "fact": "Perranporth sea temperature peaks at 15-18C around 10 August and bottoms out at 9-10C around 1 March",
+   "url": "https://www.surf-forecast.com/breaks/Perranporth/seatemp"
+  },
+  {
+   "fact": "Suggested wetsuits: 4/3mm or 3/2mm with 3mm boots in summer; 5/4mm or 5/3mm with gloves and boots in winter; hood if windy",
+   "url": "https://www.surf-forecast.com/breaks/Perranporth/seatemp"
+  }
+ ],
+ "gaps": "Piran Surf's own website (piransurf.com) blocked automated access, so it's linked via a Holidayfox listing; swap in its own site if you can confirm it. Ticket to Ride Surf School (beachfront, TR6 0DP) and The Watering Hole Surf School appear on third-party listings but I couldn't open their own websites, so both are left out. Stoked's minimum age not stated. No adaptive surfing offer found. Bathsheba's hire range wasn't detailed. Perranzabuloe Parish Council licenses surf schools on the beach but doesn't publish the list."
+}

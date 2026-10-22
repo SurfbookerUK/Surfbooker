@@ -1,0 +1,22 @@
+{
+ "name": "YHA Whitby",
+ "officialUrl": "https://www.yha.org.uk/hostel/whitby",
+ "trading": true,
+ "stayType": "Youth hostel beside Whitby Abbey",
+ "accommodation": "Dorms, private and en-suite rooms, bell tents and a private chalet studio",
+ "suitableFor": "Budget travellers, solo surfers and groups",
+ "parking": "On-site car park (limited); Abbey Headland car park 0.4 miles",
+ "dogs": "Pets allowed only in camping and cabin accommodation",
+ "beachAccess": "Beside the abbey above the 199 steps; town a short walk",
+ "boardStorage": null,
+ "confirmedFeatures": "Café, restaurant, licensed bar, self-catering kitchen, cycle store, luggage store, garden",
+ "overview": "YHA Whitby sits beside the abbey ruins at the top of the 199 steps, overlooking the harbour. It offers dorms, private rooms, bell tents and a chalet studio, plus a café bar and self-catering kitchen. The town and harbour are a short walk down the steps.",
+ "surfTripFit": "A budget base on the East Cliff with a kitchen and café, though beach trips mean a walk or short drive across town.",
+ "sources": [
+  {
+   "label": "YHA official page",
+   "url": "https://www.yha.org.uk/hostel/whitby"
+  }
+ ],
+ "slug": "yha-whitby"
+}

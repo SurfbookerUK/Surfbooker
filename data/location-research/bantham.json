@@ -1,0 +1,233 @@
+{
+ "slug": "bantham",
+ "schools": [
+  {
+   "name": "Discovery Surf School",
+   "type": "Surf school",
+   "url": "https://discoverysurf.com/pages/bantham",
+   "base": "Van in the Bantham beach car park (TQ7 3AN)",
+   "note": "Small-group surf lessons at Bantham since May 2025, alongside its Bigbury base. Group lessons from age 6 for confident swimmers; one-to-one from age 4.",
+   "source": "https://discoverysurf.com/pages/bantham"
+  },
+  {
+   "name": "Bantham Surfing Academy",
+   "type": "Surf school",
+   "url": "https://www.banthamsurfingacademy.co.uk/",
+   "base": "Mobile; teaches around Sedgewell Cove and Bigbury Bay, reaching Bantham via Sedgewell",
+   "note": "Beginner, kids', improver, private and bodyboarding lessons, plus SUP lessons and tours and a kids' surf club. Picks the best spot each day.",
+   "source": "https://www.banthamsurfingacademy.co.uk/"
+  }
+ ],
+ "hire": [
+  {
+   "name": "Discovery Surf School",
+   "type": "Board & wetsuit hire",
+   "url": "https://discoverysurf.com/pages/hire",
+   "base": "Bantham beach car park (TQ7 3AN)",
+   "note": "Surfboards, wetsuits, bodyboards, SUPs and kayaks, with boots, gloves and hoods. Photo ID is preferred as a deposit.",
+   "source": "https://discoverysurf.com/pages/hire"
+  },
+  {
+   "name": "Triocean Surf",
+   "type": "Board & wetsuit hire",
+   "url": "https://www.trioceansurf.co.uk/",
+   "base": "Hire at Bantham; shop about 2 miles from the beach",
+   "note": "Wetsuits, surfboards, bodyboards, kayaks and paddleboards, with staff matching kit to your ability and the day's conditions.",
+   "source": "https://www.trioceansurf.co.uk/"
+  },
+  {
+   "name": "Bantham Surfing Academy",
+   "type": "Board & wetsuit hire",
+   "url": "https://www.banthamsurfingacademy.co.uk/hire",
+   "base": "Hire base signposted about 5 minutes from Bantham beach (check before you go, as the school is now mobile)",
+   "note": "Surfboards from 6ft to 9ft, inflatable SUPs, bodyboards, kayaks, wetsuits, boots, hoods and gloves, from an hour to a full day.",
+   "source": "https://www.banthamsurfingacademy.co.uk/hire"
+  }
+ ],
+ "shops": [
+  {
+   "name": "Triocean Surf",
+   "type": "Surf shop",
+   "url": "https://www.trioceansurf.co.uk/",
+   "town": "Churchstow, near Kingsbridge (about 2 miles from Bantham)",
+   "note": "Wetsuits including Xcel and C-Skins, surfboards, bodyboards, SUPs, kayaks and hardware. Workshop repairs surfboards, SUPs and wetsuits.",
+   "source": "https://www.trioceansurf.co.uk/"
+  },
+  {
+   "name": "Discovery Surf School shop",
+   "type": "Surf shop",
+   "url": "https://discoverysurf.com/pages/bigbury-shop",
+   "town": "Bigbury-on-Sea (lower beach car park)",
+   "note": "Small shop selling Discovery hoodies and changing robes; ex-school boards are sold online.",
+   "source": "https://discoverysurf.com/pages/bigbury-shop"
+  }
+ ],
+ "lessonsIntro": "Bantham is South Devon's best-known surf beach, and lessons run from the beach car park in season. Coaches will tell you which part of the beach is safest on the day.",
+ "learn": {
+  "text": [
+   "Bantham picks up more Atlantic swell than most South Devon beaches, and it's widely seen as the most consistent break on this coast. The beach break here is friendly enough for beginners, and the shallow water suits families. Discovery Surf School meets learners at its van in the beach car park and keeps groups small, and staff will advise on the best time and part of the beach to go in.",
+   "The big hazard is the River Avon, which meets the sea at Bantham. It creates fast rip currents and the strongest currents in the bay, especially when the river is running hard. The river mouth wave is usually surfed around low tide and is best left to experienced surfers. RNLI lifeguards patrol daily from early May to late September, so learn between the flags and away from the river."
+  ],
+  "cards": [
+   {
+    "label": "Level",
+    "title": "Beginners with care",
+    "text": "A beginner-friendly beach break, but the river mouth is for experienced surfers only."
+   },
+   {
+    "label": "Best time",
+    "title": "May to September",
+    "text": "RNLI lifeguards patrol daily from 2 May to 27 September 2026, 10am to 6pm."
+   },
+   {
+    "label": "Watch out for",
+    "title": "River Avon rips",
+    "text": "Fast rip currents at the river mouth, strongest when the river is running quickly."
+   }
+  ]
+ },
+ "hireIntro": "You can hire boards and wetsuits from the Bantham car park, and there's a surf shop with hire a couple of miles inland.",
+ "kit": {
+  "text": [
+   "Learn on a big soft board in the white water, then move to a mid-length once you're catching green waves. Bodyboarding is popular here, but keep it between the red and yellow flags. The sea here runs from about 15-19C in mid-August to 9-10C in early March. A 3/2mm or 4/3mm suits summer; in colder months Discovery Surf School puts everyone in a 5mm suit, with boots, gloves and a hood available."
+  ],
+  "cards": [
+   {
+    "label": "Board",
+    "title": "Soft-top to mid-length",
+    "text": "Soft boards for beginners; 6ft to 9ft boards are available for improvers."
+   },
+   {
+    "label": "Wetsuit",
+    "title": "3/2 summer, 5mm winter",
+    "text": "A 3/2mm or 4/3mm in summer; a 5mm suit with boots, gloves and a hood in the colder months."
+   },
+   {
+    "label": "Other craft",
+    "title": "Bodyboards, SUP and kayak",
+    "text": "Bodyboard between the flags. SUPs and kayaks are hired here too, but stay clear of surfers and the river current."
+   }
+  ]
+ },
+ "shopsIntro": "There's no surf shop on the beach itself, but a full surf shop sits about two miles away near Kingsbridge.",
+ "shopsText": [
+  "There's no surf shop on the beach at Bantham. Triocean Surf, about two miles away at Churchstow near Kingsbridge, sells wetsuits, surfboards, bodyboards and paddleboards, and its workshop repairs boards and wetsuits. Across the river at Bigbury-on-Sea, Discovery Surf School has a small shop for hoodies and changing robes."
+ ],
+ "faqs": {
+  "lessons": [
+   {
+    "q": "Where do Bantham lessons meet?",
+    "a": "Discovery Surf School meets you at its van in the Bantham beach car park (TQ7 3AN). Arrive 20 minutes early to change."
+   },
+   {
+    "q": "What age can children start?",
+    "a": "Discovery takes children from 6 in group lessons if they can swim 50m confidently, and from 4 in one-to-one lessons."
+   },
+   {
+    "q": "Is the river mouth safe for beginners?",
+    "a": "No. The River Avon creates fast rips there. Learn in the main beach break between the lifeguard flags."
+   }
+  ],
+  "hire": [
+   {
+    "q": "What can I hire at Bantham?",
+    "a": "Surfboards, wetsuits, bodyboards, SUPs and kayaks, from the car park or from Triocean Surf's hire."
+   },
+   {
+    "q": "What do I need to leave as a deposit?",
+    "a": "Discovery Surf School prefers photo ID, such as a driving licence."
+   }
+  ],
+  "shops": [
+   {
+    "q": "Where can I get a board repaired near Bantham?",
+    "a": "Triocean Surf's workshop, about two miles from the beach, repairs surfboards, SUPs and wetsuits."
+   }
+  ]
+ },
+ "sources": [
+  {
+   "label": "Discovery Surf School: Bantham",
+   "url": "https://discoverysurf.com/pages/bantham"
+  },
+  {
+   "label": "Discovery Surf School FAQ",
+   "url": "https://discoverysurf.com/pages/faq"
+  },
+  {
+   "label": "Discovery Surf School hire",
+   "url": "https://discoverysurf.com/pages/hire"
+  },
+  {
+   "label": "Bantham Surfing Academy",
+   "url": "https://www.banthamsurfingacademy.co.uk/"
+  },
+  {
+   "label": "Bantham Surfing Academy hire",
+   "url": "https://www.banthamsurfingacademy.co.uk/hire"
+  },
+  {
+   "label": "Triocean Surf",
+   "url": "https://www.trioceansurf.co.uk/"
+  },
+  {
+   "label": "RNLI: Bantham beach",
+   "url": "https://rnli.org/find-my-nearest/lifeguarded-beaches/bantham-beach"
+  },
+  {
+   "label": "Coast & Country: surfing in South Devon",
+   "url": "https://www.coastandcountry.co.uk/blog/surfing-south-devon"
+  },
+  {
+   "label": "Windsurf.co.uk: Bantham",
+   "url": "https://www.windsurf.co.uk/beach-guide/bantham/"
+  },
+  {
+   "label": "Visit Devon: surfing",
+   "url": "https://www.visitdevon.co.uk/things-to-do/watersports/surfing/"
+  },
+  {
+   "label": "Surf-forecast: Bantham sea temperature",
+   "url": "https://www.surf-forecast.com/breaks/Bantham/seatemp"
+  }
+ ],
+ "factCheck": [
+  {
+   "fact": "Discovery operates lessons and hire from Bantham car park since May 2025; most consistent break in South Devon",
+   "url": "https://discoverysurf.com/pages/bantham"
+  },
+  {
+   "fact": "Group lessons from 6 (swim 50m), 1:1 from 4; meet at van in Bantham car park TQ7 3AN; 5mm suits in colder months",
+   "url": "https://discoverysurf.com/pages/faq"
+  },
+  {
+   "fact": "Bantham Surfing Academy is mobile, no longer based at Bantham Beach; reaches Bantham via Sedgewell",
+   "url": "https://www.banthamsurfingacademy.co.uk/"
+  },
+  {
+   "fact": "Triocean Surf ~2 miles from Bantham, hire at Bantham, repairs",
+   "url": "https://www.trioceansurf.co.uk/"
+  },
+  {
+   "fact": "Beginner-friendly beach break; river mouth surfable at low tide with speedy rips",
+   "url": "https://www.coastandcountry.co.uk/blog/surfing-south-devon"
+  },
+  {
+   "fact": "River Avon creates the strongest currents in the bay",
+   "url": "https://www.windsurf.co.uk/beach-guide/bantham/"
+  },
+  {
+   "fact": "RNLI 2026 dates; shallow water suits families",
+   "url": "https://rnli.org/find-my-nearest/lifeguarded-beaches/bantham-beach"
+  },
+  {
+   "fact": "Bantham is the most popular surfing beach in South Devon and picks up Atlantic swell",
+   "url": "https://www.visitdevon.co.uk/things-to-do/watersports/surfing/"
+  },
+  {
+   "fact": "Sea temp ~15-19C mid-Aug, ~9-10C early March",
+   "url": "https://www.surf-forecast.com/breaks/Bantham/seatemp"
+  }
+ ],
+ "gaps": "Bantham Surfing Academy's homepage says it is mobile and no longer based at Bantham Beach, while its hire page still mentions a base about 5 minutes from the beach; collection point needs confirming. Triocean's street address not given (only Churchstow/Kingsbridge and '2 miles from Bantham'). Min age for Bantham Surfing Academy not stated."
+}

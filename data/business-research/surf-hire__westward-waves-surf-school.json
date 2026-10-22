@@ -1,0 +1,25 @@
+{
+ "slug": "westward-waves-surf-school",
+ "kind": "surf-hire",
+ "officialUrl": "https://www.westwardwavessurfschool.co.uk/",
+ "trading": true,
+ "about": "Westward Waves Surf School teaches on Westward Ho! beach from a converted horse box at Northam Burrows Country Park. It runs mixed-ability group lessons, with a beach talk and about 90 minutes in the water, and one-to-one private coaching. The site also has a hire page.",
+ "offers": [
+  "Group lessons",
+  "Private lessons",
+  "Equipment hire (details not stated)"
+ ],
+ "where": "Northam Burrows Country Park, Westward Ho!",
+ "goodToKnow": [
+  "Group lessons include all kit",
+  "Book online, by phone or by email"
+ ],
+ "season": null,
+ "sources": [
+  {
+   "label": "Official homepage",
+   "url": "https://www.westwardwavessurfschool.co.uk/"
+  }
+ ],
+ "gaps": "The hire page failed to load, so hire items and terms are unknown. Accreditations and season were not stated."
+}

@@ -1,0 +1,22 @@
+{
+ "name": "Druidstone",
+ "officialUrl": "https://www.druidstone.co.uk/",
+ "trading": true,
+ "stayType": "Clifftop hotel with cottages",
+ "accommodation": "Ten hotel bedrooms plus five self-catering cottages",
+ "suitableFor": "Couples, families and groups",
+ "parking": "Ample parking for cottages",
+ "dogs": null,
+ "beachAccess": "Above Druidston Haven beach",
+ "boardStorage": null,
+ "confirmedFeatures": "Restaurant, gardens, events and feasts",
+ "overview": "Druidstone is a clifftop hotel above Druidston Haven between Nolton Haven and Broad Haven, with ten rooms, five cottages and a restaurant.",
+ "surfTripFit": "A characterful base with food on site and beach access.",
+ "sources": [
+  {
+   "label": "Druidstone",
+   "url": "https://www.druidstone.co.uk/"
+  }
+ ],
+ "slug": "druidstone"
+}

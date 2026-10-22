@@ -1,0 +1,26 @@
+{
+ "name": "Bank Farm Leisure",
+ "officialUrl": "https://www.bankfarmleisure.co.uk/",
+ "trading": true,
+ "stayType": "Holiday park with pitches, pods and bungalows",
+ "accommodation": "About 180 tent, touring and motorhome pitches, glamping pods, self-catering bungalows (two with hot tubs)",
+ "suitableFor": "Families, campers and groups",
+ "parking": null,
+ "dogs": null,
+ "beachAccess": "In Horton, overlooking Horton and Port Eynon bays",
+ "boardStorage": null,
+ "confirmedFeatures": "Clubhouse with bar and food, outdoor heated pool with retractable roof, tennis court, adventure playground, shop, launderette, Wi-Fi",
+ "overview": "Bank Farm is a holiday park in Horton, on the slope above Horton and Port Eynon bays. As well as tent and touring pitches it has glamping pods and self-catering bungalows, and its facilities include a clubhouse with a bar and food, a heated pool and a shop.",
+ "surfTripFit": "It overlooks the same stretch of beach as Port Eynon and has plenty to keep a family busy on flat days.",
+ "sources": [
+  {
+   "label": "Bank Farm official site",
+   "url": "https://www.bankfarmleisure.co.uk/"
+  },
+  {
+   "label": "Visit Swansea Bay listing",
+   "url": "https://www.visitswanseabay.com/listings/bank-farm-leisure-park/"
+  }
+ ],
+ "slug": "bank-farm-leisure"
+}

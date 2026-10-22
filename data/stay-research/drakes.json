@@ -1,0 +1,26 @@
+{
+ "name": "Drakes",
+ "officialUrl": "https://drakeshotel.com",
+ "trading": true,
+ "stayType": "Boutique seafront hotel",
+ "accommodation": "20 bedrooms in Good to Best categories, some with sea views or balconies; minimum two nights on Saturdays",
+ "suitableFor": "Couples wanting a stylish seafront stay with a restaurant and bar on site",
+ "parking": "On-site parking, charged per night (Visit Brighton listing)",
+ "dogs": "Dog-friendly, with dedicated dog stays",
+ "beachAccess": "Directly on the seafront on Marine Parade, about 0.22 miles from Palace Pier",
+ "boardStorage": null,
+ "confirmedFeatures": "Cocktail bar, Dilsk restaurant, breakfast in restaurant or room, air conditioning, Wi-Fi, 24-hour staff, sea-view rooms",
+ "overview": "Drakes occupies a pair of Regency townhouses on Marine Parade, right on Brighton seafront in Kemptown. Its 20 rooms run from compact doubles to sea-view rooms with balconies, and there is a cocktail bar and the Dilsk restaurant downstairs. Palace Pier is roughly a quarter of a mile along the front.",
+ "surfTripFit": "Front-facing rooms look straight onto the sea, so you can check conditions from the window, and it accepts dogs and has parking on site.",
+ "sources": [
+  {
+   "label": "Official website",
+   "url": "https://drakeshotel.com"
+  },
+  {
+   "label": "Visit Brighton listing",
+   "url": "https://www.visitbrighton.com/accommodation/drakes-hotel-p38973"
+  }
+ ],
+ "slug": "drakes"
+}

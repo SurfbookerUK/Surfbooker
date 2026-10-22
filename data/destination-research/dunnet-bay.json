@@ -1,0 +1,122 @@
+{
+ "overview": [
+  "Dunnet Bay is a long, north-west-facing beach on the Caithness coast, running about three miles from Dunnet village towards Castletown. High dunes back the sand and Dunnet Forest lies just inland, east of the A836. It's the most beginner-friendly surf spot on this stretch of the north coast, with plenty of room to spread out even when the North Coast 500 is at its busiest.",
+  "Above the bay to the north rises Dunnet Head, the most northerly point on mainland Britain, topped by a lighthouse. The area has plenty of history too: Dunnet Church has records going back to 1230, and during the Second World War pilots from RAF Castletown were housed at the hotel by the beach. It's a good place to combine surfing with walks and sightseeing.",
+  "The local surf school runs lessons and hire from the beach car park beside the caravan site. There are two wood-fired saunas around the bay, but no public showers or changing rooms, and no lifeguards. Come prepared to change at the car, and treat the more powerful reefs around Thurso as somewhere to watch rather than surf until you're experienced."
+ ],
+ "suits": [
+  "First lessons on the north coast",
+  "Families on a North Coast 500 trip",
+  "Intermediates wanting space and a mellow wave"
+ ],
+ "notFor": [
+  "Anyone who needs hot showers and changing rooms",
+  "Lifeguarded swimming"
+ ],
+ "surf": {
+  "text": [
+   "Dunnet picks up north-west swell well, and northerly swells generally work too. South-east winds are offshore. It's mostly sand with a right-hand reef section, and it can work on all tides; the banks change, so ask the school where's best on the day.",
+   "Surf is possible all year. Autumn and winter bring bigger swell and short days; summer is better for lessons on smaller days. The length of the bay means you can usually find a quieter, smaller corner if one section looks too lively.",
+   "Dunnet is a wide, exposed bay with lefts and rights on the beach and a right-hand reef. North-westerly swell and a south-easterly offshore work best, and it's good at all stages of the tide. Rips and rocks are the hazards. It works all year with spring best, and April has the most clean days."
+  ],
+  "cards": [
+   {
+    "label": "Level",
+    "title": "Beginners to intermediates",
+    "text": "The north coast's best teaching beach."
+   },
+   {
+    "label": "Hazards",
+    "title": "Rips and reef",
+    "text": "Rip currents, rocky sections, cold water and swell that builds fast."
+   },
+   {
+    "label": "Crowds",
+    "title": "Spacious",
+    "text": "Three miles of sand leaves plenty of room even in peak season."
+   }
+  ]
+ },
+ "practical": [
+  {
+   "label": "Parking",
+   "title": "Beach car park",
+   "text": "Next to the caravan and motorhome site, which is also the surf school's meeting point. Check signs for any charges."
+  },
+  {
+   "label": "Facilities",
+   "title": "Toilets only",
+   "text": "Public toilets near the car park, but no changing or shower facilities at the beach."
+  },
+  {
+   "label": "Lifeguards",
+   "title": "None",
+   "text": "Call 999 or 112 and ask for the Coastguard in an emergency."
+  },
+  {
+   "label": "Access",
+   "title": "Short walk",
+   "text": "A few minutes from the car park to the sand, then soft sand beyond."
+  },
+  {
+   "label": "Winter",
+   "title": "Short days",
+   "text": "Check daylight as well as the forecast between November and February."
+  }
+ ],
+ "faqs": [
+  {
+   "q": "Is Dunnet Bay good for beginners?",
+   "a": "Yes. It's the best beginner beach on the north coast and lessons run from the beach car park. There are no lifeguards."
+  },
+  {
+   "q": "Are there showers at Dunnet Bay?",
+   "a": "No. There are toilets near the car park but no showers or changing rooms."
+  },
+  {
+   "q": "How long is Dunnet beach?",
+   "a": "About three miles, from Dunnet village towards Castletown."
+  },
+  {
+   "q": "Is Dunnet Head nearby?",
+   "a": "Yes. It's just north of the village and is the most northerly point of mainland Britain."
+  }
+ ],
+ "sources": [
+  {
+   "label": "Wikipedia — Dunnet Bay / Dunnet",
+   "url": "https://en.wikipedia.org/wiki/Dunnet_Bay"
+  },
+  {
+   "label": "North Coast Watersports",
+   "url": "https://www.northcoastwatersports.com/"
+  },
+  {
+   "label": "RNLI — find a lifeguarded beach",
+   "url": "https://rnli.org/find-my-nearest/lifeguarded-beaches"
+  }
+ ],
+ "factCheck": [
+  {
+   "fact": "Dunnet Beach extends about three miles towards Castletown",
+   "url": "https://en.wikipedia.org/wiki/Dunnet_Bay"
+  },
+  {
+   "fact": "Dunnet Forest lies south of the village, east of the A836",
+   "url": "https://en.wikipedia.org/wiki/Dunnet_Bay"
+  },
+  {
+   "fact": "Dunnet Head lighthouse marks the most northerly point of the island of Great Britain",
+   "url": "https://en.wikipedia.org/wiki/Dunnet_Bay"
+  },
+  {
+   "fact": "Dunnet Church has records dating from 1230; RAF Castletown pilots housed at the Northern Sands Hotel in WWII",
+   "url": "https://en.wikipedia.org/wiki/Dunnet_Bay"
+  },
+  {
+   "fact": "Dunnet: beach and reef, NW swell, SE offshore, all tides, rips/rocks",
+   "url": "https://www.surf-forecast.com/breaks/Dunnet-Bay"
+  }
+ ],
+ "checked": "October 2026"
+}

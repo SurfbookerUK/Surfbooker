@@ -1,0 +1,22 @@
+{
+ "slug": "the-scarlet-hotel",
+ "officialUrl": "https://www.scarlethotel.co.uk",
+ "trading": true,
+ "stayType": "Adults-only eco spa hotel",
+ "accommodation": "Room categories Just Right, Generous, Unique, Spacious, Indulgent and Dog Friendly (number not stated)",
+ "suitableFor": "Adults only; couples and dog owners (dog-friendly rooms)",
+ "parking": null,
+ "dogs": "Dog-friendly rooms available; details not confirmed",
+ "beachAccess": null,
+ "boardStorage": null,
+ "confirmedFeatures": "Reed-filtered natural pool, clifftop hot tubs, holistic spa, treatments, sea-view restaurant",
+ "overview": "The Scarlet is an adults-only eco hotel set on the quieter coastal edge of Mawgan Porth in north Cornwall. Its rooms range from compact to larger sea-facing categories, and the spa includes clifftop hot tubs and a reed-filtered natural pool. There is an on-site restaurant with sea views.",
+ "surfTripFit": "Suits adult surfers wanting a spa and restaurant after a session at Mawgan Porth; no beach distance, parking or board storage is stated.",
+ "sources": [
+  {
+   "label": "Official site",
+   "url": "https://www.scarlethotel.co.uk"
+  }
+ ],
+ "gaps": "Room count, parking, dog policy details, beach distance, board storage, Wi-Fi not confirmed."
+}

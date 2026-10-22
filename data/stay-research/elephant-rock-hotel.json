@@ -1,0 +1,26 @@
+{
+ "name": "Elephant Rock Hotel",
+ "officialUrl": "http://www.elephantrockhotel.co.uk",
+ "trading": true,
+ "stayType": "Small hotel in a Victorian terrace",
+ "accommodation": "18 bedrooms: singles, classic and superior doubles, executive sea-view rooms; family rooms on request",
+ "suitableFor": "Couples, friends and solo travellers",
+ "parking": "Free on-site parking, including disabled spaces (tourism listing)",
+ "dogs": "Dogs welcome outside (tourism listing)",
+ "beachAccess": "About 0.5 miles from East Strand, per tourism listing",
+ "boardStorage": null,
+ "confirmedFeatures": "Breakfast included, 30-seat restaurant, cocktail bar and lounge with sea views, seasonal outdoor bar, robes and slippers, lift, Wi-Fi, step-free entrance, wheelchair-accessible bedroom",
+ "overview": "Elephant Rock is an 18-bedroom hotel in a renovated Victorian terrace at Ramore Head in central Portrush, around half a mile from East Strand. Breakfast is included, and there is a restaurant, a sea-view cocktail bar and free on-site parking. Some rooms have sea views.",
+ "surfTripFit": "Free parking is handy when you are loading boards, and East Strand and West Strand are both within walking distance.",
+ "sources": [
+  {
+   "label": "Elephant Rock official site",
+   "url": "http://www.elephantrockhotel.co.uk"
+  },
+  {
+   "label": "Visit Causeway Coast and Glens listing",
+   "url": "https://www.visitcausewaycoastandglens.com/accommodation/elephant-rock-p773961"
+  }
+ ],
+ "slug": "elephant-rock-hotel"
+}

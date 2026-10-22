@@ -1,0 +1,22 @@
+{
+ "name": "Farringford",
+ "officialUrl": "https://farringford.co.uk/",
+ "trading": true,
+ "stayType": "Estate with self-catering cottages",
+ "accommodation": "Self-catering cottages in the Alfred Cottages and Stable Cottages groups",
+ "suitableFor": "Families and groups wanting self-catering on a historic estate",
+ "parking": null,
+ "dogs": "Dog-friendly cottages offered",
+ "beachAccess": "On Bedbury Lane, Freshwater Bay, next to the West Wight coastline",
+ "boardStorage": null,
+ "confirmedFeatures": "Self-catering cottages, dog-friendly cottages",
+ "overview": "Farringford is the historic estate on Bedbury Lane above Freshwater Bay, bordering the protected West Wight coastline. It lets two groups of self-catering cottages, the Alfred Cottages and the Stable Cottages, and some of them take dogs. The estate lists surfing among the activities nearby.",
+ "surfTripFit": "Self-catering within walking distance of Freshwater Bay and a short drive to Compton, and the estate itself points to surfing nearby.",
+ "sources": [
+  {
+   "label": "Official website",
+   "url": "https://farringford.co.uk/"
+  }
+ ],
+ "slug": "farringford"
+}

@@ -1,0 +1,26 @@
+{
+ "name": "Greystead Bamburgh",
+ "officialUrl": "https://www.greysteadbamburgh.com/",
+ "trading": true,
+ "stayType": "Luxury self-catering house",
+ "accommodation": "Four-bedroom house sleeping 10, with children's playroom",
+ "suitableFor": "Large families and groups",
+ "parking": "Private parking for about 4 cars",
+ "dogs": "Listed as pet friendly by Visit Northumberland; check with owner",
+ "beachAccess": "A short walk from the beach",
+ "boardStorage": null,
+ "confirmedFeatures": "Sitting room, games room, playroom, large dining kitchen, enclosed garden, Wi-Fi, laundry, free entry to Seafield Ocean Club",
+ "overview": "A large holiday house on Front Street in the centre of Bamburgh, overlooking the cricket pitch and a short walk from the castle and beach. It sleeps 10 across four bedrooms, with a games room, playroom and enclosed garden. Guests also get free entry to the pool and spa at the Seafield Ocean Club.",
+ "surfTripFit": "Room for a big group, parking for several cars and a short walk to the beach make it a strong group surf-trip base.",
+ "sources": [
+  {
+   "label": "Official website",
+   "url": "https://www.greysteadbamburgh.com/"
+  },
+  {
+   "label": "Visit Northumberland listing",
+   "url": "https://www.visitnorthumberland.com/explore/things-to-do/stay/self-catering/greystead-bamburgh"
+  }
+ ],
+ "slug": "greystead-bamburgh"
+}

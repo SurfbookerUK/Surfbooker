@@ -1,0 +1,205 @@
+{
+ "slug": "west-wittering",
+ "schools": [
+  {
+   "name": "2XS West Wittering",
+   "type": "Surf school",
+   "url": "https://www.2xs.co.uk/west-wittering-watersports-courses-tuition/surf-sup-tuition/",
+   "base": "2XS centre on West Wittering beach (office in Birdham, PO20 7HY)",
+   "note": "90-minute Learn to Surf group lessons from age 12, family surf lessons from 7, kids' courses and a Saturday Surf Club for 7 to 14s, plus SUP lessons. Adaptive surf and SUP sessions run in summer with Kirstie Martin.",
+   "source": "https://www.2xs.co.uk/west-wittering-watersports-courses-tuition/surf-sup-tuition/"
+  }
+ ],
+ "hire": [
+  {
+   "name": "2XS West Wittering",
+   "type": "Board & wetsuit hire",
+   "url": "https://www.2xs.co.uk/club/hire/",
+   "base": "On West Wittering beach",
+   "note": "Foam and epoxy surfboards, bodyboards, skimboards, SUPs, kayaks, wetsuits, boots and gloves, plus windsurf, wing and (members only) kite kit. A hire membership covers mid-March to the end of October.",
+   "source": "https://www.2xs.co.uk/club/hire/"
+  }
+ ],
+ "shops": [
+  {
+   "name": "2XS",
+   "type": "Surf shop",
+   "url": "https://www.2xs.co.uk/",
+   "town": "West Wittering beach (demo and test centre); office in Birdham",
+   "note": "Mainly a windsurf, wing, kite and SUP retailer, also selling surf kit and wetsuits online, with second-hand and ex-demo gear.",
+   "source": "https://www.2xs.co.uk/"
+  },
+  {
+   "name": "Wittering Surf Shop",
+   "type": "Surf shop",
+   "url": "https://witteringsurfshop.com/",
+   "town": "15 Shore Road, East Wittering",
+   "note": "Independent surf shop since 2005, focused on surf clothing and accessories, with Fairmile surfboards in store and the Drift-In café attached.",
+   "source": "https://witteringsurfshop.com/pages/brand"
+  },
+  {
+   "name": "Shore Watersports",
+   "type": "Surf shop",
+   "url": "https://www.shore.co.uk/",
+   "town": "20-22 Shore Road, East Wittering (about 100m from the beach)",
+   "note": "Large surf store with hundreds of surfboards and wetsuits in stock, changing rooms for fitting, plus SUPs and kayaks and a big online shop.",
+   "source": "https://www.shore.co.uk/wittering-surf-shop"
+  }
+ ],
+ "lessonsIntro": "Surf lessons at West Wittering are run by 2XS, the watersports centre on the beach, with group, family, kids' and adaptive sessions in the season.",
+ "learn": {
+  "text": [
+   "2XS runs 90-minute Learn to Surf group lessons for ages 12 and up, with all the equipment included. Younger learners can join a family surf lesson from age 7, the Little Rippers or Rippers kids' courses, or the Saturday Surf Club for 7 to 14-year-olds. Adaptive surf and SUP sessions run over the summer with Kirstie Martin, who brings helpers and equipment. You book these with her directly.",
+   "West Wittering is a big, flat beach where the tide changes everything. 2XS says the tides shape what you can do on any visit: low tide leaves flat water in a sheltered lagoon known as 'the trench', which suits beginner paddleboarders, while waves arrive around high tide. Waves here are usually small and windswell-driven, so the centre's webcam and weather pages are worth checking before you go."
+  ],
+  "cards": [
+   {
+    "label": "Level",
+    "title": "Beginners and families",
+    "text": "Learn to Surf is aimed at first-timers aged 12+, family lessons start at 7, and there are kids' courses and a Saturday club."
+   },
+   {
+    "label": "Best time",
+    "title": "Around high tide, in the season",
+    "text": "2XS says waves come in at high tide, while low tide gives flat water for SUP. Check its webcam and weather page before travelling."
+   },
+   {
+    "label": "Watch out for",
+    "title": "Big tidal range",
+    "text": "The tide changes conditions a lot here. Learn with the school, which plans sessions around the tide. Chichester District Council says West Wittering has a lifeguard service between set hours in high season; check the estate's website for times."
+   }
+  ]
+ },
+ "hireIntro": "2XS hires surf, SUP, windsurf, wing and kayak kit, along with wetsuits, straight from the beach at West Wittering, so you don't need your own gear.",
+ "kit": {
+  "text": [
+   "For a first go, a foam board is the one to choose; 2XS hires both foam and epoxy boards, so improvers can step up. Water in this stretch of the Channel ranges from about 6 to 8°C in late winter to 17 to 19°C in late summer, according to the neighbouring Wittering Surf Shop. When it's flat, try a bodyboard, a skimboard or a SUP on the lagoon at low tide."
+  ],
+  "cards": [
+   {
+    "label": "Board",
+    "title": "Foam for beginners, epoxy for improvers",
+    "text": "2XS hires foam and epoxy surfboards. Start on foam and move to epoxy once you're catching waves on your own."
+   },
+   {
+    "label": "Wetsuit",
+    "title": "3/2 in summer, 5/4 in winter",
+    "text": "Wittering Surf Shop suggests a 3/2 or shorty from July to October, a 4/3 in May, June and November, and a 5/4 or 5/3 with boots and gloves from December to April."
+   },
+   {
+    "label": "Other craft",
+    "title": "SUP, bodyboards and more",
+    "text": "SUPs, bodyboards, skimboards and kayaks can all be hired. Low tide gives flat water for SUP beginners in 'the trench'."
+   }
+  ]
+ },
+ "shopsIntro": "2XS has its demo and test centre on West Wittering beach, and Wittering Surf Shop is a short drive away in East Wittering village.",
+ "shopsText": [
+  "On the beach, 2XS has a demo and test centre and sells windsurf, wing, kite, surf and SUP gear and wetsuits, mainly through its online shop. For surf clothing, accessories and changing robes, head to Wittering Surf Shop on Shore Road in East Wittering, which also stocks Fairmile surfboards and has the Drift-In café attached."
+ ],
+ "faqs": {
+  "lessons": [
+   {
+    "q": "How old do you need to be for a surf lesson at West Wittering?",
+    "a": "2XS's Learn to Surf lessons are for ages 12 and up. Family surf lessons start at 7, and the Saturday Surf Club is for 7 to 14-year-olds."
+   },
+   {
+    "q": "How long is a lesson and is kit included?",
+    "a": "Learn to Surf lasts 90 minutes, and 2XS says lessons include all the equipment you need."
+   },
+   {
+    "q": "Is there adaptive surfing at West Wittering?",
+    "a": "Yes. Adaptive surf and SUP sessions run over the summer months with Kirstie Martin, who brings helpers and equipment. Book with her directly."
+   },
+   {
+    "q": "Is West Wittering lifeguarded?",
+    "a": "Yes, in high season. Chichester District Council says the beach has a lifeguard service between set hours; the West Wittering Estate website has the details."
+   }
+  ],
+  "hire": [
+   {
+    "q": "What surf kit can I hire at West Wittering?",
+    "a": "2XS hires foam and epoxy surfboards, bodyboards, skimboards, SUPs, kayaks and wetsuits, with boots and gloves, from the beach."
+   },
+   {
+    "q": "Do I need to be a member to hire?",
+    "a": "Not for surf or SUP hire. Kitesurf hire is for members only, and a hire membership is available for regular use from mid-March to the end of October."
+   }
+  ],
+  "shops": [
+   {
+    "q": "Where's the nearest surf shop to West Wittering?",
+    "a": "2XS has its centre on the beach and an online shop. Wittering Surf Shop is at 15 Shore Road in East Wittering."
+   }
+  ]
+ },
+ "sources": [
+  {
+   "label": "2XS",
+   "url": "https://www.2xs.co.uk/"
+  },
+  {
+   "label": "2XS - Surf and SUP tuition",
+   "url": "https://www.2xs.co.uk/west-wittering-watersports-courses-tuition/surf-sup-tuition/"
+  },
+  {
+   "label": "2XS - Hire",
+   "url": "https://www.2xs.co.uk/club/hire/"
+  },
+  {
+   "label": "Wittering Surf Shop - About",
+   "url": "https://witteringsurfshop.com/pages/brand"
+  },
+  {
+   "label": "Wittering Surf Shop - Surf report",
+   "url": "https://witteringsurfshop.com/pages/surf-report"
+  },
+  {
+   "label": "Chichester District Council - Coastal recreation, byelaws and slipways",
+   "url": "https://www.chichester.gov.uk/article/24068/Coastal-recreation-byelaws-and-slipways"
+  },
+  {
+   "label": "Shore Watersports",
+   "url": "https://www.shore.co.uk/wittering-surf-shop"
+  }
+ ],
+ "factCheck": [
+  {
+   "fact": "2XS centre at West Wittering beach with demo/test centre, school and hire; office Birdham PO20 7HY",
+   "url": "https://www.2xs.co.uk/"
+  },
+  {
+   "fact": "Learn to Surf 90 min, min age 12, all equipment included; Family Surf Lesson min age 7; adaptive sessions with Kirstie Martin in summer",
+   "url": "https://www.2xs.co.uk/west-wittering-watersports-courses-tuition/surf-sup-tuition/"
+  },
+  {
+   "fact": "Low tide flat water in 'the trench' suits beginner SUP; waves at high tide",
+   "url": "https://www.2xs.co.uk/west-wittering-watersports-courses-tuition/surf-sup-tuition/"
+  },
+  {
+   "fact": "Saturday Surf Club ages 7-14; Little Rippers and Rippers courses",
+   "url": "https://www.2xs.co.uk/"
+  },
+  {
+   "fact": "Hire: foam and epoxy surfboards, bodyboards, skimboards, SUPs, kayaks, wetsuits, boots/gloves; kite hire members only; hire membership mid-March to end October",
+   "url": "https://www.2xs.co.uk/club/hire/"
+  },
+  {
+   "fact": "Water temperature 6-8C late winter to 17-19C late summer; wetsuit thickness by month",
+   "url": "https://witteringsurfshop.com/pages/surf-report"
+  },
+  {
+   "fact": "Wittering Surf Shop at 15 Shore Rd, East Wittering, since 2005; Fairmile boards; Drift-In cafe",
+   "url": "https://witteringsurfshop.com/pages/brand"
+  },
+  {
+   "fact": "West Wittering lifeguarded between set hours in high season",
+   "url": "https://www.chichester.gov.uk/article/24068/Coastal-recreation-byelaws-and-slipways"
+  },
+  {
+   "fact": "Shore Watersports 20-22 Shore Rd East Wittering",
+   "url": "https://www.shore.co.uk/wittering-surf-shop"
+  }
+ ],
+ "gaps": "Lifeguard hours/dates not confirmed (West Wittering Estate site blocked). Watersports zones, craft rules and harbour-entrance currents not confirmed. No other surf schools found."
+}

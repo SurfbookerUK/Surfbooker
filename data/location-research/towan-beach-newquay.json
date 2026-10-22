@@ -1,0 +1,277 @@
+{
+ "slug": "towan-beach-newquay",
+ "schools": [
+  {
+   "name": "Cornish Wave",
+   "type": "Surf school",
+   "url": "https://www.cornishwave.com/",
+   "base": "40 Fore Street, Newquay, a short walk above Towan",
+   "note": "Says it is one of only two schools licensed for Towan, and runs lessons at Towan or Fistral depending on conditions. Group lessons are ages 8+ with up to 8 per group; private, couples and family lessons are also available.",
+   "source": "https://www.cornishwave.com/"
+  },
+  {
+   "name": "Escape Surf School",
+   "type": "Surf school",
+   "url": "https://www.escapesurfschool.co.uk/",
+   "base": "Seaview Terrace at Belushi's, 35 Fore Street, on the cliff top above Towan",
+   "note": "Teaches mainly on Towan, with group courses, private coaching, family lessons, surf weekends and kids' holiday sessions for ages 8-13. Kit is included in lessons.",
+   "source": "https://www.visitcornwall.com/things-to-do/surfing-and-water-sports/escape-surf-school"
+  },
+  {
+   "name": "Newquay Activity Centre",
+   "type": "Surf school",
+   "url": "https://newquayactivitycentre.co.uk/",
+   "base": "60 Fore Street, Newquay, about five minutes' walk from Towan",
+   "note": "Mostly teaches at Great Western and Fistral but lists Towan as a nearby option. Group lessons are 8+; private and family lessons from 3+.",
+   "source": "https://newquayactivitycentre.co.uk/surf-lessons/"
+  }
+ ],
+ "hire": [
+  {
+   "name": "Newquay Activity Centre",
+   "type": "Board & wetsuit hire",
+   "url": "https://newquayactivitycentre.co.uk/",
+   "base": "60 Fore Street, about a five-minute walk from Towan",
+   "note": "Hires surf equipment and offers discounted hire as a bolt-on after a lesson.",
+   "source": "https://newquayactivitycentre.co.uk/cornwall-surfing-beaches/towan-beach-a-complete-guide/"
+  },
+  {
+   "name": "Cornish Wave",
+   "type": "Board & wetsuit hire",
+   "url": "https://www.cornishwave.com/",
+   "base": "40 Fore Street, Newquay",
+   "note": "Hires wetsuits, bodyboards, surfboards and paddleboards in all sizes with flexible hire periods.",
+   "source": "https://www.cornishwave.com/"
+  }
+ ],
+ "shops": [
+  {
+   "name": "Ann's Cottage",
+   "type": "Surf shop",
+   "url": "https://www.annscottage.com/",
+   "town": "Newquay (Fistral Beach and Central Square)",
+   "note": "A Cornish surf retailer with two shops at Fistral Beach, one of them focused on wetsuits and surf gear, plus a town-centre store. The range covers soft and hard surfboards, bodyboards, SUPs and summer, winter and spring/autumn wetsuits with boots, gloves and hoods.",
+   "source": "https://www.findingouradventure.com/travel-diaries/best-shopping-newquay-guide-cornwall"
+  },
+  {
+   "name": "Sunset Surf",
+   "type": "Surf shop",
+   "url": "https://sunsetsurfnewquay.co.uk/",
+   "town": "Newquay town centre (Fore Street)",
+   "note": "Stocks foam boards, mini mals and longboards, bodyboards, wetsuits for adults and kids with boots, gloves and hoods, plus its own Cornish-printed clothing. Board and wetsuit hire is also listed, including winter wetsuits.",
+   "source": "https://directory.cornishsecrets.co.uk/listing/sunset-surf-newquay/"
+  },
+  {
+   "name": "Slide and Glide Surf",
+   "type": "Surf shop",
+   "url": "https://slideandglidesurf.co.uk/",
+   "town": "Newquay town centre (70 Fore Street)",
+   "note": "Sells its own custom surfboards plus leashes, wax, ding repair kits and clothing, and offers surfboard and wetsuit hire. The site says new board stock is on the way, so ring ahead if you're after a specific board.",
+   "source": "https://slideandglidesurf.co.uk/"
+  }
+ ],
+ "lessonsIntro": "Towan sits right below Newquay town centre, next to the harbour, and is sheltered from much of the Atlantic swell. Two schools on Fore Street teach here, but surfing rules on this beach are stricter than elsewhere in Newquay, so check before you book.",
+ "learn": {
+  "text": [
+   "Towan's headland and harbour wall block a lot of the prevailing swell, which is why local schools describe it as a gentle place to build confidence. The RNLI puts it more cautiously: it is sheltered from most swells and only gets surf in stormy conditions. Waves often fade at high tide, and a local byelaw stops surfing once the rising tide passes the island, so most surfing here happens around mid tide.",
+   "The key rule for summer: the RNLI says surfing is not permitted on Towan during the summer season while lifeguards are on duty, from 10am to 6pm. In 2026 the daily patrol runs from 2 May to 27 September. Lessons booked for that period may be moved to Fistral or Great Western, so ask your school where you'll be surfing. Bodyboarders and swimmers use the red and yellow flagged area."
+  ],
+  "cards": [
+   {
+    "label": "Level",
+    "title": "Sheltered and suited to learners",
+    "text": "Smaller, gentler waves than Fistral make it a confidence-builder, when surfing is allowed."
+   },
+   {
+    "label": "Best time",
+    "title": "Mid tide, outside summer patrol hours",
+    "text": "No surfing during RNLI summer patrols (10am-6pm), and none once the rising tide passes the island."
+   },
+   {
+    "label": "Watch out for",
+    "title": "Crowds, boats and loose boards",
+    "text": "Learners, bodyboarders and swimmers share a small area, and the working harbour is busiest around high tide."
+   }
+  ]
+ },
+ "hireIntro": "There is no hire shop on the sand at Towan itself, but Fore Street, right above the beach, has hire from Newquay Activity Centre and Cornish Wave.",
+ "kit": {
+  "text": [
+   "Learners need a large foam board, and the town schools have plenty. Because Towan only works in a narrower tide window and is off-limits to surfers in summer patrol hours, it is also a good bodyboarding, handplaning and bodysurfing beach at high tide. Water temperatures range from about 9-10C in early March to 15-18C in August, so plan your wetsuit around the season."
+  ],
+  "cards": [
+   {
+    "label": "Board",
+    "title": "Big soft-top",
+    "text": "A wide, high-volume foam board is the right choice for the small, sheltered waves here."
+   },
+   {
+    "label": "Wetsuit",
+    "title": "3/2 or 4/3 in summer, 5mm in winter",
+    "text": "A 4/3mm or 3/2mm with boots in summer; a 5/4mm or 5/3mm with gloves, boots and a hood in late winter."
+   },
+   {
+    "label": "Other craft",
+    "title": "Bodyboards, and SUP at high tide",
+    "text": "Bodyboard in the red and yellow flagged zone. SUP is best at high tide from the harbour, but not in offshore or strong winds."
+   }
+  ]
+ },
+ "shopsIntro": "Towan is in the middle of Newquay, so the town's surf shops are only a few minutes' walk from the sand.",
+ "shopsText": [
+  "Fore Street runs right along the top of Towan. Sunset Surf and Slide and Glide are both on it, selling boards, wetsuits and accessories, and both also do hire. Ann's Cottage has a town-centre store in Central Square, plus two more shops on the other side of town at Fistral Beach."
+ ],
+ "faqs": {
+  "lessons": [
+   {
+    "q": "Can you surf on Towan Beach in summer?",
+    "a": "Not during lifeguard hours. The RNLI says surfing isn't permitted on Towan in the summer season while lifeguards are on duty, 10am to 6pm. Surfing is also stopped once the rising tide passes the island."
+   },
+   {
+    "q": "Which surf schools teach on Towan?",
+    "a": "Cornish Wave says it's one of two schools licensed for Towan, and Escape Surf School teaches mainly on Towan. Both are based on Fore Street. In summer, check which beach your lesson will use."
+   },
+   {
+    "q": "Is Towan good for beginners?",
+    "a": "Yes. The harbour wall and headland shelter it from much of the swell, so waves are smaller than at Fistral, though it can be flat when there's no big swell."
+   }
+  ],
+  "hire": [
+   {
+    "q": "Is there surf hire on Towan Beach?",
+    "a": "Not on the sand, but Newquay Activity Centre is about five minutes' walk away on Fore Street, and Cornish Wave hires boards, wetsuits and SUPs from Fore Street too."
+   },
+   {
+    "q": "Can I paddleboard at Towan?",
+    "a": "Yes, high tide is the best time as you can launch from the harbour into deeper water. Avoid it in offshore or strong winds, and watch for boat traffic."
+   }
+  ],
+  "shops": [
+   {
+    "q": "Where are the nearest surf shops to Towan?",
+    "a": "On Fore Street, directly above the beach: Sunset Surf and Slide and Glide. Ann's Cottage has a store in Central Square in the town centre."
+   }
+  ]
+ },
+ "sources": [
+  {
+   "label": "RNLI: Towan Beach",
+   "url": "https://rnli.org/find-my-nearest/lifeguarded-beaches/towan-beach"
+  },
+  {
+   "label": "Newquay Activity Centre: Towan Beach guide",
+   "url": "https://newquayactivitycentre.co.uk/cornwall-surfing-beaches/towan-beach-a-complete-guide/"
+  },
+  {
+   "label": "Newquay Activity Centre: surf lessons",
+   "url": "https://newquayactivitycentre.co.uk/surf-lessons/"
+  },
+  {
+   "label": "Cornish Wave",
+   "url": "https://www.cornishwave.com/"
+  },
+  {
+   "label": "Escape Surf School",
+   "url": "https://www.escapesurfschool.co.uk/"
+  },
+  {
+   "label": "Visit Cornwall: Escape Surf School",
+   "url": "https://www.visitcornwall.com/things-to-do/surfing-and-water-sports/escape-surf-school"
+  },
+  {
+   "label": "Aspects Holidays: surfing in Newquay",
+   "url": "https://www.aspects-holidays.co.uk/blog/things-to-do/surfing-in-newquay"
+  },
+  {
+   "label": "Surf-forecast.com: sea temperature",
+   "url": "https://www.surf-forecast.com/breaks/Holywell-Bay/seatemp"
+  },
+  {
+   "label": "Finding Our Adventure: Newquay shops",
+   "url": "https://www.findingouradventure.com/travel-diaries/best-shopping-newquay-guide-cornwall"
+  },
+  {
+   "label": "Sunset Surf",
+   "url": "https://sunsetsurfnewquay.co.uk/"
+  },
+  {
+   "label": "Slide and Glide Surf",
+   "url": "https://slideandglidesurf.co.uk/"
+  }
+ ],
+ "factCheck": [
+  {
+   "fact": "Surfing is not permitted during the summer season while lifeguards are on duty",
+   "url": "https://rnli.org/find-my-nearest/lifeguarded-beaches/towan-beach"
+  },
+  {
+   "fact": "2026 patrols: Easter 3-19 April, weekends 25-26 April, daily 2 May-27 September, weekends 3-18 October, half term 24 October-1 November, 10am-6pm",
+   "url": "https://rnli.org/find-my-nearest/lifeguarded-beaches/towan-beach"
+  },
+  {
+   "fact": "Towan is sheltered from most Atlantic swells and gets surf only in stormy conditions",
+   "url": "https://rnli.org/find-my-nearest/lifeguarded-beaches/towan-beach"
+  },
+  {
+   "fact": "Local byelaw bans surfing once the rising tide passes the island; waves often drop out at high tide",
+   "url": "https://newquayactivitycentre.co.uk/cornwall-surfing-beaches/towan-beach-a-complete-guide/"
+  },
+  {
+   "fact": "Headland and harbour wall block prevailing swell; crowds, runaway boards and harbour boat traffic at high tide are hazards",
+   "url": "https://newquayactivitycentre.co.uk/cornwall-surfing-beaches/towan-beach-a-complete-guide/"
+  },
+  {
+   "fact": "High tide is best for SUP, launching from the harbour; not advised in offshore or strong winds",
+   "url": "https://newquayactivitycentre.co.uk/cornwall-surfing-beaches/towan-beach-a-complete-guide/"
+  },
+  {
+   "fact": "Newquay Activity Centre is about a five-minute walk from Towan and hires surfboards",
+   "url": "https://newquayactivitycentre.co.uk/cornwall-surfing-beaches/towan-beach-a-complete-guide/"
+  },
+  {
+   "fact": "Cornish Wave is one of only two schools licensed for Towan; teaches Towan or Fistral; based at 40 Fore Street; hires wetsuits, bodyboards, surfboards, paddleboards",
+   "url": "https://www.cornishwave.com/"
+  },
+  {
+   "fact": "Escape Surf School teaches primarily on Towan; base on the cliff top at 35 Fore Street",
+   "url": "https://www.visitcornwall.com/things-to-do/surfing-and-water-sports/escape-surf-school"
+  },
+  {
+   "fact": "Escape kids' holiday sessions are for ages 8-13; kit included; no standalone hire listed",
+   "url": "https://www.escapesurfschool.co.uk/"
+  },
+  {
+   "fact": "Local bylaw bans surfing at high tide; high tide suits bodyboarding, bodysurfing and handplaning",
+   "url": "https://www.aspects-holidays.co.uk/blog/things-to-do/surfing-in-newquay"
+  },
+  {
+   "fact": "Ann's Cottage has two shops at Fistral Beach (one for wetsuits and surf gear) and a store at 14 Central Square, Newquay",
+   "url": "https://www.findingouradventure.com/travel-diaries/best-shopping-newquay-guide-cornwall"
+  },
+  {
+   "fact": "Ann's Cottage sells soft and hard surfboards, bodyboards, SUPs and seasonal wetsuits with accessories",
+   "url": "https://www.annscottage.com/"
+  },
+  {
+   "fact": "Sunset Surf is at 106 Fore St, Newquay and offers surfboard and wetsuit hire, including winter wetsuits",
+   "url": "https://directory.cornishsecrets.co.uk/listing/sunset-surf-newquay/"
+  },
+  {
+   "fact": "Sunset Surf stocks foam boards, mini mals, longboards, bodyboards and wetsuits for men, women and kids",
+   "url": "https://sunsetsurfnewquay.co.uk/"
+  },
+  {
+   "fact": "Slide and Glide is at 70 Fore Street, Newquay, sells custom surfboards and accessories and offers wetsuit and surfboard hire",
+   "url": "https://slideandglidesurf.co.uk/"
+  },
+  {
+   "fact": "Sea temperature near Newquay peaks around 15-18C in mid August and drops to about 9-10C around 1 March",
+   "url": "https://www.surf-forecast.com/breaks/Holywell-Bay/seatemp"
+  },
+  {
+   "fact": "Suggested wetsuits: 4/3mm or 3/2mm with boots in summer; 5/4mm or 5/3mm with gloves and boots in late winter; add a hood when windy",
+   "url": "https://www.surf-forecast.com/breaks/Holywell-Bay/seatemp"
+  }
+ ],
+ "gaps": "The RNLI rule (no surfing during summer patrol hours) sits awkwardly with schools that say they teach on Towan; neither Cornish Wave nor Escape explains how they handle it, so readers are told to check. Couldn't identify the second licensed Towan school Cornish Wave refers to. A Cornish Secrets guide also names 'SSS Surf School' at Towan, but it couldn't be verified so it's left out. No hire on the sand itself was found."
+}

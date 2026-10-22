@@ -1,0 +1,26 @@
+{
+ "slug": "the-seiners-arms-rooms",
+ "officialUrl": "https://www.seiners.co.uk/",
+ "trading": true,
+ "stayType": "Seafront inn with B&B rooms",
+ "accommodation": "Bed and breakfast rooms with a choice of sea views or dog-friendly options; number not stated.",
+ "suitableFor": "Couples, surfers and dog owners wanting to stay right on the beach.",
+ "parking": null,
+ "dogs": "Dog-friendly rooms available.",
+ "beachAccess": "On Perranporth seafront; rooms described as seconds from the beach.",
+ "boardStorage": null,
+ "confirmedFeatures": "Restaurant, bar, private dining, weddings and conferences, surf cam",
+ "overview": "The Seiners Arms is a pub with bed and breakfast rooms on Beach Road, right on Perranporth seafront, looking out to Chapel Rock and the Atlantic. Rooms have a separate entrance, and the ground floor has a traditional bar and a seafood-led restaurant using local produce.",
+ "surfTripFit": "Few places in Perranporth sit closer to the surf: the inn is on the beach itself and even runs a surf cam, so checking conditions takes a glance out of the window.",
+ "sources": [
+  {
+   "label": "Seiners Arms official site",
+   "url": "https://www.seiners.co.uk/"
+  },
+  {
+   "label": "CAMRA pub listing",
+   "url": "https://camra.org.uk/pubs/seiners-arms-perranporth-139074"
+  }
+ ],
+ "gaps": "Room count, parking and board storage not stated."
+}

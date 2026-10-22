@@ -1,0 +1,26 @@
+{
+ "name": "The Albion",
+ "officialUrl": "http://www.albionhotel.co.uk",
+ "trading": true,
+ "stayType": "Seafront hotel with restaurant",
+ "accommodation": "Rooms and suites, most with sea views, including family suites",
+ "suitableFor": "Couples, families and dog owners wanting to stay right on the bay",
+ "parking": "Free on-site parking with EV charging (Visit Isle of Wight listing)",
+ "dogs": "Welcome, with dog-friendly rooms (Visit Isle of Wight listing)",
+ "beachAccess": "On the shoreline of Freshwater Bay, steps from the beach",
+ "boardStorage": null,
+ "confirmedFeatures": "Rock Restaurant, Cabin Bar, terrace, air conditioning, lift, Wi-Fi, sea-view rooms",
+ "overview": "The Albion sits on the shoreline of Freshwater Bay, beneath the cliffs and only steps from the beach. Most of its rooms and suites have sea views, and the Rock Restaurant and Cabin Bar serve food through the day with a terrace over the water. There is free parking on site and dog-friendly rooms.",
+ "surfTripFit": "About as close to the water as you can stay at Freshwater Bay, with parking on site and Compton Bay a short drive along the coast.",
+ "sources": [
+  {
+   "label": "Official website",
+   "url": "http://www.albionhotel.co.uk"
+  },
+  {
+   "label": "Visit Isle of Wight listing",
+   "url": "https://www.visitisleofwight.co.uk/accommodation/albion-hotel-p2413101"
+  }
+ ],
+ "slug": "the-albion"
+}

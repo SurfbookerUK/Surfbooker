@@ -1,0 +1,143 @@
+{
+ "overview": [
+  "Runswick Bay is a former fishing village about five miles north of Whitby, its red-roofed cottages stacked up the western side of a curving, roughly 2km sandy bay. Cauldron Cliff closes the bay to the north and the Kettleness headland to the south. The original village was almost wiped out by a landslip in 1682; nobody died, and the village was rebuilt a little further along the cliff.",
+  "The village is full of reminders of its past: a white thatched cottage that was once the coastguard's house, a lifeboat tradition dating to 1866, and the old alum works across the bay, quarried from 1727 to 1871. The rocks hold fossils and jet, and the small caves at the far end, the Hob Holes, are tied to local hobgoblin folklore.",
+  "This is a family and walking beach first. The council calls it a lovely place to spend a few quiet hours, with plenty of room for children and dogs, and the Cleveland Way runs right through the village. The bay faces away from much of the swell, which keeps it calm on most days, and the rock pools are at their best around low tide."
+ ],
+ "suits": [
+  "Families wanting a sheltered, scenic bay",
+  "Experienced surfers chasing a rare day on the reef",
+  "Walkers on the Cleveland Way",
+  "Rock-poolers and fossil hunters"
+ ],
+ "notFor": [
+  "Anyone who needs reliable surf",
+  "Beginners looking for an easy sandy break"
+ ],
+ "surf": {
+  "text": [
+   "Most days the bay is calm. When it does break, surf-forecast describes a fairly exposed right-hand reef and point set-up that works best on a north swell with south-westerly offshore winds — so it's very much a spot for experienced surfers who know the area.",
+   "Surf-forecast warns that submerged rocks are a hazard, and says it's unlikely to be crowded even when there are waves. With RNLI lifeguards only arriving from mid-July in 2026, treat it as an unpatrolled spot for most of the year.",
+   "It's a rarely surfed reef set-up, and surfers tend to come here only when the main spots are too big. Rights break over rock ledges on the inner, middle and outer reefs, fast and walling, with a left called the Cobble Dump that's worth treating as sketchy. A north swell with a south-westerly wind is the combination, and it works at all tides, better on the rise. There's also a small beach break by the car park. Parking is paid at the bottom of a steep hill, with toilets and a village cafe nearby."
+  ],
+  "cards": [
+   {
+    "label": "Level",
+    "title": "Experienced only",
+    "text": "A right-hand reef and point when it works; otherwise a calm family bay."
+   },
+   {
+    "label": "Conditions",
+    "title": "North swell, SW wind",
+    "text": "Surf-forecast rates north swell with south-westerly offshore winds best."
+   },
+   {
+    "label": "Hazards",
+    "title": "Submerged rocks and rockfalls",
+    "text": "Submerged rocks in the water; view the Hob Holes from a distance in case of rockfalls."
+   }
+  ]
+ },
+ "practical": [
+  {
+   "label": "Parking",
+   "title": "Bank Bottom and Bank Top",
+   "text": "Two pay-and-display car parks: Bank Bottom (TS13 5HT) and Bank Top (TS13 5JF)."
+  },
+  {
+   "label": "Toilets",
+   "title": "Above Sandside Café",
+   "text": "Public toilets are just off the beach, above Sandside Café."
+  },
+  {
+   "label": "Lifeguards",
+   "title": "RNLI from 11 July 2026",
+   "text": "Runswick Bay was added to the North Yorkshire RNLI patrols from 11 July in 2026, 10am–6pm."
+  },
+  {
+   "label": "Dogs",
+   "title": "Welcome, under control",
+   "text": "Runswick isn't covered by the council's seasonal beach bans. The National Park asks you to keep dogs on a lead or under close control to protect wildlife."
+  },
+  {
+   "label": "Tides and walks",
+   "title": "Check before you go",
+   "text": "For beachcombing, arrive at least an hour before low tide. The Cleveland Way runs to Staithes (2.5 miles) and Sandsend (5 miles)."
+  }
+ ],
+ "faqs": [
+  {
+   "q": "Can you surf at Runswick Bay?",
+   "a": "Occasionally. Surf-forecast describes a right-hand reef and point break that works on a north swell with south-westerly winds, with submerged rocks — best left to experienced surfers."
+  },
+  {
+   "q": "Where do I park?",
+   "a": "Bank Bottom (TS13 5HT) by the beach or Bank Top (TS13 5JF) above the village. Both are pay and display."
+  },
+  {
+   "q": "Are dogs allowed on Runswick Bay beach?",
+   "a": "Yes. There's no seasonal ban here, but keep dogs on a lead or under close control to protect wildlife."
+  },
+  {
+   "q": "Is it safe to explore the Hob Holes?",
+   "a": "The National Park asks visitors to look at the caves from a distance in case of rockfalls."
+  }
+ ],
+ "sources": [
+  {
+   "label": "North York Moors National Park — Runswick Bay",
+   "url": "https://www.northyorkmoors.org.uk/places-to-go/runswick-bay"
+  },
+  {
+   "label": "North Yorkshire Council — Runswick Bay beach",
+   "url": "https://www.northyorks.gov.uk/leisure-tourism-and-culture/beaches/beach-locations/beach-locations/runswick-bay-beach"
+  },
+  {
+   "label": "RNLI — 2026 North Yorkshire lifeguard patrols",
+   "url": "https://rnli.org/news-and-media/2026/april/27/rnli-lifeguards-start-daily-beach-patrols-in-north-yorkshire"
+  },
+  {
+   "label": "Surf-forecast — Runswick Bay",
+   "url": "https://www.surf-forecast.com/breaks/Runswick-Bay"
+  },
+  {
+   "label": "Wikipedia — Runswick Bay",
+   "url": "https://en.wikipedia.org/wiki/Runswick_Bay"
+  },
+  {
+   "label": "North Yorkshire Council — dog control PSPO 2024",
+   "url": "https://www.northyorks.gov.uk/environment-and-neighbourhoods/animals/dogs/dog-walking-bans-scarborough-area/dog-control-public-spaces-protection-order-2024"
+  }
+ ],
+ "factCheck": [
+  {
+   "fact": "5 miles north of Whitby; ~2km bay; Cauldron Cliff and Kettleness; 1682 landslip; lifeboat from 1866",
+   "url": "https://en.wikipedia.org/wiki/Runswick_Bay"
+  },
+  {
+   "fact": "Thatched coastguard cottage; alum 1727–1871; fossils and jet; Hob Holes folklore and rockfall warning; parking; toilets; tides; Staithes 2.5mi, Sandsend 5mi; dogs on lead/close control",
+   "url": "https://www.northyorkmoors.org.uk/places-to-go/runswick-bay"
+  },
+  {
+   "fact": "Quiet hours, room for children and dogs",
+   "url": "https://www.northyorks.gov.uk/leisure-tourism-and-culture/beaches/beach-locations/beach-locations/runswick-bay-beach"
+  },
+  {
+   "fact": "Right-hand reef/point, N swell, SW wind, submerged rocks, uncrowded",
+   "url": "https://www.surf-forecast.com/breaks/Runswick-Bay"
+  },
+  {
+   "fact": "RNLI added from 11 July 2026",
+   "url": "https://rnli.org/news-and-media/2026/april/27/rnli-lifeguards-start-daily-beach-patrols-in-north-yorkshire"
+  },
+  {
+   "fact": "Runswick not in PSPO",
+   "url": "https://www.northyorks.gov.uk/environment-and-neighbourhoods/animals/dogs/dog-walking-bans-scarborough-area/dog-control-public-spaces-protection-order-2024"
+  },
+  {
+   "fact": "Runswick: right reef, N swell, SW offshore, expert",
+   "url": "https://www.surfnerd.com/surf-forecast/runswick-bay"
+  }
+ ],
+ "checked": "October 2026"
+}

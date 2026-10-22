@@ -1,0 +1,180 @@
+{
+ "slug": "oxwich-bay",
+ "schools": [],
+ "hire": [
+  {
+   "name": "Oxwich Watersports",
+   "type": "SUP & kayak hire",
+   "url": "https://www.oxwichwatersports.co.uk/",
+   "base": "Oxwich Beach Hut, Oxwich (SA3 1LS)",
+   "note": "Stand-up paddleboard and kayak sessions on the bay for all ages and levels, alongside powerboat, sailing and other watersports.",
+   "source": "https://www.visitswanseabay.com/inspirations/swansea-bay-trails/oxwich-adventure-trail/"
+  },
+  {
+   "name": "Gower Stand Up Paddle (SUP Gower)",
+   "type": "SUP hire & lessons",
+   "url": "https://www.supgower.com/",
+   "base": "Bases in Mumbles and at Langland, with sessions at Three Cliffs and Oxwich",
+   "note": "Paddleboard hire by the hour, day or week, plus SUP lessons, SUP surfing and coastal tours. Call ahead to confirm what is running.",
+   "source": "https://www.supgower.com/"
+  },
+  {
+   "name": "Hot Dog Surf Shop",
+   "type": "Board & wetsuit hire",
+   "url": "https://www.hotdogsurf.com/",
+   "base": "26 Pennard Road, Kittle, south Gower",
+   "note": "Hires surfboards, wetsuits and bodyboards from the shop, which has free parking and sits a couple of miles from south Gower's main breaks.",
+   "source": "https://www.hotdogsurf.com/"
+  }
+ ],
+ "shops": [
+  {
+   "name": "Hot Dog Surf Shop",
+   "type": "Surf shop",
+   "url": "https://www.hotdogsurf.com/",
+   "town": "Kittle, south Gower",
+   "note": "Sells surfboards for all levels, wetsuits, bodyboards, rash vests, changing robes and clothing, with a regularly changing second-hand board rack outside.",
+   "source": "https://www.tourismswanseabay.co.uk/hot-dog-surf-shop/"
+  }
+ ],
+ "lessonsIntro": "Oxwich is a sheltered bay that only surfs in bigger swells, so there is no regular surf school here; it is better known for paddleboarding, kayaking and family watersports.",
+ "learn": {
+  "text": [
+   "Oxwich Bay faces east into the shelter of the Gower coast, so most of the time the water is calm and shallow, which makes it popular with families, paddleboarders and kayakers. It only produces surfable waves in a big swell, usually best at high water with a north-westerly wind, and on those days it is more suited to experienced surfers than first lessons.",
+   "There are no lifeguards at Oxwich, so take care in the water. Jet-skis are banned and boats are expected to be members of Oxwich Boat Club. The beach is privately owned by the Penrice Estate, which runs the large car park on the shorefront. If you want to learn to surf, nearby Caswell Bay, Llangennith or Port Eynon are better bets."
+  ],
+  "cards": [
+   {
+    "label": "Level",
+    "title": "Not a regular learner spot",
+    "text": "Calm most days, with waves only in big swells. Great for first paddleboard or kayak sessions instead."
+   },
+   {
+    "label": "Best time",
+    "title": "High tide in a big swell",
+    "text": "Surfers wait for large swells at high water with north-west winds. Flat days suit SUP and kayaks."
+   },
+   {
+    "label": "Watch out for",
+    "title": "No lifeguards",
+    "text": "The bay is unpatrolled. Jet-skis are banned and boat users should follow Oxwich Boat Club rules."
+   }
+  ]
+ },
+ "hireIntro": "Oxwich Watersports runs paddleboard and kayak sessions from the beach, and Gower Stand Up Paddle runs SUP tours from Oxwich.",
+ "kit": {
+  "text": [
+   "Because Oxwich is usually calm, a stand-up paddleboard or sit-on kayak is the most useful craft for most visitors. When a big swell does wrap in, experienced surfers use their usual shortboards or mid-lengths. For paddling, a summer wetsuit or shortie is plenty in high summer, while spring and autumn sessions call for a full suit and boots."
+  ],
+  "cards": [
+   {
+    "label": "Board",
+    "title": "Bring your own for big swells",
+    "text": "Surf only works in large swells, so it suits confident surfers with their own boards rather than learners."
+   },
+   {
+    "label": "Wetsuit",
+    "title": "3/2 in summer, 5/4 in winter",
+    "text": "Gower water peaks at roughly 14-18°C in mid-August and drops to about 8-9°C around March. A 3/2 or 4/3 with boots suits summer; from late autumn to spring go for a 5/4 or thicker with boots, gloves and a hood."
+   },
+   {
+    "label": "Other craft",
+    "title": "Ideal for SUP and kayak",
+    "text": "The sheltered, shallow water is good for paddleboarding and kayaking. Jet-skis are not allowed."
+   }
+  ]
+ },
+ "shopsIntro": "Oxwich has a beach kiosk and a few shops but no surf shop we could confirm.",
+ "shopsText": [
+  "The nearest dedicated surf shop we found is Hot Dog Surf Shop in Kittle, on the road back towards Swansea, which sells boards, wetsuits, bodyboards and accessories and also hires kit. At Oxwich itself there is a beach kiosk plus a nearby restaurant, hotel and other shops for food and beach basics."
+ ],
+ "faqs": {
+  "lessons": [
+   {
+    "q": "Can I learn to surf at Oxwich Bay?",
+    "a": "We could not find a surf school that teaches here. Oxwich only gets waves in big swells, so beginners are better off at Caswell or Llangennith."
+   },
+   {
+    "q": "Is Oxwich lifeguarded?",
+    "a": "No. Visit Swansea Bay lists the beach as having no lifeguards, so take extra care."
+   },
+   {
+    "q": "Can I take a paddleboard lesson at Oxwich?",
+    "a": "Oxwich Watersports offers stand-up paddleboarding and kayaking sessions for all ages and levels from Oxwich Beach Hut."
+   }
+  ],
+  "hire": [
+   {
+    "q": "What can I hire at Oxwich?",
+    "a": "Oxwich Watersports offers paddleboard and kayak sessions. We found no surfboard hire on the beach."
+   },
+   {
+    "q": "Where do I park?",
+    "a": "There is a large private car park on the shorefront run by the Penrice Estate, with charges and an EV charging point."
+   }
+  ],
+  "shops": [
+   {
+    "q": "Is there a surf shop at Oxwich?",
+    "a": "Not that we could confirm. Hot Dog Surf Shop in Kittle is the nearest dedicated surf shop we found."
+   }
+  ]
+ },
+ "sources": [
+  {
+   "label": "Visit Swansea Bay: Oxwich Bay",
+   "url": "https://www.visitswanseabay.com/listings/oxwich-bay-beach/"
+  },
+  {
+   "label": "Visit Swansea Bay: Oxwich adventure trail",
+   "url": "https://www.visitswanseabay.com/inspirations/swansea-bay-trails/oxwich-adventure-trail/"
+  },
+  {
+   "label": "Oxwich Watersports",
+   "url": "https://www.oxwichwatersports.co.uk/"
+  },
+  {
+   "label": "Enjoy Gower: surfing on Gower",
+   "url": "https://enjoygower.com/surfing-on-gower"
+  },
+  {
+   "label": "Enjoy Gower: Oxwich Bay",
+   "url": "https://enjoygower.com/oxwich-bay"
+  },
+  {
+   "label": "Gower Stand Up Paddle",
+   "url": "https://www.supgower.com/"
+  },
+  {
+   "label": "Hot Dog Surf Shop",
+   "url": "https://www.hotdogsurf.com/"
+  }
+ ],
+ "factCheck": [
+  {
+   "fact": "Oxwich best at high water with NW wind; big-swell break",
+   "url": "https://enjoygower.com/surfing-on-gower"
+  },
+  {
+   "fact": "No lifeguards; jet-skis banned; boats Oxwich Boat Club; Penrice Estate; private car park",
+   "url": "https://www.visitswanseabay.com/listings/oxwich-bay-beach/"
+  },
+  {
+   "fact": "Oxwich Watersports: SUP and kayaking sessions",
+   "url": "https://www.visitswanseabay.com/inspirations/swansea-bay-trails/oxwich-adventure-trail/"
+  },
+  {
+   "fact": "Oxwich Watersports lists SUP and kayaking among activities",
+   "url": "https://www.oxwichwatersports.co.uk/"
+  },
+  {
+   "fact": "Calm shallow water suits families and beginners for paddling",
+   "url": "https://enjoygower.com/oxwich-bay"
+  },
+  {
+   "fact": "Gower SUP tours from Oxwich to Three Cliffs",
+   "url": "https://www.greentraveller.co.uk/post/activities-in-gower"
+  }
+ ],
+ "gaps": "No surf school or surfboard hire found at Oxwich. Oxwich Watersports' Beach Hut location came from a booking listing (Yumping) and its site gives no season dates. No surf shop in Oxwich."
+}

@@ -1,0 +1,136 @@
+{
+ "slug": "dalmore-bay-lewis",
+ "schools": [
+  {
+   "name": "Surf Lewis",
+   "type": "Surf school",
+   "url": "https://www.surflewis.com/",
+   "base": "Sandwick, near Stornoway; lessons on whichever Lewis or Harris beach suits the day",
+   "note": "Beginner and intermediate lessons run by a BSA and Surf Life Saving GB qualified coach. Dalmore is one option, but the beach is chosen to suit conditions, so confirm where you'll meet.",
+   "source": "https://www.visitouterhebrides.co.uk/hebrideanway/things-to-do/surf-lewis-p514431"
+  }
+ ],
+ "hire": [
+  {
+   "name": "Surf Lewis",
+   "type": "Board & wetsuit hire",
+   "url": "https://www.surflewis.com/",
+   "base": "Sandwick, near Stornoway (about 40 minutes' drive from Dalmore)",
+   "note": "Lessons include equipment. Arrange any standalone hire in advance, as there's nothing to rent at the beach itself.",
+   "source": "https://www.visitouterhebrides.co.uk/hebrideanway/things-to-do/surf-lewis-p514431"
+  }
+ ],
+ "shops": [],
+ "lessonsIntro": "There's no school based at Dalmore, but Surf Lewis coaches across Lewis and Harris and will bring you here when the conditions suit beginners.",
+ "learn": {
+  "text": [
+   "Dalmore is a small, dune-backed bay in Carloway on the west side of Lewis, and it takes a lot of Atlantic swell. That makes it a favourite with experienced surfers, but it can be too powerful for a first session. VisitOuterHebrides warns of strong currents and big waves in windy weather. The beach has no lifeguards, so learning here makes most sense with a coach who can judge the day.",
+   "On small, clean days, with light or offshore wind, the bay can be friendly enough for beginners. When it's bigger, local coaches usually move to a more sheltered beach. The west coast has a tidal range of around five metres, so the beach changes a lot between high and low water. Ask your coach which tide works best, and don't paddle out alone if you're new to surfing."
+  ],
+  "cards": [
+   {
+    "label": "Level",
+    "title": "Better for improvers",
+    "text": "Beginners only on small days and with a coach; it's often too powerful for a first session."
+   },
+   {
+    "label": "Best time",
+    "title": "Summer, small swell",
+    "text": "Late spring to early autumn gives the warmest water and the most manageable days."
+   },
+   {
+    "label": "Watch out for",
+    "title": "Currents, no lifeguards",
+    "text": "There are strong currents and heavy surf in windy weather, and the beach has no lifeguard cover."
+   }
+  ]
+ },
+ "hireIntro": "You can't hire anything at Dalmore itself, so book kit in advance with Surf Lewis before you drive out to Carloway.",
+ "kit": {
+  "text": [
+   "Beginners should use a big foam board. On small days improvers can step down to a mid-length or fish, and anything above head height is a job for experienced surfers on performance boards. Sea temperatures here run from around 9°C in late winter to about 16°C at the peak of summer. Even in summer, most people wear a 5/4mm wetsuit with boots, and in the colder months they add a hood and gloves."
+  ],
+  "cards": [
+   {
+    "label": "Board",
+    "title": "Foamie to start",
+    "text": "Use a large soft-top for lessons and step down only on small, clean days."
+   },
+   {
+    "label": "Wetsuit",
+    "title": "5/4mm, plus boots",
+    "text": "Expect about 9-16°C water through the year. Add a hood and gloves from autumn to spring."
+   },
+   {
+    "label": "Other craft",
+    "title": "Bodyboards on small days",
+    "text": "With no lifeguards and strong currents, keep bodyboards and SUPs to calm days."
+   }
+  ]
+ },
+ "shopsIntro": "There are no surf shops in Carloway, so bring what you need with you.",
+ "shopsText": [
+  "Dalmore is a remote township beach with just a car park and toilets. Carloway has no surf shop, and we couldn't confirm a dedicated one in Stornoway, about 40 minutes away. Bring wax, a leash and spare kit from the mainland, or arrange equipment through Surf Lewis before you travel."
+ ],
+ "faqs": {
+  "lessons": [
+   {
+    "q": "Do lessons take place at Dalmore?",
+    "a": "Sometimes. Surf Lewis picks the beach on Lewis or Harris that suits the day, so Dalmore is only used when it's small enough for learners."
+   },
+   {
+    "q": "Is Dalmore lifeguarded?",
+    "a": "No. There's no lifeguard service, and the tourist board warns of strong currents, so beginners should only surf here with a coach."
+   },
+   {
+    "q": "Is Dalmore good for beginners?",
+    "a": "Only on small, clean days. It's better known as a powerful wave for experienced surfers."
+   }
+  ],
+  "hire": [
+   {
+    "q": "Can I hire a board at the beach?",
+    "a": "No, there's no hire at Dalmore. Contact Surf Lewis in advance."
+   },
+   {
+    "q": "What wetsuit do I need?",
+    "a": "A 5/4mm with boots suits most of the year, plus a hood and gloves in winter, because the water is only about 9-16°C."
+   }
+  ],
+  "shops": [
+   {
+    "q": "Is there a surf shop near Dalmore?",
+    "a": "Not in Carloway. Bring spares with you, or ask Surf Lewis about kit."
+   }
+  ]
+ },
+ "sources": [
+  {
+   "label": "VisitOuterHebrides - Dalmore Beach",
+   "url": "https://www.visitouterhebrides.co.uk/hebrideanway/things-to-do/dalmore-dailmhor-beach-p531021"
+  },
+  {
+   "label": "VisitOuterHebrides - Surf Lewis",
+   "url": "https://www.visitouterhebrides.co.uk/hebrideanway/things-to-do/surf-lewis-p514431"
+  },
+  {
+   "label": "Hebridean Surf (water temperatures, tides)",
+   "url": "https://hebrideansurf.co.uk/"
+  }
+ ],
+ "factCheck": [
+  {
+   "fact": "Strong currents and huge waves in windy weather; car park and toilets",
+   "url": "https://www.visitouterhebrides.co.uk/hebrideanway/things-to-do/dalmore-dailmhor-beach-p531021"
+  },
+  {
+   "fact": "Surf Lewis teaches beginners and intermediates on Lewis and Harris beaches, based in Sandwick",
+   "url": "https://www.visitouterhebrides.co.uk/hebrideanway/things-to-do/surf-lewis-p514431"
+  },
+  {
+   "fact": "West coast tides about 5m; water about 9°C in late winter to 16°C in summer",
+   "url": "https://hebrideansurf.co.uk/"
+  }
+ ],
+ "gaps": "surflewis.com didn't load, so its hire list, ages and formats are unconfirmed (they come from the earlier existingProvider note and the tourism listing). Hebridean Surf's site is live but looks dated, so it's left out of the lists and used only for water temperatures. No lifeguard cover is mentioned anywhere. No surf shop was confirmed in Stornoway. The 40-minute drive time is an estimate."
+}

@@ -1,0 +1,131 @@
+{
+ "slug": "druridge-bay",
+ "schools": [
+  {
+   "name": "Northside Surf School",
+   "type": "Surf school",
+   "url": "https://www.northside-surf-school.co.uk/",
+   "base": "Based at Coble Quay, Amble; lessons run on the beach",
+   "note": "Runs surf lessons at Cresswell, at the south end of Druridge Bay, which it describes as suitable for beginners through to advanced surfers. Kit is provided.",
+   "source": "https://www.northside-surf-school.co.uk/surf-cresswell-druridge-bay/"
+  }
+ ],
+ "hire": [],
+ "shops": [],
+ "lessonsIntro": "Northside Surf School teaches at Cresswell at the southern end of Druridge Bay, bringing boards and wetsuits down to the beach.",
+ "learn": {
+  "text": [
+   "Druridge Bay is a long sweep of sand between Amble and Cresswell. Northside Surf School runs its lessons at the Cresswell end, which it rates as suitable for complete beginners and more experienced surfers alike. Sessions start with a warm-up and safety briefing on the sand, and the instructors carry the boards down to the water for you.",
+   "You only need a towel and swimwear; Northside provides the rest. The Drift Café beside the beach car park is a handy place to warm up afterwards. Northside's page does not give tide or hazard notes, so take the instructors' lead on where to surf, and if you go out alone, check the forecast and never paddle out by yourself."
+  ],
+  "cards": [
+   {
+    "label": "Level",
+    "title": "Beginner to advanced",
+    "text": "Northside says the bay works for all levels, from first lessons upwards."
+   },
+   {
+    "label": "Best time",
+    "title": "Spring to autumn",
+    "text": "Northside's lessons run through the warmer months; check with the school for dates."
+   },
+   {
+    "label": "Watch out for",
+    "title": "Cold, exposed sea",
+    "text": "It is an open North Sea bay, so wear proper rubber and surf with others."
+   }
+  ]
+ },
+ "hireIntro": "We have not confirmed a stand-alone hire outlet at Druridge Bay; Northside includes kit with its lessons.",
+ "kit": {
+  "text": [
+   "The sandy bottom at Cresswell suits a long foam board for beginners, moving to a mini-mal as you start catching unbroken waves. Water temperatures stay low, so a 5/4mm suit with boots is a good baseline, plus gloves and a hood in winter."
+  ],
+  "cards": [
+   {
+    "label": "Board",
+    "title": "Big foam board to start",
+    "text": "Northside supplies boards on its lessons. If you are new, stay on a large soft-top until you can catch and ride green waves."
+   },
+   {
+    "label": "Wetsuit",
+    "title": "5/4mm most of the year",
+    "text": "North Sea water stays cool. Scarborough Surf School hires only 5/4mm suits and treats them as year-round wear, adding boots, gloves and a hood in the colder months."
+   },
+   {
+    "label": "Other craft",
+    "title": "SUP and lake sessions",
+    "text": "Northside runs SUP, and Coquet Shorebase Trust uses Ladyburn Lake in Druridge Bay Country Park for watersports sessions."
+   }
+  ]
+ },
+ "shopsIntro": "We could not confirm a surf shop at Druridge Bay.",
+ "shopsText": [
+  "There is no surf shop on the bay that we could confirm. Amble, at the northern end, is home to Northside Surf School's base; for buying boards and wetsuits you may need to travel further south towards Tyneside."
+ ],
+ "faqs": {
+  "lessons": [
+   {
+    "q": "Where do lessons happen at Druridge Bay?",
+    "a": "Northside Surf School teaches at Cresswell, at the southern end of the bay."
+   },
+   {
+    "q": "Is it suitable for beginners?",
+    "a": "Yes, Northside describes Cresswell as suitable for beginners through to advanced surfers."
+   },
+   {
+    "q": "What should I bring?",
+    "a": "A towel and swimwear; boards and wetsuits are provided."
+   }
+  ],
+  "hire": [
+   {
+    "q": "Can I hire a board at Druridge Bay?",
+    "a": "We have not confirmed a separate hire outlet; ask Northside about kit."
+   },
+   {
+    "q": "Is there anywhere to warm up after surfing?",
+    "a": "Northside points to the Drift Café next to the beach car park."
+   }
+  ],
+  "shops": [
+   {
+    "q": "Is there a surf shop nearby?",
+    "a": "We have not confirmed one on the bay itself."
+   }
+  ]
+ },
+ "sources": [
+  {
+   "label": "Northside Surf School: Cresswell / Druridge Bay",
+   "url": "https://www.northside-surf-school.co.uk/surf-cresswell-druridge-bay/"
+  },
+  {
+   "label": "Living North: watersports on the North East coast",
+   "url": "https://www.livingnorth.com/article/where-try-watersports-north-east-coast"
+  },
+  {
+   "label": "Scarborough Surf School: equipment hire",
+   "url": "https://scarboroughsurfschool.co.uk/equipment-hire/"
+  }
+ ],
+ "factCheck": [
+  {
+   "fact": "Northside teaches at Cresswell; suitable for beginners to advanced; warm-up and safety briefing; boards brought to beach",
+   "url": "https://www.northside-surf-school.co.uk/surf-cresswell-druridge-bay/"
+  },
+  {
+   "fact": "Drift Café next to beach car park",
+   "url": "https://www.northside-surf-school.co.uk/surf-cresswell-druridge-bay/"
+  },
+  {
+   "fact": "Coquet Shorebase Trust sessions at Ladyburn Lake, Druridge Bay",
+   "url": "https://www.livingnorth.com/article/where-try-watersports-north-east-coast"
+  },
+  {
+   "fact": "Scarborough Surf School hires 5/4mm wetsuits only, described as suitable year round, plus boots, gloves and hoods",
+   "url": "https://scarboroughsurfschool.co.uk/equipment-hire/"
+  }
+ ],
+ "gaps": "No lifeguard/hazard data confirmed (no RNLI page fetched). Season for Cresswell lessons not stated on the page. No hire or shop confirmed."
+}

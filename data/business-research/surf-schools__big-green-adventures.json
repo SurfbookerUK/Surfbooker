@@ -1,0 +1,33 @@
+{
+ "slug": "big-green-adventures",
+ "kind": "surf-schools",
+ "officialUrl": "https://www.biggreenadventures.co.uk/",
+ "trading": true,
+ "about": "Big Green Adventures, which also trades as Big Green Surf School, is an outdoor activity company based at Crantock in north Cornwall. It teaches surfing on the National Trust-owned Crantock Beach and also runs paddleboarding, kayaking, coasteering, kids' beach sessions and surf clubs, plus surf retreats abroad.",
+ "offers": [
+  "Group surf lessons (max 6 per group, ages 8+, all abilities)",
+  "Private one-to-one lessons, with extra surfers able to join",
+  "Private family lessons (recommended for under-8s)",
+  "Multi-lesson packages from 2 to 5 lessons",
+  "Bodyboarding",
+  "SUP and Monster SUP",
+  "Kayaking and coasteering",
+  "Kids' Beach Squad and adult and kids' surf clubs",
+  "Equipment hire"
+ ],
+ "where": "Crantock Beach, near Newquay, Cornwall",
+ "goodToKnow": [
+  "Group lessons include 2 hours' tuition on the beach, so allow extra time for check-in and changing",
+  "Natural rubber C-Skins wetsuits and Vision softboards are provided",
+  "Package lesson times depend on the tide, so contact them for exact timings",
+  "Shows the Surfing England accredited surf school logo and the AALA licensing logo"
+ ],
+ "season": null,
+ "sources": [
+  {
+   "label": "Surf lessons",
+   "url": "https://www.biggreenadventures.co.uk/surf-lessons-crantock-cornwall"
+  }
+ ],
+ "gaps": "No season, what-to-bring or cancellation terms on the page."
+}

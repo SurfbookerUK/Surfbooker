@@ -1,0 +1,241 @@
+{
+ "slug": "hayle-towans",
+ "schools": [
+  {
+   "name": "Hayle Surf School",
+   "type": "Surf school",
+   "url": "https://www.haylesurfschool.co.uk/",
+   "base": "Beachside Holiday Park, Lethlean Lane, Phillack (TR27 5AW), in the dunes above St Ives Bay",
+   "note": "Lessons for complete beginners and for surfers wanting to improve, with no more than eight students per instructor. Equipment hire is also available.",
+   "source": "https://directory.cornishsecrets.co.uk/listing/hayle-surf-school/"
+  },
+  {
+   "name": "Shore Surf School",
+   "type": "Surf school",
+   "url": "https://shoresurf.com/",
+   "base": "HQ at Away Resorts St Ives Bay Beach Resort, Loggans Road, Hayle (TR27 5BH), with the beach just below",
+   "note": "Group lessons and one-to-one coaching from age 7 (a seven-year-old needs an adult in the water too). The HQ has changing facilities, showers, toilets and free parking.",
+   "source": "https://shoresurf.com/pages/our-locations"
+  }
+ ],
+ "hire": [
+  {
+   "name": "Shore Surf School",
+   "type": "Board & wetsuit hire",
+   "url": "https://shoresurf.com/",
+   "base": "St Ives Bay Beach Resort, Hayle (also at Godrevy)",
+   "note": "Wetsuits, soft boards, soft tops, hard boards, bodyboards, bellyboards and SUPs. You can reserve online and collect from the HQ.",
+   "source": "https://shoresurf.com/pages/surf-hire"
+  },
+  {
+   "name": "Hayle Surf School",
+   "type": "Board & wetsuit hire",
+   "url": "https://www.haylesurfschool.co.uk/",
+   "base": "Beachside Holiday Park, Phillack",
+   "note": "Hires a range of surfboards and 5mm winter wetsuits.",
+   "source": "https://directory.cornishsecrets.co.uk/listing/hayle-surf-school/"
+  },
+  {
+   "name": "Down The Line Surf Co",
+   "type": "Board & wetsuit hire",
+   "url": "https://www.downthelinesurf.co.uk/",
+   "base": "Market Square Arcade, Copperhouse, Hayle (TR27 4EA)",
+   "note": "Hires C-Skins wetsuits (adult and junior), softboards, and demo surfboards from a range of shapers, from a day up to two weeks.",
+   "source": "https://downthelinesurf.co.uk/pages/surfboard-wetsuit-hire"
+  }
+ ],
+ "shops": [
+  {
+   "name": "Down The Line Surf Co",
+   "type": "Surf shop",
+   "url": "https://www.downthelinesurf.co.uk/",
+   "town": "Hayle (Copperhouse)",
+   "note": "A well-stocked surf shop with shortboards, mid-lengths, longboards and beginner boards, summer and winter wetsuits, bodyboarding gear and accessories.",
+   "source": "https://www.downthelinesurf.co.uk/pages/about-us"
+  },
+  {
+   "name": "Shore Surf shop",
+   "type": "Surf shop",
+   "url": "https://shoresurf.com/collections/shore-surf-shop",
+   "town": "St Ives Bay Beach Resort, Hayle",
+   "note": "A small shop at the surf school HQ selling a wetsuit range, sun care, ear plugs and clothing.",
+   "source": "https://shoresurf.com/"
+  }
+ ],
+ "lessonsIntro": "Hayle Towans is the southern end of the three-mile beach that runs to Godrevy, and two surf schools are based in the dunes behind it. Lessons here suit beginners and improvers.",
+ "learn": {
+  "text": [
+   "Hayle Towans is the stretch of St Ives Bay closest to the Hayle estuary, backed by big dunes and part of the beach that runs north to Godrevy Point. It's more sheltered from swell than the beaches further up the bay, so the local break known as The Site works best when the north coast is big. Expect long, walling waves and a fair amount of paddling, with better shape towards high tide.",
+   "The two schools here are based in holiday parks right on the towans, so you can walk from the changing rooms to the sand. RNLI lifeguards patrol Hayle Towans from Easter, daily from early May to late September, and at weekends and half-term in October. Stay well away from the end of the beach next to the river mouth, where the local tourism guide warns of dangerous currents."
+  ],
+  "cards": [
+   {
+    "label": "Level",
+    "title": "Beginners and improvers",
+    "text": "Both local schools teach complete beginners, and the sheltered position means waves are often smaller than up the bay."
+   },
+   {
+    "label": "Best time",
+    "title": "Lifeguarded season, bigger swells elsewhere",
+    "text": "Learn while lifeguards are on duty. Hayle Towans can have rideable waves when exposed north coast beaches are too big."
+   },
+   {
+    "label": "Watch out for",
+    "title": "Currents by the estuary",
+    "text": "The section next to the Hayle river mouth has dangerous currents. Tides and strong currents are flagged as hazards along the beach."
+   }
+  ]
+ },
+ "hireIntro": "Both surf schools on the towans hire kit, and Down The Line in Hayle town has wetsuits, softboards and demo boards for longer hires.",
+ "kit": {
+  "text": [
+   "A soft board with plenty of volume is the easiest way to start on Hayle Towans' walling waves, and local shops carry softboards from 6 to 9 feet. Once you're trotting along green waves, a soft top with a hard base gives more glide. The sea here ranges from about 9 to 10°C in early March to 15 to 18°C in mid-August, and nearshore water can be cooler near river mouths."
+  ],
+  "cards": [
+   {
+    "label": "Board",
+    "title": "Soft board to start",
+    "text": "Shore Surf suggests soft boards for first-timers, soft tops as you progress, and hard boards for intermediates and above."
+   },
+   {
+    "label": "Wetsuit",
+    "title": "4/3 April to October, 5mm in winter",
+    "text": "Down The Line recommends a 4/3mm suit from roughly April to October. Hayle Surf School hires 5mm winter suits for the colder months."
+   },
+   {
+    "label": "Other craft",
+    "title": "Bodyboards and SUP",
+    "text": "Bodyboards and bellyboards are on hire for families, and SUPs suit calm, small days. Surf craft belong in the black and white flagged area."
+   }
+  ]
+ },
+ "shopsIntro": "Hayle town, just behind the towans, has one of the bigger surf shops in west Cornwall.",
+ "shopsText": [
+  "Down The Line Surf Co is in Market Square Arcade in Copperhouse, Hayle, a short drive from the towans, and stocks everything from beginner and grom boards to customs, plus wetsuits, boots, hoods and accessories. On the beach side, Shore Surf's HQ at St Ives Bay Beach Resort has a small shop for essentials."
+ ],
+ "faqs": {
+  "lessons": [
+   {
+    "q": "Which surf schools teach at Hayle Towans?",
+    "a": "Hayle Surf School is based at Beachside Holiday Park in Phillack, and Shore Surf School's HQ is at St Ives Bay Beach Resort, both on the towans above the beach."
+   },
+   {
+    "q": "How young can my child start?",
+    "a": "Shore Surf teaches from age 7, with an adult in the water alongside seven-year-olds. Everyone needs to swim 25m unaided."
+   },
+   {
+    "q": "How big are the groups?",
+    "a": "Hayle Surf School keeps to a maximum of eight students per instructor."
+   }
+  ],
+  "hire": [
+   {
+    "q": "Can I book hire kit in advance?",
+    "a": "Yes, Shore Surf lets you reserve online and collect from its HQ at St Ives Bay Beach Resort."
+   },
+   {
+    "q": "Can I hire for a week or more?",
+    "a": "Down The Line in Hayle hires wetsuits and boards for anything from a day to two weeks."
+   }
+  ],
+  "shops": [
+   {
+    "q": "Where's the nearest surf shop to Hayle Towans?",
+    "a": "Down The Line Surf Co in Copperhouse, Hayle, is the main surf shop nearby."
+   }
+  ]
+ },
+ "sources": [
+  {
+   "label": "Cornish Secrets - Hayle Surf School",
+   "url": "https://directory.cornishsecrets.co.uk/listing/hayle-surf-school/"
+  },
+  {
+   "label": "Shore Surf - locations",
+   "url": "https://shoresurf.com/pages/our-locations"
+  },
+  {
+   "label": "Shore Surf - FAQs",
+   "url": "https://shoresurf.com/pages/faqs"
+  },
+  {
+   "label": "Shore Surf - hire",
+   "url": "https://shoresurf.com/pages/surf-hire"
+  },
+  {
+   "label": "Shore Surf - beach safety",
+   "url": "https://shoresurf.com/blogs/shore-surf-blogs/beach-safety-essential-tips-for-a-safe-day-at-the-beach"
+  },
+  {
+   "label": "Down The Line - hire",
+   "url": "https://downthelinesurf.co.uk/pages/surfboard-wetsuit-hire"
+  },
+  {
+   "label": "Down The Line - about",
+   "url": "https://www.downthelinesurf.co.uk/pages/about-us"
+  },
+  {
+   "label": "RNLI Hayle Towans",
+   "url": "https://rnli.org/find-my-nearest/lifeguarded-beaches/hayle-towans-beach"
+  },
+  {
+   "label": "Visit St Ives - Hayle Towans",
+   "url": "https://visitstives.com/things_to_do/hayle-towans/"
+  },
+  {
+   "label": "360 Cornwall - Hayle Towans",
+   "url": "https://360cornwall.uk/locations/hayle-towans/"
+  },
+  {
+   "label": "Visit Cornwall - Hayle",
+   "url": "https://www.visitcornwall.com/destinations/hayle"
+  },
+  {
+   "label": "Surf-forecast Hayle water temperature",
+   "url": "https://www.surf-forecast.com/breaks/Hayle/seatemp"
+  }
+ ],
+ "factCheck": [
+  {
+   "fact": "Hayle Surf School at Beachside Holiday Park, Phillack; beginners to improvers; 1:8 ratio; board and 5mm winter wetsuit hire",
+   "url": "https://directory.cornishsecrets.co.uk/listing/hayle-surf-school/"
+  },
+  {
+   "fact": "Shore Surf HQ at St Ives Bay Beach Resort, beach below; changing, showers, toilets, free parking",
+   "url": "https://shoresurf.com/pages/our-locations"
+  },
+  {
+   "fact": "Shore Surf from age 7 with adult; 25m swim",
+   "url": "https://shoresurf.com/pages/faqs"
+  },
+  {
+   "fact": "Shore Surf hire items and online reservation collected at HQ",
+   "url": "https://shoresurf.com/pages/surf-hire"
+  },
+  {
+   "fact": "Down The Line hire of C-Skins wetsuits, softboards, demo boards, one day to two weeks; 4/3 April-October",
+   "url": "https://downthelinesurf.co.uk/pages/surfboard-wetsuit-hire"
+  },
+  {
+   "fact": "Down The Line stock range",
+   "url": "https://www.downthelinesurf.co.uk/pages/about-us"
+  },
+  {
+   "fact": "RNLI Hayle Towans 2026 dates",
+   "url": "https://rnli.org/find-my-nearest/lifeguarded-beaches/hayle-towans-beach"
+  },
+  {
+   "fact": "The Site sheltered, works in big north coast swell, walling waves, better towards high tide; dangerous currents by estuary",
+   "url": "https://visitstives.com/things_to_do/hayle-towans/"
+  },
+  {
+   "fact": "Tides and strong currents listed as hazards",
+   "url": "https://360cornwall.uk/locations/hayle-towans/"
+  },
+  {
+   "fact": "Sea temp 9-10C early March, 15-18C August; colder near river mouths",
+   "url": "https://www.surf-forecast.com/breaks/Hayle/seatemp"
+  }
+ ],
+ "gaps": "Hayle Surf School's own site blocks automated reading, so its details come from its Cornish Secrets listing; the exact beach meeting point and minimum age weren't confirmed. Shore Surf's HQ page says the beach below the resort is 'Gwithian', while it sits on the Hayle Towans/Upton Towans stretch, so check the naming on the page. No dedicated surf shop on the beach itself."
+}

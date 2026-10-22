@@ -1,0 +1,137 @@
+.utility-page main {
+  width: min(960px, 92%);
+  margin: 0 auto 80px;
+}
+
+.utility-hero {
+  position: relative;
+  overflow: hidden;
+  border-radius: 28px;
+  min-height: 260px;
+  margin: 18px 0 32px;
+  background: linear-gradient(135deg, #0f2a33 0%, #173f49 58%, #226070 100%);
+  color: #fff;
+  box-shadow: 0 18px 50px rgba(7, 28, 35, 0.14);
+}
+
+.utility-hero__content {
+  position: relative;
+  z-index: 1;
+  padding: 42px 40px 40px;
+  max-width: 760px;
+  margin: 0 auto;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.utility-hero__brand {
+  display: inline-flex;
+  margin-bottom: 16px;
+}
+
+.utility-hero__brand img {
+  display: block;
+  width: 164px;
+  height: auto;
+}
+
+.utility-hero__eyebrow {
+  margin: 0 0 12px;
+  text-transform: uppercase;
+  letter-spacing: 0.17em;
+  font-size: 12px;
+  font-weight: 700;
+  color: rgba(255, 255, 255, 0.78);
+}
+
+.utility-hero h1 {
+  margin: 0;
+  font-family: "Instrument Serif", serif;
+  font-weight: 400;
+  line-height: 0.95;
+  font-size: clamp(42px, 6vw, 72px);
+}
+
+.utility-hero p {
+  margin: 14px 0 0;
+  max-width: 640px;
+  font-size: 18px;
+  line-height: 1.6;
+  color: rgba(255, 255, 255, 0.9);
+}
+
+.utility-hero__actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px;
+  margin-top: 22px;
+}
+
+.utility-hero__actions .button,
+.utility-hero__actions .btn {
+  min-height: 48px;
+}
+
+.utility-page .simple-card,
+.utility-page .simple-card.simple-copy,
+.utility-page .coverage-section,
+.utility-page .credits {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.utility-page .simple-card,
+.utility-page .simple-card.simple-copy {
+  border-radius: 22px;
+}
+
+.utility-page .simple-copy {
+  line-height: 1.75;
+}
+
+.utility-page .simple-copy p,
+.utility-page .simple-copy li {
+  max-width: 72ch;
+}
+
+.utility-page .contact-form,
+.utility-page .provider-form {
+  display: grid;
+  gap: 16px;
+}
+
+.utility-page .contact-form label,
+.utility-page .provider-form label {
+  display: grid;
+  gap: 8px;
+}
+
+.utility-page .contact-form input,
+.utility-page .contact-form select,
+.utility-page .contact-form textarea,
+.utility-page .provider-form input,
+.utility-page .provider-form select,
+.utility-page .provider-form textarea {
+  width: 100%;
+}
+
+@media (max-width: 640px) {
+  .utility-hero {
+    min-height: 220px;
+    border-radius: 22px;
+  }
+
+  .utility-hero__content {
+    padding: 32px 22px 30px;
+  }
+
+  .utility-hero__brand img {
+    width: 132px;
+  }
+
+  .utility-hero p {
+    font-size: 16px;
+  }
+}

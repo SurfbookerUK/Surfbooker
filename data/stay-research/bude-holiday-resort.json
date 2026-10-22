@@ -1,0 +1,26 @@
+{
+ "slug": "bude-holiday-resort",
+ "officialUrl": "https://www.awayresorts.co.uk/parks/cornwall/bude/",
+ "trading": true,
+ "stayType": "Holiday park with caravans, lodges and touring pitches",
+ "accommodation": "Caravans and lodges (some with hot tubs); Visit Cornwall also lists tent, touring caravan and motorhome pitches",
+ "suitableFor": "Families, groups, dog owners and campers/tourers",
+ "parking": "On-site parking (Visit Cornwall)",
+ "dogs": "Dogs allowed, maximum two per booking",
+ "beachAccess": "About one mile from beaches including Crooklets and Summerleaze (Visit Cornwall)",
+ "boardStorage": null,
+ "confirmedFeatures": "Outdoor heated pool, bar and restaurant, surf school, adventure playground, Wi-Fi, bodyboard hire, seasonal entertainment, private access to the South West Coast Path",
+ "overview": "Bude Holiday Resort is an Away Resorts park on the edge of Bude, offering caravans, lodges and touring pitches. Visit Cornwall places it about a mile from Crooklets and Summerleaze beaches, with private access to the coast path, and on-site facilities include a heated outdoor pool, bar and restaurant and a surf school.",
+ "surfTripFit": "With a surf school on site and Bude's main beaches about a mile away, it suits families wanting lessons and park facilities; independent surfers will still need to drive or walk to the breaks.",
+ "sources": [
+  {
+   "label": "Away Resorts – Bude",
+   "url": "https://www.awayresorts.co.uk/parks/cornwall/bude/"
+  },
+  {
+   "label": "Visit Cornwall listing",
+   "url": "https://www.visitcornwall.com/accommodation/holiday-parks-camping/north-coast/bude/bude-holiday-resort"
+  }
+ ],
+ "gaps": "Batch location mentions Widemouth Bay but no source opened links it to Widemouth. Board storage and open dates not stated; official Facilities page not opened."
+}

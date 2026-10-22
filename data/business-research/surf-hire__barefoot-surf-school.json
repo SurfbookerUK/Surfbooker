@@ -1,0 +1,28 @@
+{
+ "slug": "barefoot-surf-school",
+ "kind": "surf-hire",
+ "officialUrl": "",
+ "trading": "unclear",
+ "about": "Barefoot Surf School is based in Braunton, North Devon, and teaches and hires at Putsborough Sands, a sheltered beach near Croyde and Woolacombe. Alongside surf lessons, it offers SUP and sandboarding. Its hire range covers a wide choice of boards and wetsuits, with hire open to people who have already had a beginner lesson.",
+ "offers": [
+  "Surfboard hire: softboards, shortboards, longboards, mini-mals, surf mats, SUPs and alaias",
+  "Spring and winter wetsuits, boots, gloves and hoods",
+  "Sandboarding kit",
+  "Family surf sessions (90 minutes)",
+  "One-to-one and two-to-one surf lessons",
+  "SUP and sandboarding lessons"
+ ],
+ "where": "Putsborough Sands, North Devon",
+ "goodToKnow": [
+  "Surf hire is for people who have done a beginner lesson",
+  "SUP hire needs proven SUP experience"
+ ],
+ "season": null,
+ "sources": [
+  {
+   "label": "HolidayFox listing",
+   "url": "https://www.holidayfox.com/en/e/dest-lzcmosRJCu7g/barefoot-surf-school"
+  }
+ ],
+ "gaps": "Own website (barefootsurf.co.uk) blocked fetching; everything is from a third-party listing, so trading status is unconfirmed; no season, booking terms or accreditations"
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "durrant-house-hotel-northam",
+ "officialUrl": "https://durranthousehotel.com/",
+ "trading": true,
+ "stayType": "Hotel with spa and outdoor pool",
+ "accommodation": "Standard, family, romantic, accessible and estuary-view rooms (number not stated)",
+ "suitableFor": "Couples, families, dog owners (some rooms) and guests needing accessible rooms",
+ "parking": "Free on-site parking in a large private car park; EV charging (Tesla and Polar/Chargemaster) at the rear",
+ "dogs": "Pet-friendly options among family rooms (full policy not checked)",
+ "beachAccess": "Described as 'just minutes' from Westward Ho! (no distance given)",
+ "boardStorage": null,
+ "confirmedFeatures": "Seasonal heated outdoor pool, R&R Spa, fitness room, The Olive Tree restaurant, The Appledore Bar, 24-hour room service, evening entertainment, function rooms, EV charging, accessible rooms",
+ "overview": "Durrant House is a hotel in its own grounds at Northam, near Bideford, overlooking the Taw estuary just off the A39. It has standard, family, romantic and accessible rooms, a seasonal heated outdoor pool, a spa, a fitness room, a restaurant and a bar, and free on-site parking with EV charging. Westward Ho! is a short drive away.",
+ "surfTripFit": "Easy parking and full hotel facilities suit a driving surf trip, but the beach at Westward Ho! is a drive rather than a walk and there is no surfer-specific storage mentioned.",
+ "sources": [
+  {
+   "label": "Durrant House official site",
+   "url": "https://durranthousehotel.com/"
+  },
+  {
+   "label": "Durrant House guest directory",
+   "url": "https://durranthousehotel.com/guest-directory/"
+  }
+ ],
+ "gaps": "Room count, exact beach distance, dog policy details and board storage not stated."
+}

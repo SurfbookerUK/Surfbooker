@@ -1,0 +1,152 @@
+{
+ "slug": "belhaven-bay",
+ "schools": [
+  {
+   "name": "Coast to Coast Surf School",
+   "type": "Surf school",
+   "url": "https://c2csurfschool.com/",
+   "base": "Belhaven Surf Centre, 36 Back Road (Shore Road), Belhaven, Dunbar EH42 1NX, by the south side of the beach",
+   "note": "Two-hour beginner lessons run daily from March to November when there are waves, for ages 7 and up who can swim 50m unaided, with up to 8 people per instructor. There are also Beginner+, weekly Improver sessions, bespoke coaching with a senior instructor, junior holiday camps (7-16) and an adult longboard course.",
+   "source": "https://c2csurfschool.com/surf/beginner-surf-lessons/"
+  }
+ ],
+ "hire": [
+  {
+   "name": "Coast to Coast Surf School hire",
+   "type": "Board & wetsuit hire",
+   "url": "https://c2csurfschool.com/hire/",
+   "base": "Belhaven Surf Centre, 36 Back Road, across the road from the Shore Road beach car park",
+   "note": "Hires foam and hard surfboards from 6ft to 9ft, bodyboards, paddleboards, surf skates and 5mm wetsuits, in sessions starting 9:30am and 1pm (with extra summer evening slots when staff and conditions allow). You need to swim 50m, should have had an approved lesson or be with an experienced guardian, and leave photo ID as a deposit.",
+   "source": "https://c2csurfschool.com/hire/"
+  }
+ ],
+ "shops": [],
+ "lessonsIntro": "Belhaven Bay, on the western edge of Dunbar, is East Lothian's main spot for learning to surf. Lessons run from the surf centre right by the beach car park, and the train from Edinburgh gets you to Dunbar in about 25 minutes.",
+ "learn": {
+  "text": [
+   "Belhaven is a long, open sandy bay inside John Muir Country Park, backed by dunes and salt marsh, and you'll often see surfers here from the beach. Coast to Coast Surf School runs its lessons from the Belhaven Surf Centre on Back Road, a short walk from the sand. Beginner sessions last two hours, groups are capped at eight per instructor, and wetsuits and boards are included. You'll need to be able to swim 50 metres unaided.",
+   "Lessons run daily from March to November but depend on there being waves, so keep an eye on the school's forecast page. If it's flat or the weather is extreme, the school offers another activity, a new date, a voucher or a refund. It says classes go ahead on all but the most extreme days, even in early-season snow. Allow extra time to walk back and change afterwards, and bring coins for the hot showers and car park."
+  ],
+  "cards": [
+   {
+    "label": "Level",
+    "title": "Beginner-friendly with a local school",
+    "text": "Lessons start at age 7 with a 50m swim requirement, and there's no upper age limit if you're fit enough. Improver and intermediate coaching are available as you progress."
+   },
+   {
+    "label": "Best time",
+    "title": "March to November, when there's swell",
+    "text": "Beginner lessons run daily in season, subject to waves. Summer can bring extra hire sessions in the late afternoon and evening."
+   },
+   {
+    "label": "Watch out for",
+    "title": "Big surf, strong wind and the estuary",
+    "text": "The school may cancel hire in big surf or high winds. The beach sits beside an estuary, and the Bridge to Nowhere is only walkable at low tide, so check tide times before you head out."
+   }
+  ]
+ },
+ "hireIntro": "You can hire boards, bodyboards, paddleboards and wetsuits from the surf centre beside the Belhaven car park. Book online, and bring photo ID as a deposit.",
+ "kit": {
+  "text": [
+   "If you're starting out at Belhaven, a foam board is the sensible choice, and the hire range covers foamies and hardboards from 6ft to 9ft so you can move up as you improve. The local school uses 5mm wetsuits and says people are often surprised how warm they feel in this water. Paddleboarding happens in the sheltered estuary near the centre rather than in the surf."
+  ],
+  "cards": [
+   {
+    "label": "Board",
+    "title": "Foam board to start",
+    "text": "Pick a board that matches your ability, as the hire terms ask. Foamies suit first sessions; hardboards are there for when you can catch and ride waves on your own."
+   },
+   {
+    "label": "Wetsuit",
+    "title": "5mm suit",
+    "text": "Coast to Coast provides 5mm wetsuits for lessons and hire, with accessories matched to the conditions on the day."
+   },
+   {
+    "label": "Other craft",
+    "title": "Bodyboards and SUPs",
+    "text": "Bodyboards can be hired at the centre. Paddleboards are used in the sheltered estuary, and a buoyancy aid must be worn."
+   }
+  ]
+ },
+ "shopsIntro": "We couldn't confirm a dedicated surf shop in Dunbar or Belhaven, so plan to sort your kit through hire or bring your own.",
+ "shopsText": [
+  "The Belhaven Surf Centre on Back Road is the main surf business at the beach, and it focuses on lessons and hire rather than retail. Places to eat are 5 to 15 minutes' walk away, and a food van sometimes parks in the beach car park. For buying boards or wetsuits, check before you travel, as we couldn't confirm a surf shop in town."
+ ],
+ "faqs": {
+  "lessons": [
+   {
+    "q": "How old do you need to be for a surf lesson at Belhaven?",
+    "a": "Coast to Coast Surf School takes beginners from age 7, and juniors must be able to swim 50 metres unaided. There's no upper age limit as long as you're fit and flexible enough."
+   },
+   {
+    "q": "What happens if there are no waves?",
+    "a": "Lessons are subject to waves. If it's flat or the weather is extreme, the school offers an alternative activity, a new date, a voucher or a refund."
+   },
+   {
+    "q": "Can I get to Belhaven by train for a lesson?",
+    "a": "Yes. The train from Edinburgh to Dunbar takes about 25 minutes, then it's around a 20-minute walk or a short taxi ride to the surf centre. Buses from Edinburgh also stop in Belhaven, about 5 minutes away."
+   }
+  ],
+  "hire": [
+   {
+    "q": "Do I need experience to hire a surfboard at Belhaven?",
+    "a": "You need to be able to swim 50m unaided and should have done an approved lesson or be with an experienced guardian. Under-16s must be supervised by an adult."
+   },
+   {
+    "q": "What do I need to bring to hire kit?",
+    "a": "Photo ID (passport, driving licence or ID card) is taken as a deposit. Bring a towel and swimwear, and coins for the showers and car park."
+   }
+  ],
+  "shops": [
+   {
+    "q": "Is there a surf shop at Belhaven Bay?",
+    "a": "The surf centre at Belhaven offers lessons and hire, but we couldn't confirm a surf shop selling boards and wetsuits in Dunbar, so check before you travel."
+   }
+  ]
+ },
+ "sources": [
+  {
+   "label": "Coast to Coast Surf School",
+   "url": "https://c2csurfschool.com/"
+  },
+  {
+   "label": "Coast to Coast beginner surf lessons",
+   "url": "https://c2csurfschool.com/surf/beginner-surf-lessons/"
+  },
+  {
+   "label": "Coast to Coast hire",
+   "url": "https://c2csurfschool.com/hire/"
+  },
+  {
+   "label": "Coast to Coast contact and FAQs",
+   "url": "https://c2csurfschool.com/contact-us/"
+  },
+  {
+   "label": "Visit East Lothian: Belhaven Bay",
+   "url": "https://www.visiteastlothian.org/beaches/belhaven-bay"
+  }
+ ],
+ "factCheck": [
+  {
+   "fact": "Beginner lessons: 2 hours, age 7+, swim 50m unaided, max 8:1, daily March-November subject to waves, flat-day alternatives",
+   "url": "https://c2csurfschool.com/surf/beginner-surf-lessons/"
+  },
+  {
+   "fact": "Surf centre at 36 Back Road, Belhaven EH42 1NX",
+   "url": "https://c2csurfschool.com/"
+  },
+  {
+   "fact": "Hire: foam and hard boards 6-9ft, bodyboards, SUPs, surf skates, 5mm wetsuits; 9:30am and 1pm sessions; photo ID deposit; swim 50m; under-16s supervised; SUP in estuary with buoyancy aid; may cancel in big surf/high winds",
+   "url": "https://c2csurfschool.com/hire/"
+  },
+  {
+   "fact": "5mm wetsuits, classes run on all but most extreme days; no upper age limit; train Edinburgh-Dunbar ~25 min then 20 min walk; car park across road; showers and car park need coins; food 5-15 min walk",
+   "url": "https://c2csurfschool.com/contact-us/"
+  },
+  {
+   "fact": "Beach in John Muir Country Park with dunes and salt marsh; surfers watched from beach; Bridge to Nowhere crossable at low tide; toilets, showers at surf hub, seasonal food outlet",
+   "url": "https://www.visiteastlothian.org/beaches/belhaven-bay"
+  }
+ ],
+ "gaps": "Web search was rate-limited and the fetch tool then hit a session limit, so only Coast to Coast and Visit East Lothian were checked. No other schools, hire or surf shops in Dunbar confirmed (shops list empty). Could not open an East Lothian Council or RNLI source on lifeguard cover, rips or river-mouth hazards; no sea-temperature data source opened (wetsuit guidance relies on the school's 5mm suits). Note: the c2csurfschool.com homepage currently shows unrelated gambling ad text, which may mean the site has been compromised; worth flagging to the owner/checking before linking."
+}

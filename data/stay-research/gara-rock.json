@@ -1,0 +1,26 @@
+{
+ "slug": "gara-rock",
+ "officialUrl": "https://www.gararock.com/",
+ "trading": true,
+ "stayType": "Clifftop hotel with suites and residences",
+ "accommodation": "Hotel rooms and junior suites, three feature suites (Secret Suite, Signal House, The Penthouse), and residences sleeping four to six across two or three bedrooms",
+ "suitableFor": "Couples, families, groups, dog owners (selected units)",
+ "parking": null,
+ "dogs": "Pet-friendly in Coastal Cottages, selected suites and rooms with gardens; allowed in Gara Kitchen and Residents Lounge but not the restaurant; fee charged",
+ "beachAccess": null,
+ "boardStorage": null,
+ "confirmedFeatures": "Indoor pool, outdoor pool (summer), Wild Rock Spa with sauna and jacuzzi, restaurant, bar and lounge, cinema room",
+ "overview": "Gara Rock is a clifftop hotel at East Portlemouth, across the estuary from Salcombe, offering rooms, suites and multi-bedroom residences. It has indoor and outdoor pools, a spa and a restaurant, with coast path walks to East Portlemouth and a seasonal passenger ferry to Salcombe.",
+ "surfTripFit": "It is on the south side of the Salcombe estuary rather than at Bantham, so surfing means a drive round via Kingsbridge. Better suited to a resort-style break than a dedicated surf trip.",
+ "sources": [
+  {
+   "label": "Gara Rock official site",
+   "url": "https://www.gararock.com/"
+  },
+  {
+   "label": "Gara Rock FAQs",
+   "url": "https://www.gararock.com/faqs"
+  }
+ ],
+ "gaps": "Parking, Wi-Fi and beach access not stated; room count not stated; located at East Portlemouth, not Bantham/Challaborough as in batch."
+}

@@ -1,0 +1,22 @@
+{
+ "slug": "the-rising-sun-hotel",
+ "officialUrl": "https://www.risingsunlynmouth.co.uk/",
+ "trading": true,
+ "stayType": "Harbourside inn with rooms",
+ "accommodation": "Rooms of character, some with sea views; number not stated",
+ "suitableFor": "Couples and walkers",
+ "parking": null,
+ "dogs": null,
+ "beachAccess": null,
+ "boardStorage": null,
+ "confirmedFeatures": "Restaurant with seasonal local food, sauna at sister hotel Rock House",
+ "overview": "A pub with rooms on the harbourside at Lynmouth, where the River Lyn meets the sea on the edge of Exmoor National Park. Its restaurant serves seasonal local food, and the sister Rock House next door has a seaside sauna.",
+ "surfTripFit": "Right on the harbour near the Lynmouth river-mouth break, but nothing surf-specific is offered.",
+ "sources": [
+  {
+   "label": "The Rising Sun official site",
+   "url": "https://www.risingsunlynmouth.co.uk/"
+  }
+ ],
+ "gaps": "Room count, dogs, parking not stated; trading inferred from live booking."
+}

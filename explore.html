@@ -1,0 +1,929 @@
+<!DOCTYPE html>
+<html lang="en-GB">
+<head>
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-VTE8HWZG0S"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-VTE8HWZG0S');
+</script>
+
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <title>Explore UK Surf Spots | Surfbooker</title>
+  <meta name="description" content="Explore surf spots across Devon, Cornwall, Wales, Dorset and the UK. Choose a surf destination and plan your trip with Surfbooker.">
+  <meta name="robots" content="index,follow,max-image-preview:large">
+  <link rel="canonical" href="https://surfbooker.com/explore.html">
+
+  <link rel="icon" href="favicon.ico">
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;600;700&family=Instrument+Serif&display=swap" rel="stylesheet">
+
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
+
+  <style>
+    * { box-sizing: border-box; }
+
+    html { scroll-behavior: smooth; }
+
+    body {
+      margin: 0;
+      font-family: "Space Grotesk", sans-serif;
+      background: #f5f4ef;
+      color: #0f2a33;
+    }
+
+    body.map-intro-active .site-header,
+    body.map-intro-active .explore-hero,
+    body.map-intro-active .explore-shell,
+    body.map-intro-active .site-footer {
+      animation: fadeRise .75s ease both;
+    }
+
+    body.map-intro-active .explore-shell {
+      animation-delay: .15s;
+    }
+
+    body.map-intro-active .map-wrap {
+      animation: mapZoomIn .95s cubic-bezier(.2,.8,.2,1) both;
+      transform-origin: center top;
+    }
+
+    @keyframes fadeRise {
+      from {
+        opacity: 0;
+        transform: translateY(18px);
+      }
+      to {
+        opacity: 1;
+        transform: translateY(0);
+      }
+    }
+
+    @keyframes mapZoomIn {
+      from {
+        opacity: 0;
+        transform: scale(.94) translateY(24px);
+        filter: blur(3px);
+      }
+      to {
+        opacity: 1;
+        transform: scale(1) translateY(0);
+        filter: blur(0);
+      }
+    }
+
+    @media (prefers-reduced-motion: reduce) {
+      body.map-intro-active .site-header,
+      body.map-intro-active .explore-hero,
+      body.map-intro-active .explore-shell,
+      body.map-intro-active .site-footer,
+      body.map-intro-active .map-wrap {
+        animation: none;
+      }
+    }
+
+    a {
+      color: inherit;
+      text-decoration: none;
+    }
+
+    button {
+      font: inherit;
+    }
+
+    /* =========================
+       HEADER
+    ========================== */
+
+    .site-header {
+      min-height: 90px;
+      padding: 15px 5%;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      background: #f5f4ef;
+      color: #0f2a33;
+      border-bottom: 1px solid rgba(15,42,51,.08);
+    }
+
+    .site-header .brand {
+      margin: 0 auto;
+    }
+
+    .brand img {
+      width: 190px;
+      height: auto;
+      display: block;
+    }
+
+    .site-nav {
+      display: flex;
+      align-items: center;
+      gap: 26px;
+      margin-top: 12px;
+      font-size: 14px;
+      font-weight: 500;
+    }
+
+    .site-nav a {
+      color: #0f2a33;
+    }
+
+    /* =========================
+       HERO
+    ========================== */
+
+    .explore-hero {
+      background: #f5f4ef;
+      color: #0f2a33;
+      text-align: center;
+      padding: 35px 5% 58px;
+    }
+
+    .eyebrow {
+      margin: 0 0 10px;
+      text-transform: uppercase;
+      letter-spacing: .18em;
+      font-size: 12px;
+      font-weight: 700;
+    }
+
+    .explore-hero h1 {
+      margin: 0 auto 14px;
+      font-family: "Instrument Serif", serif;
+      font-size: clamp(48px, 7vw, 82px);
+      font-weight: 400;
+      line-height: .98;
+    }
+
+    .explore-hero p {
+      max-width: 650px;
+      margin: auto;
+      color: #5d7076;
+      font-size: 18px;
+      line-height: 1.55;
+    }
+
+    /* =========================
+       MAP PAGE
+    ========================== */
+
+    .explore-shell {
+      width: min(1320px, 94%);
+      margin: auto;
+      padding: 32px 0 65px;
+    }
+
+    .map-toolbar {
+      display: flex;
+      align-items: flex-end;
+      justify-content: space-between;
+      gap: 24px;
+      margin-bottom: 18px;
+    }
+
+    .toolbar-copy h2 {
+      margin: 0 0 5px;
+      font-family: "Instrument Serif", serif;
+      font-size: clamp(30px, 4vw, 46px);
+      font-weight: 400;
+    }
+
+    .toolbar-copy p {
+      margin: 0;
+      color: #68797e;
+      font-size: 14px;
+    }
+
+    .region-controls {
+      display: flex;
+      gap: 7px;
+      flex-wrap: wrap;
+      justify-content: flex-end;
+    }
+
+    .region-button {
+      border: 1px solid #ccd5d2;
+      background: white;
+      color: #0f2a33;
+      border-radius: 999px;
+      padding: 10px 15px;
+      cursor: pointer;
+      transition: .18s ease;
+    }
+
+    .region-button:hover {
+      border-color: #0f2a33;
+    }
+
+    .region-button.active {
+      background: #0f2a33;
+      color: white;
+      border-color: #0f2a33;
+    }
+
+    .map-wrap {
+      position: relative;
+      overflow: hidden;
+      border-radius: 22px;
+      background: #bfe9f7;
+      border: 1px solid rgba(15,42,51,.08);
+    }
+
+    #surf-map {
+      width: 100%;
+      height: min(72vh, 760px);
+      min-height: 560px;
+      background: #bfe9f7;
+    }
+
+    #surf-map .leaflet-control-zoom {
+      border: 0;
+      box-shadow: 0 6px 20px rgba(15,42,51,.18);
+    }
+
+    #surf-map .leaflet-control-zoom a {
+      color: #0f2a33;
+      background: #ffffff;
+      border-bottom-color: #d9dfdc;
+    }
+
+    .vector-load-note {
+      position: absolute;
+      top: 14px;
+      left: 50%;
+      transform: translateX(-50%);
+      z-index: 600;
+      padding: 7px 10px;
+      border-radius: 999px;
+      background: rgba(255,255,255,.92);
+      color: #50676d;
+      font-size: 11px;
+      font-weight: 600;
+      pointer-events: none;
+    }
+
+
+    .county-map-label {
+      background: transparent;
+      color: #ffffff;
+      border: 0;
+      border-radius: 0;
+      box-shadow: none;
+      text-shadow: 0 2px 10px rgba(0,0,0,.35);
+      font-size: 16px;
+      font-weight: 700;
+      padding: 0;
+      white-space: nowrap;
+    }
+
+    @media (max-width:520px) {
+      .county-map-label {
+        font-size: 13px;
+      }
+    }
+
+    /* =========================
+       CUSTOM SURF MARKERS
+    ========================== */
+
+    .surf-marker-wrap {
+      background: transparent;
+      border: 0;
+    }
+
+    .surf-marker {
+      width: 38px;
+      height: 38px;
+      border-radius: 50%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      background: #ffffff;
+      color: #0f2a33;
+      border: 3px solid #0f2a33;
+      box-shadow: 0 4px 12px rgba(15,42,51,.28);
+      transition: transform .15s ease;
+      overflow: hidden;
+    }
+
+    .surf-marker img {
+      width: 22px;
+      height: 22px;
+      object-fit: contain;
+      display: block;
+    }
+
+    .surf-marker:hover {
+      transform: scale(1.12);
+    }
+
+    /* =========================
+       POPUPS
+    ========================== */
+
+    .leaflet-popup-content-wrapper {
+      border-radius: 16px;
+      box-shadow: 0 14px 35px rgba(15,42,51,.18);
+    }
+
+    .leaflet-popup-content {
+      margin: 15px 16px 16px;
+      min-width: 215px;
+    }
+
+    .surf-popup .popup-label {
+      display: block;
+      margin-bottom: 5px;
+      color: #6b7e83;
+      font-size: 10px;
+      font-weight: 700;
+      letter-spacing: .12em;
+      text-transform: uppercase;
+    }
+
+    .surf-popup h3 {
+      margin: 0 0 7px;
+      color: #0f2a33;
+      font-size: 19px;
+    }
+
+    .surf-popup p {
+      margin: 0 0 13px;
+      color: #5f7277;
+      font-size: 13px;
+      line-height: 1.45;
+    }
+
+    .popup-link {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      min-height: 39px;
+      padding: 9px 14px;
+      border-radius: 999px;
+      background: #0f2a33;
+      color: white !important;
+      font-size: 13px;
+      font-weight: 700;
+    }
+
+    .popup-coming-soon {
+      display: inline-block;
+      color: #7a898d;
+      font-size: 12px;
+      font-weight: 600;
+    }
+
+    /* =========================
+       FOOTER
+    ========================== */
+
+    .site-footer {
+      width: min(1180px, calc(100% - 32px));
+      margin: 30px auto 24px;
+      background: #0f2a33;
+      color: white;
+      padding: 34px 24px;
+      border-radius: 30px;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      gap: 6px;
+      text-align: center;
+      font-size: 14px;
+      line-height: 1.5;
+    }
+
+    .site-footer a {
+      color: white;
+    }
+
+    /* =========================
+       MOBILE
+    ========================== */
+
+    @media (max-width: 850px) {
+      .site-nav {
+        display: none;
+      }
+
+      .site-header {
+        justify-content: center;
+      }
+
+      .brand img {
+        width: 175px;
+      }
+
+      .map-toolbar {
+        align-items: flex-start;
+        flex-direction: column;
+      }
+
+      .region-controls {
+        justify-content: flex-start;
+      }
+
+      #surf-map {
+        height: 68vh;
+        min-height: 500px;
+      }
+
+    }
+
+    @media (max-width: 520px) {
+      .site-header {
+        min-height: 78px;
+        padding: 12px 4%;
+      }
+
+      .brand img {
+        width: 160px;
+      }
+
+      .explore-hero {
+        padding: 26px 6% 38px;
+      }
+
+      .explore-hero p {
+        font-size: 16px;
+      }
+
+      .explore-shell {
+        width: 94%;
+        padding-top: 22px;
+      }
+
+      .region-controls {
+        gap: 6px;
+      }
+
+      .region-button {
+        padding: 9px 12px;
+        font-size: 13px;
+      }
+
+      .map-wrap {
+        border-radius: 16px;
+      }
+
+      #surf-map {
+        height: 66vh;
+        min-height: 470px;
+      }
+    }
+  </style>
+  <link rel="stylesheet" href="/site-navigation.css">
+</head>
+
+<body>
+
+  <header class="site-header">
+    <a class="brand" href="/" aria-label="Surfbooker home">
+      <img src="/images/brand/logo-transparent-fbs.png" alt="Surfbooker">
+    </a>
+  </header>
+
+  <section class="explore-hero">
+    <h1>Find your next surf spot.</h1>
+    <p>
+      Explore surf destinations around the UK. Select a spot to discover
+      surf schools, local guides, places to eat, accommodation and everything
+      else you need for the trip.
+    </p>
+  </section>
+
+  <main class="explore-shell">
+
+    <div class="map-toolbar">
+      <div class="toolbar-copy">
+        <h2>Explore the coast</h2>
+        <p>Choose a region or zoom around the map yourself.</p>
+      </div>
+      <div class="region-controls" role="group" aria-label="Zoom map to a region">
+        <button class="region-button active" type="button" data-region="uk">United Kingdom</button>
+        <button class="region-button" type="button" data-region="wales">Wales</button>
+        <button class="region-button" type="button" data-region="gower">Gower</button>
+        <button class="region-button" type="button" data-region="devon">Devon</button>
+        <button class="region-button" type="button" data-region="cornwall">Cornwall</button>
+      </div>
+    </div>
+
+    <div class="map-wrap">
+      <div class="vector-load-note" id="vector-load-note">Loading Surfbooker map...</div>
+      <div id="surf-map"></div>
+    </div>
+
+  </main>
+
+  <footer class="sb-site-footer">
+    <nav class="sb-footer-group" aria-label="Visitor links">
+      <a href="/explore.html">Explore</a>
+      <a href="/surf-lessons/">Surf Lessons</a>
+      <a href="/surf-hire/">Surf Hire</a>
+      <a href="/guides/">Beach Guides</a>
+      <a href="/accommodation/">Accommodation</a>
+      <a href="/contact/">Contact</a>
+    </nav>
+    <nav class="sb-footer-group sb-footer-business" aria-label="Business links">
+      <a href="/list-your-school/">List or upgrade your surf school</a>
+      <a href="/list-your-accommodation/">List your accommodation</a>
+    </nav>
+    <nav class="sb-footer-group" aria-label="Legal links">
+      <a href="/privacy/">Privacy Policy</a>
+      <a href="/terms/">Terms &amp; Conditions</a>
+      <a href="/image-credits/">Image credits</a>
+    </nav>
+    <p class="sb-footer-meta">&copy; 2026 Surfbooker. All rights reserved. <a href="mailto:hello@surfbooker.com">hello@surfbooker.com</a></p>
+  </footer>
+
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+  <script src="https://unpkg.com/topojson-client@3/dist/topojson-client.min.js"></script>
+  <script src="/scotland-destinations.js"></script>
+  <script src="/northeast-destinations.js"></script>
+  <script src="/northern-ireland-destinations.js"></script>
+  <script src="/southern-england-destinations.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/@turf/turf@7.2.0/turf.min.js"></script>
+
+  <script>
+    /* =========================
+       REGION VIEWS
+    ========================== */
+
+    const regions = {
+      uk:       { centre: [54.6, -3.4], zoom: 5 },
+      devon:    { centre: [50.80, -3.95], zoom: 9 },
+      cornwall: { centre: [50.38, -4.85], zoom: 9 },
+      wales:    { centre: [52.15, -3.90], zoom: 7 },
+      gower:    { centre: [51.575, -4.155], zoom: 10 },
+      scotland: { centre: [57.25, -4.20], zoom: 6 },
+      northeast:{ centre: [54.95, -1.05], zoom: 7 },
+      northernIreland: { centre: [55.12, -6.55], zoom: 8 },
+      dorset:   { centre: [50.70, -2.45], zoom: 9 }
+    };
+
+    /* =========================
+       SURF SPOTS ONLY
+
+       Change the URL to the final
+       destination hub when each one
+       is built.
+    ========================== */
+
+    const surfSpots = [
+      ...(window.scotlandDestinations || []),
+      ...(window.northeastDestinations || []),
+      ...(window.northernIrelandDestinations || []),
+      ...(window.southernEnglandDestinations || []),
+      /* DEVON */
+      {
+        title: "Westward Ho!",
+        region: "devon",
+        lat: 51.039,
+        lng: -4.238,
+        description: "Long sandy beach with plenty of room and a choice of surf schools.",
+        url: "guides/westwardho!/"
+      },
+      {
+        title: "Saunton Sands",
+        region: "devon",
+        lat: 51.116,
+        lng: -4.229,
+        description: "Long, mellow walls and one of North Devon's most popular longboarding beaches.",
+        url: "guides/Saunton/"
+      },
+      {
+        title: "Croyde Bay",
+        region: "devon",
+        lat: 51.130,
+        lng: -4.238,
+        description: "Classic North Devon beach break known for powerful, high-quality waves.",
+        url: "guides/Croyde/"
+      },
+      {
+        title: "Putsborough Sands",
+        region: "devon",
+        lat: 51.149,
+        lng: -4.218,
+        description: "A more sheltered option at the southern end of Woolacombe Sands.",
+        url: "guides/Putsborough/"
+      },
+      {
+        title: "Woolacombe",
+        region: "devon",
+        lat: 51.173,
+        lng: -4.210,
+        description: "Huge sandy beach with plenty of peaks and options for different abilities.",
+        url: "guides/Woolacombe/"
+      },
+      {
+        title: "Lynmouth",
+        region: "devon",
+        lat: 51.231,
+        lng: -3.831,
+        description: "North Devon point break best left to experienced surfers when it is working.",
+        url: "guides/Lynmouth/"
+      },
+      {
+        title: "Bantham",
+        region: "devon",
+        lat: 50.280,
+        lng: -3.890,
+        description: "Popular South Devon surf beach beside the Avon estuary.",
+        url: "guides/Bantham/"
+      },
+      {
+        title: "Bigbury-on-Sea",
+        region: "devon",
+        lat: 50.284,
+        lng: -3.900,
+        description: "South Devon beach overlooking Burgh Island with surf on the right conditions.",
+        url: "guides/Bigbury-on-sea/"
+      },
+      {
+        title: "Challaborough",
+        region: "devon",
+        lat: 50.281,
+        lng: -3.898,
+        description: "Compact South Devon beach tucked into the bay beside Bigbury.",
+        url: "guides/Challaborough/"
+      },
+
+      /* CORNWALL - destination hubs can be added later */
+      {
+        title: "Fistral Beach",
+        region: "cornwall",
+        lat: 50.415,
+        lng: -5.100,
+        description: "One of Britain's best-known surf beaches on the edge of Newquay.",
+        url: "/guides/surfing-fistral-beach/"
+      },
+      {
+        title: "Watergate Bay",
+        region: "cornwall",
+        lat: 50.442,
+        lng: -5.043,
+        description: "Wide sandy Cornish beach with plenty of space and consistent Atlantic swell.",
+        url: "/guides/surfing-watergate-bay/"
+      },
+      {
+        title: "Polzeath",
+        region: "cornwall",
+        lat: 50.573,
+        lng: -4.919,
+        description: "Popular North Cornwall surf beach with a strong beginner scene.",
+        url: "/guides/surfing-polzeath/"
+      },
+      {
+        title: "Perranporth",
+        region: "cornwall",
+        lat: 50.344,
+        lng: -5.154,
+        description: "Long exposed beach with plenty of peaks along the Cornish coast.",
+        url: ""
+      },
+      {
+        title: "Sennen Cove",
+        region: "cornwall",
+        lat: 50.077,
+        lng: -5.699,
+        description: "Beautiful far-west Cornwall surf beach close to Land's End.",
+        url: ""
+      },
+
+      /* WALES */
+      {
+        title: "Llangennith",
+        region: "wales",
+        lat: 51.605,
+        lng: -4.304,
+        description: "Exposed Gower beach and one of South Wales' best-known surf spots.",
+        url: "/guides/surfing-llangennith/"
+      },
+      { title: "Rhossili Bay", region: "wales", lat: 51.568, lng: -4.294, description: "Landmark west Gower bay with a dramatic clifftop approach.", url: "/guides/surfing-rhossili-bay/" },
+      { title: "Caswell Bay", region: "wales", lat: 51.570, lng: -4.034, description: "Accessible sandy Gower bay suited to families and lessons on suitable days.", url: "/guides/surfing-caswell-bay/" },
+      { title: "Langland Bay", region: "wales", lat: 51.567, lng: -4.010, description: "Popular Swansea-side reef and beach setup for capable surfers.", url: "/guides/surfing-langland-bay/" },
+      { title: "Oxwich Bay", region: "wales", lat: 51.554, lng: -4.150, description: "Sheltered south Gower bay that works when swell direction lines up.", url: "/guides/surfing-oxwich-bay/" },
+      { title: "Port Eynon", region: "wales", lat: 51.545, lng: -4.213, description: "Sheltered Gower village beach and occasional small-wave alternative.", url: "/guides/surfing-port-eynon/" },
+      {
+        title: "Newgale",
+        region: "wales",
+        lat: 51.854,
+        lng: -5.127,
+        description: "Long Pembrokeshire beach popular with surfers and watersports visitors.",
+        url: "/guides/surfing-newgale/"
+      },
+      {
+        title: "Freshwater West",
+        region: "wales",
+        lat: 51.657,
+        lng: -5.058,
+        description: "Powerful Pembrokeshire beach break for more experienced surfers.",
+        url: "/guides/surfing-freshwater-west/"
+      },
+      { title: "Whitesands", region: "wales", lat: 51.897, lng: -5.297, description: "Scenic exposed beach near St Davids with broad surf appeal.", url: "/guides/surfing-whitesands/" },
+      { title: "Broad Haven", region: "wales", lat: 51.780, lng: -5.103, description: "Village-backed sandy beach for learners and families on suitable days.", url: "/guides/surfing-broad-haven/" },
+      { title: "Manorbier", region: "wales", lat: 51.644, lng: -4.800, description: "Compact Pembrokeshire bay with a punchier reef-influenced surf character.", url: "/guides/surfing-manorbier/" },
+      { title: "Freshwater East", region: "wales", lat: 51.646, lng: -4.866, description: "Sheltered sandy bay and conditional small-wave alternative.", url: "/guides/surfing-freshwater-east/" },
+      { title: "Marloes Sands", region: "wales", lat: 51.721, lng: -5.207, description: "Remote-feeling Pembrokeshire beach for capable, self-sufficient surfers.", url: "/guides/surfing-marloes-sands/" },
+      { title: "Nolton Haven", region: "wales", lat: 51.821, lng: -5.106, description: "Compact Pembrokeshire cove that works in the right conditions.", url: "/guides/surfing-nolton-haven/" },
+      {
+        title: "Rhosneigr",
+        region: "wales",
+        lat: 53.228,
+        lng: -4.520,
+        description: "Anglesey surf and watersports base with accessible beaches and village facilities.",
+        url: "/guides/surfing-rhosneigr/"
+      },
+      {
+        title: "Hell's Mouth",
+        region: "wales",
+        lat: 52.822,
+        lng: -4.550,
+        description: "Long, exposed Llŷn Peninsula beach for condition-aware surfers.",
+        url: "/guides/surfing-hells-mouth-porth-neigwl/"
+      },
+      {
+        title: "Rest Bay",
+        region: "wales",
+        lat: 51.493,
+        lng: -3.729,
+        description: "Porthcawl's established surf beach with lessons and visitor facilities.",
+        url: "/guides/surfing-rest-bay-porthcawl/"
+      },
+
+      /* DORSET */
+      {
+        title: "Bournemouth",
+        region: "dorset",
+        lat: 50.714,
+        lng: -1.875,
+        description: "South coast surf option that can come alive when conditions line up.",
+        url: ""
+      },
+      {
+        title: "Kimmeridge Bay",
+        region: "dorset",
+        lat: 50.611,
+        lng: -2.130,
+        description: "Reef and point-style waves on Dorset's Jurassic Coast.",
+        url: ""
+      },
+
+    ];
+
+
+    /* =========================
+       MAP SETUP
+    ========================== */
+
+    const isMobileMap = window.matchMedia("(max-width: 850px)").matches;
+    const initialMapView = isMobileMap
+      ? { center: [54.6, -3.8], zoom: 5 }
+      : { center: [54.6, -3.8], zoom: 5 };
+
+    const map = L.map("surf-map", {
+      scrollWheelZoom: true,
+      zoomControl: true
+    }).setView(initialMapView.center, initialMapView.zoom);
+
+    const introEnabled = new URLSearchParams(window.location.search).has("intro");
+    if (introEnabled) {
+      document.body.classList.add("map-intro-active");
+      window.requestAnimationFrame(() => {
+        const mapWrap = document.querySelector(".map-wrap");
+        if (mapWrap) {
+          mapWrap.scrollIntoView({ behavior: "smooth", block: "start" });
+        }
+      });
+      window.setTimeout(() => {
+        document.body.classList.remove("map-intro-active");
+      }, 1400);
+    }
+
+    function addCountyLabels() {
+      const labelIcon = text => L.divIcon({
+        className: "",
+        html: `<div class="county-map-label">${text}</div>`,
+        iconSize: null,
+        iconAnchor: [0, 0]
+      });
+
+      L.marker([50.85, -3.85], { icon: labelIcon("Devon"), interactive: false }).addTo(map);
+      L.marker([50.28, -4.96], { icon: labelIcon("Cornwall"), interactive: false }).addTo(map);
+      L.marker([52.15, -3.72], { icon: labelIcon("Wales"), interactive: false }).addTo(map);
+      L.marker([57.15, -4.10], { icon: labelIcon("Scotland"), interactive: false }).addTo(map);
+    }
+
+    /*
+       SURFBOOKER CUSTOM VECTOR BASE
+       Light blue sea, dark navy land, no roads, no town labels.
+    */
+
+    map.attributionControl.setPrefix(false);
+
+    const vectorLoadNote = document.getElementById("vector-load-note");
+
+    function addFallbackTiles() {
+      L.tileLayer("https://{s}.basemaps.cartocdn.com/light_nolabels/{z}/{x}/{y}{r}.png", {
+        maxZoom: 20,
+        subdomains: "abcd",
+        attribution: '&copy; OpenStreetMap contributors &copy; CARTO'
+      }).addTo(map);
+    }
+
+    fetch("https://services1.arcgis.com/ESMARspQHYMw9BZ9/arcgis/rest/services/Countries_December_2025_Boundaries_UK_BSC/FeatureServer/0/query?where=1%3D1&outFields=CTRY25NM&returnGeometry=true&outSR=4326&f=geojson")
+      .then(response => {
+        if (!response.ok) throw new Error("Map geometry failed to load");
+        return response.json();
+      })
+      .then(countries => {
+        L.geoJSON(countries, {
+          pane: "overlayPane",
+          style: {
+            fillColor: "#0f2a33",
+            fillOpacity: 1,
+            color: "rgba(255,255,255,.18)",
+            weight: 0.7,
+            opacity: 1
+          },
+          interactive: false
+        }).addTo(map);
+
+        if (vectorLoadNote) vectorLoadNote.remove();
+        addCountyLabels();
+      })
+      .catch(error => {
+        console.error(error);
+        addFallbackTiles();
+        if (vectorLoadNote) {
+          vectorLoadNote.textContent = "Using fallback map";
+          setTimeout(() => vectorLoadNote.remove(), 1800);
+        }
+      });
+
+    const markerIcon = L.divIcon({
+      className: "surf-marker-wrap",
+      html: '<div class="surf-marker"><img src="/images/brand/logo-transparent-fbs.png" alt=""></div>',
+      iconSize: [38, 38],
+      iconAnchor: [19, 19],
+      popupAnchor: [0, -20]
+    });
+
+    const markers = [];
+
+    surfSpots.filter(spot => spot.url).forEach(spot => {
+      const marker = L.marker(
+        [spot.lat, spot.lng],
+        { icon: markerIcon }
+      ).addTo(map);
+
+      const destinationAction = spot.url
+        ? `<a class="popup-link" href="${spot.url}">View destination &#8594;</a>`
+        : `<span class="popup-coming-soon">Destination page coming soon</span>`;
+
+      marker.bindPopup(`
+        <div class="surf-popup">
+          <span class="popup-label">Surf destination</span>
+          <h3>${spot.title}</h3>
+          <p>${spot.description}</p>
+          ${destinationAction}
+        </div>
+      `);
+
+      markers.push({ marker, spot });
+    });
+
+    /* =========================
+       REGION BUTTONS
+    ========================== */
+
+    document.querySelectorAll(".region-button").forEach(button => {
+      button.addEventListener("click", () => {
+        document.querySelectorAll(".region-button").forEach(btn => {
+          btn.classList.remove("active");
+        });
+
+        button.classList.add("active");
+
+        const selectedRegion = button.dataset.region;
+        const region = regions[selectedRegion];
+
+        map.flyTo(region.centre, region.zoom, {
+          duration: 0.8
+        });
+      });
+    });
+  </script>
+
+</body>
+</html>

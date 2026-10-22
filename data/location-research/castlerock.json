@@ -1,0 +1,197 @@
+{
+ "slug": "castlerock",
+ "schools": [
+  {
+   "name": "Shack Dogs Surf School (Surf Shack Castlerock)",
+   "type": "Surf school",
+   "url": "https://www.surfshackcastlerock.com/shack-dogs-surf-school",
+   "base": "Surf Shack, 11 Main Street, Castlerock",
+   "note": "Kids' summer surf camps (one or three days, ages 8-15), a four-day surf and yoga camp and private group lessons on Castlerock beach. All sessions are supervised by qualified surf coaches and beach lifeguards.",
+   "source": "https://www.surfshackcastlerock.com/shack-dogs-surf-school"
+  },
+  {
+   "name": "Long Line Surf School",
+   "type": "Surf school",
+   "url": "https://longlinesurfschool.co.uk/",
+   "base": "Long Line Surf Cabin on the boardwalk, left of Benone Tourist Complex",
+   "note": "A short way west along the coast at Benone, Long Line runs adult, private, kids' (6-14) and group lessons with provisions for surfers with disabilities.",
+   "source": "https://longlinesurfschool.co.uk/faq-long-line-surf-school-northern-ireland/"
+  }
+ ],
+ "hire": [
+  {
+   "name": "Surf Shack Castlerock hire",
+   "type": "Board & wetsuit hire",
+   "url": "https://www.surfshackcastlerock.com/shack-dogs-surf-school",
+   "base": "11 Main Street, Castlerock",
+   "note": "Two-hour hire of a surfboard or bodyboard with wetsuit, or wetsuits on their own for kids and adults. Book through the Shack Dogs page or message the café.",
+   "source": "https://www.surfshackcastlerock.com/shack-dogs-surf-school"
+  }
+ ],
+ "shops": [
+  {
+   "name": "Surf Shack Castlerock",
+   "type": "Surf shop",
+   "url": "https://www.surfshackcastlerock.com/",
+   "town": "Castlerock (11 Main Street)",
+   "note": "A café overlooking Castlerock beach that sells surf apparel and runs the village's surf school and hire. Open Thursday to Sunday, per its website.",
+   "source": "https://www.surfshackcastlerock.com/"
+  },
+  {
+   "name": "Sea Shed Coffee & Surf",
+   "type": "Surf shop",
+   "url": "https://longlinesurfschool.co.uk/portfolio-item/sea-shed-coffee-surf/",
+   "town": "Benone (beachfront) and Downhill Forest",
+   "note": "The Long Line team's café-and-surf shops in Downhill Forest and at Benone sell surf gear and locally made boards.",
+   "source": "https://longlinesurfschool.co.uk/portfolio-item/sea-shed-coffee-surf/"
+  }
+ ],
+ "lessonsIntro": "Castlerock has its own small surf school, Shack Dogs, run from the Surf Shack café on Main Street, with kids' camps and private lessons on the village beach.",
+ "learn": {
+  "text": [
+   "Castlerock beach is about a kilometre of sand between the Downhill cliffs and the mouth of the River Bann, with boardwalks down from the promenade. Shack Dogs Surf School teaches here and says it's a good place to avoid crowds. Its lessons are supervised by surf coaches who are also beach lifeguards. Summer camps for 8 to 15-year-olds mix surfing with beach games, and adults can book private group lessons for two or more.",
+   "RNLI lifeguards patrol Castlerock daily from 10am to 6pm in July and August, which is also when the kids' camps run. At the eastern end, the concrete pier at the Barmouth isn't a place to be in high wind or breaking swell, and the council warns about soft sand for vehicles there. Horses are allowed on the beach before 11am and after 7pm in summer. Check where lessons meet when you book."
+  ],
+  "cards": [
+   {
+    "label": "Level",
+    "title": "Kids and beginners",
+    "text": "Shack Dogs' camps are for ages 8-15, and private group lessons suit adult beginners."
+   },
+   {
+    "label": "Best time",
+    "title": "Summer holidays",
+    "text": "Kids' camps run in summer, when RNLI lifeguards cover the beach 10am-6pm daily."
+   },
+   {
+    "label": "Watch out for",
+    "title": "The Barmouth pier",
+    "text": "Keep off the pier at the river mouth in high winds or big swell, as the council advises."
+   }
+  ]
+ },
+ "hireIntro": "Surf Shack on Main Street hires surfboards, bodyboards and wetsuits for two-hour sessions on Castlerock beach.",
+ "kit": {
+  "text": [
+   "For learning, a soft-top surfboard or a bodyboard from Surf Shack is the easy option, and both come with a wetsuit. The North Coast is cold for much of the year, so a 5/3mm full suit is the baseline and winter calls for a 5/4mm or thicker with boots, gloves and a hood. The council doesn't list any surf zones or craft restrictions at Castlerock."
+  ],
+  "cards": [
+   {
+    "label": "Board",
+    "title": "Soft-top to start",
+    "text": "Hire a surfboard with wetsuit from Surf Shack, or book a lesson where the board is provided."
+   },
+   {
+    "label": "Wetsuit",
+    "title": "5/3mm most of the year, thicker in winter",
+    "text": "North Coast sea temperature data shows roughly 13-16°C in late summer (a 4/3mm or 5/3mm) and about 7-9°C in late winter, when a 5/4mm or 6/5/4mm with boots, gloves and a hood is advised. Local schools supply 5/3mm or 5mm suits."
+   },
+   {
+    "label": "Other craft",
+    "title": "Bodyboards",
+    "text": "Surf Shack hires bodyboards with a wetsuit, a good option for younger kids or a first taste of the waves."
+   }
+  ]
+ },
+ "shopsIntro": "Castlerock's surf spot is the Surf Shack café on Main Street, with more surf gear nearby at Downhill and Benone.",
+ "shopsText": [
+  "Surf Shack at 11 Main Street is a café overlooking the beach that sells surf apparel and runs hire and lessons. Sea Shed Coffee & Surf, along the coast in Downhill Forest and at Benone, sells surf gear and locally made boards. For full surfboard and wetsuit ranges, Troggs in Portrush is the area's main surf store."
+ ],
+ "faqs": {
+  "lessons": [
+   {
+    "q": "Is there a surf school in Castlerock?",
+    "a": "Yes. Shack Dogs Surf School runs from Surf Shack on Main Street and teaches on Castlerock beach."
+   },
+   {
+    "q": "What ages are the Castlerock kids' surf camps for?",
+    "a": "Shack Dogs' one-day and three-day summer camps are for ages 8 to 15."
+   },
+   {
+    "q": "Can adults book a private lesson in Castlerock?",
+    "a": "Yes, Shack Dogs offers private group lessons for a minimum of two people on a day and time you choose. Get in touch to book."
+   }
+  ],
+  "hire": [
+   {
+    "q": "Can I hire a surfboard in Castlerock?",
+    "a": "Yes. Surf Shack hires surfboards and bodyboards with a wetsuit, plus wetsuits on their own, for two hours at a time."
+   },
+   {
+    "q": "How do I book hire at Surf Shack?",
+    "a": "Use the booking links on the Shack Dogs page, or message them on Facebook or Instagram (@surfshackcastlerock) for a quicker reply."
+   }
+  ],
+  "shops": [
+   {
+    "q": "Where can I buy surf gear near Castlerock?",
+    "a": "Surf Shack sells apparel, Sea Shed at Downhill and Benone sells surf gear and boards, and Troggs in Portrush has the biggest range."
+   }
+  ]
+ },
+ "sources": [
+  {
+   "label": "Surf Shack Castlerock",
+   "url": "https://www.surfshackcastlerock.com/"
+  },
+  {
+   "label": "Shack Dogs Surf School",
+   "url": "https://www.surfshackcastlerock.com/shack-dogs-surf-school"
+  },
+  {
+   "label": "Causeway Coast and Glens Council: Castlerock Beach",
+   "url": "https://causewaycoastandglens.gov.uk/see-do/beaches/castlerock-beach"
+  },
+  {
+   "label": "Long Line Surf School",
+   "url": "https://longlinesurfschool.co.uk/"
+  },
+  {
+   "label": "Long Line kids surf lessons",
+   "url": "https://longlinesurfschool.co.uk/portfolio-item/kids-surfing-lessons/"
+  },
+  {
+   "label": "Sea Shed Coffee & Surf (Long Line)",
+   "url": "https://longlinesurfschool.co.uk/portfolio-item/sea-shed-coffee-surf/"
+  },
+  {
+   "label": "Council news: RNLI lifeguards peak season",
+   "url": "https://causewaycoastandglens.gov.uk/news/rnli-lifeguards-kick-off-peak-season-on-the-causeway-coast-and-county-down-beaches"
+  },
+  {
+   "label": "Surf-Forecast: Portrush East Strand sea temperature",
+   "url": "https://www.surf-forecast.com/breaks/Portrush_East-Strand/seatemp"
+  },
+  {
+   "label": "About Troggs",
+   "url": "https://www.troggs.com/pages/about-troggs"
+  }
+ ],
+ "factCheck": [
+  {
+   "fact": "Shack Dogs Surf School on Castlerock beach; kids' camps 1 and 3 days ages 8-15; surf and yoga camp; private group lesson min 2; coaches and beach lifeguards; hire surfboard/bodyboard with wetsuit and wetsuits only, 2 hours",
+   "url": "https://www.surfshackcastlerock.com/shack-dogs-surf-school"
+  },
+  {
+   "fact": "Surf Shack at 11 Main St, Castlerock; café overlooking the beach; sells apparel; open Thursday-Sunday",
+   "url": "https://www.surfshackcastlerock.com/"
+  },
+  {
+   "fact": "Castlerock beach about 1km between Downhill cliffs and Bann estuary; RNLI July-August 10am-6pm; Barmouth pier warning; soft sand; horses before 11am/after 7pm; boardwalks; Blue Flag 2024",
+   "url": "https://causewaycoastandglens.gov.uk/see-do/beaches/castlerock-beach"
+  },
+  {
+   "fact": "Long Line kids' lessons 6-14; provisions for disabilities",
+   "url": "https://longlinesurfschool.co.uk/"
+  },
+  {
+   "fact": "Sea Shed stores in Downhill Forest and Benone with surf retail",
+   "url": "https://longlinesurfschool.co.uk/portfolio-item/sea-shed-coffee-surf/"
+  },
+  {
+   "fact": "Sea temperature and wetsuit guidance",
+   "url": "https://www.surf-forecast.com/breaks/Portrush_East-Strand/seatemp"
+  }
+ ],
+ "gaps": "Shack Dogs doesn't state a lesson meeting point or minimum age for private lessons. No adaptive surfing confirmed in Castlerock. The council gives no rip or surf-zone information. Distance to Benone/Long Line not stated by sources."
+}

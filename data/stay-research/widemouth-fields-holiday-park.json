@@ -1,0 +1,26 @@
+{
+ "slug": "widemouth-fields-holiday-park",
+ "officialUrl": "https://www.ariaresorts.co.uk/widemouth-fields/",
+ "trading": false,
+ "stayType": "Holiday home ownership park (no holiday lets)",
+ "accommodation": "Lodges and caravans for holiday home owners only, per operator page.",
+ "suitableFor": null,
+ "parking": null,
+ "dogs": null,
+ "beachAccess": "About one mile east of Widemouth Bay (We Are Cornwall listing).",
+ "boardStorage": null,
+ "confirmedFeatures": null,
+ "overview": "Widemouth Fields is a lodge and caravan park in countryside about a mile inland from Widemouth Bay, a few miles from Bude. Operator Aria Resorts now presents it as an ownership park and directs visitors to its holiday-home sales site rather than taking holiday bookings.",
+ "surfTripFit": "Not currently a bookable base for visiting surfers, as the operator says it no longer takes holiday guests.",
+ "sources": [
+  {
+   "label": "Aria Resorts - Widemouth Fields",
+   "url": "https://www.ariaresorts.co.uk/widemouth-fields/"
+  },
+  {
+   "label": "We Are Cornwall listing",
+   "url": "https://wearecornwall.com/listings/widemouth-fields"
+  }
+ ],
+ "gaps": "widemouthfields.co.uk blocked fetching. Older listing describes pods, touring pitches, outdoor pool and dogs welcome, but the operator page says holiday guests are no longer taken; consider removing or relisting as ownership-only."
+}

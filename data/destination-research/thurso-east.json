@@ -1,0 +1,118 @@
+{
+ "overview": [
+  "Thurso East breaks on the east side of the River Thurso, below the ruins of Thurso Castle. A north to north-west groundswell wraps onto a shelf of flat rock and peels right — long, powerful and, on the right swell, hollow. It is the main reason surfers from around the world make the trip to Caithness.",
+  "The castle has a long story: a fortress has stood here since the 12th century, the present Victorian Gothic building dates from 1872, and parts were demolished in 1952 after a wartime mine exploded below it. Part of it remains a family home. Surfing put Thurso on a different kind of map, and international contests have been held here.",
+  "It's a destination wave and should be approached that way: a shallow reef, a small take-off zone and a dedicated local crowd. Good reef experience is essential. Families and learners should head to Thurso Beach or Dunnet Bay instead. Watch from the town side of the river first, and only paddle out if you are sure the conditions are within your ability."
+ ],
+ "suits": [
+  "Advanced and expert surfers with reef experience",
+  "Watching good surfers from across the river",
+  "Surf trips built around winter swells"
+ ],
+ "notFor": [
+  "Beginners and intermediates",
+  "Anyone uncomfortable surfing over shallow rock in a crowd"
+ ],
+ "surf": {
+  "text": [
+   "Thurso East is a right-hand reef that needs groundswell, ideally from the north-north-west. South-east winds are offshore. It breaks at most stages of the tide, but the rising tide around mid is the classic window.",
+   "Late winter and early spring are often best; February in particular. It can get crowded when it's working, and there's no beach to fall back on at the break — the bottom is rock, so take care at take-off and on the inside.",
+   "Thurso East is the one Scotland is known for: an exposed point break that wants a north-north-westerly groundswell, a south-easterly offshore and mid tide on the rise. Rocks are the hazard and it gets crowded when it's working, so it's for experienced surfers. It works year-round with spring the pick; February often has the cleanest days."
+  ],
+  "cards": [
+   {
+    "label": "Level",
+    "title": "Advanced / expert",
+    "text": "Reef experience essential."
+   },
+   {
+    "label": "Hazards",
+    "title": "Shallow rock reef",
+    "text": "Wipeouts over rock, powerful hollow waves, river currents and cold water."
+   },
+   {
+    "label": "Etiquette",
+    "title": "Tight take-off",
+    "text": "Even a moderate crowd feels busy. Watch where people sit and wait your turn."
+   }
+  ]
+ },
+ "practical": [
+  {
+   "label": "Access",
+   "title": "Respect private land",
+   "text": "The castle side is private and partly lived in. Follow any signs and don't block access, or park in town and walk round."
+  },
+  {
+   "label": "Toilets",
+   "title": "In town",
+   "text": "No facilities at the reef. Public toilets at Thurso Harbour, closed in winter."
+  },
+  {
+   "label": "Lifeguards",
+   "title": "None",
+   "text": "Call 999 or 112 and ask for the Coastguard in an emergency."
+  },
+  {
+   "label": "Accessibility",
+   "title": "Not accessible",
+   "text": "The rocky shore isn't suitable for wheelchairs or pushchairs; watch from the town side."
+  },
+  {
+   "label": "Before you paddle out",
+   "title": "Watch first",
+   "text": "Watch several sets to see how the wave draws off the reef and where the current takes you."
+  }
+ ],
+ "faqs": [
+  {
+   "q": "How good do I need to be to surf Thurso East?",
+   "a": "Advanced. It is a powerful right over a shallow rock reef."
+  },
+  {
+   "q": "What swell and wind does it need?",
+   "a": "North to north-north-west groundswell with south-easterly winds, ideally on a rising mid tide."
+  },
+  {
+   "q": "When is the best season?",
+   "a": "Winter and early spring, with February often the best month."
+  },
+  {
+   "q": "Is it crowded?",
+   "a": "It can be when it's working, and the take-off zone is small."
+  }
+ ],
+ "sources": [
+  {
+   "label": "Surf-forecast: Thurso East",
+   "url": "https://www.surf-forecast.com/breaks/Thurso-East"
+  },
+  {
+   "label": "Wikipedia: Thurso Castle",
+   "url": "https://en.wikipedia.org/wiki/Thurso_Castle"
+  },
+  {
+   "label": "Wikipedia: Thurso",
+   "url": "https://en.wikipedia.org/wiki/Thurso"
+  }
+ ],
+ "factCheck": [
+  {
+   "fact": "Rocky reef, groundswell, best NNW swell, SE offshore, rising mid tide, crowded when working, February/spring best",
+   "url": "https://www.surf-forecast.com/breaks/Thurso-East"
+  },
+  {
+   "fact": "Castle east of River Thurso; fortress since 12th century; present ruin 1872; mine explosion, demolitions 1952; part still a home",
+   "url": "https://en.wikipedia.org/wiki/Thurso_Castle"
+  },
+  {
+   "fact": "International surfing championships held in the area; Thurso East focus of surfing",
+   "url": "https://en.wikipedia.org/wiki/Thurso"
+  },
+  {
+   "fact": "Thurso East: point, NNW swell, SE offshore, mid rising, rocks, crowds",
+   "url": "https://www.surf-forecast.com/breaks/Thurso-East"
+  }
+ ],
+ "checked": "October 2026"
+}

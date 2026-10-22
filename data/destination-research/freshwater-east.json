@@ -1,0 +1,119 @@
+{
+ "overview": [
+  "Freshwater East is a broad, sandy bay on Pembrokeshire's south coast, a few miles from Pembroke, backed by dunes and sheltered on its southern side by the headland of Trewent Point. The name might suggest a twin to Freshwater West, but the two could hardly be more different: this side faces south-east and is usually calm.",
+  "It is a relaxed family beach with a small village a short walk away. There are toilets, a café, a slipway, and a shop and pub nearby. Water quality is rated excellent, it holds a Green Coast Award and it is recommended by the Marine Conservation Society. A small stream crossing the southern end is popular with children. Like several coves along this coast, it was once a favourite of smugglers.",
+  "There is no lifeguard service, so take extra care in the water. The coast path runs west towards Stackpole and Barafundle and east to Swanlake Bay and Manorbier, so the beach makes a good starting point for a walk."
+ ],
+ "suits": [
+  "Families wanting a calm, sandy beach",
+  "Paddlers, kayakers and swimmers on settled days",
+  "Walkers heading for Stackpole, Barafundle or Manorbier",
+  "Surfers looking for shelter when the west coast is blown out"
+ ],
+ "notFor": [
+  "Anyone who wants lifeguards on duty",
+  "Surfers looking for regular waves"
+ ],
+ "surf": {
+  "text": [
+   "Because Freshwater East faces south-east, it is sheltered from the prevailing westerly swell and wind. It only has surf when a big swell wraps around the coast or when easterly winds whip up local waves.",
+   "That shelter can be useful. When strong south-westerlies are blowing out Freshwater West, this side of the peninsula may be cleaner, though usually small. With no lifeguards, only surf here if you are confident and with others.",
+   "Freshwater East only works once in a while. It's a beach and reef break, with a right-hand reef at one end, and wants a south-westerly swell with a west or west-north-west offshore, around high tide on the rise. Locals will tell you it isn't one for beginners: rips and rocks are real, and it gets busy when it does fire. Winter is the best season, but small days are the norm."
+  ],
+  "cards": [
+   {
+    "label": "Level",
+    "title": "Mostly calm",
+    "text": "Most days are better for paddling than surfing."
+   },
+   {
+    "label": "Conditions",
+    "title": "Big wrapping swell or easterly wind",
+    "text": "Worth a check when the west coast is too big or windy."
+   },
+   {
+    "label": "Hazards",
+    "title": "No lifeguards",
+    "text": "There is no lifeguard service. Avoid rough or unfamiliar conditions."
+   }
+  ]
+ },
+ "practical": [
+  {
+   "label": "Parking",
+   "title": "Pay car park",
+   "text": "Charged parking near the beach. Postcode SA71 5LZ."
+  },
+  {
+   "label": "Facilities",
+   "title": "Toilets, café and slipway",
+   "text": "Toilets including accessible facilities, a café, a slipway, and a shop and pub nearby."
+  },
+  {
+   "label": "Lifeguards",
+   "title": "None",
+   "text": "There is no lifeguard service. Take extra care and never swim alone."
+  },
+  {
+   "label": "Dogs",
+   "title": "Allowed",
+   "text": "Dogs are allowed on the beach."
+  },
+  {
+   "label": "Awards",
+   "title": "Excellent water quality",
+   "text": "Green Coast Award and Marine Conservation Society Recommended."
+  }
+ ],
+ "faqs": [
+  {
+   "q": "Can you surf at Freshwater East?",
+   "a": "Only sometimes. It faces south-east, so it needs a big wrapping swell or easterly winds. Freshwater West is the reliable surf beach."
+  },
+  {
+   "q": "Are dogs allowed at Freshwater East?",
+   "a": "Yes, dogs are allowed on the beach."
+  },
+  {
+   "q": "Are there lifeguards at Freshwater East?",
+   "a": "No, there is no lifeguard service."
+  },
+  {
+   "q": "What is near Freshwater East?",
+   "a": "Swanlake Bay, Stackpole Quay, Manorbier and Barafundle Bay are all within about three miles."
+  }
+ ],
+ "sources": [
+  {
+   "label": "The Beach Guide — Freshwater East",
+   "url": "https://www.thebeachguide.co.uk/south-wales/pembrokeshire/freshwater-east.htm"
+  }
+ ],
+ "factCheck": [
+  {
+   "fact": "Broad sandy bay backed by dunes, sheltered by Trewent Point; postcode SA71 5LZ",
+   "url": "https://www.thebeachguide.co.uk/south-wales/pembrokeshire/freshwater-east.htm"
+  },
+  {
+   "fact": "No lifeguards; dogs allowed; toilets incl. disabled, café, slipway, shop and pub nearby",
+   "url": "https://www.thebeachguide.co.uk/south-wales/pembrokeshire/freshwater-east.htm"
+  },
+  {
+   "fact": "Green Coast Award, MCS Recommended, excellent water quality",
+   "url": "https://www.thebeachguide.co.uk/south-wales/pembrokeshire/freshwater-east.htm"
+  },
+  {
+   "fact": "Smugglers' beach; stream at southern end",
+   "url": "https://www.thebeachguide.co.uk/south-wales/pembrokeshire/freshwater-east.htm"
+  },
+  {
+   "fact": "Swanlake 1.6 mi, Stackpole Quay 2.3, Manorbier 2.5, Barafundle 2.6",
+   "url": "https://www.thebeachguide.co.uk/south-wales/pembrokeshire/freshwater-east.htm"
+  },
+  {
+   "fact": "Freshwater East: beach and reef, SW swell, W offshore, high rising, not for beginners",
+   "url": "https://www.surf-forecast.com/breaks/Freshwater-East"
+  }
+ ],
+ "checked": "October 2026"
+}

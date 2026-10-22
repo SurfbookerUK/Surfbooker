@@ -1,0 +1,353 @@
+{
+ "slug": "fistral-beach",
+ "schools": [
+  {
+   "name": "Fistral Beach Surf School",
+   "type": "Surf school",
+   "url": "https://www.fistralbeachsurfschool.co.uk/",
+   "base": "International Surfing Centre, Fistral Beach (TR7 1HY)",
+   "note": "Open all year with beginner, improver and intermediate group lessons, bodyboard lessons, private sessions, a weekly kids' surf club and surf weekends. Lessons include kit, changing rooms, hot showers and secure storage.",
+   "source": "https://www.fistralbeachsurfschool.co.uk/"
+  },
+  {
+   "name": "Quiksilver Surf School Newquay",
+   "type": "Surf school",
+   "url": "https://www.quiksilversurfschoolnewquay.com/",
+   "base": "9 Esplanade Road, Pentire, under 100m from South Fistral",
+   "note": "Runs beginner, improver and intermediate lessons on Fistral, plus private, children's and family lessons and Roxy women's surf weekends.",
+   "source": "https://www.quiksilversurfschoolnewquay.com/"
+  },
+  {
+   "name": "Cornish Wave",
+   "type": "Surf school",
+   "url": "https://www.cornishwave.com/",
+   "base": "40 Fore Street, Newquay; you get kitted out there and walk to the beach",
+   "note": "Teaches at Fistral or Towan, with the instructor choosing whichever has the better waves on the day. Group lessons (ages 8+, max 8 per group), private, couples and family lessons are offered.",
+   "source": "https://www.cornishwave.com/surf-lessons"
+  },
+  {
+   "name": "Surf Sanctuary",
+   "type": "Surf school",
+   "url": "https://www.surfsanctuary.co.uk/",
+   "base": "The Headland Hotel, Headland Road, overlooking Fistral",
+   "note": "Family, group and bespoke surf lessons on Fistral, alongside SUP, coasteering and ocean confidence sessions. The school says it has no age limits or ability thresholds.",
+   "source": "https://www.surfsanctuary.co.uk/"
+  },
+  {
+   "name": "Newquay Activity Centre",
+   "type": "Surf school",
+   "url": "https://newquayactivitycentre.co.uk/",
+   "base": "60 Fore Street, Newquay (TR7 1LW)",
+   "note": "Most lessons run at Great Western, but the team uses Fistral, a few minutes' walk away, when conditions or tides suit it better. Group lessons are 8+; private and family lessons from 3+.",
+   "source": "https://newquayactivitycentre.co.uk/surf-lessons/"
+  },
+  {
+   "name": "Cornwall Surfing Academy",
+   "type": "Surf school",
+   "url": "https://cornwallsurfingacademy.co.uk/",
+   "base": "Holywell Bay Holiday Park (check the meeting point when you book)",
+   "note": "A family-friendly school that names Fistral and Holywell Bay as its beaches, with wetsuit and board included in lessons.",
+   "source": "https://cornwallsurfingacademy.co.uk/"
+  },
+  {
+   "name": "English Surf School (ESF)",
+   "type": "Surf school",
+   "url": "https://www.englishsurfschool.com/",
+   "base": "Newquay; confirm the meeting point when booking",
+   "note": "Year-round lessons between Fistral and Newquay Bay, with a teenage surf club, surf camps and boot camp weekends, and heated changing rooms.",
+   "source": "https://www.englishsurfschool.com/"
+  }
+ ],
+ "hire": [
+  {
+   "name": "Fistral Beach Surf School & Hire",
+   "type": "Board & wetsuit hire",
+   "url": "https://www.fistralbeachsurfschool.co.uk/",
+   "base": "International Surfing Centre, north end of Fistral",
+   "note": "Hires foam and hard surfboards, bodyboards, paddleboards, wetsuits and neoprene accessories, with discounted hire if you want to stay in after a lesson.",
+   "source": "https://www.fistralbeachsurfschool.co.uk/"
+  },
+  {
+   "name": "Quiksilver Surf School Newquay",
+   "type": "Board & wetsuit hire",
+   "url": "https://www.quiksilversurfschoolnewquay.com/",
+   "base": "Esplanade Road, Pentire, by South Fistral",
+   "note": "Hires wetsuits, bodyboards and fins, SUPs, beginner boards in several sizes, mini mals, intermediate boards, shortboards and longboards.",
+   "source": "https://www.quiksilversurfschoolnewquay.com/"
+  },
+  {
+   "name": "Surf Sanctuary",
+   "type": "Surf & SUP hire",
+   "url": "https://www.surfsanctuary.co.uk/",
+   "base": "The Headland Hotel",
+   "note": "Offers surf hire and SUP hire from its base at the hotel above the beach.",
+   "source": "https://www.surfsanctuary.co.uk/"
+  },
+  {
+   "name": "English Surf School (ESF)",
+   "type": "Board & wetsuit hire",
+   "url": "https://www.englishsurfschool.com/",
+   "base": "Newquay",
+   "note": "Has its own hire centre with surfboards, bodyboards and wetsuits.",
+   "source": "https://www.englishsurfschool.com/"
+  }
+ ],
+ "shops": [
+  {
+   "name": "Ann's Cottage",
+   "type": "Surf shop",
+   "url": "https://www.annscottage.com/",
+   "town": "Newquay (Fistral Beach and Central Square)",
+   "note": "A Cornish surf retailer with two shops at Fistral Beach, one of them focused on wetsuits and surf gear, plus a town-centre store. The range covers soft and hard surfboards, bodyboards, SUPs and summer, winter and spring/autumn wetsuits with boots, gloves and hoods.",
+   "source": "https://www.findingouradventure.com/travel-diaries/best-shopping-newquay-guide-cornwall"
+  },
+  {
+   "name": "Sunset Surf",
+   "type": "Surf shop",
+   "url": "https://sunsetsurfnewquay.co.uk/",
+   "town": "Newquay town centre (Fore Street)",
+   "note": "Stocks foam boards, mini mals and longboards, bodyboards, wetsuits for adults and kids with boots, gloves and hoods, plus its own Cornish-printed clothing. Board and wetsuit hire is also listed, including winter wetsuits.",
+   "source": "https://directory.cornishsecrets.co.uk/listing/sunset-surf-newquay/"
+  },
+  {
+   "name": "Slide and Glide Surf",
+   "type": "Surf shop",
+   "url": "https://slideandglidesurf.co.uk/",
+   "town": "Newquay town centre (70 Fore Street)",
+   "note": "Sells its own custom surfboards plus leashes, wax, ding repair kits and clothing, and offers surfboard and wetsuit hire. The site says new board stock is on the way, so ring ahead if you're after a specific board.",
+   "source": "https://slideandglidesurf.co.uk/"
+  }
+ ],
+ "lessonsIntro": "Fistral is Newquay's best-known surf beach and has several schools working on or right next to it. Beginners are taught at the gentler southern end, while the north end is left to experienced surfers.",
+ "learn": {
+  "text": [
+   "Fistral faces west, so it picks up Atlantic swell more consistently than the town beaches and can get powerful. That makes where you learn important. Newquay Activity Centre describes the south end, sheltered by the Pentire headland, as the best spot for beginners and the area the surf schools use. The north end, in front of the International Surfing Centre, is a busy locals' peak with mainly right-handers and is not a place to learn.",
+   "RNLI lifeguards cover Fistral for much of the year, usually from spring to the end of October, from 10am to 6pm. Surfers should stay between the black and white flags, with swimmers and bodyboarders between the red and yellow. Rip currents are a real risk here: in July 2025 a flash rip opened inside the flagged area and lifeguards rescued 17 people. If the swell is big, book a lesson rather than heading out alone."
+  ],
+  "cards": [
+   {
+    "label": "Level",
+    "title": "Beginners at the south end only",
+    "text": "The sheltered south end suits lessons; the north end and middle peaks are for confident, experienced surfers."
+   },
+   {
+    "label": "Best time",
+    "title": "Mid to low tide, smaller swells",
+    "text": "The headland peaks work best around mid to low tide. A school will pick the session time and beach to suit the swell."
+   },
+   {
+    "label": "Watch out for",
+    "title": "Rips, rocks and crowds",
+    "text": "Flash rips can form when sandbanks collapse, there are rocks and tide-cut rock pools at the south end, and the north end gets crowded when it's working."
+   }
+  ]
+ },
+ "hireIntro": "You can hire boards and wetsuits right on Fistral from the surf centre at the north end, or from schools at Pentire and the Headland Hotel by the southern end.",
+ "kit": {
+  "text": [
+   "For your first sessions, a big foam board is the right choice; the schools here hire soft boards in several sizes. Once you're catching green waves, a mini mal or intermediate board makes sense before moving to a shortboard. Sea temperatures off this coast range from about 9-10C in early March to 15-18C in August, so you'll want a decent wetsuit all year."
+  ],
+  "cards": [
+   {
+    "label": "Board",
+    "title": "Foamie, then a mini mal",
+    "text": "Start on a soft-top; step up to a mini mal or intermediate board once you're riding unbroken waves."
+   },
+   {
+    "label": "Wetsuit",
+    "title": "3/2 or 4/3 in summer, 5mm in winter",
+    "text": "A 4/3mm or 3/2mm with boots in summer, and a 5/4mm or 5/3mm with gloves, boots and a hood in late winter."
+   },
+   {
+    "label": "Other craft",
+    "title": "Bodyboards between the red and yellow flags",
+    "text": "Bodyboarding is popular but belongs in the red and yellow flagged zone; SUP hire is available from Fistral Beach Surf School and Surf Sanctuary."
+   }
+  ]
+ },
+ "shopsIntro": "Fistral has its own surf shops in the beach complex, and Newquay town centre is a short walk away with several more.",
+ "shopsText": [
+  "Ann's Cottage has two shops at Fistral itself, one focused on wetsuits and surf gear, so you can pick up wax, a leash or a new suit without leaving the beach. Walk into the town centre and Fore Street has Sunset Surf and Slide and Glide, both selling boards and wetsuits, plus Ann's Cottage's Central Square store."
+ ],
+ "faqs": {
+  "lessons": [
+   {
+    "q": "Is Fistral good for complete beginners?",
+    "a": "Yes, as long as you learn at the right end. The south end, sheltered by Pentire headland, is where the schools teach; the north end is for experienced surfers."
+   },
+   {
+    "q": "Where do Fistral surf lessons meet?",
+    "a": "It depends on the school. Fistral Beach Surf School is in the International Surfing Centre on the beach, Quiksilver is on Esplanade Road by South Fistral, Surf Sanctuary is at the Headland Hotel, and Cornish Wave and Newquay Activity Centre meet in town on Fore Street."
+   },
+   {
+    "q": "How young can children start lessons at Fistral?",
+    "a": "It varies. Cornish Wave and Newquay Activity Centre take ages 8+ in group lessons, Newquay Activity Centre's private and family lessons start at 3+, and Surf Sanctuary says it has no age limits. Check with the school when booking."
+   }
+  ],
+  "hire": [
+   {
+    "q": "Can I hire a surfboard on Fistral Beach?",
+    "a": "Yes. Fistral Beach Surf School & Hire in the International Surfing Centre hires foam and hard boards, bodyboards, SUPs and wetsuits, and Quiksilver hires a full range from Pentire."
+   },
+   {
+    "q": "What wetsuit should I hire at Fistral?",
+    "a": "In summer a 3/2mm or 4/3mm with boots is usually enough. From late autumn to spring, ask for a 5mm suit with gloves, boots and a hood."
+   }
+  ],
+  "shops": [
+   {
+    "q": "Is there a surf shop on Fistral Beach?",
+    "a": "Yes. Ann's Cottage has two shops at Fistral, including one for wetsuits and surf gear. More surf shops are on Fore Street in Newquay town centre."
+   }
+  ]
+ },
+ "sources": [
+  {
+   "label": "RNLI: Fistral Beach",
+   "url": "https://rnli.org/find-my-nearest/lifeguarded-beaches/fistral-beach"
+  },
+  {
+   "label": "RNLI: Fistral flash rip rescue, July 2025",
+   "url": "https://rnli.org/news-and-media/2025/july/30/busy-spell-for-rnli-lifeguards-as-fistral-team-rescue-17-people-from-rip-current"
+  },
+  {
+   "label": "Newquay Activity Centre: Fistral Beach guide",
+   "url": "https://newquayactivitycentre.co.uk/cornwall-surfing-beaches/fistral-beach-a-complete-guide/"
+  },
+  {
+   "label": "Newquay Activity Centre: surf lessons",
+   "url": "https://newquayactivitycentre.co.uk/surf-lessons/"
+  },
+  {
+   "label": "Visit Cornwall: Fistral Beach",
+   "url": "https://www.visitcornwall.com/things-to-do/beaches/fistral-beach"
+  },
+  {
+   "label": "Newquay.co.uk: Fistral Beach",
+   "url": "https://newquay.co.uk/fistral-beach"
+  },
+  {
+   "label": "Fistral Beach Surf School",
+   "url": "https://www.fistralbeachsurfschool.co.uk/"
+  },
+  {
+   "label": "Quiksilver Surf School Newquay",
+   "url": "https://www.quiksilversurfschoolnewquay.com/"
+  },
+  {
+   "label": "Cornish Wave surf lessons",
+   "url": "https://www.cornishwave.com/surf-lessons"
+  },
+  {
+   "label": "Surf Sanctuary",
+   "url": "https://www.surfsanctuary.co.uk/"
+  },
+  {
+   "label": "Cornwall Surfing Academy",
+   "url": "https://cornwallsurfingacademy.co.uk/"
+  },
+  {
+   "label": "English Surf School",
+   "url": "https://www.englishsurfschool.com/"
+  },
+  {
+   "label": "Surf-forecast.com: sea temperature",
+   "url": "https://www.surf-forecast.com/breaks/Holywell-Bay/seatemp"
+  },
+  {
+   "label": "Finding Our Adventure: Newquay shops",
+   "url": "https://www.findingouradventure.com/travel-diaries/best-shopping-newquay-guide-cornwall"
+  },
+  {
+   "label": "Sunset Surf",
+   "url": "https://sunsetsurfnewquay.co.uk/"
+  },
+  {
+   "label": "Slide and Glide Surf",
+   "url": "https://slideandglidesurf.co.uk/"
+  }
+ ],
+ "factCheck": [
+  {
+   "fact": "South end of Fistral is sheltered by Pentire headland, best for beginners and used by surf schools; north end not for beginners",
+   "url": "https://newquayactivitycentre.co.uk/cornwall-surfing-beaches/fistral-beach-a-complete-guide/"
+  },
+  {
+   "fact": "Surfers stay between black and white flags; swimmers and bodyboarders between red and yellow; patrols 10am-6pm",
+   "url": "https://newquayactivitycentre.co.uk/cornwall-surfing-beaches/fistral-beach-a-complete-guide/"
+  },
+  {
+   "fact": "Headland Peak works best mid to low tide; rocks and incoming tide at south-end rock pools",
+   "url": "https://newquayactivitycentre.co.uk/cornwall-surfing-beaches/fistral-beach-a-complete-guide/"
+  },
+  {
+   "fact": "Flash rip in the flagged area on 26 July 2025; 17 people rescued",
+   "url": "https://rnli.org/news-and-media/2025/july/30/busy-spell-for-rnli-lifeguards-as-fistral-team-rescue-17-people-from-rip-current"
+  },
+  {
+   "fact": "North Fistral has dangerous rips and gets crowded when working",
+   "url": "https://newquay.co.uk/fistral-beach"
+  },
+  {
+   "fact": "Fistral Beach Surf School is in the International Surfing Centre, open all year, offers kids surf club and hire of foam/hard boards, bodyboards, SUPs, wetsuits",
+   "url": "https://www.fistralbeachsurfschool.co.uk/"
+  },
+  {
+   "fact": "Quiksilver Surf School is on Esplanade Road, Pentire, under 100m from South Fistral, with Roxy women's weekends and a full hire range",
+   "url": "https://www.quiksilversurfschoolnewquay.com/"
+  },
+  {
+   "fact": "Cornish Wave teaches at Towan or Fistral depending on conditions; group lessons 8+, max 8",
+   "url": "https://www.cornishwave.com/surf-lessons"
+  },
+  {
+   "fact": "Surf Sanctuary is in The Headland Hotel, teaches on Fistral, no age limits, offers surf and SUP hire",
+   "url": "https://www.surfsanctuary.co.uk/"
+  },
+  {
+   "fact": "Newquay Activity Centre lessons mostly at Great Western, Fistral used for different conditions; group 8+, private/family 3+",
+   "url": "https://newquayactivitycentre.co.uk/surf-lessons/"
+  },
+  {
+   "fact": "Cornwall Surfing Academy names Fistral and Holywell Bay",
+   "url": "https://cornwallsurfingacademy.co.uk/"
+  },
+  {
+   "fact": "Cornwall Surfing Academy base is Holywell Bay Holiday Park",
+   "url": "https://eola.co/centres/cornwall-surf-academy-newquay"
+  },
+  {
+   "fact": "English Surf School teaches between Fistral and Newquay Bay and has a hire centre",
+   "url": "https://www.englishsurfschool.com/"
+  },
+  {
+   "fact": "Ann's Cottage has two shops at Fistral Beach (one for wetsuits and surf gear) and a store at 14 Central Square, Newquay",
+   "url": "https://www.findingouradventure.com/travel-diaries/best-shopping-newquay-guide-cornwall"
+  },
+  {
+   "fact": "Ann's Cottage sells soft and hard surfboards, bodyboards, SUPs and seasonal wetsuits with accessories",
+   "url": "https://www.annscottage.com/"
+  },
+  {
+   "fact": "Sunset Surf is at 106 Fore St, Newquay and offers surfboard and wetsuit hire, including winter wetsuits",
+   "url": "https://directory.cornishsecrets.co.uk/listing/sunset-surf-newquay/"
+  },
+  {
+   "fact": "Sunset Surf stocks foam boards, mini mals, longboards, bodyboards and wetsuits for men, women and kids",
+   "url": "https://sunsetsurfnewquay.co.uk/"
+  },
+  {
+   "fact": "Slide and Glide is at 70 Fore Street, Newquay, sells custom surfboards and accessories and offers wetsuit and surfboard hire",
+   "url": "https://slideandglidesurf.co.uk/"
+  },
+  {
+   "fact": "Sea temperature near Newquay peaks around 15-18C in mid August and drops to about 9-10C around 1 March",
+   "url": "https://www.surf-forecast.com/breaks/Holywell-Bay/seatemp"
+  },
+  {
+   "fact": "Suggested wetsuits: 4/3mm or 3/2mm with boots in summer; 5/4mm or 5/3mm with gloves and boots in late winter; add a hood when windy",
+   "url": "https://www.surf-forecast.com/breaks/Holywell-Bay/seatemp"
+  }
+ ],
+ "gaps": "Could not confirm English Surf School's meeting point (contact page blocked) or Cornwall Surfing Academy's meeting point for Fistral lessons. Escape Surf School mainly teaches on Towan so is listed there, not here. No adaptive surfing provision was stated by any Fistral school. Current RNLI season dates for Fistral were not shown on the RNLI page (it showed 2020 dates); the Newquay Activity Centre guide gives 5 April to 2 November 2026. North Shore Surf Shop (Fore Street) appears in a blog but its own website wasn't checked, so it's left out. No surf shop offering board repairs was confirmed."
+}

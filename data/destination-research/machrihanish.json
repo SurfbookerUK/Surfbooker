@@ -1,0 +1,126 @@
+{
+ "overview": [
+  "Machrihanish Bay is a long Atlantic-facing beach on the west coast of Kintyre, running about three miles north from Machrihanish village to Westport. From the south end you look out to Gigha, Islay and Jura, and the village is just north of the Mull of Kintyre.",
+  "The village has history beyond golf. The links course was laid out by Old Tom Morris, and the painter William McTaggart drew on the beach and views. In 1905 Reginald Fessenden built a radio station here with a 415-foot mast for transatlantic contact; it blew down in a gale in December 1906.",
+  "For surfing, Machrihanish is an exposed beach, point and river-mouth break. Islay and Ireland shelter it from a lot of swell, so it needs a clean westerly. When that lines up with an easterly wind, you have miles of sand to choose from, and Westport at the north end is worth checking too."
+ ],
+ "suits": [
+  "Intermediates on a west swell",
+  "Beginners in a lesson at Westport",
+  "Surf-and-golf weekends"
+ ],
+ "notFor": [
+  "Guaranteed waves on any Atlantic swell",
+  "Lifeguarded swimming"
+ ],
+ "surf": {
+  "text": [
+   "Surf-forecast gives a west swell with an easterly offshore wind as the best combination, and mid tide on the rising tide as the best window. Beach peaks give lefts and rights, and the point and river mouth add variety.",
+   "It can work at any time of year, but autumn is the season most people target. Because the beach is so exposed, strong winds can quickly spoil it, and the long empty stretches mean you should surf with someone.",
+   "Machrihanish is an exposed beach, point and river-mouth break that likes a west swell with an east offshore, around mid tide on the rise. It can work at any time of year, with spring best, and April has the most clean days."
+  ],
+  "cards": [
+   {
+    "label": "Level",
+    "title": "Intermediates",
+    "text": "Competent beginners on small days; the point is for experienced surfers."
+   },
+   {
+    "label": "Tide",
+    "title": "Mid, rising",
+    "text": "The most-cited window on this beach."
+   },
+   {
+    "label": "Hazards",
+    "title": "Rips and isolation",
+    "text": "Strong currents, rocky outcrops and few people about."
+   }
+  ]
+ },
+ "practical": [
+  {
+   "label": "Parking",
+   "title": "Machrihanish village",
+   "text": "Free council car park opposite the Old Post Office on the B843 (PA28 6PZ), 20 spaces."
+  },
+  {
+   "label": "Parking",
+   "title": "Westport",
+   "text": "Free council car park on the A83 (PA28 6QD), 70 spaces."
+  },
+  {
+   "label": "Toilets",
+   "title": "Open 24 hours",
+   "text": "Argyll and Bute Council lists the Machrihanish toilets as open 24 hours, all year."
+  },
+  {
+   "label": "Air",
+   "title": "Campbeltown Airport",
+   "text": "The former RAF Machrihanish airfield beside the village is now Campbeltown Airport."
+  },
+  {
+   "label": "Lifeguards",
+   "title": "None",
+   "text": "Call 999 or 112 and ask for the Coastguard in an emergency."
+  }
+ ],
+ "faqs": [
+  {
+   "q": "Why is Machrihanish often flat?",
+   "a": "Islay and Ireland block much of the Atlantic swell. It needs a west swell; check Westport too."
+  },
+  {
+   "q": "What's the best tide?",
+   "a": "Surf-forecast suggests mid tide on the rising tide."
+  },
+  {
+   "q": "How long is the beach?",
+   "a": "About three miles from Machrihanish village north to Westport."
+  },
+  {
+   "q": "Is parking free?",
+   "a": "Argyll and Bute Council lists both the village and Westport car parks as free."
+  }
+ ],
+ "sources": [
+  {
+   "label": "Wikipedia — Machrihanish",
+   "url": "https://en.wikipedia.org/wiki/Machrihanish"
+  },
+  {
+   "label": "Surf-forecast — Machrihanish",
+   "url": "https://www.surf-forecast.com/breaks/Machrihanish"
+  },
+  {
+   "label": "Argyll and Bute Council — car parks",
+   "url": "https://www.argyll-bute.gov.uk/roads-and-travel/car-parks-and-parking/car-parks-mid-argyll-kintyre-and-islay"
+  },
+  {
+   "label": "Argyll and Bute Council — public toilets",
+   "url": "https://www.argyll-bute.gov.uk/my-community/public-toilets-argyll-and-bute"
+  }
+ ],
+ "factCheck": [
+  {
+   "fact": "Beach 3 miles to Westport; views to Gigha, Islay, Jura; Old Tom Morris; McTaggart; Fessenden mast 1905–Dec 1906; airport ex-RAF",
+   "url": "https://en.wikipedia.org/wiki/Machrihanish"
+  },
+  {
+   "fact": "Beach/point/rivermouth; west swell; east wind; mid rising tide; any time of year",
+   "url": "https://www.surf-forecast.com/breaks/Machrihanish"
+  },
+  {
+   "fact": "Car parks PA28 6PZ (20) and PA28 6QD (70), free (carried over, not re-checked)",
+   "url": "https://www.argyll-bute.gov.uk/roads-and-travel/car-parks-and-parking/car-parks-mid-argyll-kintyre-and-islay"
+  },
+  {
+   "fact": "Toilets 24h all year (carried over, not re-checked)",
+   "url": "https://www.argyll-bute.gov.uk/my-community/public-toilets-argyll-and-bute"
+  },
+  {
+   "fact": "Machrihanish: W swell, E offshore, mid rising",
+   "url": "https://www.surf-forecast.com/breaks/Machrihanish"
+  }
+ ],
+ "checked": "October 2026"
+}

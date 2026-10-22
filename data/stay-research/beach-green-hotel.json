@@ -1,0 +1,22 @@
+{
+ "name": "Beach Green Hotel",
+ "officialUrl": "https://www.beachgreenhotel.co.uk/",
+ "trading": true,
+ "stayType": "Small seafront hotel with café-bar",
+ "accommodation": "8 bedrooms, most with sea views",
+ "suitableFor": "Couples and small groups wanting a simple coastal base between Brighton and Worthing",
+ "parking": null,
+ "dogs": null,
+ "beachAccess": "Not stated; the hotel describes itself as on the South Coast between Brighton and Worthing",
+ "boardStorage": null,
+ "confirmedFeatures": "8 bedrooms, sea views from most rooms, high-speed internet, coffee, breakfast, lunch, dinner and drinks served daily",
+ "overview": "Beach Green Hotel sits on South Street in Lancing, a short hop west of Shoreham along the coast road. It has eight bedrooms, most looking out to sea, and runs a café-bar that is open every day from breakfast through to evening drinks, so food is sorted without leaving the building.",
+ "surfTripFit": "A small sea-view hotel a few minutes west of Shoreham, with food served all day for before and after a session.",
+ "sources": [
+  {
+   "label": "Official website",
+   "url": "https://www.beachgreenhotel.co.uk/"
+  }
+ ],
+ "slug": "beach-green-hotel"
+}

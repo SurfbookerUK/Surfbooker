@@ -1,0 +1,122 @@
+{
+ "overview": [
+  "Perranporth's beach starts at the edge of the town and runs north-east for around two miles to Ligger Point, facing west across Perran Bay. Behind it, the Penhale Sands dunes reach almost a mile inland and hold Cornwall's largest colony of the silver-studded blue butterfly. At the southern end, cliffs with arches, stacks and old tin-mining adits lead round towards Droskyn Point.",
+  "Chapel Rock stands on the sand near the town, with a seawater pool built into its back. It is a landmark worth knowing because rip currents form around it on the ebbing tide. The name Perranporth comes from Porth Peran, the cove of St Piran, Cornwall's patron saint, whose oratory lay buried in the dunes for centuries before being uncovered in 1835.",
+  "Perranporth has a strong surfing story. Local legend credits builder and undertaker Tom Tremewan with making early bellyboards from coffin lids after soldiers returned from the First World War with tales of South African surfers. The Perranzabuloe museum, just off the high street, has a surfing display. Cafés, toilets and surf hire are on the doorstep. Penhale Sands also hosts an 18-hole links golf course."
+ ],
+ "suits": [
+  "Families with lessons",
+  "Improvers wanting room to spread out",
+  "Long beach and dune walks"
+ ],
+ "notFor": [
+  "Swimming near Chapel Rock on a falling tide",
+  "Anyone after a small, sheltered cove"
+ ],
+ "surf": {
+  "text": [
+   "Perranporth is a fairly exposed beach break with lefts and rights along its length, and it works through the year. Surf-forecast gives a west swell with an east-south-east offshore wind as the best combination. Peaks shift with the banks, so the best waves can be some way along the beach.",
+   "Rips are the main hazard. Surf-forecast says they make surfing here dangerous, and Wikipedia notes rips form around Chapel Rock on the ebbing tide. The beach is generally safe for swimming between the flags, but its sheer scale tempts people away from the patrolled zones.",
+   "Perranporth is a big, popular beach break with lefts and rights, best on a west swell with an east-south-easterly offshore. Be wary of the rips, which can make it dangerous, and expect it to be crowded at times. Winter is best."
+  ],
+  "cards": [
+   {
+    "label": "Best conditions",
+    "title": "West swell, ESE wind",
+    "text": "Easterly to south-easterly winds are offshore."
+   },
+   {
+    "label": "Level",
+    "title": "Lessons and improvers",
+    "text": "Schools teach near the town; experienced surfers spread along the beach."
+   },
+   {
+    "label": "Hazards",
+    "title": "Rips at Chapel Rock",
+    "text": "Rips form around Chapel Rock on the ebb; stay between the flags."
+   }
+  ]
+ },
+ "practical": [
+  {
+   "label": "Parking",
+   "title": "Promenade and Wheal Leisure",
+   "text": "A car park sits right by the beach; Wheal Leisure is the long-stay alternative in town."
+  },
+  {
+   "label": "Facilities",
+   "title": "Toilets and pool",
+   "text": "A free public toilet is by the promenade car park, and the sea pool is built into Chapel Rock."
+  },
+  {
+   "label": "Lifeguards",
+   "title": "Seasonal RNLI",
+   "text": "Patrolled daily from May to September, with Visit Cornwall noting cover from mid-April to October on the main beach (dates vary)."
+  },
+  {
+   "label": "Dogs",
+   "title": "Allowed, leads in summer",
+   "text": "Dogs are allowed all year; in July and August they must be on a lead from 10am to 5pm on the main beach, but can run off-lead in the dunes and beyond the flat rocks."
+  },
+  {
+   "label": "Getting there",
+   "title": "Bus and coach",
+   "text": "Truro is the best rail station, with local buses on; National Express coach 316 links London and Perranporth."
+  }
+ ],
+ "faqs": [
+  {
+   "q": "Can I take my dog to Perranporth beach?",
+   "a": "Yes, all year. In July and August dogs must be on a lead from 10am to 5pm on the main beach, but can run free in the dunes and beyond the flat rocks."
+  },
+  {
+   "q": "How long is Perranporth beach?",
+   "a": "About two miles, running from the town to Ligger Point."
+  },
+  {
+   "q": "Is Perranporth good for beginners?",
+   "a": "Yes with a lesson near the town, but rips make it important to stay between the flags."
+  },
+  {
+   "q": "What is Chapel Rock?",
+   "a": "A rock on the beach near the town with a seawater pool built into it. Rips form around it on a falling tide."
+  }
+ ],
+ "sources": [
+  {
+   "label": "Visit Cornwall — Perranporth",
+   "url": "https://www.visitcornwall.com/places/perranporth"
+  },
+  {
+   "label": "Wikipedia — Perranporth",
+   "url": "https://en.wikipedia.org/wiki/Perranporth"
+  },
+  {
+   "label": "Surf-forecast — Perranporth",
+   "url": "https://www.surf-forecast.com/breaks/Perranporth"
+  },
+  {
+   "label": "RNLI — lifeguarded beaches",
+   "url": "https://rnli.org/find-my-nearest/lifeguarded-beaches"
+  }
+ ],
+ "factCheck": [
+  {
+   "fact": "Dog lead rule Jul–Aug 10am–5pm; toilets; sea pool; Tremewan legend; museum; parking; transport",
+   "url": "https://www.visitcornwall.com/places/perranporth"
+  },
+  {
+   "fact": "2 miles to Ligger Point; Penhale Sands; silver-studded blue; arches and adits; rips at Chapel Rock; St Piran oratory 1835; coach 316",
+   "url": "https://en.wikipedia.org/wiki/Perranporth"
+  },
+  {
+   "fact": "Beach break; west swell, ESE wind; rips",
+   "url": "https://www.surf-forecast.com/breaks/Perranporth"
+  },
+  {
+   "fact": "Perranporth: W swell, ESE offshore, rips",
+   "url": "https://www.surf-forecast.com/breaks/Perranporth"
+  }
+ ],
+ "checked": "October 2026"
+}

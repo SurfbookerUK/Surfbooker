@@ -1,0 +1,217 @@
+{
+ "slug": "rhosneigr",
+ "schools": [
+  {
+   "name": "Gecko Surf",
+   "type": "Surf school",
+   "url": "https://www.geckosurf.co.uk/",
+   "base": "Shop on High Street, Rhosneigr; lessons on Broad Beach or the village beach",
+   "note": "Beginner and intermediate surf lessons and SUP lessons from age 8, with wetsuit and board included; the beach is chosen on the day to suit tide and weather.",
+   "source": "https://www.geckosurf.co.uk/surf-school/"
+  },
+  {
+   "name": "Funsport",
+   "type": "Surf school",
+   "url": "https://www.funsportonline.co.uk/",
+   "base": "1 Beach Terrace, Rhosneigr",
+   "note": "Group and one-to-one surf lessons for beginners, intermediates and advanced surfers in Rhosneigr bay, weather permitting and pre-arranged with an instructor.",
+   "source": "https://funsportonline.co.uk/lessons/surfing-tuition/"
+  }
+ ],
+ "hire": [
+  {
+   "name": "Gecko Surf",
+   "type": "Board & wetsuit hire",
+   "url": "https://www.geckosurf.co.uk/",
+   "base": "High Street, Rhosneigr, a few minutes' walk from the beaches",
+   "note": "Hires beginner and intermediate surfboards, paddleboards and wetsuits by the hour or day.",
+   "source": "https://rhosneigr.co.uk/see-do-rhosneigr/shops-rental-equipment/gecko-surf"
+  },
+  {
+   "name": "Funsport",
+   "type": "Board & wetsuit hire",
+   "url": "https://www.funsportonline.co.uk/",
+   "base": "1 Beach Terrace, Rhosneigr",
+   "note": "Rents surfboards, paddleboards, kayaks and wetsuits for short sessions or the whole day.",
+   "source": "https://rhosneigr.co.uk/see-do-rhosneigr/shops-rental-equipment/funsport"
+  }
+ ],
+ "shops": [
+  {
+   "name": "Funsport",
+   "type": "Surf shop",
+   "url": "https://www.funsportonline.co.uk/",
+   "town": "Rhosneigr",
+   "note": "Long-running watersports shop selling surfboards, wetsuits and accessories plus windsurf, kite, wing-foil and SUP kit, including used and ex-demo gear.",
+   "source": "https://www.funsportonline.co.uk/"
+  },
+  {
+   "name": "Gecko Surf",
+   "type": "Surf shop",
+   "url": "https://www.geckosurf.co.uk/",
+   "town": "Rhosneigr",
+   "note": "High Street shop selling surfboards, windsurf and kitesurf gear and surf clothing.",
+   "source": "https://rhosneigr.co.uk/see-do-rhosneigr/shops-rental-equipment/gecko-surf"
+  }
+ ],
+ "lessonsIntro": "Rhosneigr is Anglesey's watersports village, and two local shops run surf lessons on the beaches a few minutes' walk from the high street.",
+ "learn": {
+  "text": [
+   "Rhosneigr sits on Anglesey's west coast and picks up a mix of groundswell and windswell, with the best surf usually arriving in the colder months. Traeth Llydan, or Broad Beach, catches the most swell, and its sandy bottom gives friendly waves for learners and intermediates, often best from mid to high tide. Gecko Surf picks between Broad Beach and the village beach depending on tide and weather.",
+   "Lessons need to be booked in advance, and peak-season sessions fill quickly. At lower tides rocks are exposed at the south end of Traeth Llydan, and one north Wales guide warns of rips and submerged rocks at that end, so learn away from it. Local wind can differ from the forecast and often picks up in the afternoon. We could not confirm lifeguard cover here."
+  ],
+  "cards": [
+   {
+    "label": "Level",
+    "title": "Good for learners in small surf",
+    "text": "Broad Beach's sandy bottom gives user-friendly waves for beginners and intermediates on small days."
+   },
+   {
+    "label": "Best time",
+    "title": "Mid to high tide",
+    "text": "Mid to high tide often works best on Traeth Llydan. Summer brings smaller, learner-friendly waves; winter has the biggest swells."
+   },
+   {
+    "label": "Watch out for",
+    "title": "Rocks at the south end",
+    "text": "Rocks are exposed at the south end of Traeth Llydan at lower tides, with rips and submerged rocks reported there."
+   }
+  ]
+ },
+ "hireIntro": "Both Gecko Surf and Funsport in the village hire surfboards, paddleboards and wetsuits, and the beaches are within walking distance.",
+ "kit": {
+  "text": [
+   "A soft-top is the best start on Broad Beach, and both shops hire beginner and intermediate boards so you can step up as you improve. Anglesey's water drops to around 6-8°C in late February and March, colder than south Wales, so winter surfing means a 5/4 or thicker suit with boots, gloves and a hood. Rhosneigr is also a major windsurf and kitesurf spot, and Llyn Maelog lake is a sheltered paddleboarding option."
+  ],
+  "cards": [
+   {
+    "label": "Board",
+    "title": "Beginner or intermediate hire boards",
+    "text": "Start on a soft-top in the whitewater; both local shops hire intermediate boards for the next step."
+   },
+   {
+    "label": "Wetsuit",
+    "title": "3/2 summer, 5/4 plus in winter",
+    "text": "Water peaks at about 14-18°C in August and drops to 6-8°C by March. Add boots, gloves and a hood in winter."
+   },
+   {
+    "label": "Other craft",
+    "title": "SUP, windsurf and kite",
+    "text": "Paddleboards and kayaks can be hired in the village. The main beach is busy with windsurfers and kitesurfers, so give them space."
+   }
+  ]
+ },
+ "shopsIntro": "Rhosneigr has two watersports shops in the village centre, both a short walk from the beaches.",
+ "shopsText": [
+  "Funsport is on Beach Terrace and Gecko Surf is on the High Street, both a few minutes' walk from the village beach and Broad Beach. Between them you can buy surfboards, wetsuits, accessories and clothing, as well as windsurf, kitesurf, wing-foil and paddleboard kit. Funsport also sells used and ex-demo gear. Check opening hours before visiting, especially out of season."
+ ],
+ "faqs": {
+  "lessons": [
+   {
+    "q": "Where do surf lessons take place in Rhosneigr?",
+    "a": "Gecko Surf teaches on Broad Beach (Traeth Llydan) or the village beach depending on tide and weather. Funsport teaches in Rhosneigr bay."
+   },
+   {
+    "q": "What is the minimum age for lessons?",
+    "a": "Gecko Surf takes students from age 8, who must be comfortable out of their depth. Funsport does not state an age, so ask when booking."
+   },
+   {
+    "q": "Do I need to book?",
+    "a": "Yes. Lessons are pre-arranged with an instructor and summer sessions fill quickly. Book by phone or in store."
+   }
+  ],
+  "hire": [
+   {
+    "q": "Can I hire a surfboard in Rhosneigr?",
+    "a": "Yes. Gecko Surf and Funsport both hire surfboards and wetsuits, and Funsport also rents kayaks."
+   },
+   {
+    "q": "Can I hire a paddleboard?",
+    "a": "Both shops hire paddleboards. Llyn Maelog, a short walk from the village, is a sheltered alternative when the sea is rough."
+   }
+  ],
+  "shops": [
+   {
+    "q": "Are there surf shops in Rhosneigr?",
+    "a": "Yes, two: Funsport on Beach Terrace and Gecko Surf on the High Street, both a short walk from the beach."
+   }
+  ]
+ },
+ "sources": [
+  {
+   "label": "Gecko Surf: surf school",
+   "url": "https://www.geckosurf.co.uk/surf-school/"
+  },
+  {
+   "label": "Rhosneigr.co.uk: Gecko Surf",
+   "url": "https://rhosneigr.co.uk/see-do-rhosneigr/shops-rental-equipment/gecko-surf"
+  },
+  {
+   "label": "Funsport",
+   "url": "https://www.funsportonline.co.uk/"
+  },
+  {
+   "label": "Funsport: surfing tuition",
+   "url": "https://funsportonline.co.uk/lessons/surfing-tuition/"
+  },
+  {
+   "label": "Rhosneigr.co.uk: Funsport",
+   "url": "https://rhosneigr.co.uk/see-do-rhosneigr/shops-rental-equipment/funsport"
+  },
+  {
+   "label": "Rhosneigr.co.uk: summer water sports guide",
+   "url": "https://rhosneigr.co.uk/ultimate-guide-to-summer-water-sports-rhosneigr/"
+  },
+  {
+   "label": "Rhosneigr.co.uk: surfing",
+   "url": "https://rhosneigr.co.uk/see-do-rhosneigr/water-sports/surfing-surfing-tuition"
+  },
+  {
+   "label": "Away Resorts: surfing in north Wales",
+   "url": "https://www.awayresorts.co.uk/discover/leisure/guide-surfing-north-wales/"
+  },
+  {
+   "label": "Surf-forecast sea temperature, Rhosneigr",
+   "url": "https://www.surf-forecast.com/breaks/Rhosneigr/seatemp"
+  }
+ ],
+ "factCheck": [
+  {
+   "fact": "Gecko lessons at Broad Beach or Rhosneigr Beach; age 8+; must go out of depth; wetsuit and board included",
+   "url": "https://www.geckosurf.co.uk/surf-school/"
+  },
+  {
+   "fact": "Gecko High St LL64 5UQ; sells surfboards, windsurf/kite, clothing; hires boards/SUP/wetsuits",
+   "url": "https://rhosneigr.co.uk/see-do-rhosneigr/shops-rental-equipment/gecko-surf"
+  },
+  {
+   "fact": "Funsport 1 Beach Terrace; group and 1-1 lessons, beginner-advanced; weather permitting",
+   "url": "https://funsportonline.co.uk/lessons/surfing-tuition/"
+  },
+  {
+   "fact": "Funsport sells surfboards, wetsuits, wing/kite/windsurf/SUP, used and ex-demo",
+   "url": "https://www.funsportonline.co.uk/"
+  },
+  {
+   "fact": "Funsport hires surfboard, SUP, kayak, wetsuit",
+   "url": "https://rhosneigr.co.uk/see-do-rhosneigr/shops-rental-equipment/funsport"
+  },
+  {
+   "fact": "Traeth Llydan picks up most swell; sandy bottom suits learners; rocks at south end at low tide; mid-high tide best; wind picks up afternoon; Llyn Maelog",
+   "url": "https://rhosneigr.co.uk/ultimate-guide-to-summer-water-sports-rhosneigr/"
+  },
+  {
+   "fact": "Mix of groundswell and windswell; best surf in colder months",
+   "url": "https://rhosneigr.co.uk/see-do-rhosneigr/water-sports/surfing-surfing-tuition"
+  },
+  {
+   "fact": "South end rips and submerged rocks",
+   "url": "https://www.awayresorts.co.uk/discover/leisure/guide-surfing-north-wales/"
+  },
+  {
+   "fact": "Sea temps 14-18C Aug, 6-8C March",
+   "url": "https://www.surf-forecast.com/breaks/Rhosneigr/seatemp"
+  }
+ ],
+ "gaps": "Lifeguard cover at Rhosneigr could not be confirmed. Gecko Surf's own site footer is dated 2016, though the village website lists it currently; one guide places a Gecko base at Trearddur Bay. Funsport does not state a minimum lesson age. Sources disagree on beginner suitability (one guide says Rhosneigr is not for beginners), so the text keeps to small-surf days."
+}

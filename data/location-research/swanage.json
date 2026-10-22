@@ -1,0 +1,110 @@
+{
+ "slug": "swanage",
+ "schools": [],
+ "hire": [],
+ "shops": [],
+ "lessonsIntro": "We couldn't find a surf school teaching at Swanage. The nearest lessons we could confirm are with Surf Steps in Boscombe, Bournemouth.",
+ "learn": {
+  "text": [
+   "Swanage Bay faces east and is sheltered from the south-westerly swells that bring most surf to this coast, so it's usually calm. The local Virtual Swanage watersports guide covers kayaks, pedalos and jet skis on the main beach but doesn't mention surfing at all, which tells you how rarely it gets waves. On the odd day an easterly swell does reach the bay, but you can't plan a trip around it.",
+   "If you're staying in Swanage and want to learn, the closest school we could confirm is Surf Steps near Boscombe Pier in Bournemouth, which teaches all levels year-round. Experienced surfers sometimes head west to Kimmeridge Bay, a reef break that's not for beginners. Always check the forecast and any lifeguard information before going in."
+  ],
+  "cards": [
+   {
+    "label": "Level",
+    "title": "Rarely surfable",
+    "text": "A sheltered, usually calm bay. Learners are better off at Bournemouth with a school."
+   },
+   {
+    "label": "Best time",
+    "title": "Only on easterly swell",
+    "text": "Waves need an uncommon easterly swell; most of the year it's flat."
+   },
+   {
+    "label": "Watch out for",
+    "title": "Busy summer beach",
+    "text": "Kayaks, pedalos and jet skis use the bay, and there's a slipway for launching."
+   }
+  ]
+ },
+ "hireIntro": "We couldn't find surfboard hire in Swanage. Ocean Bay Watersports hires kayaks and pedalos, but not surf kit.",
+ "kit": {
+  "text": [
+   "Because Swanage is usually flat, a surfboard is rarely the right bit of kit here. On calm days the bay suits kayaks, which are hired out on the main beach. If you do catch an easterly swell, a longboard or mid-length will make the most of small, soft waves. For reliable surf, take your board to Bournemouth or, if experienced, Kimmeridge."
+  ],
+  "cards": [
+   {
+    "label": "Board",
+    "title": "Longboard if anything",
+    "text": "Waves are rare and small, so volume helps on the days it works."
+   },
+   {
+    "label": "Wetsuit",
+    "title": "Season-dependent",
+    "text": "We couldn't confirm a sea-temperature source for this stretch of coast. As a general rule on the English Channel, most people wear a 4/3mm in late spring and autumn and a 5/4mm with boots in winter; check with the school or shop before you go."
+   },
+   {
+    "label": "Other craft",
+    "title": "Kayaks and pedalos",
+    "text": "Virtual Swanage lists kayak and pedalo hire on the main beach in summer."
+   }
+  ]
+ },
+ "shopsIntro": "We couldn't confirm a surf shop in Swanage; the nearest we found is in Boscombe.",
+ "shopsText": [
+  "We couldn't confirm a dedicated surf shop in Swanage. The nearest we verified is Down The Line Surf on Sea Road in Boscombe, Bournemouth, which you can reach via the Sandbanks chain ferry or round by road. It stocks surfboards, with trade-ins and custom builds. Surf Steps near Boscombe Pier offers lessons and hire."
+ ],
+ "faqs": {
+  "lessons": [
+   {
+    "q": "Are there surf lessons in Swanage?",
+    "a": "We couldn't find any. Surf Steps near Boscombe Pier in Bournemouth is the nearest school we confirmed."
+   },
+   {
+    "q": "Does Swanage get surf?",
+    "a": "Rarely. The bay faces east and is sheltered from the usual south-westerly swell."
+   },
+   {
+    "q": "Where can I surf near Swanage?",
+    "a": "Kimmeridge Bay to the west is a reef for experienced surfers; Bournemouth's beaches suit learners with a school."
+   }
+  ],
+  "hire": [
+   {
+    "q": "Can I hire a surfboard in Swanage?",
+    "a": "We couldn't find surf hire. Ocean Bay Watersports hires kayaks and pedalos."
+   },
+   {
+    "q": "Is there a slipway?",
+    "a": "Yes, Virtual Swanage mentions a concrete slipway used for launching."
+   }
+  ],
+  "shops": [
+   {
+    "q": "Is there a surf shop in Swanage?",
+    "a": "We couldn't confirm one. The nearest we found is Down The Line Surf in Boscombe."
+   }
+  ]
+ },
+ "sources": [
+  {
+   "label": "Virtual Swanage: water sports",
+   "url": "https://www.virtual-swanage.co.uk/things-to-do/sports-and-activities/water-sports"
+  },
+  {
+   "label": "Down The Line Surf: contact",
+   "url": "https://downthelinesurf.co.uk/pages/contact"
+  },
+  {
+   "label": "Visit Bournemouth: Surf Steps",
+   "url": "https://www.visitbournemouth.com/attractions/surf-steps-bournemouth-surf-school"
+  }
+ ],
+ "factCheck": [
+  {
+   "fact": "Swanage watersports: kayaks, pedalos, Ocean Bay Watersports, slipway; no surfing mentioned",
+   "url": "https://www.virtual-swanage.co.uk/things-to-do/sports-and-activities/water-sports"
+  }
+ ],
+ "gaps": "No surf school, hire or shop found. The bay's east-facing aspect/swell sheltering is general geography, not from a specific source. No lifeguard info confirmed. Ocean Bay Watersports has no website so not listed as surf hire."
+}

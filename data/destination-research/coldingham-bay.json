@@ -1,0 +1,132 @@
+{
+ "overview": [
+  "Coldingham Bay is a sheltered sandy bay of a little over half a mile, closed off by rocky shore at each end. It sits about a kilometre from both Coldingham village and the harbour at St Abbs, and the Berwickshire Coastal Path, one of Scotland's Great Trails, runs right past it. People have been coming here to bathe for over a century.",
+  "The row of beach huts along the back of the sand is part of the bay's character. There are around 60 hut sites, all leased, and the RNLI notes that some of the huts are thought to be about 100 years old. Above the beach, the dunes and coastal grassland support restharrow and small copper butterflies.",
+  "The water is part of the Berwickshire Voluntary Marine Reserve, known for its varied sea life, so rock-pooling at the ends of the bay is worth the time. The bay holds a Keep Scotland Beautiful Beach Award, and the Marine Conservation Society recommends it for cleanliness and water quality. For surfers, it's a compact, fairly exposed beach break that gives lefts and rights when the swell comes from the right direction."
+ ],
+ "suits": [
+  "Families who want a summer RNLI patrol",
+  "Beginners on small days, especially in a lesson",
+  "Bodyboarders and intermediate surfers on a north-east swell",
+  "Walkers combining a surf with the coastal path to St Abbs"
+ ],
+ "notFor": [
+  "Swimming outside the patrol season or away from the flags",
+  "Inexperienced surfers when a big swell makes the rips strong",
+  "Anyone wanting lots of room on busy summer days"
+ ],
+ "surf": {
+  "text": [
+   "Coldingham is a beach break with both lefts and rights. Surf-forecast describes it as fairly consistent and says the best conditions come with a north-east swell and a westerly offshore wind. The sandbanks move, so the best tide changes from season to season; it's worth asking at the beach where the bank is working rather than relying on a fixed state of tide.",
+   "Winter and spring are the most productive seasons, although clean days are a minority even then: surf-forecast's January figures show waves too small about three-quarters of the time. Summer swells are usually small, which suits lessons. The guide's main warning is about strong rips, and the line-up is usually uncrowded outside lesson times.",
+   "Coldingham is a reasonably exposed beach break with lefts and rights, working on a north-easterly swell with a west offshore. Take care of the strong rips. Even when there are waves it's unlikely to be crowded. Winter and spring are best."
+  ],
+  "cards": [
+   {
+    "label": "Level",
+    "title": "Beginners to intermediates",
+    "text": "Small summer days suit lessons; a solid north-east swell suits more experienced surfers."
+   },
+   {
+    "label": "Hazards",
+    "title": "Strong rips and rocks",
+    "text": "Rips are the main warning, with rocky shore at both ends of the bay."
+   },
+   {
+    "label": "Season",
+    "title": "Winter and spring",
+    "text": "The most reliable months for swell, with a spring wetsuit, gloves and boots recommended."
+   }
+  ]
+ },
+ "practical": [
+  {
+   "label": "Parking",
+   "title": "Small car park opposite the bay",
+   "text": "A small car park sits across the road, with a short, fairly steep walk down. Two disabled spaces are available at beach level."
+  },
+  {
+   "label": "Lifeguards",
+   "title": "RNLI, summer only",
+   "text": "In 2026 the RNLI patrolled daily from 23 May to 6 September and at weekends from 12 to 27 September, 10am to 6pm. No flags means no lifeguards."
+  },
+  {
+   "label": "Facilities",
+   "title": "Toilets and beach café",
+   "text": "Scottish Borders Council lists toilets and a beach café. Beach wheelchairs are available through Sea The Change."
+  },
+  {
+   "label": "Public transport",
+   "title": "Bus from Berwick",
+   "text": "A regular bus runs from Berwick-upon-Tweed station via Eyemouth to Coldingham and St Abbs; the bay is a 1 km walk from either."
+  },
+  {
+   "label": "Emergency",
+   "title": "Call the Coastguard",
+   "text": "If you see someone in difficulty, alert a lifeguard or call 999 or 112 and ask for the Coastguard."
+  }
+ ],
+ "faqs": [
+  {
+   "q": "When is Coldingham Bay lifeguarded?",
+   "a": "In 2026 the RNLI patrolled daily from 23 May to 6 September, then weekends until 27 September, from 10am to 6pm. Check the RNLI page for the current year."
+  },
+  {
+   "q": "What conditions suit Coldingham Bay?",
+   "a": "Surf-forecast gives a north-east swell with a westerly offshore wind as the best combination. Winter and spring are the most reliable seasons."
+  },
+  {
+   "q": "Can I get to Coldingham Bay without a car?",
+   "a": "Yes. Buses run from Berwick-upon-Tweed station via Eyemouth to Coldingham and St Abbs, and the bay is about a kilometre's walk from either village."
+  },
+  {
+   "q": "Is Coldingham Bay accessible?",
+   "a": "There are two disabled parking spaces at the beach, and beach wheelchairs are available through the Sea The Change initiative."
+  }
+ ],
+ "sources": [
+  {
+   "label": "RNLI — Coldingham Bay",
+   "url": "https://rnli.org/find-my-nearest/lifeguarded-beaches/coldingham-bay-beach"
+  },
+  {
+   "label": "Scottish Borders Council — Coldingham Bay",
+   "url": "https://www.scotborders.gov.uk/parks-outdoors/countryside-sites/2"
+  },
+  {
+   "label": "Surf-forecast — Coldingham Bay",
+   "url": "https://www.surf-forecast.com/breaks/Coldingham-Bay"
+  }
+ ],
+ "factCheck": [
+  {
+   "fact": "Sheltered sandy bay over half a mile with rocky shore at each end; some huts c.100 years old",
+   "url": "https://rnli.org/find-my-nearest/lifeguarded-beaches/coldingham-bay-beach"
+  },
+  {
+   "fact": "2026 patrol: daily 23 May–6 Sep, weekends 12–27 Sep, 10am–6pm",
+   "url": "https://rnli.org/find-my-nearest/lifeguarded-beaches/coldingham-bay-beach"
+  },
+  {
+   "fact": "About 60 leased hut sites; 1 km from Coldingham and St Abbs; bus from Berwick via Eyemouth",
+   "url": "https://www.scotborders.gov.uk/parks-outdoors/countryside-sites/2"
+  },
+  {
+   "fact": "Two disabled spaces at beach; steep access road; toilets and café; beach wheelchairs via Sea The Change",
+   "url": "https://www.scotborders.gov.uk/parks-outdoors/countryside-sites/2"
+  },
+  {
+   "fact": "Berwickshire Voluntary Marine Reserve; Beach Award; MCS recommended; restharrow and small copper butterflies",
+   "url": "https://www.scotborders.gov.uk/parks-outdoors/countryside-sites/2"
+  },
+  {
+   "fact": "Beach break, lefts and rights, NE swell + westerly wind, strong rips, rarely crowded",
+   "url": "https://www.surf-forecast.com/breaks/Coldingham-Bay"
+  },
+  {
+   "fact": "Coldingham: NE swell, W offshore, strong rips, rarely crowded",
+   "url": "https://www.surf-forecast.com/breaks/Coldingham-Bay"
+  }
+ ],
+ "checked": "October 2026"
+}

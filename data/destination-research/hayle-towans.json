@@ -1,0 +1,150 @@
+{
+ "overview": [
+  "The Towans (from the Cornish for dunes) are a three-mile run of dunes from the Hayle estuary north-east to Gwithian. The beach in front is split into named stretches, each with its own way in: Hayle Towans by the river mouth, then Riviere, Mexico, Phillack and Upton Towans heading towards Gwithian. The dunes are big, reaching 72 metres at Phillack Towans, and the South West Coast Path runs through them, so a map pin for 'Hayle' won't tell you which end you'll arrive at.",
+  "At low tide the beaches join into one long stretch of about three miles, with plenty of space even in summer. Two large holiday parks have direct beach access, but the sand is big enough that it rarely feels crowded. Much of the dune system is a protected wildlife site. At Upton Towans, now a nature reserve, the National Explosives Works once made cordite for the Royal Navy, employing around 1,800 people in the First World War before closing in 1920.",
+  "The one thing to understand before you go in is the estuary. The south-western end of the beach borders the mouth of the River Hayle, and the water near the estuary has dangerous currents. Stay well away from the harbour mouth and channels, use the lifeguarded sections in season, and check the flags each time you arrive, because the safest spot changes with the tide."
+ ],
+ "suits": [
+  "Lessons and families on the lifeguarded sections",
+  "Space to spread out at low tide",
+  "Walkers heading along the bay to Gwithian and Godrevy"
+ ],
+ "notFor": [
+  "Swimming anywhere near the estuary mouth",
+  "Surfers wanting size on a small swell (Gwithian and Godrevy pick up more)",
+  "Dog walkers on the beach from 10am to 6pm in July and August"
+ ],
+ "surf": {
+  "text": [
+   "Hayle Towans is more sheltered from swell than Gwithian and Godrevy further up the bay, so it can be the calmer option when the eastern end is too big. The most-surfed peak is known as The Site, after the caravan park in the dunes behind it. It tends to work better towards high tide.",
+   "It comes into its own on a big north-coast swell with a southerly wind, when it can produce long lefts and rights, though expect plenty of paddling. Banks move along the beach, so the best spot shifts from week to week."
+  ],
+  "cards": [
+   {
+    "label": "Level",
+    "title": "Beginners to improvers",
+    "text": "Usually smaller than the Gwithian end of the bay; lessons run here on suitable days."
+   },
+   {
+    "label": "Conditions",
+    "title": "Big swell, southerly wind",
+    "text": "Sheltered from smaller swells; best towards high tide when a big north-coast swell is running."
+   },
+   {
+    "label": "Hazards",
+    "title": "Estuary currents",
+    "text": "Dangerous currents near the river mouth. Keep clear of the harbour mouth and channels."
+   }
+  ]
+ },
+ "practical": [
+  {
+   "label": "Parking",
+   "title": "Depends on access",
+   "text": "Car parks include Hayle Beach, Harvey's Towans and Riviere Towans, and the holiday parks have their own access. Some of the smaller roads to the dunes are bumpy."
+  },
+  {
+   "label": "Access",
+   "title": "Dunes and a ramp",
+   "text": "Most routes cross soft sand through the dunes, so allow for a longer board carry. A concrete ramp by the Bluff Inn gives easier access for wheelchairs and pushchairs."
+  },
+  {
+   "label": "Lifeguards",
+   "title": "Seasonal, on some sections",
+   "text": "Swim and surf only in the flagged areas when lifeguards are on duty. Check the RNLI website for this year's dates and which sections are covered."
+  },
+  {
+   "label": "Dogs",
+   "title": "Summer ban, estuary all year",
+   "text": "Cornwall Council bans dogs from Harveys Towans to Godrevy Point from 10am to 6pm, 1 July to 31 August, and from the Hayle Estuary all year."
+  },
+  {
+   "label": "Getting there",
+   "title": "Hayle station",
+   "text": "Hayle is on the main line to Penzance; from the station, walk or take a short drive to your chosen access point."
+  }
+ ],
+ "faqs": [
+  {
+   "q": "Can I swim near the Hayle estuary?",
+   "a": "No. The water near the estuary has dangerous currents. Keep clear of the harbour mouth and channels and use the lifeguarded bathing areas."
+  },
+  {
+   "q": "Can dogs go on Hayle Towans?",
+   "a": "Yes, outside 10am to 6pm from 1 July to 31 August. Dogs are banned from the Hayle Estuary all year round."
+  },
+  {
+   "q": "Is Hayle Towans the same beach as Gwithian?",
+   "a": "At low tide the sand runs for about three miles from the Hayle estuary to Gwithian and Godrevy. Each section has its own access and parking, and the surf is generally smaller at the Hayle end."
+  },
+  {
+   "q": "When is the best time to surf here?",
+   "a": "It tends to be better towards high tide, and it needs a decent north-coast swell to get going, ideally with a southerly wind."
+  }
+ ],
+ "sources": [
+  {
+   "label": "Cornwall Council — dogs on beaches (restrictions table)",
+   "url": "https://www.cornwall.gov.uk/environment/animal-welfare-and-enforcement/dogs-on-beaches/"
+  },
+  {
+   "label": "RNLI — find a lifeguarded beach",
+   "url": "https://rnli.org/find-my-nearest/lifeguarded-beaches"
+  },
+  {
+   "label": "Visit Cornwall TV — Hayle Towans Beach",
+   "url": "https://www.visitcornwall.tv/cornwall-beaches/hayle-towans-beach"
+  },
+  {
+   "label": "Cornish Horizons — Hayle beach guide",
+   "url": "https://www.cornishhorizons.co.uk/guides/hayle-beach-guide"
+  },
+  {
+   "label": "Wikipedia — The Towans",
+   "url": "https://en.wikipedia.org/wiki/The_Towans"
+  }
+ ],
+ "factCheck": [
+  {
+   "fact": "Towans is the Cornish word for dunes",
+   "url": "https://www.visitcornwall.tv/cornwall-beaches/hayle-towans-beach"
+  },
+  {
+   "fact": "Three-mile dune stretch from Hayle estuary to Gwithian; sections Hayle, Riviere, Mexico, Common, Phillack, Upton, Gwithian Towans",
+   "url": "https://en.wikipedia.org/wiki/The_Towans"
+  },
+  {
+   "fact": "Highest point 72m at Phillack Towans; South West Coast Path crosses dunes; mostly within SSSI",
+   "url": "https://en.wikipedia.org/wiki/The_Towans"
+  },
+  {
+   "fact": "National Explosives Works on Upton Towans, about 1,800 staff in WWI, cordite for the Royal Navy, closed 1920; now nature reserve",
+   "url": "https://en.wikipedia.org/wiki/The_Towans"
+  },
+  {
+   "fact": "Beaches join into about 3 miles at low tide; two large holiday parks with direct access; rarely crowded",
+   "url": "https://www.visitcornwall.tv/cornwall-beaches/hayle-towans-beach"
+  },
+  {
+   "fact": "Dangerous currents near the river estuary; avoid swimming there",
+   "url": "https://www.visitcornwall.tv/cornwall-beaches/hayle-towans-beach"
+  },
+  {
+   "fact": "More sheltered than Gwithian and Godrevy; 'The Site' named after caravan site; better towards high tide; big swell with south wind, long lefts and rights, lots of paddling",
+   "url": "https://www.visitcornwall.tv/cornwall-beaches/hayle-towans-beach"
+  },
+  {
+   "fact": "Car parks Hayle Beach, Harvey's Towans, Riviere Towans; some bumpy roads",
+   "url": "https://www.cornishhorizons.co.uk/guides/hayle-beach-guide"
+  },
+  {
+   "fact": "Concrete ramp by the Bluff Inn for wheelchair and buggy access",
+   "url": "https://www.cornishhorizons.co.uk/guides/hayle-beach-guide"
+  },
+  {
+   "fact": "Dogs prohibited Harveys Towans to Godrevy Point 1 July to 31 August 10am to 6pm; Hayle Estuary all-year ban",
+   "url": "https://www.cornwall.gov.uk/environment/animal-welfare-and-enforcement/dogs-on-beaches/"
+  }
+ ],
+ "checked": "October 2026"
+}

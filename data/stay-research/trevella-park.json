@@ -1,0 +1,22 @@
+{
+ "name": "Trevella Park",
+ "officialUrl": "https://www.trevella.co.uk/",
+ "trading": true,
+ "stayType": "Holiday park with caravans, glamping and touring",
+ "accommodation": "Caravan holidays, touring and camping, glamping and holiday homes",
+ "suitableFor": "Families and campers",
+ "parking": null,
+ "dogs": null,
+ "beachAccess": "Described as close to Crantock Beach",
+ "boardStorage": null,
+ "confirmedFeatures": "Heated outdoor pool, on-site pub, adventure playground, fishing lakes",
+ "overview": "A holiday park near Crantock, now part of Park Holidays UK, a short drive from both Crantock Beach and Holywell Bay. It offers caravan holidays, glamping and touring and camping pitches. Facilities include a heated outdoor pool, the Piskie Inn pub, a children's adventure playground and fishing lakes.",
+ "surfTripFit": "It is near both Crantock and Holywell, so you have two surf beaches to choose from.",
+ "sources": [
+  {
+   "label": "Official website",
+   "url": "https://www.trevella.co.uk/"
+  }
+ ],
+ "slug": "trevella-park"
+}

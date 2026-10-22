@@ -1,0 +1,119 @@
+{
+ "overview": [
+  "Rhossili Bay curves for about 2.8 miles (4.5km) along the western tip of the Gower, from the clifftop village of Rhossili in the south to the tidal island of Burry Holms in the north. Dunes back the sand, and above them rises Rhossili Down, whose summit, the Beacon, at 193 metres, is the highest point on the peninsula, with wide views over the whole bay.",
+  "At the southern end, Worm's Head reaches out to sea as two tidal islands, Inner Head and Outer Head, connected to the mainland only around low tide. It is one of the most photographed views in Wales, and in 2014 TripAdvisor users voted the bay the best beach in the UK. The crossing times are posted at the Coastguard lookout above the causeway, and it is the island most visitors come to see.",
+  "Getting down from the village is a steep path with flights of steps, which keeps this end quieter than the view suggests. At low tide the ribs of the Helvetia, wrecked in 1887, show through the sand. There are no lifeguards, but dogs are welcome all year. The village car park, shop, pub and National Trust visitor centre are all at the top of the path, so bring what you need down with you."
+ ],
+ "suits": [
+  "Walkers and photographers",
+  "Families happy with a steep walk down and back up",
+  "Experienced surfers looking for space",
+  "Dog owners — dogs are allowed all year"
+ ],
+ "notFor": [
+  "Pushchairs or limited mobility — the path and steps are steep",
+  "Unsupervised beginner surfers — there is no lifeguard service"
+ ],
+ "surf": {
+  "text": [
+   "Rhossili is one of the most exposed beaches in Wales and picks up any Atlantic swell running up the Bristol Channel. The southern end, below the village, gets a little shelter from Worm's Head, but most surfers drive round to Hillend and surf the Llangennith end, which is a much shorter walk from the car.",
+   "Light easterly winds are offshore along the whole bay. With no lifeguards and a long climb back up to the village, surf this end only if you are confident in the conditions.",
+   "Rhossili is the southern end of the same bay as Llangennith, and it feels softer. Waves are generally mellower with long rides, which suits longboarders. West swell with an east offshore is best. The tide matters less than you'd think, though high tide is often favoured unless the sea reaches the pebble bank and the wave gets fat. The beach is big enough that it rarely feels crowded, and the area in front of the Old Rectory is often quiet even on busy days. Southerly winds are partly blocked by the cliffs. There's a car park above the bay, and a pub, shop and cafes in the village."
+  ],
+  "cards": [
+   {
+    "label": "Level",
+    "title": "Experienced, or with a school",
+    "text": "No lifeguard service and a long walk back up if anything goes wrong."
+   },
+   {
+    "label": "Conditions",
+    "title": "West swell, easterly wind",
+    "text": "Exposed to the open Atlantic; the Llangennith end is the usual surf spot."
+   },
+   {
+    "label": "Hazards",
+    "title": "Worm's Head tides",
+    "text": "The causeway is open only around low tide. Check the crossing times at the Coastguard lookout and never try to swim back."
+   }
+  ]
+ },
+ "practical": [
+  {
+   "label": "Parking",
+   "title": "Village car park",
+   "text": "The car park at the end of Rhossili village is charged and fills on sunny weekends."
+  },
+  {
+   "label": "Access",
+   "title": "Steep path and steps",
+   "text": "It is a steep path with several flights of steps from the village to the sand."
+  },
+  {
+   "label": "Facilities",
+   "title": "In the village",
+   "text": "A shop, pub, hotel and National Trust visitor centre are at the top of the path; there is nothing on the beach itself."
+  },
+  {
+   "label": "Lifeguards",
+   "title": "None",
+   "text": "There is no lifeguard service at Rhossili Bay."
+  },
+  {
+   "label": "Dogs",
+   "title": "Allowed all year",
+   "text": "Swansea Council lists Rhossili among the beaches where dogs are allowed all year round. Keep them under control near livestock on the Down."
+  }
+ ],
+ "faqs": [
+  {
+   "q": "Can you surf at Rhossili?",
+   "a": "Yes, it is very exposed and picks up plenty of swell, but there are no lifeguards. Most surfers use the Llangennith end, closer to parking at Hillend."
+  },
+  {
+   "q": "When can I walk to Worm's Head?",
+   "a": "Only around low tide. Crossing times are posted at the Coastguard lookout above the causeway."
+  },
+  {
+   "q": "Are dogs allowed on Rhossili beach?",
+   "a": "Yes, all year round, according to Swansea Council."
+  },
+  {
+   "q": "How long is Rhossili beach?",
+   "a": "About 2.8 miles (4.5km), running north to Burry Holms and the Llangennith end."
+  }
+ ],
+ "sources": [
+  {
+   "label": "Wikipedia — Rhossili",
+   "url": "https://en.wikipedia.org/wiki/Rhossili"
+  },
+  {
+   "label": "Swansea Council — dogs on beaches",
+   "url": "https://www.swansea.gov.uk/dogsonbeaches"
+  },
+  {
+   "label": "The Beach Guide — Rhossili Bay",
+   "url": "https://www.thebeachguide.co.uk/south-wales/glamorgan/rhossili-bay.htm"
+  },
+  {
+   "label": "Visit Wales — Rhossili Bay",
+   "url": "https://www.visitwales.com/attraction/beach/rhossili-bay-beach-557651"
+  }
+ ],
+ "factCheck": [
+  {
+   "fact": "Beach 2.8 miles / 4.5km; Beacon 193m highest on Gower; Worm's Head Inner/Outer Head tidal; Burry Holms tidal; 2014 TripAdvisor UK no.1",
+   "url": "https://en.wikipedia.org/wiki/Rhossili"
+  },
+  {
+   "fact": "Dogs allowed all year",
+   "url": "https://www.swansea.gov.uk/dogsonbeaches"
+  },
+  {
+   "fact": "Rhossili: W swell, E offshore, softer than Llangennith, pebble bank at big tides",
+   "url": "https://www.surf-forecast.com/breaks/Rhossili"
+  }
+ ],
+ "checked": "October 2026"
+}

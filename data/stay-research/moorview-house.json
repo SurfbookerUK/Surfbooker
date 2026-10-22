@@ -1,0 +1,26 @@
+{
+ "name": "Moorview House",
+ "officialUrl": "https://www.moorviewhouse.com/",
+ "trading": true,
+ "stayType": "Rural bed and breakfast",
+ "accommodation": "B&B rooms (details not stated on the pages checked)",
+ "suitableFor": "Guests wanting a quiet countryside stay",
+ "parking": "On-site car park",
+ "dogs": null,
+ "beachAccess": null,
+ "boardStorage": null,
+ "confirmedFeatures": "On-site car park",
+ "overview": "A countryside B&B about three miles from Bideford, reached from East-the-Water via Gammaton Road, with its own car park. It suits visitors who want a quieter rural base within easy driving distance of the town and the coast.",
+ "surfTripFit": "A peaceful base with parking, around a 15-minute drive from Westward Ho!.",
+ "sources": [
+  {
+   "label": "Moorview House",
+   "url": "https://www.moorviewhouse.com/contact-us/"
+  },
+  {
+   "label": "Discover Bideford",
+   "url": "https://discoverbideford.co.uk/stay/guesthouses"
+  }
+ ],
+ "slug": "moorview-house"
+}

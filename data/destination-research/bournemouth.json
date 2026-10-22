@@ -1,0 +1,115 @@
+{
+ "overview": [
+  "Bournemouth's beach runs for miles beneath sandy cliffs and wooded chines, from the Poole boundary in the west to Hengistbury Head in the east, with piers at Bournemouth and Boscombe. It's one of the busiest resort beaches in the country, and almost every stretch has toilets, cafés, beach huts and a zig-zag path or lift down the cliffs, so it's easy to plan a full day.",
+  "For surfers, Poole Bay is a sheltered spot. It only produces waves when a decent south-westerly swell travels up the Channel, and even then they tend to be small. When the swell does arrive, the beaches around Boscombe and further east towards Southbourne usually pick up a little more than the pier beach in the centre of town, so it's worth checking a few spots along the front before you paddle out.",
+  "That shelter is exactly why Bournemouth works so well for families and first-timers. On small days the water is gentle, RNLI lifeguards cover the main beaches from late March, and the town centre, the Lower Gardens and the train station are all within walking distance of the sand, so you don't need a car to get here. Middle Chine to Durley Chine stays open to dogs all year."
+ ],
+ "suits": [
+  "Families wanting lifeguards and facilities everywhere",
+  "Gentle first lessons on small swell days",
+  "Car-free trips by train",
+  "Paddling and swimming on flat days"
+ ],
+ "notFor": [
+  "Anyone wanting regular surf",
+  "Dogs on the main beaches between May and September"
+ ],
+ "surf": {
+  "text": [
+   "Expect small beach-break waves between the groynes, and only when there's a south-westerly Channel swell. Northerly winds are offshore. Plenty of summer days are completely flat.",
+   "Piers, groynes and crowded summer bathing zones are the main things to watch. Swim and surf where the lifeguards direct you, and if you're new, head to Boscombe, where the surf hire and lessons are based.",
+   "Bournemouth's pier break doesn't work very often, and when it does it is inconsistent. It wants a south-south-westerly swell with a northerly offshore, and the shelter blocks south-westerlies. It works at all tides, with rips the main hazard. It's popular and can get crowded. Winter is best, though clean days are rare."
+  ],
+  "cards": [
+   {
+    "label": "Level",
+    "title": "Beginners",
+    "text": "Small and gentle when it works."
+   },
+   {
+    "label": "Hazards",
+    "title": "Groynes, piers and crowds",
+    "text": "Lots of swimmers in summer; keep clear of piers and groynes."
+   },
+   {
+    "label": "Season",
+    "title": "Autumn and winter",
+    "text": "Channel swell is most likely from autumn to early spring; summer is usually small and much busier."
+   }
+  ]
+ },
+ "practical": [
+  {
+   "label": "Lifeguards",
+   "title": "RNLI",
+   "text": "In 2026 Bournemouth East and West were patrolled 28 March–27 September; Durley Chine, Alum Chine and others ran 23 May–6 September, all 10am–6pm."
+  },
+  {
+   "label": "Dogs",
+   "title": "Summer ban, year-round zones",
+   "text": "Dogs are banned from Blue Flag and Seaside Award beaches 1 May–30 September. Middle Chine to Durley Chine, east of Fisherman's Walk to Southbourne, and Hengistbury Head are dog-friendly all year."
+  },
+  {
+   "label": "Dogs",
+   "title": "Leads on the prom",
+   "text": "From October to April dogs can go on all beaches, but must be on a lead on promenades, piers, zig-zags and footpaths."
+  },
+  {
+   "label": "Facilities",
+   "title": "All along the front",
+   "text": "Toilets, cafés, beach huts and zig-zags or cliff lifts down to the sand."
+  },
+  {
+   "label": "Rules",
+   "title": "Fires and camping",
+   "text": "Open fires and camping aren't allowed on any BCP beach."
+  }
+ ],
+ "faqs": [
+  {
+   "q": "Is there surf in Bournemouth?",
+   "a": "Occasionally. It needs a south-westerly Channel swell, and Boscombe and Southbourne usually pick up more than the pier beach."
+  },
+  {
+   "q": "Can dogs go on Bournemouth beach in summer?",
+   "a": "Not on the main beaches from 1 May to 30 September. Middle Chine to Durley Chine, east of Fisherman's Walk to Southbourne, and Hengistbury Head are dog-friendly all year."
+  },
+  {
+   "q": "When are Bournemouth's lifeguards on duty?",
+   "a": "In 2026 Bournemouth East and West were covered 28 March–27 September, 10am–6pm, with other beaches added from late May."
+  }
+ ],
+ "sources": [
+  {
+   "label": "RNLI — 2026 lifeguard season at Bournemouth, Christchurch and Poole",
+   "url": "https://rnli.org/news-and-media/2026/may/20/rnli-lifeguards-set-for-main-season-at-bournemouth-christchurch-and-poole"
+  },
+  {
+   "label": "BCP Council — dogs on the beach",
+   "url": "https://www.bcpcouncil.gov.uk/beaches-and-seafront/what-you-need-to-know-before-visiting-one-of-our-beaches/where-and-when-you-can-bring-your-dog-to-the-beach"
+  },
+  {
+   "label": "BCP Council — Boscombe beach",
+   "url": "https://www.bcpcouncil.gov.uk/beaches-and-seafront/visit-a-beach/boscombe-beach"
+  }
+ ],
+ "factCheck": [
+  {
+   "fact": "Bournemouth East/West 28 Mar–27 Sep 2026; Durley/Alum Chine 23 May–6 Sep; 10am–6pm",
+   "url": "https://rnli.org/news-and-media/2026/may/20/rnli-lifeguards-set-for-main-season-at-bournemouth-christchurch-and-poole"
+  },
+  {
+   "fact": "Year-round dog zones and winter lead rules",
+   "url": "https://www.bcpcouncil.gov.uk/beaches-and-seafront/what-you-need-to-know-before-visiting-one-of-our-beaches/where-and-when-you-can-bring-your-dog-to-the-beach"
+  },
+  {
+   "fact": "No open fires or camping on BCP beaches",
+   "url": "https://www.bcpcouncil.gov.uk/beaches-and-seafront/visit-a-beach/boscombe-beach"
+  },
+  {
+   "fact": "Bournemouth Pier: SSW swell, N offshore, inconsistent, rips",
+   "url": "https://www.surf-forecast.com/breaks/Bournemouth-Pier"
+  }
+ ],
+ "checked": "October 2026"
+}

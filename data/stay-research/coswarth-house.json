@@ -1,0 +1,26 @@
+{
+ "name": "Coswarth House",
+ "officialUrl": "https://www.coswarthhouse.com/",
+ "trading": true,
+ "stayType": "Boutique B&B in Padstow",
+ "accommodation": "Three en-suite rooms in the main house plus a self-catering Cottage Suite",
+ "suitableFor": "Couples wanting a Padstow base",
+ "parking": "Main house parking for up to two cars, first come first served; no dedicated parking for the Cottage Suite",
+ "dogs": "Up to one or two small dogs in the Cottage Suite only, by prior request",
+ "beachAccess": "Constantine Bay is a short drive from Padstow; Visit Cornwall lists it among nearby sandy beaches",
+ "boardStorage": null,
+ "confirmedFeatures": "Free wifi, walled garden with estuary views, en-suite rooms with roll-top baths",
+ "overview": "A small B&B on Dennis Road in Padstow, under five minutes' walk from the harbour and a short drive from Constantine Bay. There are three en-suite rooms in the main house and a self-catering Cottage Suite. The walled garden looks out over the Camel Estuary.",
+ "surfTripFit": "A good choice for couples who want to surf Constantine Bay by day and stay in Padstow town in the evening.",
+ "sources": [
+  {
+   "label": "Official website",
+   "url": "https://www.coswarthhouse.com/"
+  },
+  {
+   "label": "Visit Cornwall listing",
+   "url": "https://www.visitcornwall.com/accommodation/b-and-b-guest-house/padstow/coswarth-house"
+  }
+ ],
+ "slug": "coswarth-house"
+}

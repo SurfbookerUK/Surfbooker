@@ -1,0 +1,118 @@
+{
+ "slug": "freshwater-bay-isle-of-wight",
+ "schools": [],
+ "hire": [],
+ "shops": [],
+ "lessonsIntro": "We couldn't confirm surf lessons at Freshwater Bay. It's a reef break for experienced surfers; learners usually head to Compton Bay, just along the coast.",
+ "learn": {
+  "text": [
+   "Freshwater Bay is a small cove with a rocky reef break. Wightlink describes it as best for experienced surfers, as the waves can be hollow and powerful, particularly at low tide with a north-easterly or south-easterly swell. Space is limited and the line-up fills quickly on good days, so it isn't a place to learn or practise.",
+   "If you're a beginner, Compton Bay is a few minutes west and has gently shelving sand with spots like Fields and Hanover Point suited to learners. iSurf, a mobile school based in Sandown, runs coasteering at Freshwater Bay with its sister company and teaches surfing at whichever island beach suits the day. There's parking nearby and a slipway down to the beach."
+  ],
+  "cards": [
+   {
+    "label": "Level",
+    "title": "Experienced surfers",
+    "text": "A rocky reef with hollow, powerful waves. Learn at Compton first."
+   },
+   {
+    "label": "Best time",
+    "title": "Low tide on the right swell",
+    "text": "Wightlink says it's at its punchiest at low tide on NE or SE swells."
+   },
+   {
+    "label": "Watch out for",
+    "title": "Reef and crowds",
+    "text": "Shallow rock and a small, quickly crowded take-off zone."
+   }
+  ]
+ },
+ "hireIntro": "We couldn't confirm surf hire at Freshwater Bay, so bring your own board.",
+ "kit": {
+  "text": [
+   "Freshwater's reef waves have power, so experienced surfers usually bring a shortboard or a step-up they trust. Reef boots help on the rocks getting in and out. There's no hire at the bay. On small days, or if you're still learning, take a foam board round to Compton Bay instead, where the sandy beach is far more forgiving."
+  ],
+  "cards": [
+   {
+    "label": "Board",
+    "title": "Shortboard",
+    "text": "For the hollow reef waves; learners should use a foamie at Compton."
+   },
+   {
+    "label": "Wetsuit",
+    "title": "Season-dependent",
+    "text": "We couldn't confirm a sea-temperature source for this stretch of coast. As a general rule on the English Channel, most people wear a 4/3mm in late spring and autumn and a 5/4mm with boots in winter; check with the school or shop before you go."
+   },
+   {
+    "label": "Other craft",
+    "title": "SUP on flat days",
+    "text": "Visit Isle of Wight includes Freshwater Bay among its paddleboard spots, for calm days."
+   }
+  ]
+ },
+ "shopsIntro": "We couldn't confirm a surf shop in Freshwater.",
+ "shopsText": [
+  "Freshwater has a village close to the bay, but we couldn't confirm a currently trading surf shop there or elsewhere in West Wight. iSurf sells branded clothing online but isn't a hardware shop. If you need a board, wetsuit or leash, sort it out on the mainland before you take the ferry."
+ ],
+ "faqs": {
+  "lessons": [
+   {
+    "q": "Can I learn to surf at Freshwater Bay?",
+    "a": "It's not a learner spot. It's a rocky reef with powerful waves; Compton Bay nearby is better for beginners."
+   },
+   {
+    "q": "Who teaches surfing near Freshwater?",
+    "a": "iSurf is a mobile school that picks the island beach that suits the day, for ages 8 and up."
+   },
+   {
+    "q": "What else can I do here?",
+    "a": "iSurf and its sister company run coasteering at Freshwater Bay."
+   }
+  ],
+  "hire": [
+   {
+    "q": "Is there board hire at Freshwater Bay?",
+    "a": "We couldn't find any, so bring your own."
+   },
+   {
+    "q": "Can I paddleboard here?",
+    "a": "Visit Isle of Wight lists Freshwater Bay as a SUP spot for calm days, but we couldn't confirm hire on site."
+   }
+  ],
+  "shops": [
+   {
+    "q": "Is there a surf shop in Freshwater?",
+    "a": "We couldn't confirm one."
+   }
+  ]
+ },
+ "sources": [
+  {
+   "label": "Wightlink: surfing",
+   "url": "https://www.wightlink.co.uk/things-to-do-on-the-isle-of-wight/watersports/surfing"
+  },
+  {
+   "label": "iSurf",
+   "url": "https://www.iowsurf.com/"
+  },
+  {
+   "label": "Visit Isle of Wight: SUP spots",
+   "url": "https://www.visitisleofwight.co.uk/blog/read/2024/04/a-paddle-board-paradise-exploring-5-sup-spots-on-the-isle-of-wight-b419"
+  }
+ ],
+ "factCheck": [
+  {
+   "fact": "Rocky reef, experienced surfers, hollow/powerful at low tide on NE/SE swell, limited space, parking and slipway",
+   "url": "https://www.wightlink.co.uk/things-to-do-on-the-isle-of-wight/watersports/surfing"
+  },
+  {
+   "fact": "iSurf coasteering at Freshwater Bay with sister company FBC",
+   "url": "https://www.iowsurf.com/"
+  },
+  {
+   "fact": "Freshwater Bay listed as a SUP spot",
+   "url": "https://www.visitisleofwight.co.uk/blog/read/2024/04/a-paddle-board-paradise-exploring-5-sup-spots-on-the-isle-of-wight-b419"
+  }
+ ],
+ "gaps": "No school confirmed teaching surfing at Freshwater Bay (iSurf only confirmed for coasteering here), so not listed as a school. No hire, shop, lifeguard or sea-temperature info confirmed."
+}

@@ -1,0 +1,22 @@
+{
+ "slug": "atlantic-hotel-newquay",
+ "officialUrl": "https://www.atlantichotelnewquay.co.uk",
+ "trading": true,
+ "stayType": "Hotel with self-catering apartments",
+ "accommodation": "Hotel room types incl. Ocean, Harbour, Family and Balcony Suites; Cliffside Apartment (2 bed) and The Lookout (sleeps 8)",
+ "suitableFor": "Couples, families and groups (apartments)",
+ "parking": null,
+ "dogs": null,
+ "beachAccess": "Sea views over Newquay Bay and harbour; no beach distance stated",
+ "boardStorage": null,
+ "confirmedFeatures": "Indoor pool, hot tub, sauna, steam room, spa treatments, Silks Restaurant and Bar, cocktail lounge, events spaces",
+ "overview": "The Atlantic Hotel stands in central Newquay with views over Newquay Bay and the harbour. Alongside a range of hotel rooms, including family rooms and balcony suites, it offers two self-catering apartments, one sleeping eight. Guests get access to the indoor pool, hot tub, sauna and steam room, and there is a restaurant and cocktail bar.",
+ "surfTripFit": "Central location with sea views and spa facilities; beach distances, parking and board storage are not stated.",
+ "sources": [
+  {
+   "label": "Official site",
+   "url": "https://www.atlantichotelnewquay.co.uk"
+  }
+ ],
+ "gaps": "Dogs, parking, Wi-Fi, beach distance and board storage not stated; room count unknown."
+}

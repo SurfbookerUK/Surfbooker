@@ -1,0 +1,132 @@
+{
+ "overview": [
+  "Longsands is the long sweep of fine sand between Tynemouth and Cullercoats, roughly 1,100 metres from the old outdoor pool site at the southern end to the rocks below Cullercoats in the north. The RNLI describes it as a very popular beach backed by sand dunes, and on a sunny weekend you'll see why: it's the busiest surf beach in the north-east and one of the easiest to reach.",
+  "You don't need a car. Tynemouth Metro station, opened in 1882 for Victorian holidaymakers and now home to weekend markets under its listed iron canopies, is a short walk from the sand. That makes Longsands a realistic day trip from Newcastle with a board bag, and the cafés and pubs of Tynemouth Front Street are close by when you come out of the water.",
+  "At the southern end, the headland carries the ruins of Tynemouth Priory and Castle, now cared for by English Heritage, with little King Edward's Bay tucked in below its north side. Learners tend to stay on the central sand near the lifeguard station; the rockier northern end towards Cullercoats is better left to surfers who know what they're doing."
+ ],
+ "suits": [
+  "First lessons near a lifeguard station",
+  "Car-free surf trips from Newcastle by Metro",
+  "Mixed groups who want cafés and a town nearby",
+  "Improvers looking for several peaks along one beach"
+ ],
+ "notFor": [
+  "Dog walkers on the southern end between May and September",
+  "Anyone after an empty beach on a hot summer weekend",
+  "Beginners going it alone at the rocky northern end"
+ ],
+ "surf": {
+  "text": [
+   "Longsands faces roughly east into the North Sea, so it needs swell from the north-east or east and comes alive when westerly winds blow offshore. Several peaks spread along the beach and shift as the sandbanks move, so the best spot changes from one month to the next. North Sea swell can build and fade within hours, so look at the beach itself rather than trusting a regional headline.",
+   "The middle of the beach is where lessons happen and where the lifeguards set their flags in summer. Towards the north end, rocks shape the waves and suit more experienced surfers. Outside the patrol season there's no lifeguard cover, so don't paddle out alone and know how to call for help.",
+   "Longsands has produced pro surfers and hosts the British Nationals, so the standard in the water can be high. Waves are best on a north-east swell between two and twelve feet, with a westerly offshore wind. Any tide works, but higher water on the rise is better. Gentle waves inside suit learners and heavier peaks further out suit stronger surfers. Water quality can drop after heavy rain because of the Tyne, and the paddle-out is harder when it's big. It's at its best through autumn, from September to November, and there's roadside pay parking on Grand Parade with a car park mid-bay, plus a surf school, shop and cafe on the sand."
+  ],
+  "cards": [
+   {
+    "label": "Level",
+    "title": "All levels",
+    "text": "Learners in the middle of the beach with a school; rocks at the north end are for experienced surfers."
+   },
+   {
+    "label": "Conditions",
+    "title": "NE–E swell, westerly wind",
+    "text": "Westerlies are offshore. Peaks move with the sandbanks along the beach."
+   },
+   {
+    "label": "Season",
+    "title": "Autumn to spring",
+    "text": "North Sea swell is most reliable outside summer; summer is often small but good for lessons."
+   }
+  ]
+ },
+ "practical": [
+  {
+   "label": "Lifeguards",
+   "title": "RNLI patrol",
+   "text": "Daily from 23 May to 6 September 2026, 10am–6pm. Swim and bodyboard between the red and yellow flags. No flags means no lifeguards."
+  },
+  {
+   "label": "Dogs",
+   "title": "Seasonal restriction",
+   "text": "North Tyneside Council restricts dogs on the southern end of Longsands from 1 May to 30 September. Signs on the promenade show the zone."
+  },
+  {
+   "label": "Transport",
+   "title": "Tynemouth Metro",
+   "text": "Tynemouth station is on the Yellow line between St James and South Shields via Newcastle Central and Whitley Bay. The beach is a short walk."
+  },
+  {
+   "label": "Parking",
+   "title": "Seafront",
+   "text": "Pay-and-display parking along Grand Parade and above the beach fills fast on sunny weekends, so the Metro is often easier."
+  },
+  {
+   "label": "Facilities",
+   "title": "Promenade",
+   "text": "Toilets, cafés and surf shops line the promenade, with more choice on Tynemouth Front Street."
+  }
+ ],
+ "faqs": [
+  {
+   "q": "Is Tynemouth Longsands lifeguarded?",
+   "a": "Yes, the RNLI patrols daily from 23 May to 6 September in 2026, 10am–6pm. Outside those dates there's no lifeguard cover."
+  },
+  {
+   "q": "Can dogs go on Longsands?",
+   "a": "Not on the southern end from 1 May to 30 September. Signs show the restricted zone, and outside those dates dogs are allowed."
+  },
+  {
+   "q": "Can I get to Longsands without a car?",
+   "a": "Yes. Tynemouth Metro station is a short walk from the beach, with direct trains from Newcastle city centre."
+  },
+  {
+   "q": "How long is Longsands?",
+   "a": "About 1,100 metres, running from Tynemouth north to Cullercoats."
+  }
+ ],
+ "sources": [
+  {
+   "label": "RNLI — Tynemouth Longsands",
+   "url": "https://rnli.org/find-my-nearest/lifeguarded-beaches/tynemouth-longsands-beach"
+  },
+  {
+   "label": "Wikipedia — Tynemouth",
+   "url": "https://en.wikipedia.org/wiki/Tynemouth"
+  },
+  {
+   "label": "North Tyneside Council — Longsands Beach",
+   "url": "https://www.northtyneside.gov.uk/sport-and-leisure/outdoor-spaces/find-beaches-and-open-water/longsands-beach"
+  }
+ ],
+ "factCheck": [
+  {
+   "fact": "Half-mile of sand backed by dunes; very popular",
+   "url": "https://rnli.org/find-my-nearest/lifeguarded-beaches/tynemouth-longsands-beach"
+  },
+  {
+   "fact": "RNLI daily 23 May–6 Sep 2026, 10am–6pm; no flags = no lifeguards",
+   "url": "https://rnli.org/find-my-nearest/lifeguarded-beaches/tynemouth-longsands-beach"
+  },
+  {
+   "fact": "About 1,100m between the former outdoor pool and Cullercoats",
+   "url": "https://en.wikipedia.org/wiki/Tynemouth"
+  },
+  {
+   "fact": "Metro station opened 1882, listed canopies, weekend markets, Yellow line",
+   "url": "https://en.wikipedia.org/wiki/Tynemouth"
+  },
+  {
+   "fact": "Priory run by English Heritage; King Edward's Bay on north side of priory",
+   "url": "https://en.wikipedia.org/wiki/Tynemouth"
+  },
+  {
+   "fact": "Dog restriction on south end 1 May–30 Sep (kept from current data; council page failed to load)",
+   "url": "https://www.northtyneside.gov.uk/sport-and-leisure/outdoor-spaces/find-beaches-and-open-water/longsands-beach"
+  },
+  {
+   "fact": "Longsands: NE swell, W offshore, any tide rising",
+   "url": "https://www.surfnerd.com/surf-forecast/tynemouth-longsands"
+  }
+ ],
+ "checked": "October 2026"
+}

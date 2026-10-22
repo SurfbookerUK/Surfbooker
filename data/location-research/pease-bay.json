@@ -1,0 +1,153 @@
+{
+ "slug": "pease-bay",
+ "schools": [
+  {
+   "name": "St Vedas Surf School",
+   "type": "Surf school",
+   "url": "https://www.stvedas.co.uk/",
+   "base": "Coldingham Bay, about 15-20 minutes south",
+   "note": "Accredited surf lessons at Coldingham Bay. The nearest school to Pease Bay, but lessons run at Coldingham, not here.",
+   "source": "https://www.stvedas.co.uk/"
+  },
+  {
+   "name": "Coast to Coast Surf School",
+   "type": "Surf school",
+   "url": "https://c2csurfschool.com/",
+   "base": "Belhaven Surf Centre, Dunbar, about 20-25 minutes north",
+   "note": "Two-hour beginner lessons from age 7, junior holiday camps for 7-16s and adult longboard courses, all at Belhaven Beach.",
+   "source": "https://c2csurfschool.com/"
+  }
+ ],
+ "hire": [
+  {
+   "name": "St Vedas Surf Shop",
+   "type": "Board & wetsuit hire",
+   "url": "https://www.stvedas.co.uk/",
+   "base": "Coldingham Bay",
+   "note": "Hire of surfboards, bodyboards, wetsuits and kayaks, open from 10am every day.",
+   "source": "https://www.stvedas.co.uk/"
+  },
+  {
+   "name": "Coast to Coast Surf School",
+   "type": "Board & wetsuit hire",
+   "url": "https://c2csurfschool.com/",
+   "base": "Belhaven, Dunbar",
+   "note": "Hire of foam and hard boards, wetsuits, bodyboards and paddleboards.",
+   "source": "https://c2csurfschool.com/"
+  }
+ ],
+ "shops": [
+  {
+   "name": "St Vedas Surf Shop",
+   "type": "Surf shop",
+   "url": "https://www.stvedas.co.uk/",
+   "town": "Coldingham",
+   "note": "Sells new, foam and second-hand boards, wetsuits, bodyboards and accessories, with board and wetsuit repairs and a shaping bay.",
+   "source": "https://www.stvedas.co.uk/"
+  }
+ ],
+ "lessonsIntro": "No school teaches at Pease Bay itself. The closest lessons are at Coldingham Bay to the south and Belhaven Bay to the north, both a short drive away.",
+ "learn": {
+  "text": [
+   "Pease Bay is a sandy cove near Cockburnspath, with a holiday park behind it. It picks up North Sea swell and is a popular spot with local surfers. We couldn't find any school that runs lessons here, and no lifeguard cover is listed. If you're new to surfing, it's best to take your first lessons at Coldingham with St Vedas, or at Belhaven with Coast to Coast, and come to Pease Bay once you can judge conditions yourself.",
+   "The east coast needs a swell from the north or east and works best in offshore westerly winds, so it can be flat for days at a time. Autumn and winter usually bring the most consistent waves, but the water is cold then. When you're ready to surf Pease Bay on your own, choose small days, go with friends and keep away from the rocky edges of the bay."
+  ],
+  "cards": [
+   {
+    "label": "Level",
+    "title": "Improvers",
+    "text": "With no school or lifeguards, it's better for surfers who have already had lessons nearby."
+   },
+   {
+    "label": "Best time",
+    "title": "Small autumn swells",
+    "text": "The North Sea is inconsistent, so watch the forecast for a north or east swell."
+   },
+   {
+    "label": "Watch out for",
+    "title": "No lifeguards, rocks",
+    "text": "There's no lifeguard cover we could confirm, and rocks fringe both sides of the bay."
+   }
+  ]
+ },
+ "hireIntro": "Pease Bay has no hire on the beach. The nearest board and wetsuit hire is at Coldingham Bay or Belhaven.",
+ "kit": {
+  "text": [
+   "Learners should use a large foam board, available to hire at Coldingham or Belhaven. Improvers will get plenty out of a mid-length or longboard on typical small North Sea days. The water here is cold for much of the year, so plan on a 5/4mm wetsuit with boots from late autumn to spring, plus a hood and gloves in midwinter. A 4/3mm is usually fine in high summer."
+  ],
+  "cards": [
+   {
+    "label": "Board",
+    "title": "Foamie or longboard",
+    "text": "Waves here are often small and soft, so extra volume helps."
+   },
+   {
+    "label": "Wetsuit",
+    "title": "4/3mm summer, 5/4mm winter",
+    "text": "Add boots, gloves and a hood in the coldest months."
+   },
+   {
+    "label": "Other craft",
+    "title": "Bodyboards and SUP on calm days",
+    "text": "Hire bodyboards and paddleboards nearby and use them only in gentle conditions."
+   }
+  ]
+ },
+ "shopsIntro": "The nearest proper surf shop is St Vedas at Coldingham Bay, about 15-20 minutes' drive south.",
+ "shopsText": [
+  "Cockburnspath and the holiday park don't have a surf shop. St Vedas at Coldingham Bay is the closest. It sells boards, wetsuits and accessories, and it also repairs boards and wetsuits. To the north, Coast to Coast's centre in Belhaven offers hire and lessons. Neither is within walking distance, so you'll need a car."
+ ],
+ "faqs": {
+  "lessons": [
+   {
+    "q": "Are there surf lessons at Pease Bay?",
+    "a": "Not that we could confirm. The closest are St Vedas at Coldingham Bay and Coast to Coast at Belhaven Bay."
+   },
+   {
+    "q": "What age can children start?",
+    "a": "Coast to Coast takes children from age 7 on beginner lessons and runs junior camps for 7-16s."
+   },
+   {
+    "q": "Is Pease Bay lifeguarded?",
+    "a": "We couldn't find any lifeguard service listed, so treat it as unpatrolled."
+   }
+  ],
+  "hire": [
+   {
+    "q": "Can I hire a board at Pease Bay?",
+    "a": "No. Hire from St Vedas at Coldingham (open from 10am daily) or from Coast to Coast in Belhaven."
+   },
+   {
+    "q": "What can I hire nearby?",
+    "a": "Surfboards, bodyboards and wetsuits at both, plus kayaks at St Vedas and paddleboards at Coast to Coast."
+   }
+  ],
+  "shops": [
+   {
+    "q": "Where's the nearest surf shop?",
+    "a": "St Vedas at Coldingham Bay, which also does board and wetsuit repairs."
+   }
+  ]
+ },
+ "sources": [
+  {
+   "label": "St Vedas Surf Shop",
+   "url": "https://www.stvedas.co.uk/"
+  },
+  {
+   "label": "Coast to Coast Surf School",
+   "url": "https://c2csurfschool.com/"
+  }
+ ],
+ "factCheck": [
+  {
+   "fact": "St Vedas hires boards, bodyboards, wetsuits and kayaks from 10am daily; sells boards and wetsuits; does repairs",
+   "url": "https://www.stvedas.co.uk/"
+  },
+  {
+   "fact": "Coast to Coast beginner lessons from 7, junior camp 7-16, at Belhaven",
+   "url": "https://c2csurfschool.com/"
+  }
+ ],
+ "gaps": "No source confirmed lessons at Pease Bay. Lifeguard status, specific hazards and beach facilities weren't confirmed from an official page. The swell, wind and wetsuit guidance is general east-coast knowledge, not from a fetched source. The drive times come from the earlier existingProvider notes."
+}

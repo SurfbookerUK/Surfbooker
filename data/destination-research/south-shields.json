@@ -1,0 +1,131 @@
+{
+ "overview": [
+  "Sandhaven is South Shields' main beach: a long stretch of golden sand backed by dunes, with a promenade running the length of the seafront. It sits south of the Tyne piers and Littlehaven, so you look out across the river mouth towards Tynemouth from the northern end. It holds a Seaside Award, and The Sunday Times named it the UK's beach of the year in 2022.",
+  "It's very much a town beach. Behind the sand are Ocean Beach Pleasure Park, the Dunes and South Marine Park with its miniature steam railway, and the seafront has restaurants, cafés and pubs. In summer there are volleyball nets on the sand and regular events, from sandcastle competitions to music.",
+  "That makes Sandhaven a good choice when not everyone in your group wants to surf. South Shields Surf School runs surfing and paddleboarding lessons on the beach and hires out equipment, and the Metro gets you here from Newcastle without a car."
+ ],
+ "suits": [
+  "First lessons with a school on the beach",
+  "Families with non-surfers",
+  "Car-free trips by Metro",
+  "Paddleboarding on flat days"
+ ],
+ "notFor": [
+  "Dog walkers in the daytime between May and September",
+  "Quiet, wild beach days"
+ ],
+ "surf": {
+  "text": [
+   "Sandhaven is a sandy beach break that faces the North Sea and needs swell from the north-east or east. Westerly winds blow offshore. The Tyne piers give the northern end a bit of shelter, which can make it smaller and cleaner when the open coast is messy.",
+   "On small summer days it's a gentle place to learn. South Tyneside Council points out that surfers and kayakers sometimes end up inside the beach safety zone, so if you're on a board, keep clear of swimmers and the flagged area.",
+   "South Shields doesn't work often. It needs a north-north-east swell and a south-westerly wind, and mid to high tide on the rise is best. The south pier gives shelter from a northerly wind. Water near the Tyne mouth can be affected by runoff, so be careful after rain. There's a car park above the beach."
+  ],
+  "cards": [
+   {
+    "label": "Level",
+    "title": "Beginners to improvers",
+    "text": "Good for lessons on small days."
+   },
+   {
+    "label": "Shared water",
+    "title": "Give swimmers room",
+    "text": "The council notes surfers and kayakers sometimes stray into the beach safety zone."
+   },
+   {
+    "label": "Season",
+    "title": "Autumn to spring",
+    "text": "North Sea swell is most reliable outside summer; summer is often small but good for lessons."
+   }
+  ]
+ },
+ "practical": [
+  {
+   "label": "Lifeguards",
+   "title": "Two RNLI stations",
+   "text": "South Tyneside Council says there are two RNLI lifeguard stations on Sandhaven in the high season, usually May to September."
+  },
+  {
+   "label": "Dogs",
+   "title": "8am–6pm ban in summer",
+   "text": "Dogs are excluded from Sandhaven between 8am and 6pm from 1 May to 30 September. Outside those hours and dates, they're allowed."
+  },
+  {
+   "label": "Getting there",
+   "title": "Sea Road, NE33 2LD",
+   "text": "The beach is on Sea Road. South Shields is the end of the Metro's Yellow line from Newcastle, and the Shields Ferry crosses to North Shields."
+  },
+  {
+   "label": "Facilities",
+   "title": "Seafront",
+   "text": "A promenade along the whole seafront, plus restaurants, cafés and pubs. Volleyball nets go up in summer."
+  },
+  {
+   "label": "Notice",
+   "title": "Plastic pellets",
+   "text": "After a vessel collision in the Tyne on 19 July 2026, pellets were reported on parts of the coast. Don't handle them, keep dogs on leads in affected areas and follow staff advice."
+  }
+ ],
+ "faqs": [
+  {
+   "q": "Is there a surf school in South Shields?",
+   "a": "Yes, South Shields Surf School is based on Sandhaven Beach and teaches surfing and paddleboarding, with equipment hire."
+  },
+  {
+   "q": "Are there lifeguards on Sandhaven?",
+   "a": "Yes, two RNLI stations in the high season, usually May to September."
+  },
+  {
+   "q": "Can dogs go on Sandhaven Beach?",
+   "a": "Not between 8am and 6pm from 1 May to 30 September. Outside those times they're allowed."
+  }
+ ],
+ "sources": [
+  {
+   "label": "Visit South Tyneside — Sandhaven Beach",
+   "url": "https://www.visitsouthtyneside.co.uk/article/11257/Sandhaven-Beach"
+  },
+  {
+   "label": "South Tyneside Council — dogs on the beach",
+   "url": "https://southtyneside.gov.uk/article/1538/Dogs-on-the-beach"
+  },
+  {
+   "label": "South Tyneside Council — staying safe at the coast",
+   "url": "https://southtyneside.gov.uk/article/6216/Staying-safe-at-the-coast"
+  },
+  {
+   "label": "Wikipedia — Tynemouth (Metro Yellow line)",
+   "url": "https://en.wikipedia.org/wiki/Tynemouth"
+  }
+ ],
+ "factCheck": [
+  {
+   "fact": "Golden sand, dunes, promenade, volleyball nets, events; Seaside Award; Sunday Times beach of the year 2022",
+   "url": "https://www.visitsouthtyneside.co.uk/article/11257/Sandhaven-Beach"
+  },
+  {
+   "fact": "Sea Road NE33 2LD; Ocean Beach Pleasure Park, the Dunes, South Marine Park railway",
+   "url": "https://www.visitsouthtyneside.co.uk/article/11257/Sandhaven-Beach"
+  },
+  {
+   "fact": "Pellet alert after 19 July 2026 collision",
+   "url": "https://www.visitsouthtyneside.co.uk/article/11257/Sandhaven-Beach"
+  },
+  {
+   "fact": "Dogs excluded 8am–6pm, 1 May–30 Sep",
+   "url": "https://southtyneside.gov.uk/article/1538/Dogs-on-the-beach"
+  },
+  {
+   "fact": "Two RNLI stations in high season; surfers/kayakers in safety zone",
+   "url": "https://southtyneside.gov.uk/article/6216/Staying-safe-at-the-coast"
+  },
+  {
+   "fact": "Yellow line terminates at South Shields",
+   "url": "https://en.wikipedia.org/wiki/Tynemouth"
+  },
+  {
+   "fact": "South Shields: NE swell, SW offshore, mid-high rising, Tyne pollution",
+   "url": "https://www.surfnerd.com/surf-forecast/south-shields"
+  }
+ ],
+ "checked": "October 2026"
+}

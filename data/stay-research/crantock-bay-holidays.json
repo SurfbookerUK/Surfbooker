@@ -1,0 +1,26 @@
+{
+ "name": "Crantock Bay Holidays",
+ "officialUrl": "https://www.crantockbay.co.uk/",
+ "trading": true,
+ "stayType": "Self-catering sea-view apartments",
+ "accommodation": "Five apartments at West Pentire sleeping 4 to 8, with 2 to 4 bedrooms",
+ "suitableFor": "Families and groups",
+ "parking": "Two allocated spaces per apartment (Visit Cornwall)",
+ "dogs": "Some apartments are dog friendly (Visit Cornwall)",
+ "beachAccess": "Apartments look across Crantock Beach from West Pentire",
+ "boardStorage": "A shed for wetsuits, boards and buggies (Visit Cornwall)",
+ "confirmedFeatures": "Leisure club with heated indoor pool, spa bath and tennis court, communal BBQ area, outdoor shower, Wi-Fi",
+ "overview": "A collection of self-catering apartments at West Pentire, on the headland above Crantock Beach, with views across the bay. Apartments sleep between four and eight. Every stay includes access to the Crantock Bay Leisure Club with its indoor pool, and there is a shared barbecue area and an outdoor shower.",
+ "surfTripFit": "With board storage, an outdoor shower and views over Crantock, it suits surfers well. Porth Joke is also nearby.",
+ "sources": [
+  {
+   "label": "Official website",
+   "url": "https://www.crantockbay.co.uk/"
+  },
+  {
+   "label": "Visit Cornwall listing",
+   "url": "https://www.visitcornwall.com/accommodation/self-catering-and-resorts/newquay/crantock-bay-holidays"
+  }
+ ],
+ "slug": "crantock-bay-holidays"
+}

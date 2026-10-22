@@ -1,0 +1,22 @@
+{
+ "name": "Boscombe Reef Hotel",
+ "officialUrl": "",
+ "trading": true,
+ "stayType": "Small guest house with surf packages",
+ "accommodation": "11 rooms, mostly en suite, plus budget rooms sharing shower rooms",
+ "suitableFor": "Surfers, couples and budget travellers",
+ "parking": "Free off-road parking, limited spaces",
+ "dogs": null,
+ "beachAccess": "About 400m from Boscombe Pier, around a 5-minute walk to the beaches",
+ "boardStorage": "Garden surf shack for surfboards, wetsuits and bikes",
+ "confirmedFeatures": "Free Wi-Fi, 24-hour access, complimentary morning drinks and toast, lounge tea and coffee until 23:00, surfing packages, garden surf shack",
+ "overview": "An 11-room guest house roughly 400 metres from Boscombe Pier, with the beaches about five minutes away on foot. Most rooms are en suite with wooden floors, while budget rooms share shower rooms, and there is a surf shack in the garden for kit.",
+ "surfTripFit": "A dedicated surf shack for boards, wetsuits and bikes plus surf packages makes this one of the most surf-focused bases near the pier.",
+ "sources": [
+  {
+   "label": "Visit Bournemouth listing",
+   "url": "https://www.visitbournemouth.com/accommodation/boscombe-reef-hotel"
+  }
+ ],
+ "slug": "boscombe-reef-hotel"
+}

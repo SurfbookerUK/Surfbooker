@@ -1,0 +1,26 @@
+{
+ "name": "Haven Primrose Valley Holiday Park",
+ "officialUrl": "https://www.haven.com/parks/yorkshire/primrose-valley",
+ "trading": true,
+ "stayType": "Holiday park with caravans",
+ "accommodation": "Caravans from Saver to Signature Gold, sleeping 4 to 8",
+ "suitableFor": "Families and groups",
+ "parking": "Allocated parking with Gold caravans; Blue Badge spaces",
+ "dogs": "Dogs allowed in designated areas of the Lakehouse and on The Five Stones' lower terrace",
+ "beachAccess": "Direct access to the beach below the park via a steep slope",
+ "boardStorage": null,
+ "confirmedFeatures": "Two indoor pools, climbing wall, aerial adventure, lake activities, entertainment venues, restaurants, supermarket",
+ "overview": "A large Haven park at Primrose Valley at the southern end of Filey Bay, with graded caravans, two indoor pools and lake activities. It has its own access down to the golden sand beach below, though the slope is steep and not suited to wheelchairs.",
+ "surfTripFit": "Direct access to the southern end of Filey Bay means you can walk straight down to the beach with a board.",
+ "sources": [
+  {
+   "label": "Haven official page",
+   "url": "https://www.haven.com/parks/yorkshire/primrose-valley"
+  },
+  {
+   "label": "Welcome to Yorkshire listing",
+   "url": "https://www.yorkshire.com/the-bay-filey/stay/hotels/haven-primrose-valley-holiday-park"
+  }
+ ],
+ "slug": "haven-primrose-valley-holiday-park"
+}

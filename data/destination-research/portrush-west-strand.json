@@ -1,0 +1,133 @@
+{
+ "overview": [
+  "West Strand — also known as West Bay or Mill Strand — sits right in the middle of Portrush, with the harbour at its northern end and a pedestrian and cycle promenade running along its back. You can walk down from the town centre in minutes, which makes it the easiest beach on the coast to combine with lunch, a wander round the shops or an evening out. It holds Blue Flag status, most recently in 2024.",
+  "The beach has a story under the sand. The council notes it is protected as an Area of Special Scientific Interest because of buried peat beds and ancient sands, which hold fossil remains of alder and birch trees from roughly 9,000 to 7,000 years ago. Keep watching the water too: a resident pod of harbour porpoises is often seen just offshore.",
+  "For surfers it is a handy alternative to East Strand, facing a slightly different direction, so it is always worth comparing the two before you change. Lifeguards patrol in July and August. Facilities are mostly in town rather than on the sand, and the beach is narrower than its eastern neighbour, so it can feel cramped on a busy high tide in summer."
+ ],
+ "suits": [
+  "Families who want town facilities on the doorstep",
+  "Lessons and beginners on small days",
+  "Surfers checking more than one Portrush beach",
+  "Car-free visitors arriving by train"
+ ],
+ "notFor": [
+  "Wide-open space at high tide",
+  "Long walks — East Strand or Whiterocks suit those better"
+ ],
+ "surf": {
+  "text": [
+   "West Strand is a sandy beach break with lefts and rights. Like the rest of the Portrush coast it relies on north-westerly swell, and summer is often small or flat. Because it faces a different way from East Strand, one beach can be cleaner than the other on the same day, so check both before you commit.",
+   "The harbour wall at the northern end, swimmers close to the promenade and a narrowing beach at high tide all need care. Stay inside the black-and-white flagged zone for boards when lifeguards are on duty, and keep clear of harbour traffic.",
+   "West Strand faces north-west, so it takes the same swell as East Strand and works from around 2ft up to about 8ft before it gets too big. The bank is usually most consistent on a rising tide, though it works at every stage, and a south-easterly wind blows it offshore. Spring, especially April, shows up as the cleanest month in forecast data, and summer is often flat.",
+   "As the beach in the middle of town, with a surf school on the sand, a lifeguard in season and a surf shop close by, it's busy, especially in summer. If it's small and crowded here, check East Strand along the coast, which is bigger and usually has more space."
+  ],
+  "cards": [
+   {
+    "label": "Level",
+    "title": "Beginners to intermediates",
+    "text": "Best for learning when the swell is small."
+   },
+   {
+    "label": "Conditions",
+    "title": "NW swell, rising tide",
+    "text": "2 to 8ft is the usable range; a south-easterly wind is offshore."
+   },
+   {
+    "label": "Season",
+    "title": "Spring",
+    "text": "April is the cleanest month in forecast data; summer is often flat and busy."
+   },
+   {
+    "label": "Hazards",
+    "title": "Harbour and crowds",
+    "text": "Harbour structures, swimmers and a narrow high-tide beach."
+   }
+  ]
+ },
+ "practical": [
+  {
+   "label": "Parking",
+   "title": "Seasonal charges",
+   "text": "Parking is charged from 1 April to 30 September. Accessible parking and cycle parking are available."
+  },
+  {
+   "label": "Facilities",
+   "title": "Town on the doorstep",
+   "text": "Accessible toilets, plus cafés, restaurants, shops and amusements behind the promenade."
+  },
+  {
+   "label": "Lifeguards",
+   "title": "Seasonal RNLI patrol",
+   "text": "The council lists a seasonal RNLI patrol, 10am–6pm daily in July and August. Check the RNLI site for this year's dates."
+  },
+  {
+   "label": "Dogs",
+   "title": "Summer restrictions",
+   "text": "The council allows dogs but applies restrictions from 1 June to 15 September — check the signs at the entrance for where they apply."
+  },
+  {
+   "label": "Getting here",
+   "title": "Walk from the station",
+   "text": "Portrush railway station is a short walk away through the town."
+  }
+ ],
+ "faqs": [
+  {
+   "q": "Is West Strand the same as West Bay?",
+   "a": "Yes. It is also called West Bay or Mill Strand."
+  },
+  {
+   "q": "Are there lifeguards?",
+   "a": "The council lists a seasonal RNLI patrol, 10am–6pm daily in July and August."
+  },
+  {
+   "q": "Can I see porpoises?",
+   "a": "The council says a resident pod of harbour porpoises can be seen just off the shore."
+  },
+  {
+   "q": "Is parking charged?",
+   "a": "Yes, from 1 April to 30 September."
+  }
+ ],
+ "sources": [
+  {
+   "label": "Causeway Coast and Glens Borough Council — West Strand",
+   "url": "https://causewaycoastandglens.gov.uk/see-do/beaches/west-strand-portrush"
+  },
+  {
+   "label": "Surf-forecast — Whiterocks (Portrush area)",
+   "url": "https://www.surf-forecast.com/breaks/Whiterocks"
+  }
+ ],
+ "factCheck": [
+  {
+   "fact": "Also called West Bay/Mill Strand; harbour at north end, promenade behind",
+   "url": "https://causewaycoastandglens.gov.uk/see-do/beaches/west-strand-portrush"
+  },
+  {
+   "fact": "ASSI for buried peat with alder and birch remains 9,000–7,000 years old",
+   "url": "https://causewaycoastandglens.gov.uk/see-do/beaches/west-strand-portrush"
+  },
+  {
+   "fact": "Resident harbour porpoise pod",
+   "url": "https://causewaycoastandglens.gov.uk/see-do/beaches/west-strand-portrush"
+  },
+  {
+   "fact": "Parking charged 1 Apr–30 Sep; Blue Flag 2024",
+   "url": "https://causewaycoastandglens.gov.uk/see-do/beaches/west-strand-portrush"
+  },
+  {
+   "fact": "Lifeguards July–August 10am–6pm",
+   "url": "https://causewaycoastandglens.gov.uk/see-do/beaches/west-strand-portrush"
+  },
+  {
+   "fact": "NW-facing sand beach break, NW swell 2-8ft, SE offshore, works all tides, rising best, busy in summer, lifeguard/school/shop nearby",
+   "url": "https://www.surfnerd.com/surf-forecast/portrush-west-strand"
+  },
+  {
+   "fact": "Spring/April cleanest, summer mostly flat, often crowded",
+   "url": "https://www.surf-forecast.com/breaks/Portrush_West-Strand"
+  }
+ ],
+ "checked": "October 2026"
+}

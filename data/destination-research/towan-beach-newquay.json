@@ -1,0 +1,162 @@
+{
+ "overview": [
+  "Towan is the flat, sandy beach right in the middle of Newquay, at the bottom of a steep hill below the town centre. Newquay Harbour sits on its western side and gives it shelter, which is why Visit Cornwall calls it the town's most sheltered beach. At low tide the sand runs on to Great Western and Tolcarne, and the coves join up into one long stretch you can walk along.",
+  "The landmark here is The Island, a rocky outcrop with a house on top, linked to the mainland by a suspension footbridge built in the early 1900s and set high above the beach. Before the house, the island was sold at auction in 1838 and later had a tea room. Today the bridge is privately owned and the house is a holiday rental, so enjoy the view from the sand.",
+  "Because the harbour keeps the waves down, Towan is more of a paddling and play beach than a surf spot for most of the year. That makes it a good choice for young children and for days when Fistral is too big. It's a walk-in beach with no parking at the bottom, and the station, shops and cafés are all within easy reach on foot."
+ ],
+ "suits": [
+  "Families with young children who want calmer water",
+  "Car-free visitors staying in central Newquay",
+  "A sheltered option when Fistral is big and stormy",
+  "Dog owners, as dogs are allowed all year"
+ ],
+ "notFor": [
+  "Surfing in summer while lifeguards are on duty",
+  "Regular surf: it's flat much of the time",
+  "Anyone wanting to drive right down to the sand"
+ ],
+ "surf": {
+  "text": [
+   "Towan is tucked in behind the harbour and sheltered from most Atlantic swell. The RNLI notes it only really gets surf in stormy conditions, and local surf guides describe it as often flat in summer. When a big winter storm is hammering Fistral, though, smaller, more manageable sets can reach Towan, which is when it comes into its own as a gentle, sheltered option.",
+   "Most importantly, the RNLI says surfing isn't allowed on Towan during the summer season while lifeguards are on duty. In those months, use the red and yellow flags for swimming and bodyboarding, and head to Fistral or another beach if you want to surf. Rocks surround parts of the beach, so take care at either end."
+  ],
+  "cards": [
+   {
+    "label": "Rule",
+    "title": "No surfing in summer patrol hours",
+    "text": "The RNLI says surfing isn't allowed while lifeguards are on duty in the summer season. Swim and bodyboard between the red and yellow flags."
+   },
+   {
+    "label": "Conditions",
+    "title": "Storm-day shelter",
+    "text": "Sheltered by the harbour from most swell. It can have small, mellow waves when bigger beaches are blown out."
+   },
+   {
+    "label": "Patrol",
+    "title": "Long RNLI season",
+    "text": "For 2026 the RNLI listed Easter holiday cover, then daily patrols from 2 May to 27 September, plus some October dates, 10am–6pm. Check this year's dates."
+   }
+  ]
+ },
+ "practical": [
+  {
+   "label": "Parking",
+   "title": "Town car parks",
+   "text": "There's no parking on the sloping road down to the beach. Use a town centre car park; the Cornwall Beach Guide points to a Towan Beach car park reached via the mini-roundabout at the end of Tower Road."
+  },
+  {
+   "label": "Facilities",
+   "title": "Town on the doorstep",
+   "text": "Toilets are nearby and cafés and shops are a short walk up the hill."
+  },
+  {
+   "label": "Lifeguards",
+   "title": "RNLI patrol",
+   "text": "Swim and bodyboard between the red and yellow flags. No flags means no lifeguards."
+  },
+  {
+   "label": "Dogs",
+   "title": "Allowed all year",
+   "text": "The Cornwall Beach Guide lists dogs as allowed all year, and Towan isn't in Cornwall Council's restrictions table. Check signs on the day."
+  },
+  {
+   "label": "By train",
+   "title": "Newquay station",
+   "text": "Newquay is the end of the Atlantic Coast Line from Par, and the station is close to the town centre and Towan."
+  }
+ ],
+ "faqs": [
+  {
+   "q": "Can you surf at Towan Beach?",
+   "a": "Not in summer while lifeguards are on duty: the RNLI says surfing isn't allowed then. Outside those times it's sheltered and often flat, though it can have small waves when storms make Fistral too big."
+  },
+  {
+   "q": "Can you visit The Island at Towan?",
+   "a": "The bridge is privately owned and the house on The Island is now a holiday rental, so treat it as private property and enjoy the view from the beach and harbour."
+  },
+  {
+   "q": "Is Towan good for young children?",
+   "a": "Yes. The harbour shelters it, so the water is usually calmer than at Newquay's more exposed beaches. Stay between the red and yellow flags."
+  },
+  {
+   "q": "Are dogs allowed on Towan Beach?",
+   "a": "Yes, local beach guides list dogs as allowed all year, and Towan isn't on Cornwall Council's restrictions list. Check signs when you arrive."
+  }
+ ],
+ "sources": [
+  {
+   "label": "RNLI — Towan Beach",
+   "url": "https://rnli.org/find-my-nearest/lifeguarded-beaches/newquay-towan-beach"
+  },
+  {
+   "label": "Visit Cornwall — Towan Beach, Newquay",
+   "url": "https://visitcornwall.com/things-to-do/beaches/towan-beach-newquay"
+  },
+  {
+   "label": "iWalk Cornwall — Towan Island",
+   "url": "https://www.iwalkcornwall.co.uk/pi/towan_island"
+  },
+  {
+   "label": "Cornwall Beach Guide — Newquay beaches",
+   "url": "https://www.cornwallbeachguide.co.uk/northcornwall/newquay/newquay.htm"
+  },
+  {
+   "label": "Cornwall Council — dogs on beaches (restrictions table)",
+   "url": "https://www.cornwall.gov.uk/environment/animal-welfare-and-enforcement/dogs-on-beaches/"
+  },
+  {
+   "label": "The Surf Atlas — Newquay surf",
+   "url": "https://thesurfatlas.com/surfing-england/newquay-surf/"
+  },
+  {
+   "label": "Wikipedia — Newquay railway station",
+   "url": "https://en.wikipedia.org/wiki/Newquay_railway_station"
+  }
+ ],
+ "factCheck": [
+  {
+   "fact": "Flat sandy beach next to Newquay Harbour, sheltered from most Atlantic swell, only gets surf in stormy conditions",
+   "url": "https://rnli.org/find-my-nearest/lifeguarded-beaches/newquay-towan-beach"
+  },
+  {
+   "fact": "Surfing not allowed during the summer season while lifeguards are on duty",
+   "url": "https://rnli.org/find-my-nearest/lifeguarded-beaches/newquay-towan-beach"
+  },
+  {
+   "fact": "2026 RNLI: Easter 3–19 Apr, weekends 25–26 Apr, daily 2 May–27 Sep, weekends 3–18 Oct, 19 Oct–1 Nov; 10am–6pm",
+   "url": "https://rnli.org/find-my-nearest/lifeguarded-beaches/newquay-towan-beach"
+  },
+  {
+   "fact": "Most sheltered Newquay beach; at bottom of a steep hill; harbour borders it to the west; joins Great Western and Tolcarne at low tide",
+   "url": "https://visitcornwall.com/things-to-do/beaches/towan-beach-newquay"
+  },
+  {
+   "fact": "The Island linked by suspension footbridge built 1901; now a luxury holiday rental; harbour keeps waves smaller, good for young children",
+   "url": "https://visitcornwall.com/things-to-do/beaches/towan-beach-newquay"
+  },
+  {
+   "fact": "Island sold at auction in 1838; building was once a tea room; bridge built at the start of the 1900s, 25 m above the beach",
+   "url": "https://www.iwalkcornwall.co.uk/pi/towan_island"
+  },
+  {
+   "fact": "No parking on sloping road; Towan Beach car park via mini-roundabout at end of Tower Road; toilets nearby; sand chair via Blue Reef Aquarium; dogs allowed all year",
+   "url": "https://www.cornwallbeachguide.co.uk/northcornwall/newquay/newquay.htm"
+  },
+  {
+   "fact": "Towan not listed in council dog restrictions",
+   "url": "https://www.cornwall.gov.uk/environment/animal-welfare-and-enforcement/dogs-on-beaches/"
+  },
+  {
+   "fact": "Can be flat in summer; picks up sheltered sets in winter when Fistral is stormy",
+   "url": "https://thesurfatlas.com/surfing-england/newquay-surf/"
+  },
+  {
+   "fact": "Newquay station is the terminus of the line from Par, close to the town centre and beaches",
+   "url": "https://en.wikipedia.org/wiki/Newquay_railway_station"
+  }
+ ],
+ "lessonsText": [
+  "The RNLI doesn't allow surfing on Towan while lifeguards are on duty in the summer season, so check with the school where lessons run during those months."
+ ],
+ "checked": "October 2026"
+}

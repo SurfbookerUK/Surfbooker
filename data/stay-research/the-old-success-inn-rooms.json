@@ -1,0 +1,22 @@
+{
+ "slug": "the-old-success-inn-rooms",
+ "officialUrl": "https://www.oldsuccess.co.uk/",
+ "trading": true,
+ "stayType": "Inn with rooms",
+ "accommodation": "Sea-view rooms; number and types not stated.",
+ "suitableFor": "Couples, families, dog owners",
+ "parking": null,
+ "dogs": "Dog friendly.",
+ "beachAccess": "Site says the inn overlooks the sandy coastline; no distance given.",
+ "boardStorage": null,
+ "confirmedFeatures": "Restaurant (local produce, Sunday roasts), bar, terrace with sea view, outdoor seating, indoor fireplace, Wi-Fi, family friendly",
+ "overview": "A traditional inn at Sennen Cove looking out over the sandy bay towards the Atlantic. It has sea-view rooms, a bar and restaurant using local produce, a terrace and an open fire, and it welcomes families and dogs.",
+ "surfTripFit": "Its position overlooking Sennen, one of Cornwall's most consistent beaches, makes it a strong surf base for couples or small groups; no board storage is mentioned.",
+ "sources": [
+  {
+   "label": "The Old Success Inn",
+   "url": "https://www.oldsuccess.co.uk/"
+  }
+ ],
+ "gaps": "Room count, parking and board/wetsuit facilities not stated."
+}

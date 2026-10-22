@@ -1,0 +1,26 @@
+{
+ "name": "Martha's Orchard",
+ "officialUrl": "https://www.marthasorchard.co.uk/",
+ "trading": true,
+ "stayType": "Self-catering lodges and houses",
+ "accommodation": "Seven luxury lodges and two houses sleeping eight or ten; five lodges and both houses have hot tubs; stays of four nights or longer, open all year",
+ "suitableFor": "Families, groups and dog owners",
+ "parking": "Parking listed by Visit Cornwall",
+ "dogs": "Up to two well-behaved dogs per family; gated areas at each property",
+ "beachAccess": "Visit Cornwall states a 5 to 10 minute walk to Constantine Bay beach",
+ "boardStorage": null,
+ "confirmedFeatures": "Hot tubs, sundeck, sensory garden, dog-friendly extras, accessible options",
+ "overview": "A small development of luxury lodges and two houses in Constantine Bay, a short walk from the beach. Most units have their own hot tub, and the site is open all year for stays of four nights or more. Dogs are welcome, with gated areas at each property.",
+ "surfTripFit": "You can walk to Constantine Bay to surf and come back to a hot tub, and the site is open year-round.",
+ "sources": [
+  {
+   "label": "Official website",
+   "url": "https://www.marthasorchard.co.uk/"
+  },
+  {
+   "label": "Visit Cornwall listing",
+   "url": "https://www.visitcornwall.com/accommodation/self-catering-and-resorts/padstow/martha-s-orchard"
+  }
+ ],
+ "slug": "martha-s-orchard"
+}

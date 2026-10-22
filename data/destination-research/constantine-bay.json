@@ -1,0 +1,123 @@
+{
+ "overview": [
+  "Constantine Bay is a wide sandy beach about three miles west of Padstow, in the parish of St Merryn and within the Cornwall Area of Outstanding Natural Beauty. Rocky reefs frame its edges, Trevose Head rises to the north, and a large dune system runs behind the sand. Unlike sheltered Harlyn round the headland, it faces west straight into the Atlantic.",
+  "It takes its name from St Constantine, a sixth-century Cornish saint, and St Constantine's Well can still be reached on a public right of way across the Trevose golf course. Farmers once carted sand away by horse and cart to lighten their heavy fields. Today the dunes are part of the Trevose Head and Constantine Bay SSSI and are in declining condition, so stick to the marked paths through them.",
+  "Facilities are deliberately simple: there are toilets and a car park, and that is about it. The car park fills quickly in summer, but Treyarnon Bay is about a ten-minute walk away and makes a good alternative base. The beach has excellent water quality and a Marine Conservation Society recommendation, and the rocks are good for rock-pooling at low tide."
+ ],
+ "suits": [
+  "Intermediate and experienced surfers",
+  "Rock-pooling and long walks on the sand",
+  "Days when sheltered beaches are too small"
+ ],
+ "notFor": [
+  "Nervous swimmers on bigger days",
+  "Anyone wanting cafés and shops on the beach",
+  "Late arrivals in peak summer"
+ ],
+ "surf": {
+  "text": [
+   "Constantine is an exposed, very consistent spot that picks up most west and north-west swells. Surf-forecast lists it as a beach and reef break: the sandbanks between the rocks produce lefts and rights, and there is also a left-hand reef. A west swell with light easterly winds blowing offshore gives the best conditions, and it can be surfed through the tide.",
+   "The power comes with a cost. Surf-forecast warns of dangerous rips, and the rocky edges catch out people drifting along the beach. It gets busy when the surf is good. If you are still learning, it is usually better to head round to Harlyn and leave Constantine for days when you are confident in bigger waves.",
+   "Constantine is a very consistent beach and reef break, with a left-hand reef as well as the beach waves. West swell with an east offshore is best, and it is good at all stages of the tide. Dangerous rips are the main hazard, and it can get quite busy when it's up. Spring is best, April especially."
+  ],
+  "cards": [
+   {
+    "label": "Level",
+    "title": "Intermediate and up",
+    "text": "Punchy waves and rips; learners are better off at Harlyn."
+   },
+   {
+    "label": "Best conditions",
+    "title": "West swell, east wind",
+    "text": "Light easterlies are offshore; very consistent through the year."
+   },
+   {
+    "label": "Hazards",
+    "title": "Rips and rocks",
+    "text": "Stay within the flags when lifeguards are on duty and keep away from the rocky edges."
+   }
+  ]
+ },
+ "practical": [
+  {
+   "label": "Parking",
+   "title": "Limited car park",
+   "text": "The car park fills quickly in summer. If it's full, walk about ten minutes from Treyarnon."
+  },
+  {
+   "label": "Facilities",
+   "title": "Toilets only",
+   "text": "Bring food and drink; there are no cafés on the beach itself."
+  },
+  {
+   "label": "Lifeguards",
+   "title": "Seasonal patrol",
+   "text": "Swim between the red and yellow flags when lifeguards are on duty and check the local signs."
+  },
+  {
+   "label": "Dogs",
+   "title": "Allowed all year",
+   "text": "The Beach Guide lists dogs as allowed all year; Cornwall Council lists no restriction here. Check entrance signs."
+  },
+  {
+   "label": "Dunes",
+   "title": "Protected habitat",
+   "text": "The dunes are part of an SSSI and are eroding, so use the marked paths."
+  }
+ ],
+ "faqs": [
+  {
+   "q": "Is Constantine Bay good for beginners?",
+   "a": "It is better suited to intermediate and experienced surfers. Waves are punchy and rips form on bigger days; Harlyn Bay nearby is the gentler choice."
+  },
+  {
+   "q": "Can I take my dog to Constantine Bay?",
+   "a": "The Beach Guide lists dogs as allowed all year round, and it isn't in Cornwall Council's restrictions table."
+  },
+  {
+   "q": "Where do I park if Constantine is full?",
+   "a": "Treyarnon Bay is about a ten-minute walk away."
+  }
+ ],
+ "sources": [
+  {
+   "label": "Wikipedia — Constantine Bay",
+   "url": "https://en.wikipedia.org/wiki/Constantine_Bay"
+  },
+  {
+   "label": "Surf-forecast — Constantine Bay",
+   "url": "https://www.surf-forecast.com/breaks/Constantine-Bay"
+  },
+  {
+   "label": "The Beach Guide — Constantine Bay",
+   "url": "https://www.thebeachguide.co.uk/south-west-england/cornwall/constantine-bay.htm"
+  },
+  {
+   "label": "Cornwall Council — dogs on beaches",
+   "url": "https://www.cornwall.gov.uk/environment/animal-welfare-and-enforcement/dogs-on-beaches/"
+  },
+  {
+   "label": "RNLI — lifeguarded beaches",
+   "url": "https://rnli.org/find-my-nearest/lifeguarded-beaches"
+  }
+ ],
+ "factCheck": [
+  {
+   "fact": "3 miles west of Padstow; St Merryn; AONB; St Constantine; well across golf course; sand carting; SSSI dunes declining",
+   "url": "https://en.wikipedia.org/wiki/Constantine_Bay"
+  },
+  {
+   "fact": "Beach and left reef break; very consistent; west swell, east wind; rips",
+   "url": "https://www.surf-forecast.com/breaks/Constantine-Bay"
+  },
+  {
+   "fact": "Toilets only; 10 minutes' walk from Treyarnon; dogs all year; excellent water",
+   "url": "https://www.thebeachguide.co.uk/south-west-england/cornwall/constantine-bay.htm"
+  },
+  {
+   "fact": "Constantine: beach and left reef, W swell, E offshore, rips",
+   "url": "https://www.surf-forecast.com/breaks/Constantine-Bay"
+  }
+ ],
+ "checked": "October 2026"
+}

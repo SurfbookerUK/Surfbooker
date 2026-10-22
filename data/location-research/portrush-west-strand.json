@@ -1,0 +1,233 @@
+{
+ "slug": "portrush-west-strand",
+ "schools": [
+  {
+   "name": "Portrush Surf School",
+   "type": "Surf school",
+   "url": "https://portrushsurfschool.com/",
+   "base": "Portrush Yacht Club, Harbour Road, Portrush",
+   "note": "Group, private, family and bodyboard lessons plus a kids' summer camp for ages 9-16, all checking in at the yacht club beside the harbour, with private changing rooms and hot showers. Its coaches say they know every break from West Strand to Whiterocks.",
+   "source": "https://portrushsurfschool.com/about/"
+  }
+ ],
+ "hire": [
+  {
+   "name": "Troggs Surf Shop hire",
+   "type": "Board & wetsuit hire",
+   "url": "https://www.troggs.com/pages/surf-hire",
+   "base": "88 Main Street, Portrush",
+   "note": "The nearest year-round hire is Troggs' Main Street shop in town: softboards, hardboards, bodyboards, 5/3mm wetsuits, SUPs and buoyancy aids. Staff will tell you which beach suits the day.",
+   "source": "https://www.troggs.com/pages/surf-hire"
+  }
+ ],
+ "shops": [
+  {
+   "name": "Troggs Surf Shop",
+   "type": "Surf shop",
+   "url": "https://www.troggs.com/",
+   "town": "Portrush (88 Main Street)",
+   "note": "Troggs' main store, open daily, selling surfboards, softboards, bodyboards, SUPs, wetsuits for adults and kids, and accessories including ding and wetsuit repair kits. It has traded in Portrush since 1990 and also runs the hire desk.",
+   "source": "https://www.troggs.com/pages/about-troggs"
+  },
+  {
+   "name": "Troggs North Coast Boardriders",
+   "type": "Surf shop",
+   "url": "https://www.troggs.com/",
+   "town": "Portrush (6 Causeway Street)",
+   "note": "A second Troggs store in Portrush with shorter opening days (Thursday to Sunday afternoons, per the Troggs site).",
+   "source": "https://www.troggs.com/pages/about-troggs"
+  },
+  {
+   "name": "Rip Curl store (Troggs)",
+   "type": "Surf shop",
+   "url": "https://troggssurfschool.co.uk/",
+   "town": "Portrush (3-5 Bath Street)",
+   "note": "A Rip Curl store listed by Troggs Surf School, open daily, for wetsuits, clothing and accessories.",
+   "source": "https://troggssurfschool.co.uk/"
+  }
+ ],
+ "lessonsIntro": "West Strand sits right beside Portrush harbour, and Portrush Surf School runs its lessons from the yacht club next to it.",
+ "learn": {
+  "text": [
+   "West Strand is the town beach on the harbour side of Portrush, with the promenade, cafés and parking right behind it. Portrush Surf School checks you in at the yacht club, fits you with a wetsuit and board, then teaches in waist-deep water with two instructors and RNLI lifeguards on hand. Groups are mixed, so families can learn together. The council also notes a pod of harbour porpoises that's often seen just offshore.",
+   "RNLI lifeguards patrol West Strand daily from 10am to 6pm in July and August, so that's the easiest time for a first session. Outside summer the RNLI advises checking the weather and tides before you go and reading the signs on the beach. The council doesn't publish surf-specific hazards for West Strand, so ask the school or lifeguards about conditions on the day, and if it's too windy the school will cancel or reschedule."
+  ],
+  "cards": [
+   {
+    "label": "Level",
+    "title": "Beginners welcome",
+    "text": "Portrush Surf School teaches from age 9 in waist-deep water, with two coaches and lifeguards for each group."
+   },
+   {
+    "label": "Best time",
+    "title": "July and August",
+    "text": "Daily lifeguard cover runs 10am-6pm in high summer. Kids' camps run Monday to Thursday through the summer holidays."
+   },
+   {
+    "label": "Watch out for",
+    "title": "Changeable wind and swell",
+    "text": "Lessons can be cancelled in high winds. Outside patrol times, check tides and weather first and follow beach signage."
+   }
+  ]
+ },
+ "hireIntro": "There's no hire stand confirmed on West Strand itself, but Troggs' shop in the town centre hires boards and wetsuits most days.",
+ "kit": {
+  "text": [
+   "Learn on a long soft-top: it's what the schools use and what Troggs hires to anyone who has had a lesson. West Strand faces the open Atlantic like the rest of the Portrush coast, so the water is cold. Plan on a 5/3mm full suit for most of the year and add boots, gloves and a hood in winter. Bodyboards and SUPs are available from Troggs, and Portrush Surf School teaches both."
+  ],
+  "cards": [
+   {
+    "label": "Board",
+    "title": "Soft-top to start",
+    "text": "Lessons include boards. If you hire, Troggs offers softboards after a beginner lesson and hardboards only to proficient surfers."
+   },
+   {
+    "label": "Wetsuit",
+    "title": "5/3mm most of the year, 5/4mm plus extras in winter",
+    "text": "Sea temperature data for East Strand puts late-summer water at roughly 13-16°C (a 4/3mm or 5/3mm works) and late-winter water at about 7-9°C, when a 5/4mm or 6/5/4mm with boots, gloves and a hood is advised. Local schools issue 5/3mm winter suits as standard."
+   },
+   {
+    "label": "Other craft",
+    "title": "Bodyboard and SUP",
+    "text": "Portrush Surf School runs bodyboard lessons and SUP sessions, including sunset and giant SUP. Troggs hires both."
+   }
+  ]
+ },
+ "shopsIntro": "All of Portrush's surf shops are in the town centre, a short walk from West Strand.",
+ "shopsText": [
+  "Troggs' main store on Main Street stocks surfboards, bodyboards, SUPs, wetsuits and accessories, and runs the town's hire desk. Troggs also has a second store on Causeway Street and a Rip Curl store on Bath Street. The council notes cafés, restaurants, shops and amusements close to West Strand."
+ ],
+ "faqs": {
+  "lessons": [
+   {
+    "q": "Which surf school teaches at West Strand?",
+    "a": "Portrush Surf School is based at Portrush Yacht Club on Harbour Road, beside West Strand. Its coaches work the coast from West Strand to Whiterocks, so ask which beach your session will use."
+   },
+   {
+    "q": "What's the minimum age for lessons at West Strand?",
+    "a": "Portrush Surf School's group lessons start at age 9 and are mixed adults and children. The summer kids' camp is for ages 9 to 16."
+   },
+   {
+    "q": "Are there showers after a lesson?",
+    "a": "Yes. Portrush Surf School has private changing rooms and hot showers at the yacht club, and the session includes time to change afterwards."
+   }
+  ],
+  "hire": [
+   {
+    "q": "Where can I hire a surfboard near West Strand?",
+    "a": "Troggs Surf Shop at 88 Main Street hires softboards, hardboards, bodyboards, wetsuits and SUPs, usually daily unless conditions are unsafe."
+   },
+   {
+    "q": "Do I need a lesson before hiring a surfboard in Portrush?",
+    "a": "Troggs asks that you've had at least one beginner lesson before hiring a softboard, and hardboards are only for surfers who understand swell, wind, rips and tides. Staff will also tell you which beach suits the day."
+   }
+  ],
+  "shops": [
+   {
+    "q": "Is there a surf shop near West Strand?",
+    "a": "Yes. Troggs' main store is on Main Street in the town centre, with a second Troggs store on Causeway Street and a Rip Curl store on Bath Street."
+   }
+  ]
+ },
+ "sources": [
+  {
+   "label": "Portrush Surf School",
+   "url": "https://portrushsurfschool.com/"
+  },
+  {
+   "label": "Portrush Surf School: about",
+   "url": "https://portrushsurfschool.com/about/"
+  },
+  {
+   "label": "Portrush Surf School group lessons",
+   "url": "https://portrushsurfschool.com/lesson/group-surf-lessons/"
+  },
+  {
+   "label": "Portrush Surf School kids camp",
+   "url": "https://portrushsurfschool.com/lesson/vip-kids-surf-camp/"
+  },
+  {
+   "label": "Discover Northern Ireland: Portrush Surf School",
+   "url": "https://discovernorthernireland.com/things-to-do/portrush-surf-school-p748901"
+  },
+  {
+   "label": "Troggs surf shop",
+   "url": "https://www.troggs.com/"
+  },
+  {
+   "label": "About Troggs",
+   "url": "https://www.troggs.com/pages/about-troggs"
+  },
+  {
+   "label": "Troggs shop surf hire",
+   "url": "https://www.troggs.com/pages/surf-hire"
+  },
+  {
+   "label": "Troggs Surf School",
+   "url": "https://troggssurfschool.co.uk/"
+  },
+  {
+   "label": "Causeway Coast and Glens Council: West Strand",
+   "url": "https://causewaycoastandglens.gov.uk/see-do/beaches/west-strand-portrush"
+  },
+  {
+   "label": "Council news: RNLI lifeguards peak season",
+   "url": "https://causewaycoastandglens.gov.uk/news/rnli-lifeguards-kick-off-peak-season-on-the-causeway-coast-and-county-down-beaches"
+  },
+  {
+   "label": "Afloat: Portrush RNLI lifeguard rescues",
+   "url": "https://www.afloat.ie/safety/lifeboats/item/72902-portrush-rnli-lifeguards-rescue-bodyboarder-in-flash-rip-current-and-walker-trapped-after-fall"
+  },
+  {
+   "label": "Surf-Forecast: Portrush East Strand sea temperature",
+   "url": "https://www.surf-forecast.com/breaks/Portrush_East-Strand/seatemp"
+  }
+ ],
+ "factCheck": [
+  {
+   "fact": "Portrush Surf School based at Portrush Yacht Club, Harbour Road; coaches know breaks from West Strand to White Rocks",
+   "url": "https://portrushsurfschool.com/about/"
+  },
+  {
+   "fact": "Group lessons minimum age 9, max 16, two instructors, RNLI lifeguards, waist-depth water",
+   "url": "https://portrushsurfschool.com/lesson/group-surf-lessons/"
+  },
+  {
+   "fact": "Kids' camp ages 9-16, Monday-Thursday; may be cancelled in high winds",
+   "url": "https://portrushsurfschool.com/lesson/vip-kids-surf-camp/"
+  },
+  {
+   "fact": "Private changing rooms and hot showers at the yacht club",
+   "url": "https://discovernorthernireland.com/things-to-do/portrush-surf-school-p748901"
+  },
+  {
+   "fact": "Portrush Surf School offers family, private, bodyboard, SUP, giant SUP and sunset SUP lessons",
+   "url": "https://portrushsurfschool.com/"
+  },
+  {
+   "fact": "West Strand: RNLI lifeguards July-August 10am-6pm; Blue Flag 2024; harbour porpoise pod; nearby cafés and shops",
+   "url": "https://causewaycoastandglens.gov.uk/see-do/beaches/west-strand-portrush"
+  },
+  {
+   "fact": "Troggs shop hire at 88 Main Street; staff advise which beach suits the day",
+   "url": "https://www.troggs.com/pages/surf-hire"
+  },
+  {
+   "fact": "Troggs stores at 88 Main Street and 6 Causeway Street",
+   "url": "https://www.troggs.com/pages/about-troggs"
+  },
+  {
+   "fact": "Rip Curl store at 3-5 Bath Street",
+   "url": "https://troggssurfschool.co.uk/"
+  },
+  {
+   "fact": "RNLI advice to check weather and tides outside patrol times",
+   "url": "https://www.afloat.ie/safety/lifeboats/item/72902-portrush-rnli-lifeguards-rescue-bodyboarder-in-flash-rip-current-and-walker-trapped-after-fall"
+  },
+  {
+   "fact": "Sea temperature range and wetsuit guidance",
+   "url": "https://www.surf-forecast.com/breaks/Portrush_East-Strand/seatemp"
+  }
+ ],
+ "gaps": "No source confirms Troggs Surf School lessons on West Strand (it lists East Strand), so it's left out of schools here. No on-beach hire confirmed at West Strand. No council or RNLI description of surf hazards specific to West Strand. No adaptive surfing confirmed. Distances from the beach to shops aren't stated by any source."
+}

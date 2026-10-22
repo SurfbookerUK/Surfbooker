@@ -1,0 +1,157 @@
+{
+ "slug": "coldingham-bay",
+ "schools": [
+  {
+   "name": "St Vedas Surf School",
+   "type": "Surf school",
+   "url": "https://www.stvedas.co.uk/surfing-lessons-scotland.htm",
+   "base": "St Vedas Surf Shop, on the beachfront at Coldingham Bay, Coldingham TD14 5PA",
+   "note": "Group lessons for complete beginners last about two hours, mostly in the water, with wetsuit, boots and board included, plus one-to-one coaching for more experienced surfers and sessions for groups of friends. The recommended minimum age is 9, and a parent must be on hand (and in the water) for children aged 10 and under.",
+   "source": "https://www.stvedas.co.uk/surfing-lessons-scotland.htm"
+  }
+ ],
+ "hire": [
+  {
+   "name": "St Vedas Hire Centre",
+   "type": "Board & wetsuit hire",
+   "url": "https://www.stvedas.co.uk/surfboard-bodyboard-wetsuit-kayak-hire.htm",
+   "base": "Beachfront at Coldingham Bay",
+   "note": "Hires surfboards, bodyboards, wetsuits, boots, hoods and gloves (as a full kit or separately), plus paddleboards and two-person sit-on-top kayaks, from 10am seven days a week. Under-18s need an adult to sign for and supervise them, and paddleboard hire is 16 and over.",
+   "source": "https://www.stvedas.co.uk/surfboard-bodyboard-wetsuit-kayak-hire.htm"
+  }
+ ],
+ "shops": [
+  {
+   "name": "St Vedas Surf Shop",
+   "type": "Surf shop",
+   "url": "https://www.stvedas.co.uk/",
+   "town": "Coldingham Bay (on the beach)",
+   "note": "Sells wetsuits for adults and kids, hoods, gloves and boots, new, foam and second-hand surfboards, bodyboards, inflatable SUPs and accessories from fins and leashes to roof racks. It also repairs surfboards, fin boxes and wetsuits.",
+   "source": "https://www.stvedas.co.uk/surfboard-repair.htm"
+  }
+ ],
+ "lessonsIntro": "Coldingham Bay has its own surf school, shop and hire centre right on the sand, so everything you need for a first lesson is in one place. Lessons run on set dates, so sign up to the mailing list and phone to book.",
+ "learn": {
+  "text": [
+   "St Vedas runs group lessons for complete beginners from its base on the beachfront at Coldingham Bay. Each session lasts about two hours: around 15 minutes on the sand covering beach safety and the basics, then the rest in the water. Wetsuits, boots and boards are provided, and you just need swimwear and a towel. Afterwards you can use the changing rooms, showers and toilets, and the beach café serves hot and cold food and drinks.",
+   "Lessons aren't run to a fixed daily timetable. Instead, St Vedas emails its mailing list around 48 hours before each session, and you phone the shop to reserve a place, first come first served. All the instructors hold open water lifeguard qualifications. Younger children are welcome from around nine, but for under-11s a parent or guardian needs to help with wetsuits and go in the water with them, and St Vedas lends that adult a wetsuit too."
+  ],
+  "cards": [
+   {
+    "label": "Level",
+    "title": "Group lessons for complete beginners",
+    "text": "Group sessions start from scratch. One-to-one coaching is there for surfers who want to build confidence beyond the basics."
+   },
+   {
+    "label": "Best time",
+    "title": "When St Vedas announces a session",
+    "text": "Lessons are scheduled around conditions and announced by email about 48 hours ahead. The shop's webcam and wave-size guide help you judge the surf."
+   },
+   {
+    "label": "Watch out for",
+    "title": "Conditions that change the plan",
+    "text": "St Vedas may refuse hire if it judges the sea or weather unsafe, and it takes your fitness and ability into account. Check tide times on its site before you go in."
+   }
+  ]
+ },
+ "hireIntro": "The St Vedas hire centre sits on the beachfront and opens from 10am every day, so you can rent a board and wetsuit and be in the water in minutes.",
+ "kit": {
+  "text": [
+   "For a first go at Coldingham, St Vedas sells and hires foam boards, which are the forgiving choice for learners, with standard boards for when you progress. This is the North Sea, so the hire centre offers boots, hoods and gloves as well as wetsuits, and you can hire them as a full kit. Bodyboards, paddleboards and two-person kayaks are also available, with kayak hire including a tide briefing."
+  ],
+  "cards": [
+   {
+    "label": "Board",
+    "title": "Foam board for learners",
+    "text": "St Vedas only rents kit suited to your ability under the Surf Hire Safety scheme, so tell them honestly how much surfing you've done."
+   },
+   {
+    "label": "Wetsuit",
+    "title": "Full suit plus boots, hood and gloves",
+    "text": "Wetsuits, boots, hoods and gloves can all be hired here, and lessons include a wetsuit and boots. Ask the shop which thickness suits the season."
+   },
+   {
+    "label": "Other craft",
+    "title": "Bodyboards, SUPs and kayaks",
+    "text": "Bodyboards can be hired with the same kit. Paddleboard hire is for 16 and over and includes a leash and buoyancy aid; kayaks come with buoyancy aids and a safety briefing."
+   }
+  ]
+ },
+ "shopsIntro": "St Vedas is a full surf shop on the beach itself, selling and repairing boards and wetsuits as well as running the hire and school.",
+ "shopsText": [
+  "You'll find St Vedas Surf Shop on the beachfront at Coldingham Bay. It stocks wetsuits for all ages, foam and standard surfboards, second-hand boards, bodyboards, inflatable SUPs and accessories, and it runs an online shop too. If you ding your board or tear a wetsuit, the shop can repair it or sell you a kit to do it yourself."
+ ],
+ "faqs": {
+  "lessons": [
+   {
+    "q": "How do I book a surf lesson at Coldingham Bay?",
+    "a": "Join the St Vedas mailing list. You'll get an email about 48 hours before each lesson, then phone the shop on 01890 771679 to reserve a place."
+   },
+   {
+    "q": "Can young children have a lesson?",
+    "a": "St Vedas recommends a minimum age of 9. For children aged 10 and under, a parent or guardian must be on hand to help, including in the water, and is given a wetsuit."
+   },
+   {
+    "q": "What's included in a lesson?",
+    "a": "Your wetsuit, surf boots and board, plus use of changing rooms, showers and toilets. Bring swimwear and a towel."
+   }
+  ],
+  "hire": [
+   {
+    "q": "Can under-18s hire a surfboard at Coldingham?",
+    "a": "Yes, but an adult has to sign on their behalf and supervise them the whole time. Paddleboard hire has a minimum age of 16."
+   },
+   {
+    "q": "When is the hire centre open?",
+    "a": "St Vedas says it's open for hire from 10am seven days a week. It can refuse hire if the sea or weather isn't safe."
+   }
+  ],
+  "shops": [
+   {
+    "q": "Can I get my surfboard repaired at Coldingham Bay?",
+    "a": "Yes. St Vedas repairs surfboards, SUPs and other glass fibre craft, fin boxes and wetsuits, and sells DIY repair kits."
+   }
+  ]
+ },
+ "sources": [
+  {
+   "label": "St Vedas Surf Shop",
+   "url": "https://www.stvedas.co.uk/"
+  },
+  {
+   "label": "St Vedas surfing lessons",
+   "url": "https://www.stvedas.co.uk/surfing-lessons-scotland.htm"
+  },
+  {
+   "label": "St Vedas hire centre",
+   "url": "https://www.stvedas.co.uk/surfboard-bodyboard-wetsuit-kayak-hire.htm"
+  },
+  {
+   "label": "St Vedas repairs",
+   "url": "https://www.stvedas.co.uk/surfboard-repair.htm"
+  },
+  {
+   "label": "St Vedas wave size guide",
+   "url": "https://www.stvedas.co.uk/wave-size.htm"
+  }
+ ],
+ "factCheck": [
+  {
+   "fact": "Address Coldingham Bay TD14 5PA; tel 01890 771679; open for hire from 10am seven days; shop stock list; online shop; webcam and tide times pages",
+   "url": "https://www.stvedas.co.uk/"
+  },
+  {
+   "fact": "Group beginner lessons ~2 hrs (15 min beach, 1h45 water); one-to-one; min age 9 recommended; parent required for 10 and under; wetsuit, boots, board included; changing rooms, showers, toilets, beach café; mailing list 48 hrs notice then phone; instructors open water lifeguard qualified",
+   "url": "https://www.stvedas.co.uk/surfing-lessons-scotland.htm"
+  },
+  {
+   "fact": "Hire of surf/bodyboard kit incl boots, hood, gloves; SUP 16+ with leash, paddle, buoyancy aid; kayaks with tide briefing; under-18s adult sign and supervise; can refuse in unsafe conditions; Surf Hire Safety scheme",
+   "url": "https://www.stvedas.co.uk/surfboard-bodyboard-wetsuit-kayak-hire.htm"
+  },
+  {
+   "fact": "Surfboard, fin box and wetsuit repairs; DIY repair kits",
+   "url": "https://www.stvedas.co.uk/surfboard-repair.htm"
+  }
+ ],
+ "gaps": "Web search was rate-limited and the fetch tool then hit a session limit, so only the St Vedas site was checked. No independent source (RNLI, Scottish Borders Council, VisitScotland) opened for lifeguard cover, rips, rocks or tide behaviour at the bay, so hazards are not described specifically. No sea-temperature source opened, so no wetsuit thickness given. Lesson season/months not stated by St Vedas. Distance from Coldingham village to the beach not confirmed. No other schools or shops checked (e.g. in Eyemouth)."
+}

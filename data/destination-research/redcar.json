@@ -1,0 +1,107 @@
+{
+ "overview": [
+  "Redcar's beach runs along the town seafront from Coatham towards Marske, and the RNLI describes it as a busy, gently sloping sandy resort beach close to shops, restaurants and pubs. It's popular for kitesurfing and windsurfing as well as surfing, so the water is often shared.",
+  "Rock scars uncover at low tide and shape several of the peaks, so the surf changes a lot through the tide and with swell direction. It's a convenient local option when conditions line up, rather than a guaranteed session.",
+  "On the seafront, the Redcar Beacon viewing tower gives you a view up and down the coast, and the Zetland Lifeboat Museum holds one of the oldest surviving lifeboats. For lessons, head to Saltburn, about ten minutes south, where the established surf schools are."
+ ],
+ "suits": [
+  "Local sessions when the swell lines up",
+  "Improvers checking several peaks",
+  "Kitesurfers and windsurfers"
+ ],
+ "notFor": [
+  "Guaranteed surf",
+  "First lessons (go to Saltburn)",
+  "Dog walks in the central seafront zone in summer"
+ ],
+ "surf": {
+  "text": [
+   "Redcar faces the North Sea and has several peaks along the seafront. The usual combination is north-east to easterly swell with a south-westerly wind. Low-tide rock scars help shape some of the waves but also make them more hazardous, so check where the rocks are before you paddle out.",
+   "The RNLI has recently reported people caught out by the incoming tide here, so keep an eye on the tide as well as the waves. In season, lifeguards patrol a flagged area; outside it, don't surf alone.",
+   "The Scars reef is rarely surfed, and most locals head elsewhere. It needs a north swell of around three to eight feet, a south-westerly wind and high tide on the rise. Groynes and pollution are the things to watch, so this is for people who know what they are doing."
+  ],
+  "cards": [
+   {
+    "label": "Level",
+    "title": "Improvers+",
+    "text": "Learners should book a lesson in Saltburn."
+   },
+   {
+    "label": "Hazards",
+    "title": "Rock scars and tide",
+    "text": "Rocks exposed at low tide; people have been cut off by the incoming tide."
+   },
+   {
+    "label": "Shared water",
+    "title": "Kites and boards",
+    "text": "A popular kitesurfing and windsurfing beach."
+   }
+  ]
+ },
+ "practical": [
+  {
+   "label": "Lifeguards",
+   "title": "RNLI 2026",
+   "text": "Daily 23–31 May, weekends 6 June–12 July, then daily 18 July–6 September, 10am–6pm."
+  },
+  {
+   "label": "Dogs",
+   "title": "Summer exclusion zone",
+   "text": "From 1 May to 30 September, dogs shouldn't be exercised between The Regent cinema and where The Esplanade meets Graffenberg Street."
+  },
+  {
+   "label": "Parking",
+   "title": "Council car parks",
+   "text": "Long stay includes Turner Street, West Dyke Road South and Fisherman's Square; short stay includes Muriel Street, King Street and Graffenberg Street."
+  },
+  {
+   "label": "Toilets",
+   "title": "Four locations",
+   "text": "Locke Park, Moore Street, Zetland Park and The Stray."
+  },
+  {
+   "label": "Rail",
+   "title": "Redcar Central",
+   "text": "Trains from Middlesbrough and Darlington."
+  }
+ ],
+ "faqs": [
+  {
+   "q": "Is Redcar lifeguarded?",
+   "a": "In 2026, daily 23–31 May, weekends 6 June–12 July, then daily from 18 July to 6 September, 10am–6pm."
+  },
+  {
+   "q": "Can dogs go on Redcar beach?",
+   "a": "Yes, except in the central exclusion zone from The Regent cinema to Graffenberg Street between 1 May and 30 September."
+  },
+  {
+   "q": "Can I learn to surf at Redcar?",
+   "a": "Saltburn, about ten minutes away, has the established surf schools."
+  }
+ ],
+ "sources": [
+  {
+   "label": "RNLI — Redcar Beach",
+   "url": "https://rnli.org/find-my-nearest/lifeguarded-beaches/redcar-beach"
+  },
+  {
+   "label": "Redcar & Cleveland Council — visitor information",
+   "url": "https://www.redcar-cleveland.gov.uk/things-to-see-and-do/visitors-information"
+  },
+  {
+   "label": "RNLI — 2026 Redcar and Saltburn patrols",
+   "url": "https://rnli.org/news-and-media/2026/may/20/rnli-lifeguards-start-daily-beach-patrols-at-redcar-and-saltburn"
+  }
+ ],
+ "factCheck": [
+  {
+   "fact": "Busy, gently sloping sandy beach; kite/windsurf popular; 2026 patrols 23–31 May, weekends 6 Jun–12 Jul, daily 18 Jul–6 Sep; tide-cut-off rescue June 2026",
+   "url": "https://rnli.org/find-my-nearest/lifeguarded-beaches/redcar-beach"
+  },
+  {
+   "fact": "Car parks, toilets, dog zone Regent cinema to Esplanade/Graffenberg St 1 May–30 Sep",
+   "url": "https://www.redcar-cleveland.gov.uk/things-to-see-and-do/visitors-information"
+  }
+ ],
+ "checked": "October 2026"
+}

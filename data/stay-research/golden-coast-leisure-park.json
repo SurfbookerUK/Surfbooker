@@ -1,0 +1,22 @@
+{
+ "slug": "golden-coast-leisure-park",
+ "officialUrl": "https://www.woolacombe.co.uk/devon-holiday-parks/golden-coast",
+ "trading": "unclear",
+ "stayType": null,
+ "accommodation": null,
+ "suitableFor": null,
+ "parking": null,
+ "dogs": null,
+ "beachAccess": null,
+ "boardStorage": null,
+ "confirmedFeatures": null,
+ "overview": null,
+ "surfTripFit": null,
+ "sources": [
+  {
+   "label": "Woolacombe Holiday Parks - golden-coast URL",
+   "url": "https://www.woolacombe.co.uk/devon-holiday-parks/golden-coast"
+  }
+ ],
+ "gaps": "The golden-coast URL on the Woolacombe Holiday Parks site returned a group overview of 'three parks' (Woolacombe Bay, Twitchen House, Easewell Farm) with no separate Golden Coast details. Golden Coast appears to be absorbed into the Woolacombe Bay park; consider merging this entry."
+}

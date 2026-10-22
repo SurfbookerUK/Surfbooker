@@ -1,0 +1,22 @@
+{
+ "name": "The George Inn",
+ "officialUrl": "https://thegeorgeinnbraunton.com/",
+ "trading": true,
+ "stayType": "Pub with rooms",
+ "accommodation": "Five king-size en-suite rooms and one family room",
+ "suitableFor": "Couples, families and dog owners",
+ "parking": null,
+ "dogs": "Welcome in dog-friendly rooms and public areas (charge applies)",
+ "beachAccess": "Short drive to Saunton, Croyde and Woolacombe",
+ "boardStorage": "Bike storage in the cellar",
+ "confirmedFeatures": "En-suite showers, free WiFi, TVs, tea and coffee, 24-hour entrance, cots on request",
+ "overview": "A village pub on Exeter Road in Braunton with six first-floor rooms named after local spots, including Saunton, Croyde and Crow Point. Rooms are en-suite with free WiFi, dogs are welcome in some rooms and the bar, and the beaches are a short drive.",
+ "surfTripFit": "Easy reach of Saunton, Croyde and Woolacombe, with food and a bar on site after a session.",
+ "sources": [
+  {
+   "label": "The George Inn Braunton",
+   "url": "https://thegeorgeinnbraunton.com/"
+  }
+ ],
+ "slug": "the-george-inn"
+}

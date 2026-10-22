@@ -1,0 +1,173 @@
+{
+ "slug": "watergate-bay",
+ "schools": [
+  {
+   "name": "Wavehunters",
+   "type": "Surf school",
+   "url": "https://www.wavehunters.co.uk/",
+   "base": "On the beach at Watergate Bay, at the bottom of the sea lane",
+   "note": "Daily group lessons of up to eight, private and family lessons, sunrise and sunset surfs, a three-day improver course and SUP lessons. Group beginner lessons are from age 7, and younger children can have a private session with a parent present.",
+   "source": "https://watergatebay.co.uk/what-to-do/surf-lessons/"
+  }
+ ],
+ "hire": [
+  {
+   "name": "Wavehunters",
+   "type": "Board, wetsuit & SUP hire",
+   "url": "https://www.wavehunters.co.uk/",
+   "base": "On the beach at Watergate Bay, at the bottom of the sea lane",
+   "note": "Year-round hire of hard and foam boards, bodyboards, wetsuits, boots, gloves and hoods by the day or week, plus inflatable SUPs. Grab and go, no booking needed.",
+   "source": "https://watergatebay.co.uk/what-to-do/surf-lessons/"
+  }
+ ],
+ "shops": [
+  {
+   "name": "Watergate Bay Surf Company (Shop On The Beach)",
+   "type": "Surf clothing & accessories shop",
+   "url": "https://watergatebaysurfcompany.co.uk/",
+   "town": "Watergate Bay",
+   "note": "Open daily, selling surf clothing for adults and kids, changing robes and accessories from brands like Dryrobe and Patagonia. It doesn't list boards.",
+   "source": "https://watergatebaysurfcompany.co.uk/"
+  }
+ ],
+ "lessonsIntro": "Watergate Bay has a surf school right on the sand, carrying on the lessons first started here by the Extreme Academy in 1999. The long, open beach gives lessons plenty of room.",
+ "learn": {
+  "text": [
+   "Watergate Bay is a privately owned beach below steep cliffs, just north of Newquay. At low tide it stretches for more than two miles, so there's plenty of space to learn. Wavehunters teaches from its beach base at the bottom of the sea lane, with wetsuit, boots and board included, and runs lessons all year. Group beginner lessons take children from age 7.",
+   "The bay picks up frequent Atlantic swell, and Visit Cornwall notes it can produce big waves, so it's best for beginners on smaller days and with a school. The RNLI flags the large tidal range and the steep cliffs, and says the easiest paths down are in front of the hotels. Lifeguards patrol daily from early May to late September, plus Easter and October half term."
+  ],
+  "cards": [
+   {
+    "label": "Level",
+    "title": "Beginners with a school",
+    "text": "Lots of space for lessons, but the swell can get big. Learners should start with Wavehunters, and improvers can book the three-day course."
+   },
+   {
+    "label": "Best time",
+    "title": "Smaller summer days",
+    "text": "Lifeguards patrol 10am to 6pm daily from early May to late September. Wavehunters calls it one of the country's best high-tide breaks."
+   },
+   {
+    "label": "Watch out for",
+    "title": "Big swell and the tide",
+    "text": "Frequent Atlantic swell, steep cliffs and a huge tidal range. Use the main access paths by the hotels."
+   }
+  ]
+ },
+ "hireIntro": "Wavehunters hires boards, wetsuits and SUPs right on the beach at Watergate Bay all year, with no need to book.",
+ "kit": {
+  "text": [
+   "Start on a foam board in the white water, and only move to a hard board once you're comfortable in the swell, as Watergate can get powerful. Wavehunters hires both, along with boots, gloves and hoods for colder months. Sea temperatures on this coast run from about 9 to 10°C in early March to 15 to 18°C in August."
+  ],
+  "cards": [
+   {
+    "label": "Board",
+    "title": "Foam, then hard",
+    "text": "Hire a foam board for learning and a hard board when you're catching unbroken waves. Both are available on the beach."
+   },
+   {
+    "label": "Wetsuit",
+    "title": "3/2 or 4/3 in summer, 5/4 in winter",
+    "text": "Surf-forecast suggests a 4/3 or 3/2 with boots in August and a 5/4 or 5/3 with gloves and boots in early March."
+   },
+   {
+    "label": "Other craft",
+    "title": "SUP, bodyboards and kites",
+    "text": "Wavehunters hires inflatable SUPs and bodyboards and runs SUP lessons. Visit Cornwall notes the bay is popular with kitesurfers too."
+   }
+  ]
+ },
+ "shopsIntro": "There's a surf clothing shop at Watergate Bay itself, with surf hire on the beach.",
+ "shopsText": [
+  "Watergate Bay Surf Company, trading as Shop On The Beach, is open every day and sells surf clothing, changing robes, bags and accessories. It doesn't list boards, so for equipment use Wavehunters' beach hire. Newquay, a short drive south, is the nearest large town for other surf shops."
+ ],
+ "faqs": {
+  "lessons": [
+   {
+    "q": "Who runs surf lessons at Watergate Bay?",
+    "a": "Wavehunters teaches on the beach, continuing what the Extreme Academy started in 1999."
+   },
+   {
+    "q": "What age can children start?",
+    "a": "Children from 7 can join group beginner lessons without a parent. Younger children can have a private session with a parent or guardian present."
+   },
+   {
+    "q": "Can I surf at Watergate Bay in winter?",
+    "a": "Yes. Wavehunters runs lessons all year, and hires boots, gloves and hoods for colder water."
+   }
+  ],
+  "hire": [
+   {
+    "q": "Do I need to book hire at Watergate Bay?",
+    "a": "No. Wavehunters' beach hire is grab and go, available by the day or week."
+   },
+   {
+    "q": "Can I hire a paddleboard?",
+    "a": "Yes. Wavehunters hires inflatable SUPs and runs SUP lessons and guided paddles in the bay."
+   }
+  ],
+  "shops": [
+   {
+    "q": "Is there a surf shop at Watergate Bay?",
+    "a": "Watergate Bay Surf Company (Shop On The Beach) sells surf clothing and accessories daily. For boards and wetsuits, hire from Wavehunters on the beach."
+   }
+  ]
+ },
+ "sources": [
+  {
+   "label": "Watergate Bay: surf lessons",
+   "url": "https://watergatebay.co.uk/what-to-do/surf-lessons/"
+  },
+  {
+   "label": "Watergate Bay: what to do",
+   "url": "https://watergatebay.co.uk/what-to-do/"
+  },
+  {
+   "label": "Wavehunters",
+   "url": "https://www.wavehunters.co.uk/"
+  },
+  {
+   "label": "Wavehunters surf hire",
+   "url": "https://www.wavehunters.co.uk/surf-hire-cornwall/"
+  },
+  {
+   "label": "Watergate Bay Surf Company",
+   "url": "https://watergatebaysurfcompany.co.uk/"
+  },
+  {
+   "label": "RNLI: Watergate Bay",
+   "url": "https://rnli.org/find-my-nearest/lifeguarded-beaches/watergate-bay-beach"
+  },
+  {
+   "label": "Visit Cornwall: Watergate Bay",
+   "url": "https://www.visitcornwall.com/things-to-do/beaches/watergate-bay-beach"
+  },
+  {
+   "label": "Surf-forecast: Harlyn sea temperature",
+   "url": "https://www.surf-forecast.com/breaks/Harlyn/seatemp"
+  }
+ ],
+ "factCheck": [
+  {
+   "fact": "Wavehunters on the beach since Extreme Academy 1999; group up to 8; age 7+; year-round hire; inflatable SUP",
+   "url": "https://watergatebay.co.uk/what-to-do/surf-lessons/"
+  },
+  {
+   "fact": "Grab-and-go hire, no booking",
+   "url": "https://www.wavehunters.co.uk/surf-hire-cornwall/"
+  },
+  {
+   "fact": "Shop On The Beach open 10-5 daily, clothing and accessories",
+   "url": "https://watergatebaysurfcompany.co.uk/"
+  },
+  {
+   "fact": "Lifeguards 2 May-27 Sept 2026 10am-6pm; private beach, steep cliffs, 2 miles at low tide, access paths by hotels",
+   "url": "https://rnli.org/find-my-nearest/lifeguarded-beaches/watergate-bay-beach"
+  },
+  {
+   "fact": "Big Atlantic swells, popular with kitesurfers",
+   "url": "https://www.visitcornwall.com/things-to-do/beaches/watergate-bay-beach"
+  }
+ ],
+ "gaps": "Westcountry Surf School (a Surfbooker profile) names Watergate Bay but its site's newest dated content is from 2016, so it's left out until confirmed trading. No dedicated board and wetsuit shop at Watergate confirmed; Newquay shops weren't researched as the search budget ran out. No adaptive surfing information found."
+}

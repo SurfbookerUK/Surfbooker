@@ -1,0 +1,26 @@
+{
+ "slug": "the-driftwood-spars-rooms",
+ "officialUrl": "https://www.driftwoodspars.co.uk/",
+ "trading": true,
+ "stayType": "Inn with rooms and brewery",
+ "accommodation": "15 en-suite bedrooms (per Visit Cornwall).",
+ "suitableFor": "Couples, families (cots and high chairs on request) and dog owners near Trevaunance Cove.",
+ "parking": "Ample car parking.",
+ "dogs": "Dogs welcome (charge per dog per night, per Visit Cornwall).",
+ "beachAccess": "A stone's throw from Trevaunance Cove, St Agnes, with coast path access.",
+ "boardStorage": null,
+ "confirmedFeatures": "Two bars, sea-view restaurant, on-site brewery, beer garden, live music, weddings and functions",
+ "overview": "The Driftwood Spars is an inn with 15 en-suite rooms at Trevaunance Cove, just below St Agnes village, with its own brewery, two bars and a sea-view restaurant. It sits a short walk from the cove and the South West Coast Path. Note it is in St Agnes, not Perranporth.",
+ "surfTripFit": "Trevaunance Cove is on the doorstep and parking is plentiful, making it handy for St Agnes surf and a short drive to Perranporth or Porthtowan.",
+ "sources": [
+  {
+   "label": "Driftwood Spars official site",
+   "url": "https://www.driftwoodspars.co.uk/"
+  },
+  {
+   "label": "Visit Cornwall listing",
+   "url": "https://www.visitcornwall.com/accommodation/north-coast/st-agnes/driftwood-spars"
+  }
+ ],
+ "gaps": "Board storage not stated; room count from tourism board, not own site. Location is St Agnes - area tag 'perranporth' may need changing."
+}

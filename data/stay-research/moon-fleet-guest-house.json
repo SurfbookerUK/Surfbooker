@@ -1,0 +1,26 @@
+{
+ "name": "Moon Fleet Guest House",
+ "officialUrl": "https://moonfleetguesthouse.co.uk/",
+ "trading": true,
+ "stayType": "Guest house",
+ "accommodation": "Six en-suite bedrooms",
+ "suitableFor": "Couples, small groups and dog owners",
+ "parking": "Free parking",
+ "dogs": "Welcome by arrangement",
+ "beachAccess": "About 300 yards from the sea near Cattersty Sands and Skinningrove",
+ "boardStorage": null,
+ "confirmedFeatures": "Private bar, games room, breakfast room, facilities for muddy paws",
+ "overview": "A guest house just down the coast from Saltburn, about 300 yards from the sea near Cattersty Sands and Skinningrove. It has six en-suite rooms, a private bar and games room, and free parking. Saltburn's beach is a short drive back up the coast.",
+ "surfTripFit": "Free parking and a short drive to Saltburn suit surfers who want a quieter base nearby.",
+ "sources": [
+  {
+   "label": "Official website",
+   "url": "https://moonfleetguesthouse.co.uk/"
+  },
+  {
+   "label": "Redcar & Cleveland B&Bs",
+   "url": "https://redcarcleveland.co.uk/enjoy/new-bbs-and-guest-houses/"
+  }
+ ],
+ "slug": "moon-fleet-guest-house"
+}

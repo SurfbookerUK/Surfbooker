@@ -1,0 +1,30 @@
+{
+ "slug": "st-ives-surf-school",
+ "kind": "surf-schools",
+ "officialUrl": "https://www.stivessurfschool.co.uk/",
+ "trading": true,
+ "about": "St Ives Surf School runs surf lessons from its HQ on Porthmeor Beach in St Ives, Cornwall, and runs paddleboarding and kayaking from a watersports centre on Porthminster Beach. It is a Surfing England Centre of Excellence and works with The Wave Project surf therapy charity.",
+ "offers": [
+  "Surf lessons at five levels, beginner to advanced",
+  "Bespoke coaching",
+  "SUP lessons and tours",
+  "Sea kayak tours",
+  "Coasteering",
+  "Hire: surfboards, wetsuits and bodyboards (Porthmeor); paddleboards and kayaks (Porthminster)",
+  "Surf retreats (on enquiry)"
+ ],
+ "where": "Surf HQ on Porthmeor Beach, St Ives TR26 1JZ; SUP and kayak from Porthminster Beach",
+ "goodToKnow": [
+  "Surfing England Centre of Excellence",
+  "Long-standing partner of The Wave Project",
+  "Book online, by phone or by email"
+ ],
+ "season": null,
+ "sources": [
+  {
+   "label": "Homepage",
+   "url": "https://www.stivessurfschool.co.uk/"
+  }
+ ],
+ "gaps": "Homepage only; no lesson formats, ages, inclusions or season; footer is dated 2020."
+}

@@ -1,0 +1,26 @@
+{
+ "name": "Ellerton B&B",
+ "officialUrl": "http://www.ellertonbandb.com",
+ "trading": true,
+ "stayType": "Bed and breakfast",
+ "accommodation": "Double rooms with en-suite or private bathroom, plus a single room",
+ "suitableFor": "Couples, solo travellers and longer stays",
+ "parking": "Free on- and off-road parking",
+ "dogs": null,
+ "beachAccess": null,
+ "boardStorage": "Secure storage for surfboards and bikes",
+ "confirmedFeatures": "Breakfast included, free WiFi, Freeview TVs, hospitality tray, open all year, cash only",
+ "overview": "A B&B on Glenburnie Road, in a quiet cul-de-sac a short walk from Bideford town centre and within flat walking distance of the Lundy ferry terminal. Rooms are en-suite or have a private bathroom, breakfast is included and the house is open all year.",
+ "surfTripFit": "Secure storage for surfboards and free parking make it a practical base, with Westward Ho! a short drive away.",
+ "sources": [
+  {
+   "label": "Ellerton B&B",
+   "url": "http://www.ellertonbandb.com"
+  },
+  {
+   "label": "Discover Bideford",
+   "url": "https://discoverbideford.co.uk/stay/bb/ellerton-bb"
+  }
+ ],
+ "slug": "ellerton-b-and-b"
+}

@@ -1,0 +1,34 @@
+{
+ "slug": "global-boarders",
+ "kind": "surf-schools",
+ "officialUrl": "https://www.globalboarders.com/",
+ "trading": true,
+ "about": "Global Boarders is a west Cornwall surf school and adventure centre with surf bases at Gwithian and Praa Sands. It also runs coasteering, sea kayaking and paddleboarding along the Penwith and Lizard coasts. The website says the business has rebranded as Makai and points visitors to makai.co.uk.",
+ "offers": [
+  "Beginner, improver and advanced surf lessons",
+  "Private lessons",
+  "Family lessons",
+  "Kids' summer surf camps (ages 8–14) at Gwithian",
+  "School and college groups",
+  "Stag and hen groups",
+  "Paddleboarding and Mega SUP",
+  "Coasteering",
+  "Guided sea kayak tours",
+  "Surf hire delivery"
+ ],
+ "where": "Gwithian: Sunset Surf Cafe, Gwithian Towans, TR27 5BT. Praa Sands: beach car park, Castle Drive, TR20 9TG.",
+ "goodToKnow": [
+  "Beginner and private lessons last two hours and include all equipment",
+  "You choose your location when booking online",
+  "The site shows Surfing England, RNLI, AALA and National Coasteering Charter logos",
+  "Now trading as Makai (makai.co.uk)"
+ ],
+ "season": "Open April to October",
+ "sources": [
+  {
+   "label": "Global Boarders homepage",
+   "url": "https://www.globalboarders.com/"
+  }
+ ],
+ "gaps": "Rebranded to Makai, so the name and URL may need updating. What to bring and the cancellation policy were not stated."
+}

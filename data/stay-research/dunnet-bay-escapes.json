@@ -1,0 +1,26 @@
+{
+ "name": "Dunnet Bay Escapes",
+ "officialUrl": "https://dunnetbayescapes.co.uk/",
+ "trading": true,
+ "stayType": "Luxury B&B",
+ "accommodation": "Guest rooms in the main house plus two garden suites with kitchenettes, all en suite",
+ "suitableFor": "Couples wanting a high-end B&B",
+ "parking": "Free parking",
+ "dogs": null,
+ "beachAccess": "Beach described as at the bottom of the garden",
+ "boardStorage": null,
+ "confirmedFeatures": "Hot tub, garden terrace, breakfast with homemade baking, free Wi-Fi, smart TVs",
+ "overview": "Dunnet Bay Escapes is a bed and breakfast in Dunnet, set in private grounds with views over the bay and Dunnet Head. It has en-suite guest rooms and two garden suites with kitchenettes. The owners describe the beach as at the bottom of the garden, and there is a hot tub for guests.",
+ "surfTripFit": "With the beach at the end of the garden, you can walk straight down to surf and come back to a hot tub.",
+ "sources": [
+  {
+   "label": "Dunnet Bay Escapes official site",
+   "url": "https://dunnetbayescapes.co.uk/"
+  },
+  {
+   "label": "Venture North listing",
+   "url": "https://www.venture-north.co.uk/listing/dunnet-bay-escapes/"
+  }
+ ],
+ "slug": "dunnet-bay-escapes"
+}

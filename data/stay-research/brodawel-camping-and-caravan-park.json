@@ -1,0 +1,22 @@
+{
+ "name": "Brodawel Camping & Caravan Park",
+ "officialUrl": "https://www.brodawelcamping.co.uk/",
+ "trading": true,
+ "stayType": "Family-run touring and camping park",
+ "accommodation": "Touring and tent pitches, some with electric hook-up",
+ "suitableFor": "Campers, tourers and families with dogs",
+ "parking": null,
+ "dogs": "Welcome",
+ "beachAccess": "Describes itself as the closest touring and camping park to Rest Bay; guests report under half an hour's walk to Rest Bay",
+ "boardStorage": null,
+ "confirmedFeatures": "Site shop, play area, indoor games room, Wi-Fi, direct Wales Coast Path access",
+ "overview": "Brodawel is a family-run touring and camping park on the edge of Nottage, about a mile from the Glamorgan Heritage Coast. It calls itself the closest touring and camping park to Rest Bay, and the Wales Coast Path runs straight from the site. There is a shop, a play area and an indoor games room.",
+ "surfTripFit": "Pitching here keeps you within walking distance of Rest Bay at a lower-key site than the big town parks.",
+ "sources": [
+  {
+   "label": "Brodawel official site",
+   "url": "https://www.brodawelcamping.co.uk/"
+  }
+ ],
+ "slug": "brodawel-camping-and-caravan-park"
+}

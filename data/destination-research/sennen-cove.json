@@ -1,0 +1,194 @@
+{
+ "overview": [
+  "Sennen is the beach at the very end of the A30, about a mile north of Land's End, and the most westerly surf beach on the British mainland. It sits at the southern end of Whitesand Bay (not to be confused with Whitsand Bay near Plymouth), with a small harbour, the lifeboat station, cafés and galleries tucked under the Pedn-men-du headland. That headland shelters the cove itself from westerly gales, while the rest of the bay lies wide open to the Atlantic.",
+  "There's sand here at every state of the tide, but the beach changes a lot through the day. As the tide drops, a big expanse of pale sand appears and Sennen joins up with Gwynver to the north, giving roughly a mile of continuous beach. The sand is mostly crushed shell, particularly clam, rather than ground-down granite. Behind the bay, nearly 100 acres of dunes run between Pedn-men-du and Aire Point and are an important habitat for rare insects.",
+  "Sennen picks up swell when much of Cornwall is flat, so the postcard setting doesn't make every day a beginner's day. The waves are usually smallest at the southern end near the harbour and build as you move north. RNLI lifeguards patrol in season and move the flags as the tide changes to show where it's safest to swim, so check where they are each time you arrive rather than heading back to yesterday's spot."
+ ],
+ "suits": [
+  "Surfers chasing swell when the rest of Cornwall is flat",
+  "Lessons at the smaller southern end on small days",
+  "Coast-path walkers heading to Land's End or Gwynver",
+  "Families who want toilets and cafés close to the sand"
+ ],
+ "notFor": [
+  "Dog walkers on summer days (15 May to 30 September, 10am to 6pm)",
+  "Novices on big or windy days, or anywhere near the offshore reef"
+ ],
+ "surf": {
+  "text": [
+   "Sennen is fully exposed to the Atlantic, and its position close to Land's End means it can pick up swell from a wider range of directions than most north-coast beaches. Wave size grades along the beach: smallest at the harbour end in the south, biggest towards the north end, where the more experienced crowd tends to sit. At high tide expect a shorebreak; as the tide drops the beach opens up and there's far more room.",
+   "Light north to north-easterly winds are the ones to look for. Around 100 metres offshore is a reef known as the Cowloes, which experienced surfers ride on the right day, but the rocks make it no place for novices. Peaks shift with the sandbanks and there are rocks at both ends of the beach, so spend a few minutes watching before you paddle out."
+  ],
+  "cards": [
+   {
+    "label": "Level",
+    "title": "Beginners to experienced",
+    "text": "Small days at the southern end suit lessons; the north end and the Cowloes reef are for experienced surfers."
+   },
+   {
+    "label": "Wind",
+    "title": "North to north-easterly",
+    "text": "The favoured wind direction for clean waves. Check the forecast before you set off down the A30."
+   },
+   {
+    "label": "Hazards",
+    "title": "Rocks, reef and shorebreak",
+    "text": "Rocks at each end of the beach and on the offshore reef, plus a dumping shorebreak around high tide."
+   }
+  ]
+ },
+ "practical": [
+  {
+   "label": "Parking",
+   "title": "Cove and hill-top car parks",
+   "text": "Two car parks sit at the bottom of the hill, one behind the beach and one beyond the lifeboat station, with a large field car park at the top of the hill in Sennen village. They're shared with the village and fill up in peak season."
+  },
+  {
+   "label": "Lifeguards",
+   "title": "Seasonal RNLI patrol",
+   "text": "Swim between the red and yellow flags and surf between the black and white flags. The flags move with the tide, and patrol dates change each year, so check the RNLI website."
+  },
+  {
+   "label": "Dogs",
+   "title": "Summer daytime ban",
+   "text": "Cornwall Council prohibits dogs from Sennen beach from 10am to 6pm, 15 May to 30 September. Outside those times dogs are welcome."
+  },
+  {
+   "label": "Facilities",
+   "title": "Harbour village",
+   "text": "Public toilets, including an accessible toilet, a shop and several cafés are close to the beach. The lifeboat station has a viewing gallery."
+  },
+  {
+   "label": "Getting there",
+   "title": "A30 or the Land's End Coaster",
+   "text": "By car, follow the A30 almost to its end. By public transport, the Land's End Coaster bus (routes 1 and 1A) runs from Penzance via Land's End to Sennen; check current timetables."
+  }
+ ],
+ "faqs": [
+  {
+   "q": "Can dogs go on Sennen beach?",
+   "a": "Not between 10am and 6pm from 15 May to 30 September. Outside those times, and the rest of the year, dogs are allowed."
+  },
+  {
+   "q": "Is Sennen good for beginners?",
+   "a": "On small, clean days, yes. The southern end near the harbour usually has the smallest waves and is where lessons tend to happen. On big or windy days it's a beach for experienced surfers, so stay within the lifeguarded areas."
+  },
+  {
+   "q": "Is there anywhere quieter nearby?",
+   "a": "Gwynver, at the northern end of Whitesand Bay, is popular with surfers and usually quieter. You can walk there along the South West Coast Path, and at low tide the two beaches join up."
+  },
+  {
+   "q": "Is Whitesand Bay the same as Whitsand Bay?",
+   "a": "No. Whitesand Bay is the bay at Sennen near Land's End. Whitsand Bay is a different stretch of coast near Plymouth in south-east Cornwall."
+  }
+ ],
+ "sources": [
+  {
+   "label": "Cornwall Council — dogs on beaches (restrictions table)",
+   "url": "https://www.cornwall.gov.uk/environment/animal-welfare-and-enforcement/dogs-on-beaches/"
+  },
+  {
+   "label": "RNLI — find a lifeguarded beach",
+   "url": "https://rnli.org/find-my-nearest/lifeguarded-beaches"
+  },
+  {
+   "label": "Visit Cornwall — Sennen Cove Beach",
+   "url": "https://visitcornwall.com/things-to-do/beaches/sennen-cove-beach"
+  },
+  {
+   "label": "iWalk Cornwall — Sennen Cove",
+   "url": "https://iwalkcornwall.co.uk/walks/beach/sennen_cove"
+  },
+  {
+   "label": "Windsurf Magazine — Whitesand Bay, Sennen Cove",
+   "url": "https://www.windsurf.co.uk/beach-guide/whitesand-bay-sennen-cove/"
+  },
+  {
+   "label": "Proper Cornwall — Sennen Cove Beach",
+   "url": "https://propercornwall.co.uk/beaches/sennen-cove-beach/"
+  },
+  {
+   "label": "Beachlets — Sennen Beach",
+   "url": "https://beachlets.co.uk/beaches/sennen-beach"
+  },
+  {
+   "label": "Wikipedia — Sennen Cove Lifeboat Station",
+   "url": "https://en.wikipedia.org/wiki/Sennen_Cove_Lifeboat_Station"
+  },
+  {
+   "label": "Scenic Buses — Sennen",
+   "url": "https://scenicbuses.co.uk/locations/uk/england/cornwall/sennen/"
+  }
+ ],
+ "factCheck": [
+  {
+   "fact": "Lifeboat station is about 1 mile north of Land's End",
+   "url": "https://en.wikipedia.org/wiki/Sennen_Cove_Lifeboat_Station"
+  },
+  {
+   "fact": "Whitesand Bay is not the same as Whitsand Bay near Plymouth",
+   "url": "https://iwalkcornwall.co.uk/walks/beach/sennen_cove"
+  },
+  {
+   "fact": "Pedn-men-du headland shelters the cove from westerly gales",
+   "url": "https://visitcornwall.com/things-to-do/beaches/sennen-cove-beach"
+  },
+  {
+   "fact": "Beach at all states of tide; at low tide joins Gwynver to form about a mile of continuous sand",
+   "url": "https://iwalkcornwall.co.uk/walks/beach/sennen_cove"
+  },
+  {
+   "fact": "Sand is mainly sea-shell fragments, especially clam shells",
+   "url": "https://iwalkcornwall.co.uk/walks/beach/sennen_cove"
+  },
+  {
+   "fact": "Nearly 100 acres of dunes between Pedn-men-du and Aire Point, important for rare insects",
+   "url": "https://iwalkcornwall.co.uk/walks/beach/sennen_cove"
+  },
+  {
+   "fact": "Swell nearly constant even when other spots are flat; waves smaller in the south, larger to the north",
+   "url": "https://www.windsurf.co.uk/beach-guide/whitesand-bay-sennen-cove/"
+  },
+  {
+   "fact": "Ideal wind north-east",
+   "url": "https://www.windsurf.co.uk/beach-guide/whitesand-bay-sennen-cove/"
+  },
+  {
+   "fact": "Catches both northerly and southerly swells; high-tide shorebreak; northern end bigger",
+   "url": "https://propercornwall.co.uk/beaches/sennen-cove-beach/"
+  },
+  {
+   "fact": "Cowloes reef about 100m offshore, rocky, experienced surfers only",
+   "url": "https://propercornwall.co.uk/beaches/sennen-cove-beach/"
+  },
+  {
+   "fact": "RNLI lifeguards move flags with the tide",
+   "url": "https://visitcornwall.com/things-to-do/beaches/sennen-cove-beach"
+  },
+  {
+   "fact": "Two car parks at bottom of hill (behind beach and beyond lifeboat station) plus field car park at top of hill",
+   "url": "https://visitcornwall.com/things-to-do/beaches/sennen-cove-beach"
+  },
+  {
+   "fact": "Dogs prohibited 15 May to 30 September, 10am to 6pm",
+   "url": "https://www.cornwall.gov.uk/environment/animal-welfare-and-enforcement/dogs-on-beaches/"
+  },
+  {
+   "fact": "Public toilets including accessible toilet, shop and cafés",
+   "url": "https://beachlets.co.uk/beaches/sennen-beach"
+  },
+  {
+   "fact": "Lifeboat station has a viewing gallery",
+   "url": "https://en.wikipedia.org/wiki/Sennen_Cove_Lifeboat_Station"
+  },
+  {
+   "fact": "Land's End Coaster 1 and 1A run from Penzance via Land's End to Sennen",
+   "url": "https://scenicbuses.co.uk/locations/uk/england/cornwall/sennen/"
+  },
+  {
+   "fact": "Gwynver reached by the coast path, popular with surfers and quieter",
+   "url": "https://visitcornwall.com/things-to-do/beaches/sennen-cove-beach"
+  }
+ ],
+ "checked": "October 2026"
+}

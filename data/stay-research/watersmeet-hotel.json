@@ -1,0 +1,26 @@
+{
+ "slug": "watersmeet-hotel",
+ "officialUrl": "https://www.watersmeethotel.co.uk/",
+ "trading": true,
+ "stayType": "Boutique seafront hotel",
+ "accommodation": "28 bedrooms and suites (Classic, Deluxe, Suites, family rooms); many with sea-view balconies, some ground-floor terraces.",
+ "suitableFor": "Couples, families, walkers.",
+ "parking": null,
+ "dogs": null,
+ "beachAccess": "Private steps lead directly onto Combesgate Beach.",
+ "boardStorage": null,
+ "confirmedFeatures": "indoor and outdoor heated pools, hot tub, steam room, spa treatments, Rocks Restaurant, Palms all-day restaurant, sea-view terrace",
+ "overview": "Watersmeet is a 28-room hotel on the Esplanade at the northern end of Woolacombe, looking over Combesgate Beach towards Lundy and Baggy Point. Private steps lead straight down to the sand, and it has indoor and outdoor pools, a spa and two restaurants.",
+ "surfTripFit": "Direct access to Combesgate and a short walk to Woolacombe make it convenient for surfers wanting a hotel stay; no board storage is stated.",
+ "sources": [
+  {
+   "label": "Watersmeet Hotel homepage",
+   "url": "https://www.watersmeethotel.co.uk/"
+  },
+  {
+   "label": "Woolacombe Tourism listing",
+   "url": "https://www.woolacombetourism.co.uk/accommodation/hotels/watersmeet-hotel"
+  }
+ ],
+ "gaps": "Parking, dogs and board storage not stated."
+}

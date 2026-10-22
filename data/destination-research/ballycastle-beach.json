@@ -1,0 +1,128 @@
+{
+ "overview": [
+  "Ballycastle Beach runs for about 1.2km from the pier at the marina to Pans Rock, mostly sand with some shingle, and backs onto the golf course for most of its length. The view is the big draw: Fair Head to the east, Rathlin Island offshore, and the town behind you. It is about five minutes' walk from the town centre over a footbridge across the River Margy.",
+  "There's a promenade at the western end, child-friendly areas, the Children of Lir sculpture on the seafront, and a short boardwalk through the dunes to a small viewing platform. The beach has wheelchair access, accessible parking and toilets, and a visitor information centre nearby. It regularly holds a Seaside Award, most recently in 2024, and RNLI lifeguards patrol in July and August.",
+  "The eastern end is part of the Ballycastle Coalfield ASSI, which the council calls the best exposure of a coalfield sequence in Ireland. Coal and iron ore were mined here from the 16th to the 19th centuries, and fossils from fish to giant clubmosses have been found in the rocks. The rocks there date back some 335 million years. For surfers, though, it is an occasional spot that needs the right swell, so treat it as a family beach first."
+ ],
+ "suits": [
+  "Families staying in Ballycastle",
+  "Flexible surfers checking forecasts",
+  "Combining the beach with a Rathlin Island trip"
+ ],
+ "notFor": [
+  "Dependable surf",
+  "Lessons — no school is based here"
+ ],
+ "surf": {
+  "text": [
+   "Forecast sites list Ballycastle as a beach break with lefts and rights, best on a north-westerly swell with offshore south-easterly winds. It is more sheltered than the Portrush beaches, so even with a big forecast the bay does not always work.",
+   "Watch out for rocks at Pans Rock, the river mouth and harbour traffic at the western end. Use the flagged zones when lifeguards are on duty in July and August.",
+   "The wave itself is unremarkable: a short beach break over sand and rocks that often closes out and only breaks some of the time, so treat it as a bonus rather than a destination. It works on a north-westerly groundswell with a south-easterly offshore, at any tide, and winter, especially January, is when the swell is most consistent, though it's still often small or blown out.",
+   "It's usually empty. If it isn't working, the Portrush beaches along the coast are generally more reliable and bigger."
+  ],
+  "cards": [
+   {
+    "label": "Level",
+    "title": "Occasional, all levels on its day",
+    "text": "Short waves that often close out; check the forecast before travelling."
+   },
+   {
+    "label": "Conditions",
+    "title": "NW swell, south-east wind",
+    "text": "Needs the swell to angle in; works at any tide."
+   },
+   {
+    "label": "Season",
+    "title": "Winter",
+    "text": "January is best, but often small or blown out; summer is mostly flat."
+   },
+   {
+    "label": "Hazards",
+    "title": "Rocks, river and harbour",
+    "text": "Pans Rock, the River Margy and the marina."
+   }
+  ]
+ },
+ "practical": [
+  {
+   "label": "Parking",
+   "title": "Town and beach",
+   "text": "Car parking and accessible parking near the beach."
+  },
+  {
+   "label": "Facilities",
+   "title": "Accessible",
+   "text": "Accessible toilets, wheelchair access, visitor information centre, boardwalk and viewing platform."
+  },
+  {
+   "label": "Lifeguards",
+   "title": "Seasonal RNLI patrol",
+   "text": "The council lists a seasonal RNLI patrol, 10am–6pm daily in July and August. Check the RNLI site for this year's dates."
+  },
+  {
+   "label": "Dogs",
+   "title": "Summer restrictions",
+   "text": "The council allows dogs but applies restrictions from 1 June to 15 September — check the signs at the entrance for where they apply."
+  },
+  {
+   "label": "Access",
+   "title": "Footbridge",
+   "text": "Walk from town over the River Margy footbridge."
+  }
+ ],
+ "faqs": [
+  {
+   "q": "Is Ballycastle good for surfing?",
+   "a": "Only on the right swell. Forecast sites favour a north-westerly swell and a south-easterly wind."
+  },
+  {
+   "q": "Is it lifeguarded?",
+   "a": "The council lists a seasonal RNLI patrol, 10am–6pm daily in July and August."
+  },
+  {
+   "q": "How long is the beach?",
+   "a": "About 1.2km, from the marina pier to Pans Rock."
+  },
+  {
+   "q": "Are dogs allowed?",
+   "a": "Yes, with restrictions from 1 June to 15 September."
+  }
+ ],
+ "sources": [
+  {
+   "label": "Causeway Coast and Glens Borough Council — Ballycastle Beach",
+   "url": "https://causewaycoastandglens.gov.uk/see-do/beaches/ballycastle-beach/"
+  },
+  {
+   "label": "Surf-forecast — Ballycastle",
+   "url": "https://www.surf-forecast.com/breaks/Ballycastle"
+  }
+ ],
+ "factCheck": [
+  {
+   "fact": "1.2km, marina pier to Pans Rock, sand and shingle, golf course",
+   "url": "https://causewaycoastandglens.gov.uk/see-do/beaches/ballycastle-beach/"
+  },
+  {
+   "fact": "Footbridge over the Margy; Children of Lir sculpture; Seaside Award",
+   "url": "https://causewaycoastandglens.gov.uk/see-do/beaches/ballycastle-beach/"
+  },
+  {
+   "fact": "Coalfield ASSI; mining 16th–19th c; fossils",
+   "url": "https://causewaycoastandglens.gov.uk/see-do/beaches/ballycastle-beach/"
+  },
+  {
+   "fact": "NW swell, SE offshore",
+   "url": "https://www.surf-forecast.com/breaks/Ballycastle"
+  },
+  {
+   "fact": "Nothing special, often closes out, breaks sometimes, sand and rocks, usually empty, winter/January best",
+   "url": "https://www.mondo.surf/surf-spot/ballycastle-beach/guide/7828"
+  },
+  {
+   "fact": "Exposed beach break, NW swell, SE wind, all tides, January 10% clean",
+   "url": "https://www.surf-forecast.com/breaks/Ballycastle"
+  }
+ ],
+ "checked": "October 2026"
+}

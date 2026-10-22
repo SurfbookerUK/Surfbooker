@@ -1,0 +1,29 @@
+{
+ "slug": "breakers-surf-school",
+ "kind": "surf-schools",
+ "officialUrl": "https://surf-lessons.co.uk/",
+ "trading": "unclear",
+ "about": "Breakers Surf School is a St Agnes surf school on the north Cornish coast, with an address on Quay Road by Trevaunance Cove. It runs everything from a two-hour first lesson to multi-lesson improver courses, as well as kids' sessions, private coaching and stand-up paddleboarding, and keeps its groups small.",
+ "offers": [
+  "Single two-hour introductory lesson",
+  "Two-lesson improver course",
+  "Five-lesson course",
+  "Kids Club and Local Kids Surf Academy",
+  "Private surf lessons",
+  "Stand-up paddleboarding",
+  "Family and group bookings"
+ ],
+ "where": "1 Quay Road, St Agnes, TR5 0RU (Trevaunance Cove)",
+ "goodToKnow": [
+  "Lessons cover essential technique and water safety",
+  "Small group sizes"
+ ],
+ "season": null,
+ "sources": [
+  {
+   "label": "Cornish Secrets directory listing",
+   "url": "https://directory.cornishsecrets.co.uk/listing/breakers-surf-school/"
+  }
+ ],
+ "gaps": "The official site blocks automated fetching, so all details come from the directory listing. Inclusions, accreditations, season and current trading status are unconfirmed."
+}

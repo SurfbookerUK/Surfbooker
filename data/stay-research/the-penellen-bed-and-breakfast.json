@@ -1,0 +1,22 @@
+{
+ "slug": "the-penellen-bed-and-breakfast",
+ "officialUrl": "https://www.bedandbreakfasthotelcornwall.co.uk/",
+ "trading": true,
+ "stayType": "Beachside guest house (room only)",
+ "accommodation": "En-suite guest rooms (site states 5 in one place, 2 first-floor rooms in another; rooms 1 and 2 have balconies) plus a two-bedroom self-catering apartment",
+ "suitableFor": "Couples and small groups wanting to be right by the beach; the apartment suits self-caterers",
+ "parking": "Free, ample parking",
+ "dogs": null,
+ "beachAccess": "Site states the beach is 50-100 yards away",
+ "boardStorage": null,
+ "confirmedFeatures": "Conservatory with seating, patio, free Wi-Fi, guest fridge, sea views",
+ "overview": "A guest house at Riviere Towans in Phillack, on the Hayle side of St Ives Bay, offering room-only en-suite bedrooms, some with balconies, and a separate self-catering apartment. The sands of the Towans are only a short stroll from the door.",
+ "surfTripFit": "Being a minute or two from the Hayle Towans beach with free parking makes it an easy base for surfing St Ives Bay.",
+ "sources": [
+  {
+   "label": "The Penellen official site",
+   "url": "https://www.bedandbreakfasthotelcornwall.co.uk/"
+  }
+ ],
+ "gaps": "Room count inconsistent on site; breakfast appears not included; dogs and board storage not stated; trading inferred from live booking."
+}

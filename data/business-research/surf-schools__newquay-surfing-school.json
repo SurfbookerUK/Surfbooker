@@ -1,0 +1,32 @@
+{
+ "slug": "newquay-surfing-school",
+ "kind": "surf-schools",
+ "officialUrl": "https://www.newquaysurfingschool.com/",
+ "trading": true,
+ "about": "NQY Surf School is a Newquay surf school on Great Western Beach, led by Adam Griffiths, a four-time UK surf champion who has competed on the World Tour. Its surf centre, with changing rooms and lockers, is a few steps from the sand. It offers lessons for juniors, families and individuals, alongside bodyboarding, coasteering and an instructor course.",
+ "offers": [
+  "Standard group lessons",
+  "Friends and family lessons",
+  "Private one-to-one lessons",
+  "Junior lessons",
+  "Bodyboard lessons",
+  "Group activities",
+  "Coasteering",
+  "Surf instructor course",
+  "Surf hire (through a separate site)"
+ ],
+ "where": "Surf centre on Great Western Beach, Newquay (TR7 2NE)",
+ "goodToKnow": [
+  "Changing room and lockers at the surf centre",
+  "Book online or enquire by phone or email; booking terms are on the website",
+  "Accredited by Surfing England and AALA"
+ ],
+ "season": null,
+ "sources": [
+  {
+   "label": "NQY Surf School homepage",
+   "url": "https://www.newquaysurfingschool.com/"
+  }
+ ],
+ "gaps": "No season, inclusions, what to bring, age limits or cancellation terms; the lessons page was not opened"
+}

@@ -1,0 +1,22 @@
+{
+ "slug": "driftwood-spars-rooms",
+ "officialUrl": "https://www.driftwoodspars.co.uk/",
+ "trading": true,
+ "stayType": "Brewpub with B&B rooms",
+ "accommodation": "B&B rooms (AA 4-star guest accommodation); number and types not stated",
+ "suitableFor": "Couples and friends wanting a pub stay near the beach",
+ "parking": "Ample parking",
+ "dogs": null,
+ "beachAccess": "Described as 'a stone's throw' from Trevaunance Cove",
+ "boardStorage": null,
+ "confirmedFeatures": "Two bars, on-site brewery, sea-view restaurant, barista coffee",
+ "overview": "Driftwood Spars is a pub and brewery with B&B rooms just above Trevaunance Cove, St Agnes. It has two bars, its own brewery and a sea-view restaurant, and states it has ample parking.",
+ "surfTripFit": "Very close to Trevaunance Cove with parking and food on site, making it a convenient base for surfing the cove, though no board storage is mentioned.",
+ "sources": [
+  {
+   "label": "Driftwood Spars (official)",
+   "url": "https://www.driftwoodspars.co.uk/"
+  }
+ ],
+ "gaps": "Room count/types, dogs, Wi-Fi and board storage not stated; rooms page failed to load."
+}

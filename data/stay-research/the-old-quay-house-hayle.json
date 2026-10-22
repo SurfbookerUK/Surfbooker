@@ -1,0 +1,22 @@
+{
+ "slug": "the-old-quay-house-hayle",
+ "officialUrl": null,
+ "trading": "unclear",
+ "stayType": null,
+ "accommodation": null,
+ "suitableFor": null,
+ "parking": null,
+ "dogs": null,
+ "beachAccess": null,
+ "boardStorage": null,
+ "confirmedFeatures": null,
+ "overview": null,
+ "surfTripFit": null,
+ "sources": [
+  {
+   "label": "CAMRA pub listing (search result only, not opened)",
+   "url": "https://cornwall.camra.org.uk/viewnode.php?id=33791"
+  }
+ ],
+ "gaps": "Official site oldquayhouseinn.co.uk (assumed) blocked fetching; only OTA and CAMRA listings found, so details and trading status unconfirmed."
+}

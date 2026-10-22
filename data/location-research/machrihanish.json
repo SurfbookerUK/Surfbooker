@@ -1,0 +1,124 @@
+{
+ "slug": "machrihanish",
+ "schools": [
+  {
+   "name": "Pete's Surf School",
+   "type": "Surf school",
+   "url": "https://www.wildaboutargyll.co.uk/blogs/discover-4-water-sports-in-kintyre",
+   "base": "Westport Beach car park, a short drive north of Machrihanish",
+   "note": "Lessons for all levels from the Westport car park.",
+   "source": "https://www.wildaboutargyll.co.uk/blogs/discover-4-water-sports-in-kintyre"
+  }
+ ],
+ "hire": [
+  {
+   "name": "Pete's Surf School",
+   "type": "Board & wetsuit hire",
+   "url": "https://www.wildaboutargyll.co.uk/blogs/discover-4-water-sports-in-kintyre",
+   "base": "Westport Beach car park",
+   "note": "Hires surf gear, including 5mm wetsuits, boots, gloves and hoods.",
+   "source": "https://www.wildaboutargyll.co.uk/blogs/discover-4-water-sports-in-kintyre"
+  }
+ ],
+ "shops": [],
+ "lessonsIntro": "The local surf school is Pete's, which teaches from the car park at Westport Beach, a few minutes north of Machrihanish along the same stretch of sand.",
+ "learn": {
+  "text": [
+   "Machrihanish Bay is a long, open beach on the Atlantic side of Kintyre. It runs north to Westport and picks up swell that wraps in past Islay. Lessons are usually at the Westport end, where Pete's Surf School is based in the car park and teaches all levels. The bay is very exposed, so it can get big and windy, and a coach can help you find the friendliest section.",
+   "We couldn't find any lifeguard cover on this stretch. Wild About Argyll advises taking precautions, using the right equipment and asking locals about conditions before you go in. In practice, that means surfing small days, staying away from the rocks at the Machrihanish village end, and never going out alone as a beginner."
+  ],
+  "cards": [
+   {
+    "label": "Level",
+    "title": "All levels with a coach",
+    "text": "Pete's teaches every level at Westport, but the bay is exposed and can get big."
+   },
+   {
+    "label": "Best time",
+    "title": "Summer for beginners",
+    "text": "There are milder conditions in summer. Autumn and winter bring powerful Atlantic swell."
+   },
+   {
+    "label": "Watch out for",
+    "title": "Exposure, no lifeguards",
+    "text": "Strong wind, big swell and no lifeguard cover that we could find."
+   }
+  ]
+ },
+ "hireIntro": "You can hire surf kit from Pete's Surf School in the Westport Beach car park.",
+ "kit": {
+  "text": [
+   "Beginners should use a large foam board, and improvers can step down on clean days. When the Atlantic swell is up, the bay is best left to experienced surfers. A local guide notes that a warm 5mm wetsuit is the norm here all year. Boots, gloves and hoods are worth having from autumn to spring, and you can hire them from Pete's."
+  ],
+  "cards": [
+   {
+    "label": "Board",
+    "title": "Foamie to start",
+    "text": "Use a big soft-top for lessons at Westport."
+   },
+   {
+    "label": "Wetsuit",
+    "title": "5mm all year",
+    "text": "Locals wear a warm 5mm all year, with boots, gloves and hood in winter."
+   },
+   {
+    "label": "Other craft",
+    "title": "Bodyboards on small days",
+    "text": "Keep to small, clean days, as the bay is exposed and unpatrolled."
+   }
+  ]
+ },
+ "shopsIntro": "We couldn't confirm a surf shop in Machrihanish or Campbeltown.",
+ "shopsText": [
+  "Machrihanish is a small village, and Campbeltown is about ten minutes away by car. We couldn't confirm a dedicated surf shop in either. For kit, your best local option is hire from Pete's at Westport. Otherwise, bring what you need with you, as Kintyre is a long drive from the nearest big towns."
+ ],
+ "faqs": {
+  "lessons": [
+   {
+    "q": "Where do surf lessons happen near Machrihanish?",
+    "a": "At Westport Beach, from Pete's Surf School in the car park."
+   },
+   {
+    "q": "Are lessons suitable for beginners?",
+    "a": "Yes. Pete's teaches all levels."
+   },
+   {
+    "q": "Is Machrihanish lifeguarded?",
+    "a": "We couldn't find any lifeguard cover. Check conditions with locals and surf with a coach if you're new to surfing."
+   }
+  ],
+  "hire": [
+   {
+    "q": "Can I hire a wetsuit?",
+    "a": "Yes. Pete's hires 5mm wetsuits, plus boots, gloves and hoods."
+   },
+   {
+    "q": "Is there hire in Machrihanish village?",
+    "a": "Not that we could confirm. Pete's at Westport is the local option."
+   }
+  ],
+  "shops": [
+   {
+    "q": "Is there a surf shop nearby?",
+    "a": "We couldn't confirm one in Machrihanish or Campbeltown, so bring spares with you."
+   }
+  ]
+ },
+ "sources": [
+  {
+   "label": "Wild About Argyll - water sports in Kintyre",
+   "url": "https://www.wildaboutargyll.co.uk/blogs/discover-4-water-sports-in-kintyre"
+  }
+ ],
+ "factCheck": [
+  {
+   "fact": "Pete's Surf School operates from Westport Beach car park, lessons for all levels and gear hire",
+   "url": "https://www.wildaboutargyll.co.uk/blogs/discover-4-water-sports-in-kintyre"
+  },
+  {
+   "fact": "Warm 5mm suits standard year-round; boots, gloves, hoods available",
+   "url": "https://www.wildaboutargyll.co.uk/blogs/discover-4-water-sports-in-kintyre"
+  }
+ ],
+ "gaps": "We couldn't find Pete's own website, so it's confirmed only through a Wild About Argyll blog, and current trading and seasonal hours should be checked. No ages or formats were given. Lifeguard status wasn't confirmed. The rocks, the swell window and the Campbeltown distance are general knowledge. No surf shop was confirmed."
+}

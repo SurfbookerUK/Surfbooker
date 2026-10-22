@@ -1,0 +1,102 @@
+{
+ "overview": [
+  "Brighton's seafront is a long run of steep shingle broken up by groynes, with Brighton Palace Pier in the middle and the rusting frame of the West Pier off the Hove end. The West Pier opened in 1866, closed to the public in 1975, and was wrecked by storms and fires in the early 2000s. Today only a metal skeleton is left, with the i360 tower on the promenade beside it.",
+  "Brighton isn't a surf destination in the usual sense. The Channel only occasionally sends a decent south-westerly swell, and when it does, waves break onto the shingle and around the groynes and pier structures. Those days draw out a committed local crowd, but the shorebreak is steep and the structures make it a place for experienced surfers rather than learners. If you're travelling specifically to surf, there are far more reliable beaches elsewhere on the south coast.",
+  "What Brighton has going for it is convenience. Fast trains run from London, the city's shops and cafés are a few minutes from the beach, and there's plenty to do when it's flat, which is most of the time. Between May and September dogs are allowed only on designated dog-friendly beaches, so check the council map or the signs at each entrance."
+ ],
+ "suits": [
+  "Experienced surfers who can be flexible",
+  "City breaks with a board just in case",
+  "Car-free trips from London"
+ ],
+ "notFor": [
+  "Beginners",
+  "Planning a trip around surf",
+  "Sandy beach days"
+ ],
+ "surf": {
+  "text": [
+   "Waves need a strong south-westerly swell and are shaped by the shingle bank, the groynes and the pier structures. Expect a short, steep shorebreak, and give the piers and groynes plenty of room.",
+   "Autumn and winter are the most likely seasons. In summer the water is crowded with swimmers, and heavy rain can affect water quality, so check before you go in.",
+   "Brighton is an urban beach and pier break that does not work very often. It wants a south-westerly swell with a northerly offshore, and mostly gets windswell rather than groundswell. Beware of groynes, rips and pollution, and expect a crowd when it works. Winter, December especially, is the best time, but clean days are rare."
+  ],
+  "cards": [
+   {
+    "label": "Level",
+    "title": "Experienced",
+    "text": "Steep shingle shorebreak and structures."
+   },
+   {
+    "label": "Hazards",
+    "title": "Groynes, piers, shorebreak",
+    "text": "Plus crowded water in summer."
+   },
+   {
+    "label": "Season",
+    "title": "Autumn and winter",
+    "text": "Channel swell is most likely from autumn to early spring; summer is usually small and much busier."
+   }
+  ]
+ },
+ "practical": [
+  {
+   "label": "Dogs",
+   "title": "Seasonal",
+   "text": "From 1 May to 30 September dogs are allowed only on designated dog-friendly beaches; all beaches from 1 October to 30 April. Signs at beach entrances show the rules."
+  },
+  {
+   "label": "Lifeguards",
+   "title": "Seasonal",
+   "text": "Brighton & Hove runs a seasonal lifeguard service on the busiest beaches. Check the council site for dates."
+  },
+  {
+   "label": "Getting there",
+   "title": "Train, not car",
+   "text": "Brighton station has fast trains from London; seafront parking is limited."
+  },
+  {
+   "label": "Landmark",
+   "title": "West Pier",
+   "text": "Opened in 1866 and closed in 1975; only a partial metal frame remains."
+  }
+ ],
+ "faqs": [
+  {
+   "q": "Is there surf in Brighton?",
+   "a": "Rarely. It needs a strong south-westerly swell, and it's best left to experienced surfers."
+  },
+  {
+   "q": "Can dogs go on Brighton beach?",
+   "a": "Between 1 May and 30 September only on designated dog-friendly beaches; any beach from October to April."
+  },
+  {
+   "q": "What happened to Brighton's West Pier?",
+   "a": "It closed in 1975 and was badly damaged by storms and fires in 2002–04. Only a metal skeleton remains."
+  }
+ ],
+ "sources": [
+  {
+   "label": "Brighton & Hove City Council — dog-friendly beaches",
+   "url": "https://www.brighton-hove.gov.uk/libraries-leisure-and-arts/seafront/dog-friendly-beaches"
+  },
+  {
+   "label": "Wikipedia — West Pier",
+   "url": "https://en.wikipedia.org/wiki/West_Pier"
+  }
+ ],
+ "factCheck": [
+  {
+   "fact": "Dogs only on dog-friendly beaches 1 May–30 Sep; all beaches 1 Oct–30 Apr; entrance signs",
+   "url": "https://www.brighton-hove.gov.uk/libraries-leisure-and-arts/seafront/dog-friendly-beaches"
+  },
+  {
+   "fact": "West Pier opened 1866, closed 1975, storms/fires 2002–04, partial frame remains, i360",
+   "url": "https://en.wikipedia.org/wiki/West_Pier"
+  },
+  {
+   "fact": "Brighton: pier break, SW swell, N offshore, groynes/rips/pollution",
+   "url": "https://www.surf-forecast.com/breaks/Brighton_1"
+  }
+ ],
+ "checked": "October 2026"
+}

@@ -1,0 +1,26 @@
+{
+ "name": "Valleyview House",
+ "officialUrl": "http://www.valleyviewhouse.co.uk/",
+ "trading": true,
+ "stayType": "Rural B&B",
+ "accommodation": "Four rooms: Coos Suite, King, Twin and Small Double",
+ "suitableFor": "Couples and friends wanting a quiet countryside B&B",
+ "parking": "Free secure parking",
+ "dogs": null,
+ "beachAccess": "About 5 minutes from Thurso",
+ "boardStorage": null,
+ "confirmedFeatures": "En-suite rooms, free Wi-Fi, tea and coffee, suite with sitting area, Highland cows",
+ "overview": "Valleyview House is a bed and breakfast at Murkle, around five minutes' drive from Thurso, with views towards Dunnet Head. It has four rooms, including a first-floor suite with a sitting area, and the owners keep Highland cows. Parking is free and secure.",
+ "surfTripFit": "It is a short drive into Thurso for the beach and also handy for Dunnet Bay on smaller days.",
+ "sources": [
+  {
+   "label": "Valleyview House official site",
+   "url": "http://www.valleyviewhouse.co.uk/"
+  },
+  {
+   "label": "Undiscovered Scotland listing",
+   "url": "https://www.undiscoveredscotland.co.uk/areacait/guest.html"
+  }
+ ],
+ "slug": "valleyview-house"
+}

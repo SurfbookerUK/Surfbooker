@@ -1,0 +1,26 @@
+{
+ "name": "Trem Y Mor Touring Park",
+ "officialUrl": "https://www.tremymor.co.uk/",
+ "trading": true,
+ "stayType": "Independent touring park",
+ "accommodation": "Short-stay and seasonal pitches for caravans, motorhomes and campervans",
+ "suitableFor": "Touring caravan and campervan travellers",
+ "parking": null,
+ "dogs": "By arrangement",
+ "beachAccess": "About 1 mile from Abersoch; Machroes beach is a 15-minute walk; Campsites.co.uk lists it 1.8 miles from Hell's Mouth",
+ "boardStorage": null,
+ "confirmedFeatures": "Heated shower block, free Wi-Fi, coastal path access, bay views",
+ "overview": "Trem Y Mor is an independently run touring park about a mile from Abersoch, with views over Abersoch Bay and access to the coastal path. Machroes beach is a gentle 15-minute walk, and Hell's Mouth is under two miles away. It takes caravans, motorhomes and campervans on short stays and seasonal pitches.",
+ "surfTripFit": "Campervan surfers can split sessions between Hell's Mouth and the sheltered Abersoch side depending on the swell.",
+ "sources": [
+  {
+   "label": "Trem Y Mor official site",
+   "url": "https://www.tremymor.co.uk/"
+  },
+  {
+   "label": "Campsites.co.uk distance listing",
+   "url": "https://www.campsites.co.uk/search/campsites-near-hells-mouth"
+  }
+ ],
+ "slug": "trem-y-mor-touring-park"
+}

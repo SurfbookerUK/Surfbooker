@@ -1,0 +1,26 @@
+{
+ "name": "Malmaison Brighton",
+ "officialUrl": "https://www.malmaison.com/locations/brighton/",
+ "trading": true,
+ "stayType": "Boutique hotel at Brighton Marina",
+ "accommodation": "73 bedrooms from standard doubles and twins to sea-view club rooms and a signature suite",
+ "suitableFor": "Couples and groups wanting free parking and a waterfront base east of the centre",
+ "parking": "Free parking on request when booking direct; Marina car park next door",
+ "dogs": "Accepted by arrangement in bedrooms, bar and terrace (Visit Brighton listing)",
+ "beachAccess": "On the Marina waterfront; Visit Brighton says the coast is about five minutes' walk, about 2 miles from Palace Pier",
+ "boardStorage": null,
+ "confirmedFeatures": "Brasserie and bar, terrace, air conditioning, free Wi-Fi, 24-hour reception, sea-view rooms, lift",
+ "overview": "Malmaison sits on the waterfront at Brighton Marina, about two miles east of Palace Pier. It has 73 rooms, several of them sea-view club rooms, with a brasserie and bar on the ground floor and a reception that is staffed around the clock. Parking is free on request for guests who book direct, which is unusual in Brighton.",
+ "surfTripFit": "Free parking avoids Brighton's parking costs, and the Marina is the eastern end of the seafront if you want to get away from the busier central beaches.",
+ "sources": [
+  {
+   "label": "Official website",
+   "url": "https://www.malmaison.com/locations/brighton/"
+  },
+  {
+   "label": "Visit Brighton listing",
+   "url": "https://www.visitbrighton.com/accommodation/malmaison-brighton-p39843"
+  }
+ ],
+ "slug": "malmaison-brighton"
+}

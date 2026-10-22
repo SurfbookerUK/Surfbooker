@@ -1,0 +1,27 @@
+{
+ "slug": "surf-saunton",
+ "kind": "surf-schools",
+ "officialUrl": "https://www.surf-saunton.co.uk/",
+ "trading": true,
+ "about": "Surf Saunton teaches surfing on the three-mile beach at Saunton Sands in north Devon. It runs group lessons split by experience level and private lessons for all ages. Beginners start with a short safety talk on the beach before going in the water.",
+ "offers": [
+  "Group lessons split by ability",
+  "Private lessons",
+  "Single sessions",
+  "All ages; under-8s need a parent in the water or a private lesson"
+ ],
+ "where": "Saunton Sands beach, with a large car park, toilets and indoor changing nearby",
+ "goodToKnow": [
+  "Board and wetsuit included; boots and gloves depending on season",
+  "Bring swimwear, sun cream and a towel",
+  "Arrive 20 minutes early; lessons at 10.30am and 1.30pm"
+ ],
+ "season": null,
+ "sources": [
+  {
+   "label": "Surf lesson",
+   "url": "https://www.surf-saunton.co.uk/surf-lesson/surf-lesson/"
+  }
+ ],
+ "gaps": "No accreditation, season or cancellation terms stated."
+}

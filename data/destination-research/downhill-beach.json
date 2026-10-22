@@ -1,0 +1,117 @@
+{
+ "overview": [
+  "Downhill Beach is the eastern end of an 11km (seven-mile) strand that runs west past Benone towards Magilligan. Above it, on the cliff edge, stands Mussenden Temple, built in 1785 by Frederick Hervey, the Earl-Bishop of Derry, as a library modelled on Roman temples. From the sand you can see across to Donegal, along to Benone and east over County Antrim.",
+  "Two railway tunnels pass under the cliffs between Downhill and Castlerock. In 1846 workers blasted away a section of rock between them with 3,600lbs of gunpowder — the 'Great Blast' — and celebrated with a banquet for 500 guests inside a tunnel. The dunes behind form part of a protected Special Area of Conservation, and waterfalls tumble down the cliffs. It is good for nature walks and birdwatching too.",
+  "Cars can park free on the beach all year, except to the right of the wooden posts at the entrance. Soft, wind-blown sand can build up and make access difficult, so read the signs and think about the tide before you drive on. The entrance has toilets and accessible parking, but there's little else on the sand itself. The beach is regularly awarded a Blue Flag, most recently in 2024."
+ ],
+ "suits": [
+  "Confident surfers looking for a bit more swell",
+  "Combining a surf with Mussenden Temple",
+  "Photographers and walkers"
+ ],
+ "notFor": [
+  "First lessons — head to the Benone end",
+  "Low cars on days of soft, drifting sand"
+ ],
+ "surf": {
+  "text": [
+   "Downhill is a fairly exposed beach break with lefts and rights. Forecast sites rate it best on a north-westerly swell with offshore winds from the south-east, and say it can work at any time of year, though winter is often blown out. Being at the cliff end of the strand, it is less sheltered than Benone.",
+   "There is no surf school at this end, so learners are better off at Benone. Look for flags when lifeguards are on duty in July and August, and think about the tide and soft sand if you've parked on the beach.",
+   "Downhill is the cliff end of the long strand and a fairly exposed beach break, so it picks up more swell than Benone and is bigger and less forgiving. Forecast data says it can work at any time of year; winter is the best season but is blown out more often than not, so the clean days are worth waiting for. A north-westerly swell with a south-easterly wind is the good combination."
+  ],
+  "cards": [
+   {
+    "label": "Level",
+    "title": "Intermediate and up",
+    "text": "Beginners should book at Benone."
+   },
+   {
+    "label": "Conditions",
+    "title": "NW swell, south-east wind",
+    "text": "Often blown out in winter; works year-round."
+   },
+   {
+    "label": "Hazards",
+    "title": "Tide and soft sand",
+    "text": "Tidal conditions and wind-blown sand affect vehicles; watch for rips."
+   }
+  ]
+ },
+ "practical": [
+  {
+   "label": "Parking",
+   "title": "On the beach",
+   "text": "Free all year, except to the right of the wooden posts at the entrance. Follow the signs on soft sand."
+  },
+  {
+   "label": "Facilities",
+   "title": "At the entrance",
+   "text": "Toilets, accessible toilets and accessible parking."
+  },
+  {
+   "label": "Lifeguards",
+   "title": "Seasonal RNLI patrol",
+   "text": "The council lists a seasonal RNLI patrol, 10am–6pm daily in July and August. Check the RNLI site for this year's dates."
+  },
+  {
+   "label": "Dogs & horses",
+   "title": "Summer restrictions",
+   "text": "The council allows dogs but applies restrictions from 1 June to 15 September — check the signs at the entrance for where they apply. From 1 May to 30 September horse riding is only allowed before 11am and after 7pm."
+  }
+ ],
+ "faqs": [
+  {
+   "q": "Can you park on Downhill Beach?",
+   "a": "Yes, free all year, except to the right of the wooden posts at the entrance."
+  },
+  {
+   "q": "Is Downhill good for beginners?",
+   "a": "The Benone end of the same strand is better for learning."
+  },
+  {
+   "q": "Who built Mussenden Temple?",
+   "a": "Frederick Hervey, the Earl-Bishop of Derry, in 1785, as a library named after his niece Frideswide Mussenden."
+  },
+  {
+   "q": "What wind is offshore?",
+   "a": "Forecast sites rate a south-easterly as offshore, with a north-westerly swell."
+  }
+ ],
+ "sources": [
+  {
+   "label": "Causeway Coast and Glens Borough Council — Downhill Beach",
+   "url": "https://causewaycoastandglens.gov.uk/see-do/beaches/downhill-beach/"
+  },
+  {
+   "label": "Surf-forecast — Downhill",
+   "url": "https://www.surf-forecast.com/breaks/Downhill"
+  },
+  {
+   "label": "Wikipedia — Mussenden Temple",
+   "url": "https://en.wikipedia.org/wiki/Mussenden_Temple"
+  }
+ ],
+ "factCheck": [
+  {
+   "fact": "11km strand; tunnels 307 and 668 yards; Great Blast 1846",
+   "url": "https://causewaycoastandglens.gov.uk/see-do/beaches/downhill-beach/"
+  },
+  {
+   "fact": "Cars allowed except right of wooden posts; soft sand",
+   "url": "https://causewaycoastandglens.gov.uk/see-do/beaches/downhill-beach/"
+  },
+  {
+   "fact": "Mussenden Temple 1785, Earl-Bishop, library",
+   "url": "https://en.wikipedia.org/wiki/Mussenden_Temple"
+  },
+  {
+   "fact": "NW swell, SE offshore, any time of year",
+   "url": "https://www.surf-forecast.com/breaks/Downhill"
+  },
+  {
+   "fact": "Fairly exposed beach break, NW swell, SE offshore, any time of year, winter best but often blown out",
+   "url": "https://www.surf-forecast.com/breaks/Downhill"
+  }
+ ],
+ "checked": "October 2026"
+}

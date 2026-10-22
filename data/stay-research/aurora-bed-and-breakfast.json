@@ -1,0 +1,22 @@
+{
+ "name": "Aurora Bed and Breakfast",
+ "officialUrl": "https://www.aurora-bb.co.uk/",
+ "trading": true,
+ "stayType": "Family-friendly B&B",
+ "accommodation": "Two en-suite rooms (Orkney and Shetland) set up as twin or super king; extra single bed in Shetland",
+ "suitableFor": "Families and dog owners",
+ "parking": "Not stated",
+ "dogs": "Dog-friendly",
+ "beachAccess": "About 4 miles east of Thurso",
+ "boardStorage": null,
+ "confirmedFeatures": "Locally sourced breakfast, free Wi-Fi, tea and coffee, travel cots and high chairs",
+ "overview": "Aurora is a small bed and breakfast at Murkle, roughly four miles east of Thurso, looking over the Pentland Firth to Dunnet Head and Orkney. Its two en-suite rooms convert between twin and super king, and one takes an extra bed for families. Breakfast uses local produce, and dogs are welcome.",
+ "surfTripFit": "It suits a dog-friendly trip, with Thurso's beach and Dunnet Bay both a short drive away.",
+ "sources": [
+  {
+   "label": "Aurora B&B official site",
+   "url": "https://www.aurora-bb.co.uk/"
+  }
+ ],
+ "slug": "aurora-bed-and-breakfast"
+}

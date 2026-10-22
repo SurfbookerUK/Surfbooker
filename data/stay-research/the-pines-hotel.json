@@ -1,0 +1,22 @@
+{
+ "name": "The Pines Hotel",
+ "officialUrl": "https://www.pineshotel.co.uk/",
+ "trading": true,
+ "stayType": "Clifftop hotel with holiday homes",
+ "accommodation": "Hotel bedrooms, many with balconies and sea views, plus holiday homes and a bungalow",
+ "suitableFor": "Couples, families and groups",
+ "parking": null,
+ "dogs": null,
+ "beachAccess": "Private steps directly down to the beach; walk along the seafront into Swanage",
+ "boardStorage": null,
+ "confirmedFeatures": "Restaurant, lounge bar, gardens, EV charging, holiday homes, group facilities",
+ "overview": "A hotel on the clifftops at the quieter end of Swanage Bay, with private steps down to the beach and a seafront walk into town. Many bedrooms have balconies and sea views, and it also lets holiday homes and a bungalow.",
+ "surfTripFit": "Private beach steps mean quick access to the bay, and EV charging helps if you drive down.",
+ "sources": [
+  {
+   "label": "Official site",
+   "url": "https://www.pineshotel.co.uk/"
+  }
+ ],
+ "slug": "the-pines-hotel"
+}

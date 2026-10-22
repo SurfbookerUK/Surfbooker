@@ -1,0 +1,128 @@
+{
+ "overview": [
+  "Rhosneigr is a small village on the west coast of Anglesey, in the community of Llanfaelog, with two quite different beaches either side of it. To the south runs Traeth Llydan, a mix of sand and pebbles backed by dunes and a regular Green Coast Award winner. To the north is Traeth Crigyll, sandy but broken up by rocks, with views across to Snowdonia.",
+  "The name probably comes from rhos, the Welsh for moorland, and Yneigr, a personal name linked to a grandson of the fifth-century leader Cunedda. Today the village is best known for wind- and kitesurfing: Traeth Crigyll is the windsurfers' and sailors' beach, while Traeth Llydan is the one for surfing, canoeing and walks. Pwll Cwch, a small rocky cove between the two, is where boats and yachts are left overnight.",
+  "The surf here depends on a south-westerly swell making its way into the Irish Sea, so it is far less reliable than the Atlantic coasts. When it does arrive you get lefts and rights over sand, but there are no lifeguards, rocks at the ends of the beaches and rips to watch for, so treat it as a spot for improvers rather than first-timers."
+ ],
+ "suits": [
+  "Improvers who can read a beach for themselves",
+  "Windsurfers and kitesurfers on breezy days",
+  "Families after a village beach with cafés close by",
+  "Anyone arriving by train on the Holyhead line"
+ ],
+ "notFor": [
+  "Complete beginners without a school — there is no lifeguard cover",
+  "Surfers wanting reliable waves; clean days are uncommon"
+ ],
+ "surf": {
+  "text": [
+   "Rhosneigr is an exposed beach break with both lefts and rights. It needs a south-westerly swell, which can be a mix of distant groundswell and local windswell, and it is cleanest with north-easterly winds; it has a little shelter from the south-east.",
+   "Winter is the most likely season, but even in February forecasters reckon clean surf turns up only a small fraction of the time, with blown-out or flat days far more common. Watch the forecast and be ready to go when a south-westerly swell coincides with a light offshore.",
+   "Rhosneigr is Anglesey's surf town, with a consistent exposed beach break and waves that break left and right. A south-westerly swell and north-easterly offshore wind is best, and some shelter from south-easterlies helps. It can work year-round, but winter is best and summer tends to be small. Rips are a hazard, and the water is cold outside summer, so wear a spring wetsuit with hood, gloves and boots.",
+   "Locals warn that the south end is particularly dangerous, with strong rips and submerged rocks, and recommend a lesson if you're new. Surfing at low tide makes the hazards easier to see."
+  ],
+  "cards": [
+   {
+    "label": "Level",
+    "title": "Improvers and above",
+    "text": "No lifeguards and dangerous rips — beginners should go with a school."
+   },
+   {
+    "label": "Conditions",
+    "title": "SW swell, NE wind",
+    "text": "Needs Irish Sea swell from the south-west; north-easterlies are offshore."
+   },
+   {
+    "label": "Hazards",
+    "title": "Rips and rocks",
+    "text": "Rips are a known hazard and rocky outcrops break up the shoreline."
+   }
+  ]
+ },
+ "practical": [
+  {
+   "label": "Beaches",
+   "title": "Two to choose from",
+   "text": "Traeth Llydan to the south for surfing and walks; Traeth Crigyll to the north for windsurfing and sailing."
+  },
+  {
+   "label": "Parking",
+   "title": "Village car park",
+   "text": "Free parking in the village centre plus roadside spaces on the roads to the beach; busy at peak times."
+  },
+  {
+   "label": "Dogs",
+   "title": "Welcome on Traeth Llydan",
+   "text": "Dogs are allowed on Traeth Llydan all year."
+  },
+  {
+   "label": "Lifeguards",
+   "title": "None",
+   "text": "There is no lifeguard service. In an emergency dial 999 and ask for the Coastguard."
+  },
+  {
+   "label": "Getting there",
+   "title": "By train",
+   "text": "Rhosneigr has its own railway station on the line to Holyhead."
+  }
+ ],
+ "faqs": [
+  {
+   "q": "Which beach should I surf at Rhosneigr?",
+   "a": "Traeth Llydan, the dune-backed beach south of the village, is the one usually used for surfing. Traeth Crigyll to the north is better known for windsurfing."
+  },
+  {
+   "q": "When does Rhosneigr get surf?",
+   "a": "When a south-westerly swell pushes into the Irish Sea, ideally with a north-easterly wind. Winter is most likely, but clean days are infrequent."
+  },
+  {
+   "q": "Is Rhosneigr good for beginners?",
+   "a": "There are no lifeguards and rips are a known hazard, so learners should go with a qualified school."
+  },
+  {
+   "q": "Can I bring my dog?",
+   "a": "Yes — dogs are allowed on Traeth Llydan all year."
+  }
+ ],
+ "sources": [
+  {
+   "label": "Wikipedia: Rhosneigr",
+   "url": "https://en.wikipedia.org/wiki/Rhosneigr"
+  },
+  {
+   "label": "Surf-forecast: Rhosneigr",
+   "url": "https://www.surf-forecast.com/breaks/Rhosneigr"
+  }
+ ],
+ "factCheck": [
+  {
+   "fact": "Community of Llanfaelog; Traeth Llydan pebble/sand, dune-backed, regular Green Coast Award",
+   "url": "https://en.wikipedia.org/wiki/Rhosneigr"
+  },
+  {
+   "fact": "Traeth Crigyll sandy with rocks, views of Snowdonia, popular with windsurfers and sailors",
+   "url": "https://en.wikipedia.org/wiki/Rhosneigr"
+  },
+  {
+   "fact": "Name from rhos (moorland) and Yneigr, grandson of Cunedda",
+   "url": "https://en.wikipedia.org/wiki/Rhosneigr"
+  },
+  {
+   "fact": "Rhosneigr railway station serves the village",
+   "url": "https://en.wikipedia.org/wiki/Rhosneigr"
+  },
+  {
+   "fact": "Exposed beach break, lefts and rights, best SW swell, NE offshore, shelter from SE, dangerous rips, winter best",
+   "url": "https://www.surf-forecast.com/breaks/Rhosneigr"
+  },
+  {
+   "fact": "Pwll Cwch small rocky beach where boats stay overnight",
+   "url": "https://en.wikipedia.org/wiki/Rhosneigr"
+  },
+  {
+   "fact": "Rhosneigr: SW swell, NE offshore, rips, year-round",
+   "url": "https://www.surf-forecast.com/breaks/Rhosneigr"
+  }
+ ],
+ "checked": "October 2026"
+}

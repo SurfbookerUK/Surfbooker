@@ -1,0 +1,253 @@
+{
+ "slug": "porthtowan",
+ "schools": [
+  {
+   "name": "Tris Surf Shop surf school",
+   "type": "Surf school",
+   "url": "https://www.trissurfshop.com/",
+   "base": "Tris Surf Shop, on the beach at Porthtowan (TR4 8AW)",
+   "note": "Group lessons of up to eight people run from the shop with qualified local instructors, with board and wetsuit included. Times are set by the tide, and you can book in the shop, by phone or by email.",
+   "source": "https://www.trissurfshop.com/surf-school"
+  }
+ ],
+ "hire": [
+  {
+   "name": "Tris Surf Shop",
+   "type": "Board & wetsuit hire",
+   "url": "https://www.trissurfshop.com/",
+   "base": "On the beach at Porthtowan",
+   "note": "Hires kit by the hour, day or week, but only while the beach is lifeguarded. It's first come, first served (no reservations) and you'll need ID.",
+   "source": "https://www.trissurfshop.com/surf-hire"
+  },
+  {
+   "name": "Aggie Surf Shop",
+   "type": "Board & wetsuit hire",
+   "url": "https://www.aggiesurfshop.com/",
+   "base": "The Old Garage, Peterville, St Agnes (TR5 0QU)",
+   "note": "Surfboard and wetsuit hire from the village shop in St Agnes, a short drive up the coast from Porthtowan.",
+   "source": "https://www.aggiesurfshop.com/"
+  },
+  {
+   "name": "HQ Surf Shop",
+   "type": "Board & wetsuit hire",
+   "url": "https://www.cornwallsurfcentre.co.uk/",
+   "base": "The Seafront, Portreath",
+   "note": "Hires epoxy and foam surfboards, wetsuits in adult and kids' sizes, bodyboards and SUPs (with buoyancy aids). It's in Portreath, the next beach west, and closes on Wednesdays.",
+   "source": "https://www.cornwallsurfcentre.co.uk/surf-hire-shop-cornwall"
+  }
+ ],
+ "shops": [
+  {
+   "name": "Tris Surf Shop",
+   "type": "Surf shop",
+   "url": "https://www.trissurfshop.com/",
+   "town": "Porthtowan",
+   "note": "A long-running beachside surf shop (trading since the early 1970s) that also runs lessons and hire. Its season is May to September, so check before visiting at other times.",
+   "source": "https://www.trissurfshop.com/"
+  },
+  {
+   "name": "Aggie Surf Shop",
+   "type": "Surf shop",
+   "url": "https://www.aggiesurfshop.com/",
+   "town": "St Agnes",
+   "note": "Sells surfboards, wetsuits and clothing, and makes custom boards in the village.",
+   "source": "https://www.aggiesurfshop.com/"
+  },
+  {
+   "name": "HQ Surf Shop",
+   "type": "Surf shop",
+   "url": "https://www.cornwallsurfcentre.co.uk/",
+   "town": "Portreath",
+   "note": "Seafront shop in Portreath with wetsuits, surfboards, clothing and accessories alongside its hire and lessons.",
+   "source": "https://www.cornwallsurfcentre.co.uk/surf-hire-shop-cornwall"
+  }
+ ],
+ "lessonsIntro": "Lessons at Porthtowan run from the surf shop right on the beach, with sessions timed around the tide. If you're new to it, a lesson is the sensible way in, because the beach changes a lot between low and high water.",
+ "learn": {
+  "text": [
+   "Porthtowan is a north-west facing beach near St Agnes that picks up plenty of Atlantic swell. Holiday guides describe it as a good place for a first surf in smaller summer conditions, but surf guides also point out that the waves can be powerful and hollow, especially in autumn and winter, and the main peaks get busy in summer. That's why lesson times at Tris are set by the tide and conditions on the day.",
+   "The beach is very different at each end of the tide. At low water you get a long stretch of sand that, on big spring tides, can link up with Chapel Porth. At high tide it shrinks to a steep cove backed by dunes and cliffs. RNLI lifeguards patrol from Easter to the end of October half-term, and the surfing area is marked with black and white chequered flags, away from swimmers."
+  ],
+  "cards": [
+   {
+    "label": "Level",
+    "title": "Beginners with a lesson, improvers on small days",
+    "text": "Fine for a first lesson in modest summer surf, but on bigger days the waves get heavy and suit more experienced surfers."
+   },
+   {
+    "label": "Best time",
+    "title": "Summer, lower tides",
+    "text": "Summer swells tend to be smaller and the beach is lifeguarded daily from early May to late September. The wider low-tide beach gives learners more room."
+   },
+   {
+    "label": "Watch out for",
+    "title": "Rip currents and the high-tide squeeze",
+    "text": "The RNLI has dealt with strong rip currents here. At high tide the beach becomes steep and narrow, and the rocky walk to the tidal pool can be cut off."
+   }
+  ]
+ },
+ "hireIntro": "You can hire right on the beach at Tris Surf Shop while lifeguards are on duty. St Agnes and Portreath, either side of Porthtowan, both have surf shops with hire too.",
+ "kit": {
+  "text": [
+   "For a first go, a big soft board is the friendly choice in Porthtowan's whitewater, and the hire shops stock foam boards in the 7 to 8 foot range. Improvers can step to an epoxy or hard board once they're catching green waves, though the heavier days here suit shorter boards. Sea temperatures for this stretch run from about 9 to 10°C in early March to 15 to 18°C in August."
+  ],
+  "cards": [
+   {
+    "label": "Board",
+    "title": "Foam 7 to 8ft for learners",
+    "text": "Soft boards of 7 to 8 feet are on the local hire racks. Save shorter, harder boards for when you can handle punchier waves."
+   },
+   {
+    "label": "Wetsuit",
+    "title": "4/3 or 3/2 in summer, 5mm in winter",
+    "text": "Surf-forecast suggests a 4/3mm (or 3/2mm with boots) in August and a 5/4 or 5/3mm with gloves and boots around March."
+   },
+   {
+    "label": "Other craft",
+    "title": "Bodyboards in the flags",
+    "text": "Bodyboarding is a good option on small days. Bodyboarders and swimmers stay between the red and yellow flags, with surfboards in the black and white zone."
+   }
+  ]
+ },
+ "shopsIntro": "Porthtowan has its own beachside surf shop, and there are more shops within a short drive in St Agnes and Portreath.",
+ "shopsText": [
+  "Tris Surf Shop sits on the beach itself and has been part of Porthtowan surfing for decades, though it opens mainly from May to September. For a wider choice, Aggie Surf Shop in St Agnes sells boards, wetsuits and clothing and builds custom boards, while HQ Surf Shop on Portreath seafront stocks wetsuits, boards and accessories."
+ ],
+ "faqs": {
+  "lessons": [
+   {
+    "q": "Where do surf lessons start at Porthtowan?",
+    "a": "Tris Surf Shop runs its lessons from the shop, which is a short walk from the water at Porthtowan Beach."
+   },
+   {
+    "q": "Are lesson times fixed?",
+    "a": "No. Tris sets lesson times around the tide, so check with the shop when you book. Booking ahead is a good idea in busy periods."
+   },
+   {
+    "q": "Is Porthtowan safe for beginners?",
+    "a": "It can be, with a lesson and in small surf. Stay in the black and white surf zone when lifeguards are on, and be aware the RNLI has dealt with strong rip currents here."
+   }
+  ],
+  "hire": [
+   {
+    "q": "Can I reserve hire kit at Porthtowan?",
+    "a": "Not at Tris Surf Shop. Hire is first come, first served, and you'll need to bring some ID."
+   },
+   {
+    "q": "Can I hire outside the summer?",
+    "a": "Tris only hires while the beach is lifeguarded. HQ Surf Shop in Portreath and Aggie Surf Shop in St Agnes are alternatives nearby."
+   }
+  ],
+  "shops": [
+   {
+    "q": "Is there a surf shop on the beach at Porthtowan?",
+    "a": "Yes, Tris Surf Shop is on the beach, though it mainly opens from May to September."
+   },
+   {
+    "q": "Where else can I buy a wetsuit nearby?",
+    "a": "Aggie Surf Shop in St Agnes and HQ Surf Shop in Portreath both sell wetsuits and boards."
+   }
+  ]
+ },
+ "sources": [
+  {
+   "label": "Tris Surf Shop",
+   "url": "https://www.trissurfshop.com/"
+  },
+  {
+   "label": "Tris Surf Shop - surf school",
+   "url": "https://www.trissurfshop.com/surf-school"
+  },
+  {
+   "label": "Tris Surf Shop - surf hire",
+   "url": "https://www.trissurfshop.com/surf-hire"
+  },
+  {
+   "label": "Aggie Surf Shop",
+   "url": "https://www.aggiesurfshop.com/"
+  },
+  {
+   "label": "HQ Surf Shop hire",
+   "url": "https://www.cornwallsurfcentre.co.uk/surf-hire-shop-cornwall"
+  },
+  {
+   "label": "RNLI Porthtowan Beach",
+   "url": "https://rnli.org/find-my-nearest/lifeguarded-beaches/porthtowan-beach"
+  },
+  {
+   "label": "RNLI rip current rescue at Porthtowan (2016)",
+   "url": "https://rnli.org/news-and-media/2016/june/03/rnli-lifeguards-rescue-mother-and-daughter-from-strong-rip-current-at-porthtowan"
+  },
+  {
+   "label": "Aspects Holidays - surfing Porthtowan",
+   "url": "https://www.aspects-holidays.co.uk/blog/surfing-porthtowan"
+  },
+  {
+   "label": "Surfing Cornwall - Porthtowan",
+   "url": "https://www.surfing-cornwall.com/surf-beaches/porthtowan/"
+  },
+  {
+   "label": "Rosehill Lodges - surfing Porthtowan",
+   "url": "https://www.rosehilllodges.com/surfing-cornwall/"
+  },
+  {
+   "label": "Surf-forecast Porthtowan water temperature",
+   "url": "https://www.surf-forecast.com/breaks/Porthtowan/seatemp"
+  },
+  {
+   "label": "Mimoji listing - Tris Surf Shop",
+   "url": "https://mimoji.com/gb-en/listing/tris-surf-shop/444582"
+  }
+ ],
+ "factCheck": [
+  {
+   "fact": "Tris lessons are group lessons of max eight, from the shop, timed by tides, board and wetsuit included",
+   "url": "https://www.trissurfshop.com/surf-school"
+  },
+  {
+   "fact": "Tris hire by hour/day/week only when beach lifeguarded; first come first served; ID needed",
+   "url": "https://www.trissurfshop.com/surf-hire"
+  },
+  {
+   "fact": "Tris Surf Shop based on the beach at Porthtowan TR4 8AW, since '72",
+   "url": "https://www.trissurfshop.com/"
+  },
+  {
+   "fact": "Tris Surf Shop open May to September",
+   "url": "https://mimoji.com/gb-en/listing/tris-surf-shop/444582"
+  },
+  {
+   "fact": "2026 lifeguard dates: Easter hols, daily 2 May-27 Sep, October weekends and half-term; low tide beach to Chapel Porth, steep cove at high tide",
+   "url": "https://rnli.org/find-my-nearest/lifeguarded-beaches/porthtowan-beach"
+  },
+  {
+   "fact": "Strong rip current rescue at Porthtowan",
+   "url": "https://rnli.org/news-and-media/2016/june/03/rnli-lifeguards-rescue-mother-and-daughter-from-strong-rip-current-at-porthtowan"
+  },
+  {
+   "fact": "Faces north-west; heavy hollow waves common; black and white flags for surfers; tidal pool access over rocks",
+   "url": "https://www.aspects-holidays.co.uk/blog/surfing-porthtowan"
+  },
+  {
+   "fact": "Powerful surf, busy in summer, popular autumn and winter",
+   "url": "https://www.surfing-cornwall.com/surf-beaches/porthtowan/"
+  },
+  {
+   "fact": "Good place for first surf; summer calmer; bodyboarding on small days",
+   "url": "https://www.rosehilllodges.com/surfing-cornwall/"
+  },
+  {
+   "fact": "Aggie Surf Shop sells boards, wetsuits, clothing, makes custom boards, hires boards and wetsuits",
+   "url": "https://www.aggiesurfshop.com/"
+  },
+  {
+   "fact": "HQ Surf Shop Portreath hires foam/epoxy boards, wetsuits, bodyboards, SUPs; closed Weds",
+   "url": "https://www.cornwallsurfcentre.co.uk/surf-hire-shop-cornwall"
+  },
+  {
+   "fact": "Sea temp 9-10C early March, 15-18C August; wetsuit recommendations",
+   "url": "https://www.surf-forecast.com/breaks/Porthtowan/seatemp"
+  }
+ ],
+ "gaps": "Only one school could be confirmed as teaching at Porthtowan (Tris). HQ Surf School in Portreath mentions Porthtowan in its site description but its lesson page doesn't confirm it teaches there, so it's listed only for hire/shop. Pure Blue Surf Academy and a hire shop called Sick, Lame & Lazy are mentioned by third-party sites but have no live website I could confirm, so they are left out. Tris's hire page doesn't itemise kit (a holiday-let guide says boards, bodyboards and wetsuits). No minimum lesson age is published by Tris."
+}

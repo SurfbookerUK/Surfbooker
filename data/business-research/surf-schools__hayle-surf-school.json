@@ -1,0 +1,26 @@
+{
+ "slug": "hayle-surf-school",
+ "kind": "surf-schools",
+ "officialUrl": "https://www.haylesurfschool.co.uk/",
+ "trading": "unclear",
+ "about": "Hayle Surf School is based at Beachside Holiday Park in Phillack, in the dunes above St Ives Bay. It teaches all levels, from complete beginners to experienced surfers, in groups of no more than eight per instructor. It also hires out boards and winter wetsuits and runs a café on site.",
+ "offers": [
+  "Beginner to advanced surf lessons",
+  "Group lessons tailored to individual ability",
+  "Surfboard and 5mm wetsuit hire"
+ ],
+ "where": "Beachside Holiday Park, Lethlean Lane, Phillack, Hayle, TR27 5AW (Hayle Towans)",
+ "goodToKnow": [
+  "Maximum of eight students per instructor",
+  "Instructors hold Surf Coach Safety and Rescue and ISA coaching qualifications",
+  "Brews & Views café on site"
+ ],
+ "season": null,
+ "sources": [
+  {
+   "label": "Cornish Secrets directory listing",
+   "url": "https://directory.cornishsecrets.co.uk/listing/hayle-surf-school/"
+  }
+ ],
+ "gaps": "The official site blocks automated fetching, so details come from the directory listing. Inclusions, booking terms, season and trading status are unconfirmed."
+}

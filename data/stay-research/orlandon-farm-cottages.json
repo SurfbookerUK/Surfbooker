@@ -1,0 +1,26 @@
+{
+ "name": "Orlandon Farm Cottages",
+ "officialUrl": "https://www.orlandonfarmcottages.co.uk/",
+ "trading": true,
+ "stayType": "Farm self-catering cottages",
+ "accommodation": "Four cottages sleeping 4 to 10",
+ "suitableFor": "Families and groups",
+ "parking": "Free parking",
+ "dogs": "Two to three dogs allowed per cottage",
+ "beachAccess": "Not stated; near Dale and the coast",
+ "boardStorage": null,
+ "confirmedFeatures": "Free parking, Wi-Fi, play park",
+ "overview": "Orlandon Farm has four self-catering cottages near Marloes and Dale, sleeping four to ten, with dogs allowed and a play park.",
+ "surfTripFit": "Larger cottages suit group surf trips to Marloes Sands and nearby beaches.",
+ "sources": [
+  {
+   "label": "Orlandon Farm Cottages",
+   "url": "https://www.orlandonfarmcottages.co.uk/"
+  },
+  {
+   "label": "Marloes and St Brides accommodation list",
+   "url": "https://www.marloes.org.uk/page9.html"
+  }
+ ],
+ "slug": "orlandon-farm-cottages"
+}

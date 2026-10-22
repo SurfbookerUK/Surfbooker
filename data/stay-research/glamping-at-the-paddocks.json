@@ -1,0 +1,26 @@
+{
+ "name": "Glamping at the Paddocks",
+ "officialUrl": "http://www.glampingatthepaddocks.com/",
+ "trading": true,
+ "stayType": "Farm glamping",
+ "accommodation": "Three 5m bell tents, each with own toilet, shower and cooking area",
+ "suitableFor": "Couples and families wanting simple glamping",
+ "parking": "Parking on the lane by the site (Visit Pembrokeshire)",
+ "dogs": "Dog friendly, with a secure dog-walking field",
+ "beachAccess": "About 1 mile from Manorbier beach (Visit Pembrokeshire)",
+ "boardStorage": null,
+ "confirmedFeatures": "Private toilet and hot shower per tent, cook shack, BBQ, fire pit, bed linen, secure dog-walking area",
+ "overview": "Glamping at the Paddocks has three bell tents on Shipping Hill Farm near Manorbier, each with its own toilet, gas shower and cook shack. The beach is about a mile away and Tenby around five minutes by car. It opens May to September.",
+ "surfTripFit": "Private facilities per tent and a short hop to the beach make it a relaxed summer surf base.",
+ "sources": [
+  {
+   "label": "Glamping at the Paddocks",
+   "url": "http://www.glampingatthepaddocks.com/"
+  },
+  {
+   "label": "Visit Pembrokeshire – Glamping @ the paddocks",
+   "url": "https://www.visitpembrokeshire.com/accommodation-listing/glamping-the-paddocks"
+  }
+ ],
+ "slug": "glamping-at-the-paddocks"
+}

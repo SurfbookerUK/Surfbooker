@@ -1,0 +1,126 @@
+{
+ "slug": "white-park-bay",
+ "schools": [],
+ "hire": [],
+ "shops": [],
+ "lessonsIntro": "No surf school teaches at White Park Bay, and the National Trust warns that the beach is unsafe for swimming because of rip currents.",
+ "learn": {
+  "text": [
+   "White Park Bay is a wide, remote National Trust beach between Ballintoy and Portbradden. It's beautiful to walk, but both the National Trust and the council's tourism site state that it's unsafe for swimming because of dangerous rip currents. We couldn't find a surf school that brings lessons here, and there's no lifeguard cover listed. That makes it a beach for experienced surfers who can read conditions, not a place to learn.",
+   "If you want to learn, book a lesson on a lifeguarded beach nearby instead: Portrush schools teach at East Strand and West Strand, and Ballycastle has seasonal RNLI cover. Access to White Park Bay is down steep steps and slopes from a small, rough car park with no toilets. The Trust also warns of rockfall from the cliffs towards Portbradden, so only cross that way along the beach at low tide."
+  ],
+  "cards": [
+   {
+    "label": "Level",
+    "title": "Not for beginners",
+    "text": "No lessons, no lifeguards and known rip currents. Learn elsewhere first."
+   },
+   {
+    "label": "Best time",
+    "title": "Only when you can read it",
+    "text": "No official source gives surf timing advice. Experienced surfers should check forecasts and tides before making the walk down."
+   },
+   {
+    "label": "Watch out for",
+    "title": "Rips and rockfall",
+    "text": "The Trust says rip currents make it unsafe for swimming, and the cliff towards Portbradden is unstable."
+   }
+  ]
+ },
+ "hireIntro": "There's no surf hire at White Park Bay or in Ballintoy that we could confirm, so bring your own kit or hire in Portrush.",
+ "kit": {
+  "text": [
+   "Because there's no lifeguard cover and the Trust warns about rips, only come here with your own kit and the experience to use it. Water temperatures match the rest of the North Coast: around 13-16°C in late summer and 6-9°C by late February, so you'll want a 5/4mm or thicker with boots, gloves and a hood in winter. Carry everything down the steep path, as there are no facilities."
+  ],
+  "cards": [
+   {
+    "label": "Board",
+    "title": "Your own, if you're experienced",
+    "text": "This isn't a learner's beach, so bring the board you normally surf."
+   },
+   {
+    "label": "Wetsuit",
+    "title": "4/3mm in summer, 5/4mm+ in winter",
+    "text": "Sea temperature data for this stretch of coast shows roughly 13-16°C in August and 6-9°C in late February, with boots, gloves and hood advised in winter."
+   },
+   {
+    "label": "Other craft",
+    "title": "Not advised",
+    "text": "With rip currents and no lifeguards, the Trust's warning applies to anyone going in the water."
+   }
+  ]
+ },
+ "shopsIntro": "There are no surf shops at White Park Bay; the nearest confirmed surf shops are in Portrush.",
+ "shopsText": [
+  "White Park Bay has no shops or toilets. We couldn't find a surf shop in Ballintoy, Bushmills or Ballycastle. The nearest confirmed surf shops are in Portrush, where Troggs on Main Street sells and hires boards and wetsuits, with a second store on Causeway Street."
+ ],
+ "faqs": {
+  "lessons": [
+   {
+    "q": "Can I take a surf lesson at White Park Bay?",
+    "a": "No school teaches here that we could find. The nearest lessons are in Portrush, at East Strand and West Strand."
+   },
+   {
+    "q": "Is it safe to swim or surf at White Park Bay?",
+    "a": "The National Trust says the beach is unsafe for swimming because of dangerous rip currents, and no lifeguard service is listed."
+   },
+   {
+    "q": "Is White Park Bay good for beginners?",
+    "a": "No. With rips, no lifeguards and no school, beginners are better off on a lifeguarded beach with a lesson."
+   }
+  ],
+  "hire": [
+   {
+    "q": "Can I hire a surfboard at White Park Bay?",
+    "a": "No. The nearest confirmed hire is Troggs in Portrush."
+   },
+   {
+    "q": "Is there parking at White Park Bay?",
+    "a": "There's a small free National Trust car park with a rough surface and limited spaces. If it's full, the Trust asks you to come back another time."
+   }
+  ],
+  "shops": [
+   {
+    "q": "Where's the nearest surf shop to White Park Bay?",
+    "a": "Troggs in Portrush is the nearest surf shop we could confirm."
+   }
+  ]
+ },
+ "sources": [
+  {
+   "label": "National Trust: White Park Bay",
+   "url": "https://www.nationaltrust.org.uk/white-park-bay/activities"
+  },
+  {
+   "label": "Visit Causeway Coast and Glens: Whitepark Bay",
+   "url": "https://www.visitcausewaycoastandglens.com/things-to-do/whitepark-bay-p687311"
+  },
+  {
+   "label": "Surf-Forecast: Ballycastle sea temperature",
+   "url": "https://www.surf-forecast.com/breaks/Ballycastle/seatemp"
+  },
+  {
+   "label": "About Troggs",
+   "url": "https://www.troggs.com/pages/about-troggs"
+  }
+ ],
+ "factCheck": [
+  {
+   "fact": "Beach unsafe for swimming due to dangerous rip currents; rockfall between White Park Bay and Portbradden, cross at low tide; steep steps; rough car park; no toilets",
+   "url": "https://www.nationaltrust.org.uk/white-park-bay/activities"
+  },
+  {
+   "fact": "Unsafe for swimming due to rip currents; limited parking; no toilets; Ballintoy Harbour 1.64 miles",
+   "url": "https://www.visitcausewaycoastandglens.com/things-to-do/whitepark-bay-p687311"
+  },
+  {
+   "fact": "Sea temperature 13-16°C mid-August, 6-9°C late February with wetsuit guidance",
+   "url": "https://www.surf-forecast.com/breaks/Ballycastle/seatemp"
+  },
+  {
+   "fact": "Troggs stores in Portrush",
+   "url": "https://www.troggs.com/pages/about-troggs"
+  }
+ ],
+ "gaps": "No surf schools, hire or shops found for White Park Bay, Ballintoy or the immediate area. No lifeguard cover listed. Active Adventures NI is listed near Ballintoy by Visit Causeway Coast and Glens and mentions surf sessions, but its own site doesn't mention surfing or any beach, so it's left out. No official surf-condition guidance beyond the rip warning."
+}

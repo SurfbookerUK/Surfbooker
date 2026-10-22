@@ -1,0 +1,119 @@
+{
+ "overview": [
+  "Langland Bay sits just west of Mumbles, the first of the sandy bays as you head out along the south Gower from Swansea. A promenade lined with traditional beach huts runs along the back, with cliffs and a golf course behind, and the bay is a designated conservation area. It is a short drive from Swansea along winding roads, with two large car parks behind the beach.",
+  "It is a sandy beach with rock pools, rocky in places, and at high tide it splits from its smaller neighbour, Rotherslade. Facilities are good: accessible toilets, outdoor showers, a first aid point, a lost child centre, a shop, a café and the brasserie, and even tennis courts for hire. A ramp from the promenade gives easy access to the sand.",
+  "As Swansea's local surf beach, Langland is busy whenever there are waves. RNLI lifeguards patrol through the summer, and dogs are kept off the beach from May to September. In 2026 the RNLI patrolled over the Easter holidays and every day from early May to mid-September. Dogs are not allowed on the beach between 1 May and 30 September and must be on a lead on the promenades at Langland and Rotherslade all year. The coast path runs west over the cliffs to Caswell."
+ ],
+ "suits": [
+  "Improving surfers",
+  "Families wanting lifeguards and facilities",
+  "Wheelchair users, thanks to the promenade and ramp",
+  "Walkers on the coast path to Caswell"
+ ],
+ "notFor": [
+  "Quiet surf sessions on good days",
+  "Dog walkers between May and September"
+ ],
+ "surf": {
+  "text": [
+   "Langland picks up south-westerly swell and has several different waves across the bay, from sandy peaks to reef sections over the rocky parts. Surfers value it for that variety, and on a good day it draws much of Swansea's surf community.",
+   "That means a busy line-up. Beginners are best on the inside on small days, inside the lifeguarded area, leaving the reef sections to experienced surfers who know them.",
+   "Langland is really several waves in one bay. The Shorey holds up at high tide, Rotherslade's lefts and The Reef work as the tide drops, and the middle of the bay and the sandbar get busy at lower tides. A south-westerly swell with a northerly wind is ideal, and it's best from September to February, though it works through the year. It's busy whenever there's surf, but the lineup stays friendly. Watch for rips when it's big and on a dropping tide. A paid beachfront car park fills early in summer, and there's a lifeguard, showers, toilets, a surf school and shop on site."
+  ],
+  "cards": [
+   {
+    "label": "Level",
+    "title": "Improvers and locals",
+    "text": "Learners can use the inside on small days; the reefs are for experienced surfers."
+   },
+   {
+    "label": "Etiquette",
+    "title": "Busy local break",
+    "text": "Respect priority and don't drop in — it is a community spot."
+   },
+   {
+    "label": "Hazards",
+    "title": "Rocks and crowds",
+    "text": "The bay is rocky in places, and the high tide cuts it in two. Use the flags in season."
+   }
+  ]
+ },
+ "practical": [
+  {
+   "label": "Parking",
+   "title": "Two large car parks",
+   "text": "Reached by winding roads from Mumbles."
+  },
+  {
+   "label": "Facilities",
+   "title": "Plenty",
+   "text": "Accessible toilets, outdoor showers, first aid post, lost child centre, shop, café and brasserie, plus tennis courts for hire."
+  },
+  {
+   "label": "Access",
+   "title": "Promenade and ramp",
+   "text": "A small promenade gives good wheelchair access, with a ramp down to the sand."
+  },
+  {
+   "label": "Lifeguards",
+   "title": "Easter and summer",
+   "text": "RNLI lifeguards in 2026 covered the Easter school holidays and daily from 2 May to 13 September, 10am–6pm."
+  },
+  {
+   "label": "Dogs",
+   "title": "Banned 1 May–30 Sep",
+   "text": "Dogs are not permitted from 1 May to 30 September inclusive and must be on a lead on the Langland and Rotherslade promenades."
+  }
+ ],
+ "faqs": [
+  {
+   "q": "Are there lifeguards at Langland?",
+   "a": "Yes. In 2026 the RNLI patrolled over the Easter school holidays and daily from 2 May to 13 September, 10am–6pm."
+  },
+  {
+   "q": "Can I take my dog to Langland Bay?",
+   "a": "Not between 1 May and 30 September. Outside those dates dogs can go on the beach but must be on a lead on the promenade."
+  },
+  {
+   "q": "Is Langland Bay accessible?",
+   "a": "The promenade gives good wheelchair access and a ramp leads onto the sand, and there are accessible toilets."
+  },
+  {
+   "q": "Is Langland good for beginners?",
+   "a": "On small days, on the inside and between the flags. It gets crowded when the surf is good."
+  }
+ ],
+ "sources": [
+  {
+   "label": "RNLI — Langland Beach",
+   "url": "https://rnli.org/find-my-nearest/lifeguarded-beaches/langland-beach"
+  },
+  {
+   "label": "Swansea Council — dogs on beaches",
+   "url": "https://www.swansea.gov.uk/dogsonbeaches"
+  },
+  {
+   "label": "The Beach Guide — Langland Bay",
+   "url": "https://www.thebeachguide.co.uk/south-wales/glamorgan/langland-bay.htm"
+  }
+ ],
+ "factCheck": [
+  {
+   "fact": "2026 lifeguards Easter 28 Mar–12 Apr, daily 2 May–13 Sep, 10am–6pm; conservation area; rock pools; accessible toilets",
+   "url": "https://rnli.org/find-my-nearest/lifeguarded-beaches/langland-beach"
+  },
+  {
+   "fact": "Two car parks, windy roads, facilities list, tennis courts, ramp, high tide splits from Rotherslade, rocky in places, varied breaks",
+   "url": "https://www.thebeachguide.co.uk/south-wales/glamorgan/langland-bay.htm"
+  },
+  {
+   "fact": "Dogs banned 1 May–30 Sep; leads on Langland and Rotherslade promenades",
+   "url": "https://www.swansea.gov.uk/dogsonbeaches"
+  },
+  {
+   "fact": "Langland: SW swell, N offshore, several peaks, rips on dropping tide",
+   "url": "https://www.surfnerd.com/surf-forecast/langland-bay"
+  }
+ ],
+ "checked": "October 2026"
+}

@@ -1,0 +1,160 @@
+{
+ "slug": "port-eynon",
+ "schools": [],
+ "hire": [
+  {
+   "name": "YHA Port Eynon",
+   "type": "Wetsuit & bodyboard hire",
+   "url": "https://yha.org.uk/experience/watersports-in-port-eynon",
+   "base": "YHA Port Eynon hostel, on the beach at Port Eynon",
+   "note": "The hostel hires out wetsuits and bodyboards, so you can head straight onto the sand.",
+   "source": "https://yha.org.uk/experience/watersports-in-port-eynon"
+  },
+  {
+   "name": "Hot Dog Surf Shop",
+   "type": "Board & wetsuit hire",
+   "url": "https://www.hotdogsurf.com/",
+   "base": "26 Pennard Road, Kittle, south Gower",
+   "note": "Hires surfboards, wetsuits and bodyboards from the shop, which has free parking and sits a couple of miles from south Gower's main breaks.",
+   "source": "https://www.hotdogsurf.com/"
+  }
+ ],
+ "shops": [
+  {
+   "name": "Hot Dog Surf Shop",
+   "type": "Surf shop",
+   "url": "https://www.hotdogsurf.com/",
+   "town": "Kittle, south Gower",
+   "note": "Sells surfboards for all levels, wetsuits, bodyboards, rash vests, changing robes and clothing, with a regularly changing second-hand board rack outside.",
+   "source": "https://www.tourismswanseabay.co.uk/hot-dog-surf-shop/"
+  }
+ ],
+ "lessonsIntro": "Port Eynon is a lifeguarded family beach on south Gower, but we could not confirm a surf school that teaches here regularly, so most learners book at Llangennith or Caswell.",
+ "learn": {
+  "text": [
+   "Port Eynon and neighbouring Horton form one sandy bay at the southern tip of Gower, with a council car park around 100m from the beach and a boardwalk onto the sand. It is a Blue Flag beach that is suitable for watersports, and the YHA hostel on the seafront hires out wetsuits and bodyboards, which makes it a good spot for a first go at riding waves in the shallows.",
+   "RNLI lifeguards cover Port Eynon over May half term, at weekends in June and daily from early July to early September, 10am to 6pm. Bodyboard between the red and yellow flags. The council warns about the rocky shore, and local surf guides suggest avoiding high water. Shifting sand can also leave a step at the bottom of the beach ramp."
+  ],
+  "cards": [
+   {
+    "label": "Level",
+    "title": "Bodyboarding and first waves",
+    "text": "A family beach where bodyboarding in the flagged zone is a good first step. Surf lessons are better booked at Llangennith or Caswell."
+   },
+   {
+    "label": "Best time",
+    "title": "Summer lifeguard season",
+    "text": "Lifeguards patrol daily from early July to early September, with cover at May half term and June weekends. Avoid high water."
+   },
+   {
+    "label": "Watch out for",
+    "title": "Rocks at the edges",
+    "text": "The rocky shore at either side of the bay. Stay between the flags and away from the rocks."
+   }
+  ]
+ },
+ "hireIntro": "YHA Port Eynon, right on the beach, hires wetsuits and bodyboards, and Hot Dog Surf Shop in Kittle rents surfboards.",
+ "kit": {
+  "text": [
+   "Port Eynon is a good bodyboarding beach, so a bodyboard and wetsuit from the hostel are all most visitors need. If you are already surfing, a soft-top or mini-mal suits the small waves that usually reach this sheltered south-facing bay. The water is coldest in late winter, so plan on a winter suit with boots from late autumn to spring."
+  ],
+  "cards": [
+   {
+    "label": "Board",
+    "title": "Bodyboard or soft-top",
+    "text": "Bodyboards are the easiest way to enjoy the waves here. Surfers should bring a forgiving soft-top or mini-mal."
+   },
+   {
+    "label": "Wetsuit",
+    "title": "3/2 in summer, 5/4 in winter",
+    "text": "Gower water peaks at roughly 14-18°C in mid-August and drops to about 8-9°C around March. A 3/2 or 4/3 with boots suits summer; from late autumn to spring go for a 5/4 or thicker with boots, gloves and a hood."
+   },
+   {
+    "label": "Other craft",
+    "title": "Bodyboards between the flags",
+    "text": "Use the red and yellow flagged zone when lifeguards are on duty, and stay clear of the rocks."
+   }
+  ]
+ },
+ "shopsIntro": "Port Eynon village has cafés and shops for beach basics, but no dedicated surf shop we could confirm.",
+ "shopsText": [
+  "For proper surf kit, Hot Dog Surf Shop is in Kittle, on the road back towards Swansea, and sells surfboards, wetsuits, bodyboards and accessories with free parking. In Port Eynon itself, the village has places to eat, and the YHA hostel on the seafront hires wetsuits and bodyboards."
+ ],
+ "faqs": {
+  "lessons": [
+   {
+    "q": "Are there surf lessons at Port Eynon?",
+    "a": "We could not confirm a surf school that teaches here regularly. Llangennith and Caswell, both a short drive away, have established schools."
+   },
+   {
+    "q": "When are lifeguards on duty?",
+    "a": "RNLI lifeguards cover May half term, weekends in June and daily from early July to early September, 10am to 6pm. Check the RNLI site before you go."
+   },
+   {
+    "q": "Is Port Eynon good for children?",
+    "a": "It is a Blue Flag family beach with seasonal lifeguards. Keep children between the red and yellow flags and away from the rocky edges."
+   }
+  ],
+  "hire": [
+   {
+    "q": "Can I hire a bodyboard at Port Eynon?",
+    "a": "Yes. YHA Port Eynon, on the beach, hires wetsuits and bodyboards."
+   },
+   {
+    "q": "Where can I hire a surfboard?",
+    "a": "Hot Dog Surf Shop in Kittle hires surfboards and wetsuits. We did not find surfboard hire in Port Eynon itself."
+   }
+  ],
+  "shops": [
+   {
+    "q": "Where is the nearest surf shop to Port Eynon?",
+    "a": "Hot Dog Surf Shop in Kittle is the nearest dedicated surf shop we found."
+   }
+  ]
+ },
+ "sources": [
+  {
+   "label": "Visit Swansea Bay: Port Eynon Bay",
+   "url": "https://www.visitswanseabay.com/listings/port-eynon-bay-beach"
+  },
+  {
+   "label": "RNLI: Port Eynon beach",
+   "url": "https://rnli.org/find-my-nearest/lifeguarded-beaches/port-eynon-beach"
+  },
+  {
+   "label": "YHA: watersports in Port Eynon",
+   "url": "https://yha.org.uk/experience/watersports-in-port-eynon"
+  },
+  {
+   "label": "Enjoy Gower: surfing on Gower",
+   "url": "https://enjoygower.com/surfing-on-gower"
+  },
+  {
+   "label": "Hot Dog Surf Shop",
+   "url": "https://www.hotdogsurf.com/"
+  },
+  {
+   "label": "Surf-forecast sea temperature",
+   "url": "https://www.surf-forecast.com/breaks/Llangennith/seatemp"
+  }
+ ],
+ "factCheck": [
+  {
+   "fact": "Lifeguards 23-31 May, weekends 6-28 June, daily 4 Jul-6 Sep, 10am-6pm",
+   "url": "https://rnli.org/find-my-nearest/lifeguarded-beaches/port-eynon-beach"
+  },
+  {
+   "fact": "Blue Flag; beware rocky shore; car park ~100m; boardwalk; step from ramp; dog ban 1 May-30 Sep",
+   "url": "https://www.visitswanseabay.com/listings/port-eynon-bay-beach"
+  },
+  {
+   "fact": "YHA hostel hires wetsuits and bodyboards",
+   "url": "https://yha.org.uk/experience/watersports-in-port-eynon"
+  },
+  {
+   "fact": "Avoid high water at Port Eynon/Horton",
+   "url": "https://enjoygower.com/surfing-on-gower"
+  }
+ ],
+ "gaps": "No surf school, surfboard hire or surf shop found in Port Eynon. Unclear whether YHA hire is open to non-guests. Distance from Port Eynon to Kittle not stated by sources."
+}

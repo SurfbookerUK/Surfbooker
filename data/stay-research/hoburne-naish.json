@@ -1,0 +1,22 @@
+{
+ "name": "Hoburne Naish",
+ "officialUrl": "https://www.hoburne.com/holiday-parks/dorset-hampshire-new-forest/hoburne-naish/",
+ "trading": true,
+ "stayType": "Clifftop holiday park",
+ "accommodation": "Static caravans, lodges (some with hot tubs), apartments, cottages and touring pitches",
+ "suitableFor": "Families, groups and dog owners",
+ "parking": null,
+ "dogs": "Dog-friendly accommodation available",
+ "beachAccess": "Direct woodland path to Highcliffe beach",
+ "boardStorage": null,
+ "confirmedFeatures": "Indoor and outdoor pools, sauna, steam room, fitness room, soft play, kids' club, restaurant, bar, shop, entertainment",
+ "overview": "A large holiday park on the cliffs just east of Highcliffe, with a woodland path straight down to the beach. Accommodation runs from caravans and hot-tub lodges to apartments and touring pitches, with pools and a restaurant on site.",
+ "surfTripFit": "Direct beach access from the park makes it easy to check and paddle out at Highcliffe.",
+ "sources": [
+  {
+   "label": "Official site",
+   "url": "https://www.hoburne.com/holiday-parks/dorset-hampshire-new-forest/hoburne-naish/"
+  }
+ ],
+ "slug": "hoburne-naish"
+}

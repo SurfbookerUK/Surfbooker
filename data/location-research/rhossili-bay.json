@@ -1,0 +1,185 @@
+{
+ "slug": "rhossili-bay",
+ "schools": [
+  {
+   "name": "SurfGSD",
+   "type": "Surf school",
+   "url": "http://www.surfgsd.com/",
+   "base": "Caswell Bay (all year); Rhossili Bay in summer",
+   "note": "Taster and progression sessions, family learn-to-surf sessions, junior lessons in the school holidays and group bookings, with all surf kit provided.",
+   "source": "http://www.surfgsd.com/"
+  }
+ ],
+ "hire": [
+  {
+   "name": "PJ's Surf Shop",
+   "type": "Board & wetsuit hire",
+   "url": "https://www.pjsurfshop.com/",
+   "base": "Llangennith village, opposite the King's Head",
+   "note": "Daily board and wetsuit hire with no need to book; just call in to get kitted out. Booties and hoods are also available to rent.",
+   "source": "https://www.pjsurfshop.com/"
+  }
+ ],
+ "shops": [
+  {
+   "name": "PJ's Surf Shop",
+   "type": "Surf shop",
+   "url": "https://www.pjsurfshop.com/",
+   "town": "Llangennith",
+   "note": "Family-run shop open all year, selling surfboards, fins, wetsuits, pre-loved boards and suits, skate gear and its own clothing.",
+   "source": "https://www.pjsurfshop.com/"
+  },
+  {
+   "name": "Hot Dog Surf Shop",
+   "type": "Surf shop",
+   "url": "https://www.hotdogsurf.com/",
+   "town": "Kittle, south Gower",
+   "note": "Sells surfboards for all levels, wetsuits, bodyboards, rash vests, changing robes and clothing, with a regularly changing second-hand board rack outside.",
+   "source": "https://www.tourismswanseabay.co.uk/hot-dog-surf-shop/"
+  }
+ ],
+ "lessonsIntro": "Rhossili's southern end is the sheltered corner of this long bay, and SurfGSD brings lessons here during the summer months.",
+ "learn": {
+  "text": [
+   "Rhossili Bay is the same three-mile stretch of sand as Llangennith, but the Rhossili end sits in the shelter of Worms Head. It picks up less swell and is often more protected from the wind, so on small days it offers gentle whitewater that suits beginners and longboarders. The catch is access: the beach is reached by a long, steep path with steps from the village, so you will be carrying your board a fair way.",
+   "There are no lifeguards on Rhossili, and occasional rips form near the Rhossili end. At low tide the wreck of the Helvetia is exposed on the sand, and at higher tides parts of old wrecks can sit just under the surface, so keep an eye out. If the surf is too small here, it is usually bigger further north towards Llangennith."
+  ],
+  "cards": [
+   {
+    "label": "Level",
+    "title": "Good for beginners on small days",
+    "text": "The sheltered southern corner has smaller, gentler waves that suit learners and longboarders."
+   },
+   {
+    "label": "Best time",
+    "title": "Summer, small swell",
+    "text": "SurfGSD runs lessons here in the summer. If it is flat at Rhossili, try the Llangennith end of the bay."
+   },
+   {
+    "label": "Watch out for",
+    "title": "Wrecks, rips and no lifeguards",
+    "text": "No lifeguard patrol, occasional rips near the Rhossili end and the Helvetia wreck on the sand. The steep steps make it a long carry."
+   }
+  ]
+ },
+ "hireIntro": "There is no dedicated surf hire in Rhossili village that we could confirm, so most people hire from PJ's Surf Shop in Llangennith at the other end of the bay.",
+ "kit": {
+  "text": [
+   "Rhossili's sheltered end usually has smaller waves, so a big foam board or longboard is the best match for learners and for cruising on small days. Bear in mind the long walk down the steps from the village car park when choosing what to carry. Wetsuit needs follow the rest of Gower: a summer suit in July and August, and a thick winter suit with boots, gloves and hood from late autumn."
+  ],
+  "cards": [
+   {
+    "label": "Board",
+    "title": "Foam board or longboard",
+    "text": "Gentle whitewater suits a wide soft-top for beginners, and the small, slower waves are popular with longboarders."
+   },
+   {
+    "label": "Wetsuit",
+    "title": "3/2 in summer, 5/4 in winter",
+    "text": "Gower water peaks at roughly 14-18°C in mid-August and drops to about 8-9°C around March. A 3/2 or 4/3 with boots suits summer; from late autumn to spring go for a 5/4 or thicker with boots, gloves and a hood."
+   },
+   {
+    "label": "Other craft",
+    "title": "Bodyboards in the shallows",
+    "text": "Bodyboarding works in the small surf at the southern end. With no lifeguards, stay in your depth and watch for wreckage."
+   }
+  ]
+ },
+ "shopsIntro": "Rhossili village has a National Trust shop and cafés but no surf shop we could confirm, so the nearest surf retail is in Llangennith.",
+ "shopsText": [
+  "For surf kit, head to PJ's Surf Shop in Llangennith, at the northern end of the bay, which sells boards, wetsuits and accessories and is open daily. Hot Dog Surf Shop in Kittle, on the south Gower road towards Swansea, has a larger range of boards, wetsuits and bodyboards. The National Trust shop in Rhossili sells souvenirs and crafts rather than surf gear."
+ ],
+ "faqs": {
+  "lessons": [
+   {
+    "q": "Can I take a surf lesson at Rhossili?",
+    "a": "Yes. SurfGSD runs lessons at Rhossili Bay during the summer months, and teaches at Caswell Bay the rest of the year."
+   },
+   {
+    "q": "Is Rhossili good for beginners?",
+    "a": "The southern end is sheltered by Worms Head and gets smaller waves, so it can suit beginners on small days. There are no lifeguards, so a lesson is the safest way to start."
+   },
+   {
+    "q": "How do I get down to the beach?",
+    "a": "Access is by a steep path with steps from the village and National Trust car park, so allow time and plan for a long carry with a board."
+   }
+  ],
+  "hire": [
+   {
+    "q": "Where is the nearest surf hire to Rhossili?",
+    "a": "PJ's Surf Shop in Llangennith, at the north end of the same bay, hires boards and wetsuits daily without booking."
+   },
+   {
+    "q": "Is there parking near the beach?",
+    "a": "The National Trust car park in Rhossili village is about 400m from the bay. Charges apply, with free parking for members and Blue Badge holders."
+   }
+  ],
+  "shops": [
+   {
+    "q": "Is there a surf shop in Rhossili?",
+    "a": "Not that we could confirm. The closest is PJ's Surf Shop in Llangennith, and Hot Dog Surf Shop in Kittle is another option."
+   }
+  ]
+ },
+ "sources": [
+  {
+   "label": "SurfGSD",
+   "url": "http://www.surfgsd.com/"
+  },
+  {
+   "label": "Llangennith village surf guide",
+   "url": "https://www.llangennith.com/surf"
+  },
+  {
+   "label": "Visit Swansea Bay: Rhossili Bay",
+   "url": "https://www.visitswanseabay.com/listings/rhossili-bay-beach/"
+  },
+  {
+   "label": "National Trust: Rhosili and South Gower Coast",
+   "url": "https://nationaltrust.org.uk/visit/wales/rhosili-and-south-gower-coast"
+  },
+  {
+   "label": "Visit Wales: best places to learn surfing",
+   "url": "https://www.visitwales.com/things-do/adventure-and-activities/watersports/best-places-learn-surfing-wales"
+  },
+  {
+   "label": "Enjoy Gower: surfing on Gower",
+   "url": "https://enjoygower.com/surfing-on-gower"
+  },
+  {
+   "label": "PJ's Surf Shop",
+   "url": "https://www.pjsurfshop.com/"
+  },
+  {
+   "label": "Surf-forecast sea temperature",
+   "url": "https://www.surf-forecast.com/breaks/Llangennith/seatemp"
+  }
+ ],
+ "factCheck": [
+  {
+   "fact": "SurfGSD teaches at Rhossili Bay in summer months",
+   "url": "http://www.surfgsd.com/"
+  },
+  {
+   "fact": "Rhossili end sheltered by Worms Head, popular with beginners and longboarders",
+   "url": "https://www.llangennith.com/surf"
+  },
+  {
+   "fact": "Southern end picks up less swell; occasional rips near Rhossili",
+   "url": "https://enjoygower.com/surfing-on-gower"
+  },
+  {
+   "fact": "No lifeguards; Helvetia wreck visible at low tide; car park ~400m",
+   "url": "https://www.visitswanseabay.com/listings/rhossili-bay-beach/"
+  },
+  {
+   "fact": "Steep path with steps; NT shop sells souvenirs; parking charges with free for members/Blue Badge",
+   "url": "https://nationaltrust.org.uk/visit/wales/rhosili-and-south-gower-coast"
+  },
+  {
+   "fact": "Sheltered gentle beginner waves; go to Llangennith if small",
+   "url": "https://www.visitwales.com/things-do/adventure-and-activities/watersports/best-places-learn-surfing-wales"
+  }
+ ],
+ "gaps": "No surf hire business in Rhossili village itself could be named (one village guide mentions hire by the car park but gives no name). SurfGSD's summer dates and meeting point at Rhossili are not stated on its site. Gower Kite Riders (SUP lessons) has dropped kitesurf tuition and gives no beach, so it was left out."
+}

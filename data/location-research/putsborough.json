@@ -1,0 +1,225 @@
+{
+ "slug": "putsborough",
+ "schools": [
+  {
+   "name": "Nick Thorn Surf School",
+   "type": "Surf school",
+   "url": "https://www.nickthorn.com/",
+   "base": "Surf centre at Putsborough Sands, with changing facilities",
+   "note": "Two-hour sessions for beginners to advanced surfers, from age 6, with wetsuit and board included. Discounts for groups of 11 or more.",
+   "source": "https://widget.eola.co/362/activities/learn-to-surf"
+  }
+ ],
+ "hire": [
+  {
+   "name": "Nick Thorn Surf School",
+   "type": "Board & wetsuit hire",
+   "url": "https://www.nickthorn.com/",
+   "base": "Surf centre at Putsborough Sands",
+   "note": "Surfboards from soft beginner boards to harder progressive boards, wetsuits and stand-up paddleboards.",
+   "source": "https://www.putsborough.com/equipment-hire"
+  },
+  {
+   "name": "Shore 2 Surf",
+   "type": "Board & wetsuit hire",
+   "url": "https://www.shoretosurf.co.uk/",
+   "base": "7 West Road, Woolacombe",
+   "note": "Independent, family-run shop hiring out surfboards, wetsuits and bodyboards.",
+   "source": "https://www.shoretosurf.co.uk/"
+  },
+  {
+   "name": "The Bay Surf Shop",
+   "type": "Board & wetsuit hire",
+   "url": "https://thebaysurfshop.co.uk",
+   "base": "Barton Road, Woolacombe",
+   "note": "Year-round hire, weather permitting, with boards from soft-tops to 6'3\" shortboards.",
+   "source": "https://www.woolacombetourism.co.uk/things-do/shopping/bay-surf-shop"
+  }
+ ],
+ "shops": [
+  {
+   "name": "Shore 2 Surf",
+   "type": "Surf shop",
+   "url": "https://www.shoretosurf.co.uk/",
+   "town": "Woolacombe (7 West Road)",
+   "note": "Family-run shop with surfboards, fins, leashes, traction pads and wetsuits for men, women and kids.",
+   "source": "https://www.shoretosurf.co.uk/"
+  },
+  {
+   "name": "The Bay Surf Shop",
+   "type": "Surf shop",
+   "url": "https://thebaysurfshop.co.uk",
+   "town": "Woolacombe (Barton Road)",
+   "note": "Stocks surfboards from softboards to longboards, wetsuits for adults and kids, bodyboards, handplanes, fins, leashes and changing robes all year.",
+   "source": "https://thebaysurfshop.co.uk"
+  },
+  {
+   "name": "Surfing Woolacombe",
+   "type": "Surf shop",
+   "url": "https://www.surfingwoolacombe.co.uk/",
+   "town": "Woolacombe (beach slipway)",
+   "note": "Shop on the slipway with surf gear and clothing. It is a Softech test centre, so you can try a board before you buy.",
+   "source": "https://www.surfingwoolacombe.co.uk/"
+  }
+ ],
+ "lessonsIntro": "Putsborough's surf school runs from the beach itself, at the sheltered southern end of Woolacombe Bay.",
+ "learn": {
+  "text": [
+   "Putsborough sits in the lee of Baggy Point, so it can still have rideable waves when other beaches are windy or rough. The beach describes itself as one of the safest in North Devon, which makes it a good place for a first lesson. Nick Thorn's two-hour sessions take beginners from age 6, and most people stand up within one or two sessions.",
+   "The beach's own advice is to stay clear of the rocks and surf to the right of the Yellow House. Don't go in unless you can swim 50 metres, wear a leash, stay no deeper than waist height while you're learning, and get out when you start to feel cold. We couldn't confirm RNLI lifeguard cover here, so treat a lesson as your safety net."
+  ],
+  "cards": [
+   {
+    "label": "Level",
+    "title": "Beginners to improvers",
+    "text": "One of North Devon's safer beaches, with a sandbar that helps improvers practise."
+   },
+   {
+    "label": "Best time",
+    "title": "Windy days and winter",
+    "text": "Sheltered by Baggy Point, so it can have waves when other beaches are rough. Lessons and hire run year-round."
+   },
+   {
+    "label": "Watch out for",
+    "title": "Rocks at the southern end",
+    "text": "Keep away from the rocks and surf to the right of the Yellow House."
+   }
+  ]
+ },
+ "hireIntro": "The surf centre on the beach hires boards and wetsuits, and Woolacombe village has more hire shops a short drive up the bay.",
+ "kit": {
+  "text": [
+   "Start on a high-volume soft board, as Putsborough's own advice recommends lots of buoyancy for beginners. Improvers can move on to harder, more progressive boards from the surf centre. The sea here runs from about 15-18C in mid-August to 8-9C in early March. Wear a 3/2mm or 4/3mm in summer, and a 5/4mm or thicker with boots, gloves and a hood in early spring."
+  ],
+  "cards": [
+   {
+    "label": "Board",
+    "title": "Buoyant soft board",
+    "text": "Soft beginner boards first, then harder progressive boards as you improve."
+   },
+   {
+    "label": "Wetsuit",
+    "title": "Always wear one",
+    "text": "Beach rules say always wear a wetsuit: 3/2mm or 4/3mm in summer, 5/4mm or thicker in early spring."
+   },
+   {
+    "label": "Other craft",
+    "title": "SUP on calm days",
+    "text": "Stand-up paddleboards can be hired from the surf centre. Always wear a leash."
+   }
+  ]
+ },
+ "shopsIntro": "There's a beach shop and café at Putsborough, but no surf shop. Woolacombe village is the nearest place for surf kit.",
+ "shopsText": [
+  "Putsborough has a beach shop and café by the car park, but for boards, wetsuits and accessories you need to head up the bay to Woolacombe. There, The Bay Surf Shop on Barton Road, Shore 2 Surf on West Road and Surfing Woolacombe on the beach slipway all sell surf gear."
+ ],
+ "faqs": {
+  "lessons": [
+   {
+    "q": "What's the minimum age for lessons at Putsborough?",
+    "a": "Nick Thorn coaches surfers aged 6 to 80."
+   },
+   {
+    "q": "How long is a lesson?",
+    "a": "Sessions last two hours and include a safety talk, equipment introduction and time in the water. Wetsuit and board are included."
+   },
+   {
+    "q": "Do I need to be able to swim?",
+    "a": "Yes. The beach's own advice is not to surf unless you can swim at least 50 metres."
+   }
+  ],
+  "hire": [
+   {
+    "q": "What can I hire at Putsborough?",
+    "a": "The surf centre hires surfboards from soft beginner boards to harder boards, wetsuits and stand-up paddleboards."
+   },
+   {
+    "q": "Where should I surf on a hire board?",
+    "a": "Stay away from the rocks and surf to the right of the Yellow House, keeping waist-deep while you learn."
+   }
+  ],
+  "shops": [
+   {
+    "q": "Is there a surf shop at Putsborough?",
+    "a": "No, only a beach shop and café. The nearest surf shops are in Woolacombe."
+   }
+  ]
+ },
+ "sources": [
+  {
+   "label": "Putsborough Sands",
+   "url": "https://www.putsborough.com/"
+  },
+  {
+   "label": "Putsborough equipment hire",
+   "url": "https://www.putsborough.com/equipment-hire"
+  },
+  {
+   "label": "Putsborough surfing advice",
+   "url": "https://www.putsborough.com/surfing-advice"
+  },
+  {
+   "label": "Nick Thorn: learn to surf (booking page)",
+   "url": "https://widget.eola.co/362/activities/learn-to-surf"
+  },
+  {
+   "label": "Visit Devon: surfing in Devon",
+   "url": "https://www.visitdevon.co.uk/things-to-do/watersports/surfing/"
+  },
+  {
+   "label": "Visit Devon: where to surf in North Devon",
+   "url": "https://www.visitdevon.co.uk/northdevon/blog/post/where-to-surf-this-summer/"
+  },
+  {
+   "label": "Woolacombe surfing holidays guide",
+   "url": "https://woolacombe.co.uk/things-to-do-devon/woolacombe-surfing-holidays-guide"
+  },
+  {
+   "label": "The Bay Surf Shop",
+   "url": "https://thebaysurfshop.co.uk"
+  },
+  {
+   "label": "Shore 2 Surf",
+   "url": "https://www.shoretosurf.co.uk/"
+  },
+  {
+   "label": "Surfing Woolacombe",
+   "url": "https://www.surfingwoolacombe.co.uk/"
+  },
+  {
+   "label": "Surf-forecast: Croyde sea temperature",
+   "url": "https://www.surf-forecast.com/breaks/Croyde/seatemp"
+  }
+ ],
+ "factCheck": [
+  {
+   "fact": "Nick Thorn: two-hour sessions at Putsborough, ages 6-80, max 24, equipment included",
+   "url": "https://widget.eola.co/362/activities/learn-to-surf"
+  },
+  {
+   "fact": "Nick Thorn Surfing runs the surf centre and hires boards, wetsuits and SUPs",
+   "url": "https://www.putsborough.com/equipment-hire"
+  },
+  {
+   "fact": "One of the safest beaches in North Devon; surf right of the Yellow House; swim 50m; waist deep",
+   "url": "https://www.putsborough.com/surfing-advice"
+  },
+  {
+   "fact": "Sheltered behind Baggy Point, popular winter option",
+   "url": "https://www.visitdevon.co.uk/things-to-do/watersports/surfing/"
+  },
+  {
+   "fact": "Hire and lessons available year-round",
+   "url": "https://www.visitdevon.co.uk/northdevon/blog/post/where-to-surf-this-summer/"
+  },
+  {
+   "fact": "Sandbar creates long peeling waves for improving",
+   "url": "https://woolacombe.co.uk/things-to-do-devon/woolacombe-surfing-holidays-guide"
+  },
+  {
+   "fact": "Beach shop and café, toilets, parking",
+   "url": "https://www.putsborough.com/"
+  }
+ ],
+ "gaps": "nickthorn.com blocks automated access; confirmed via putsborough.com and Nick Thorn's booking page. Barefoot Surf School (Surfbooker profile) not confirmed on any live official page. RNLI lifeguard cover not confirmed. No surf shop at the beach; listed Woolacombe shops instead (distance not stated in sources)."
+}

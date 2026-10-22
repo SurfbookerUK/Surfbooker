@@ -1,0 +1,22 @@
+{
+ "name": "Oxwich Bay Hotel",
+ "officialUrl": "https://www.oxwichbayhotel.co.uk/",
+ "trading": true,
+ "stayType": "Beachfront hotel with pods and cottage",
+ "accommodation": "Old Rectory Rooms, Secret Garden Pods, The Ivy Cottage and Beach Walk Parc",
+ "suitableFor": "Couples, families and dog owners",
+ "parking": null,
+ "dogs": "Dog-friendly stays offered",
+ "beachAccess": "Beachfront, with the beach on the doorstep",
+ "boardStorage": null,
+ "confirmedFeatures": "Cafe bar and bistro open from 8am, evening dining, dog-friendly snug, cashless venue",
+ "overview": "The Oxwich Bay Hotel sits right on the beach at Oxwich, with the sand on its doorstep. You can stay in rooms in the Old Rectory, garden pods, a cottage or at Beach Walk Parc, and the cafe bar and bistro serve food from breakfast until evening.",
+ "surfTripFit": "You can check the water from the hotel and be in the sea in minutes. Food is on site and dogs are welcome.",
+ "sources": [
+  {
+   "label": "Oxwich Bay Hotel official site",
+   "url": "https://www.oxwichbayhotel.co.uk/"
+  }
+ ],
+ "slug": "oxwich-bay-hotel"
+}

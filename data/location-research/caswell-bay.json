@@ -1,0 +1,193 @@
+{
+ "slug": "caswell-bay",
+ "schools": [
+  {
+   "name": "SurfGSD",
+   "type": "Surf school",
+   "url": "http://www.surfgsd.com/",
+   "base": "Caswell Bay (all year); Rhossili Bay in summer",
+   "note": "Taster and progression sessions, family learn-to-surf sessions, junior lessons in the school holidays and group bookings, with all surf kit provided.",
+   "source": "http://www.surfgsd.com/"
+  }
+ ],
+ "hire": [
+  {
+   "name": "SurfGSD",
+   "type": "Board hire",
+   "url": "http://www.surfgsd.com/",
+   "base": "Caswell Bay",
+   "note": "Listed as offering board hire all year at Caswell alongside its lessons; check with the school what is available on the day.",
+   "source": "https://www.greentraveller.co.uk/post/activities-in-gower"
+  },
+  {
+   "name": "Hot Dog Surf Shop",
+   "type": "Board & wetsuit hire",
+   "url": "https://www.hotdogsurf.com/",
+   "base": "26 Pennard Road, Kittle, south Gower",
+   "note": "Hires surfboards, wetsuits and bodyboards from the shop, which has free parking and sits a couple of miles from south Gower's main breaks.",
+   "source": "https://www.hotdogsurf.com/"
+  }
+ ],
+ "shops": [
+  {
+   "name": "Hot Dog Surf Shop",
+   "type": "Surf shop",
+   "url": "https://www.hotdogsurf.com/",
+   "town": "Kittle, south Gower",
+   "note": "Sells surfboards for all levels, wetsuits, bodyboards, rash vests, changing robes and clothing, with a regularly changing second-hand board rack outside.",
+   "source": "https://www.tourismswanseabay.co.uk/hot-dog-surf-shop/"
+  }
+ ],
+ "lessonsIntro": "Caswell is one of the easiest Gower beaches to learn on, with a car park close to the sand, summer lifeguards and a year-round surf school.",
+ "learn": {
+  "text": [
+   "Caswell Bay is a small, south-west facing cove backed by cliffs, about half a mile long, between Mumbles and Pennard. Visit Wales picks it out as a good spot for young surfers because the car park is close by, lifeguards patrol in season and the water is clean. SurfGSD teaches here all year, with junior, family and taster sessions, so it is a natural first stop if you are staying around Swansea.",
+   "The bay gets small and crowded around high water, so lower and mid tides give you more room. Swansea Council warns of a rip current here, and RNLI lifeguards cover the beach daily from early May to mid-September, 10am to 6pm, plus the Easter holidays. Outside those dates there is no patrol, so learn with a school and stay between the flags when they are up."
+  ],
+  "cards": [
+   {
+    "label": "Level",
+    "title": "Great for juniors and beginners",
+    "text": "A compact bay with lifeguards in season and a school on the beach, recommended by Visit Wales for young surfers."
+   },
+   {
+    "label": "Best time",
+    "title": "Lower and mid tide",
+    "text": "Avoid high water, when the beach shrinks and gets crowded. Lessons run all year; lifeguards patrol from May to mid-September."
+   },
+   {
+    "label": "Watch out for",
+    "title": "Rip current and crowds",
+    "text": "The council warns of a rip at Caswell. Use the patrolled zones in season and give swimmers space at busy times."
+   }
+  ]
+ },
+ "hireIntro": "You can hire kit at Caswell itself through SurfGSD, and Hot Dog Surf Shop in nearby Kittle rents boards, wetsuits and bodyboards.",
+ "kit": {
+  "text": [
+   "Caswell's waves are usually small to medium, so a soft-top is ideal for learners and a mini-mal or longboard suits improvers. Bodyboarders and swimmers use the red and yellow flagged zone when lifeguards are on duty. The water follows the same seasonal pattern as the rest of Gower, so a winter suit with boots and gloves is essential from late autumn. The bay is also popular with paddleboarders and kayakers on flatter days."
+  ],
+  "cards": [
+   {
+    "label": "Board",
+    "title": "Soft-top for learners",
+    "text": "A wide foam board handles Caswell's whitewater best. Improvers can try a mini-mal on mid-tide days."
+   },
+   {
+    "label": "Wetsuit",
+    "title": "3/2 in summer, 5/4 in winter",
+    "text": "Gower water peaks at roughly 14-18°C in mid-August and drops to about 8-9°C around March. A 3/2 or 4/3 with boots suits summer; from late autumn to spring go for a 5/4 or thicker with boots, gloves and a hood."
+   },
+   {
+    "label": "Other craft",
+    "title": "Bodyboards and SUP",
+    "text": "Bodyboard between the red and yellow flags in season. The council notes the bay is popular with paddleboarders and kayakers too."
+   }
+  ]
+ },
+ "shopsIntro": "There is no surf shop on the beach at Caswell, but Hot Dog Surf Shop in Kittle is a short drive away on the Pennard road.",
+ "shopsText": [
+  "Hot Dog Surf Shop is at 26 Pennard Road in Kittle, a short drive west of Caswell, with free parking. It sells boards for beginners up to experienced surfers, wetsuits from several major brands, bodyboards and accessories, and has a second-hand board rack. At the beach itself you will find the Surfside café and kiosks selling snacks and beach toys."
+ ],
+ "faqs": {
+  "lessons": [
+   {
+    "q": "Who teaches surfing at Caswell Bay?",
+    "a": "SurfGSD runs lessons at Caswell all year, including junior sessions in the school holidays, family sessions and taster days, with all surf kit provided."
+   },
+   {
+    "q": "Is Caswell lifeguarded?",
+    "a": "RNLI lifeguards patrol daily from early May to mid-September, 10am to 6pm, and over the Easter holidays. Check the RNLI page before you go, as dates can change."
+   },
+   {
+    "q": "When is the best time to surf Caswell?",
+    "a": "Lower and mid tides give more beach and less crowding. Around high water the bay becomes small and busy."
+   }
+  ],
+  "hire": [
+   {
+    "q": "Can I hire a surfboard at Caswell?",
+    "a": "SurfGSD is listed as offering board hire at Caswell, and Hot Dog Surf Shop in Kittle rents surfboards, wetsuits and bodyboards."
+   },
+   {
+    "q": "Can I bring my dog to Caswell?",
+    "a": "Not in summer. A seasonal dog ban runs from 1 May to 30 September."
+   }
+  ],
+  "shops": [
+   {
+    "q": "Where is the nearest surf shop to Caswell?",
+    "a": "Hot Dog Surf Shop on Pennard Road in Kittle is the closest dedicated surf shop we found, a short drive away with free parking."
+   }
+  ]
+ },
+ "sources": [
+  {
+   "label": "SurfGSD",
+   "url": "http://www.surfgsd.com/"
+  },
+  {
+   "label": "Visit Swansea Bay: Caswell Bay",
+   "url": "https://www.visitswanseabay.com/listings/caswell-bay-beach/"
+  },
+  {
+   "label": "RNLI: Caswell beach",
+   "url": "https://rnli.org/find-my-nearest/lifeguarded-beaches/caswell-beach"
+  },
+  {
+   "label": "Visit Wales: best places to learn surfing",
+   "url": "https://www.visitwales.com/things-do/adventure-and-activities/watersports/best-places-learn-surfing-wales"
+  },
+  {
+   "label": "Enjoy Gower: surfing on Gower",
+   "url": "https://enjoygower.com/surfing-on-gower"
+  },
+  {
+   "label": "Green Traveller: activities in Gower",
+   "url": "https://www.greentraveller.co.uk/post/activities-in-gower"
+  },
+  {
+   "label": "Hot Dog Surf Shop",
+   "url": "https://www.hotdogsurf.com/"
+  },
+  {
+   "label": "Tourism Swansea Bay: Hot Dog Surf Shop",
+   "url": "https://www.tourismswanseabay.co.uk/hot-dog-surf-shop/"
+  },
+  {
+   "label": "Surf-forecast sea temperature",
+   "url": "https://www.surf-forecast.com/breaks/Llangennith/seatemp"
+  }
+ ],
+ "factCheck": [
+  {
+   "fact": "SurfGSD teaches at Caswell year-round; family, junior, taster sessions; kit provided",
+   "url": "http://www.surfgsd.com/"
+  },
+  {
+   "fact": "Caswell good for juniors: close car park, lifeguards, clean water",
+   "url": "https://www.visitwales.com/things-do/adventure-and-activities/watersports/best-places-learn-surfing-wales"
+  },
+  {
+   "fact": "Lifeguards 2 May-13 Sep 10am-6pm plus Easter 28 Mar-12 Apr; half a mile long, SW facing, backed by cliffs",
+   "url": "https://rnli.org/find-my-nearest/lifeguarded-beaches/caswell-beach"
+  },
+  {
+   "fact": "Beware rip current; dog ban 1 May-30 Sep; popular with SUP and kayakers; Surfside cafe",
+   "url": "https://www.visitswanseabay.com/listings/caswell-bay-beach/"
+  },
+  {
+   "fact": "Avoid high water, small and crowded",
+   "url": "https://enjoygower.com/surfing-on-gower"
+  },
+  {
+   "fact": "SurfGSD board hire all year at Caswell",
+   "url": "https://www.greentraveller.co.uk/post/activities-in-gower"
+  },
+  {
+   "fact": "Hot Dog: 26 Pennard Road Kittle; hires boards, wetsuits, bodyboards",
+   "url": "https://www.hotdogsurf.com/"
+  }
+ ],
+ "gaps": "SurfGSD's minimum age and exact meeting point are not given on its site. Gower & Swansea Surf School and Progress Surf are listed on directories as teaching at Caswell but their own websites could not be opened, so they were left out. Surfability UK (adaptive surfing, Swansea) could not be checked. Guts Surfboards near Caswell is mentioned on one surf guide but no live website was found."
+}

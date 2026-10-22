@@ -1,0 +1,22 @@
+{
+ "name": "Premier Inn Christchurch/Highcliffe",
+ "officialUrl": "https://www.premierinn.com/gb/en/hotels/england/dorset/christchurch/christchurch-highcliffe.html",
+ "trading": true,
+ "stayType": "Budget chain hotel",
+ "accommodation": "Double, twin, family and accessible rooms",
+ "suitableFor": "Budget travellers and families",
+ "parking": "On-site paid parking",
+ "dogs": null,
+ "beachAccess": "About a five-minute drive to Highcliffe Beach",
+ "boardStorage": null,
+ "confirmedFeatures": "Restaurant, breakfast, free Wi-Fi",
+ "overview": "A chain hotel about five minutes' drive from Highcliffe Beach and Highcliffe Castle, with Avon Beach also under ten minutes away. Rooms include doubles, twins and family rooms, and there is a restaurant on site.",
+ "surfTripFit": "A low-cost base with parking, a short drive from both Highcliffe and Avon beaches.",
+ "sources": [
+  {
+   "label": "Official site",
+   "url": "https://www.premierinn.com/gb/en/hotels/england/dorset/christchurch/christchurch-highcliffe.html"
+  }
+ ],
+ "slug": "premier-inn-christchurch-highcliffe"
+}

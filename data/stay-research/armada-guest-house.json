@@ -1,0 +1,26 @@
+{
+ "name": "Armada Guest House",
+ "officialUrl": "https://www.armadaguesthouse.co.uk/",
+ "trading": true,
+ "stayType": "Guest house",
+ "accommodation": "Rooms from single economy to family en-suite",
+ "suitableFor": "Solo travellers, couples and families",
+ "parking": null,
+ "dogs": null,
+ "beachAccess": "About 100 yards from Redcar's beach",
+ "boardStorage": null,
+ "confirmedFeatures": "Free Wi-Fi, TV, welcome tray, breakfast, long-stay rates",
+ "overview": "A guest house about 100 yards from Redcar's beach, offering everything from single economy rooms to en-suite family rooms. Breakfast is served, and there are reduced rates for longer stays. The seafront and town centre are both a short walk.",
+ "surfTripFit": "A hundred yards from the sand, it is a simple, walkable base for a surf trip.",
+ "sources": [
+  {
+   "label": "Official website",
+   "url": "https://www.armadaguesthouse.co.uk/"
+  },
+  {
+   "label": "Redcar & Cleveland B&Bs",
+   "url": "https://redcarcleveland.co.uk/enjoy/new-bbs-and-guest-houses/"
+  }
+ ],
+ "slug": "armada-guest-house"
+}

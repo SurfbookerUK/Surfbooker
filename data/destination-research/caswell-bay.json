@@ -1,0 +1,118 @@
+{
+ "overview": [
+  "Caswell Bay is a sandy, half-mile-long bay tucked behind the Mumbles headland on the south Gower coast, about 20 minutes from Swansea city centre. It faces south-west, with cliffs and wooded slopes framing the beach and a coast path running east over the headland to Langland Bay. It is a compact bay, so even on a busy day the sea, the café and the car park are all within easy reach.",
+  "It is one of the easiest Gower beaches for a family day. Toilets, outdoor showers, a café, a beach shop and a first aid point sit at the back of the sand, and RNLI lifeguards patrol over the Easter holidays and every day through the summer. A surf school runs lessons here too. That mix of lifeguards, facilities and small, friendly waves is why it is one of the Gower's favourite beaches for a first go on a board.",
+  "The one catch is parking. There is a single car park, and on hot days it is often full by mid-morning, so arrive early or come by bus. Dogs are not allowed on the beach from 1 May to 30 September. Outside the summer ban dogs can go on the sand, but they must still be on a lead on the promenade. The beach also gets much smaller at high tide, so check the tide times before you set up for the day."
+ ],
+ "suits": [
+  "First surf lessons",
+  "Families with young children",
+  "Swansea day-trippers using the bus",
+  "Walkers on the coast path to Langland"
+ ],
+ "notFor": [
+  "Dog walkers between May and September",
+  "Late arrivals on hot days — the car park fills"
+ ],
+ "surf": {
+  "text": [
+   "Caswell needs a decent south-westerly swell to break, but when it does it produces friendly waves that suit learners and improvers. Northerly winds are offshore, and the bay is more sheltered from westerly winds than the exposed west Gower beaches.",
+   "The beach shrinks a lot at high tide and the rocks at the edges come more into play, so lower and mid tides usually give more room for both surfing and swimming. In season, stay between the red and yellow flags.",
+   "Caswell is a beginner's bay, popular with surf schools, and the west end is the best part of it. A good south-westerly swell with a north-easterly wind on a rising mid to high tide is the recipe, from around two to six feet. It needs a decent swell to get going and tends to close out when it's big, so it's rarely truly clean. The small beachside car park is paid, and car break-ins have been reported, so leave nothing in your vehicle."
+  ],
+  "cards": [
+   {
+    "label": "Level",
+    "title": "Beginner friendly",
+    "text": "Lifeguards in season and a surf school make it a good place for a first lesson."
+   },
+   {
+    "label": "Conditions",
+    "title": "South-west swell, northerly wind",
+    "text": "Needs a bit of swell; more sheltered from westerlies than west Gower."
+   },
+   {
+    "label": "Hazards",
+    "title": "High tide and rocks",
+    "text": "At high tide the beach is much smaller and the rocks at each side matter more."
+   }
+  ]
+ },
+ "practical": [
+  {
+   "label": "Parking",
+   "title": "One car park",
+   "text": "A single large car park behind the beach. Once it is full there is nowhere else, so arrive before 10am on busy days."
+  },
+  {
+   "label": "Facilities",
+   "title": "Showers, toilets, café",
+   "text": "Public toilets, outdoor showers, a first aid point, a café and a beach shop."
+  },
+  {
+   "label": "Lifeguards",
+   "title": "Easter and summer",
+   "text": "RNLI lifeguards in 2026 covered the Easter school holidays and daily from 2 May to 13 September, 10am–6pm. No flags means no lifeguards."
+  },
+  {
+   "label": "Dogs",
+   "title": "Banned 1 May–30 Sep",
+   "text": "Dogs are not permitted on the beach from 1 May to 30 September inclusive and must be on a lead on the promenade."
+  }
+ ],
+ "faqs": [
+  {
+   "q": "Are dogs allowed at Caswell Bay?",
+   "a": "Not between 1 May and 30 September. Outside those dates they are welcome, but they must be on a lead on the promenade."
+  },
+  {
+   "q": "When are there lifeguards at Caswell?",
+   "a": "In 2026 the RNLI patrolled over the Easter school holidays and daily from 2 May to 13 September, 10am–6pm. Dates can change, so check before you go."
+  },
+  {
+   "q": "Is Caswell Bay good for beginners?",
+   "a": "Yes. It is relatively sheltered, has lifeguards in season and a surf school runs lessons here."
+  },
+  {
+   "q": "What time should I arrive to park?",
+   "a": "Before 10am on busy days, as there is only one car park."
+  }
+ ],
+ "sources": [
+  {
+   "label": "RNLI — Caswell Beach",
+   "url": "https://rnli.org/find-my-nearest/lifeguarded-beaches/caswell-beach"
+  },
+  {
+   "label": "Swansea Council — dogs on beaches",
+   "url": "https://www.swansea.gov.uk/dogsonbeaches"
+  },
+  {
+   "label": "The Beach Guide — Caswell Bay",
+   "url": "https://www.thebeachguide.co.uk/south-wales/glamorgan/caswell-bay.htm"
+  },
+  {
+   "label": "Enjoy Gower — Caswell Bay",
+   "url": "https://enjoygower.com/caswell-bay"
+  }
+ ],
+ "factCheck": [
+  {
+   "fact": "Half a mile long, south-west facing, behind Mumbles headland, coast path to Langland, large car park",
+   "url": "https://rnli.org/find-my-nearest/lifeguarded-beaches/caswell-beach"
+  },
+  {
+   "fact": "2026 lifeguards: Easter 28 Mar–12 Apr; daily 2 May–13 Sep; 10am–6pm",
+   "url": "https://rnli.org/find-my-nearest/lifeguarded-beaches/caswell-beach"
+  },
+  {
+   "fact": "Dogs banned 1 May–30 Sep; lead on promenade",
+   "url": "https://www.swansea.gov.uk/dogsonbeaches"
+  },
+  {
+   "fact": "Caswell: west end best, SW swell, NE offshore, mid to high rising, closes out",
+   "url": "https://www.surfnerd.com/surf-forecast/caswell-bay"
+  }
+ ],
+ "checked": "October 2026"
+}

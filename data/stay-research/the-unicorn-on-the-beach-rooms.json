@@ -1,0 +1,22 @@
+{
+ "slug": "the-unicorn-on-the-beach-rooms",
+ "officialUrl": "https://www.theunicornonthebeach.com/",
+ "trading": true,
+ "stayType": "Self-contained group house at a beach bar and restaurant",
+ "accommodation": "Surf House: three bedrooms sleeping 12 (super-king, bunk and single beds)",
+ "suitableFor": "Groups and surf school/club trips",
+ "parking": null,
+ "dogs": null,
+ "beachAccess": "On site at The Unicorn on Porthtowan beach (per Food Magazine)",
+ "boardStorage": null,
+ "confirmedFeatures": "Open-plan kitchen and dining area, shower room with three showers, on-site surf school (Eskinzo), restaurant and beach bar",
+ "overview": "Surf House is the self-contained accommodation at The Unicorn on the Beach in Porthtowan, sleeping 12 across three bedrooms. It has an open-plan kitchen and dining space and a shared shower room, with the Unicorn's restaurant, beach bar and an on-site surf school alongside.",
+ "surfTripFit": "Beachside location with a surf school on site suits group surf trips well.",
+ "sources": [
+  {
+   "label": "Food Magazine (June 2023)",
+   "url": "https://food-mag.co.uk/news/new-surfside-accommodation-opens-in-porthtowan/"
+  }
+ ],
+ "gaps": "Official /stay page blocked fetching, so details rely on a 2023 news article; current trading of the rooms, parking, dogs and storage unconfirmed."
+}

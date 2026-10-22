@@ -1,0 +1,26 @@
+{
+ "name": "Tolcarne Beach",
+ "officialUrl": "https://www.tolcarnebeach.co.uk/",
+ "trading": true,
+ "stayType": "Beachside apartments, cabins and rooms",
+ "accommodation": "Beach apartments, beach cabins, beach houses, beach suites and Colonial hotel rooms",
+ "suitableFor": "Couples, families and surfers",
+ "parking": null,
+ "dogs": "Dog-friendly options offered",
+ "beachAccess": "On Tolcarne Beach, off Narrowcliff",
+ "boardStorage": null,
+ "confirmedFeatures": "Colonial Restaurant, bookable beach huts",
+ "overview": "A beachside resort on Tolcarne Beach, just along the shore from Great Western, reached from Narrowcliff. Guests can book apartments, beach cabins, beach houses, suites or Colonial hotel rooms. The Colonial Restaurant is on site.",
+ "surfTripFit": "Staying on the beach puts you next to the town beaches, and Great Western is just along the shore.",
+ "sources": [
+  {
+   "label": "Official website",
+   "url": "https://www.tolcarnebeach.co.uk/"
+  },
+  {
+   "label": "Visit Newquay listing",
+   "url": "https://www.visitnewquay.org/accommodation/tolcarne-beach-village-and-colonial-restaurant-p105973"
+  }
+ ],
+ "slug": "tolcarne-beach"
+}

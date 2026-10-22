@@ -1,0 +1,237 @@
+{
+ "slug": "crantock-beach",
+ "schools": [
+  {
+   "name": "Big Green Adventures (Big Green Surf School)",
+   "type": "Surf school",
+   "url": "https://www.biggreenadventures.co.uk/",
+   "base": "National Trust car park, Beach Road, Crantock (TR8 5RN)",
+   "note": "The only outdoor provider the National Trust licenses at Crantock. Offers small-group and private surf lessons for all ages and abilities, a weekly surf club, kids' programmes and surf progression weekends, plus SUP on the Gannel.",
+   "source": "https://nationaltrust.org.uk/visit/cornwall/crantock-beach/things-to-see-and-do-at-crantock-beach"
+  }
+ ],
+ "hire": [
+  {
+   "name": "Big Green Adventures",
+   "type": "Board, wetsuit & SUP hire",
+   "url": "https://www.biggreenadventures.co.uk/",
+   "base": "National Trust car park, Crantock",
+   "note": "Hires surfboards, bodyboards, paddleboards, kayaks and wetsuits for adults and children from its base behind the dunes.",
+   "source": "https://eola.co/en/373"
+  }
+ ],
+ "shops": [
+  {
+   "name": "Ann's Cottage",
+   "type": "Surf shop",
+   "url": "https://www.annscottage.com/",
+   "town": "Newquay (Fistral Beach and Central Square)",
+   "note": "A Cornish surf retailer with two shops at Fistral Beach, one of them focused on wetsuits and surf gear, plus a town-centre store. The range covers soft and hard surfboards, bodyboards, SUPs and summer, winter and spring/autumn wetsuits with boots, gloves and hoods.",
+   "source": "https://www.findingouradventure.com/travel-diaries/best-shopping-newquay-guide-cornwall"
+  },
+  {
+   "name": "Sunset Surf",
+   "type": "Surf shop",
+   "url": "https://sunsetsurfnewquay.co.uk/",
+   "town": "Newquay town centre (Fore Street)",
+   "note": "Stocks foam boards, mini mals and longboards, bodyboards, wetsuits for adults and kids with boots, gloves and hoods, plus its own Cornish-printed clothing. Board and wetsuit hire is also listed, including winter wetsuits.",
+   "source": "https://directory.cornishsecrets.co.uk/listing/sunset-surf-newquay/"
+  },
+  {
+   "name": "Slide and Glide Surf",
+   "type": "Surf shop",
+   "url": "https://slideandglidesurf.co.uk/",
+   "town": "Newquay town centre (70 Fore Street)",
+   "note": "Sells its own custom surfboards plus leashes, wax, ding repair kits and clothing, and offers surfboard and wetsuit hire. The site says new board stock is on the way, so ring ahead if you're after a specific board.",
+   "source": "https://slideandglidesurf.co.uk/"
+  }
+ ],
+ "lessonsIntro": "Crantock is a wide, dune-backed National Trust beach just across the Gannel from Newquay. It's quieter than the town beaches, and one licensed surf school works here.",
+ "learn": {
+  "text": [
+   "Big Green Adventures runs lessons from the National Trust car park and describes Crantock as an uncrowded beach, which makes it a calmer setting for a first session than Fistral. Its small-group, all-ages lessons work well for families. RNLI lifeguards cover the beach from May to September, and both the National Trust and the RNLI advise only going in when lifeguards are on duty and using the flagged areas.",
+   "The big hazard here is the River Gannel, whose estuary the beach sits on. The National Trust warns that it creates dangerous currents, especially at certain stages of the tide, so stay away from the river flow unless lifeguards say otherwise. Quicksand has been reported near the river edge and towards West Pentire. Keep clear of the base of the sand cliffs, and check tide times before you go."
+  ],
+  "cards": [
+   {
+    "label": "Level",
+    "title": "Beginners with a lesson",
+    "text": "A quieter beach with a licensed school; learn inside the lifeguarded area."
+   },
+   {
+    "label": "Best time",
+    "title": "May to September, lifeguarded hours",
+    "text": "Lifeguards patrol from May to September; the Trust advises only going in when they're on duty."
+   },
+   {
+    "label": "Watch out for",
+    "title": "The Gannel, quicksand and weever fish",
+    "text": "River currents vary with the tide, quicksand has been reported by the river, and weever fish are common at low tide."
+   }
+  ]
+ },
+ "hireIntro": "Kit hire at Crantock comes from Big Green Adventures, based in the National Trust car park behind the dunes.",
+ "kit": {
+  "text": [
+   "A foam board is the way to start, and Big Green hires surfboards, bodyboards and wetsuits for adults and children. Weever fish are common at Crantock, especially at low tide, and the National Trust suggests wearing beach or wetsuit shoes, so wetsuit boots are worth having all year. Water runs from about 9-10C in early March to 15-18C in August."
+  ],
+  "cards": [
+   {
+    "label": "Board",
+    "title": "Soft-top to learn",
+    "text": "Hire a foam board for your first sessions and build up from there."
+   },
+   {
+    "label": "Wetsuit",
+    "title": "Full suit plus boots",
+    "text": "A 4/3mm or 3/2mm in summer, 5mm with gloves and a hood in late winter, and boots year round for weever fish."
+   },
+   {
+    "label": "Other craft",
+    "title": "SUP and kayaks on the Gannel",
+    "text": "Big Green runs SUP and kayak sessions on the Gannel estuary, which are tide-dependent; bodyboards stay in the red and yellow flagged zone."
+   }
+  ]
+ },
+ "shopsIntro": "There's no surf shop listed at Crantock itself, so for kit you'll head into Newquay.",
+ "shopsText": [
+  "Crantock village has cafés and a car park but no surf shop that we could confirm. The nearest surf retail is in Newquay: Ann's Cottage has shops at Fistral Beach and Central Square, and Sunset Surf and Slide and Glide on Fore Street sell boards, wetsuits and accessories."
+ ],
+ "faqs": {
+  "lessons": [
+   {
+    "q": "Who teaches surfing at Crantock?",
+    "a": "Big Green Adventures, based in the National Trust car park. It's the only outdoor provider the National Trust licenses to operate on the beach."
+   },
+   {
+    "q": "Is Crantock safe for beginners?",
+    "a": "It can be, with a lesson and inside the lifeguarded area. Stay away from the River Gannel, which causes strong currents at certain stages of the tide."
+   },
+   {
+    "q": "When are lifeguards on Crantock?",
+    "a": "RNLI lifeguards cover the beach from May to September. Check the RNLI website for this year's exact dates and hours."
+   }
+  ],
+  "hire": [
+   {
+    "q": "Can I hire a surfboard at Crantock?",
+    "a": "Yes. Big Green Adventures hires surfboards, bodyboards, paddleboards, kayaks and wetsuits for adults and children from the National Trust car park."
+   },
+   {
+    "q": "Do I need wetsuit boots at Crantock?",
+    "a": "They're a good idea. Weever fish are common here, especially at low tide, and the National Trust recommends wearing beach or wetsuit shoes."
+   }
+  ],
+  "shops": [
+   {
+    "q": "Is there a surf shop in Crantock?",
+    "a": "We couldn't find one in the village. Newquay has several, including Ann's Cottage at Fistral and Sunset Surf and Slide and Glide on Fore Street."
+   }
+  ]
+ },
+ "sources": [
+  {
+   "label": "National Trust: things to do at Crantock",
+   "url": "https://nationaltrust.org.uk/visit/cornwall/crantock-beach/things-to-see-and-do-at-crantock-beach"
+  },
+  {
+   "label": "National Trust: beach safety at Crantock",
+   "url": "https://www.nationaltrust.org.uk/visit/cornwall/crantock-beach/beach-safety-at-crantock-beach"
+  },
+  {
+   "label": "Visit Cornwall: Crantock Beach",
+   "url": "https://www.visitcornwall.com/things-to-do/beaches/crantock-beach"
+  },
+  {
+   "label": "RNLI: Crantock Beach",
+   "url": "https://rnli.org/find-my-nearest/lifeguarded-beaches/crantock-beach"
+  },
+  {
+   "label": "Big Green Adventures",
+   "url": "https://www.biggreenadventures.co.uk/"
+  },
+  {
+   "label": "Big Green Adventures on eola",
+   "url": "https://eola.co/centres/big-green-surf-school"
+  },
+  {
+   "label": "Big Green Adventures activities and rentals",
+   "url": "https://eola.co/en/373"
+  },
+  {
+   "label": "Surf-forecast.com: sea temperature",
+   "url": "https://www.surf-forecast.com/breaks/Holywell-Bay/seatemp"
+  },
+  {
+   "label": "Finding Our Adventure: Newquay shops",
+   "url": "https://www.findingouradventure.com/travel-diaries/best-shopping-newquay-guide-cornwall"
+  },
+  {
+   "label": "Sunset Surf",
+   "url": "https://sunsetsurfnewquay.co.uk/"
+  },
+  {
+   "label": "Slide and Glide Surf",
+   "url": "https://slideandglidesurf.co.uk/"
+  }
+ ],
+ "factCheck": [
+  {
+   "fact": "Big Green Adventures is the only outdoor provider the Trust licenses at Crantock, based in the National Trust car park",
+   "url": "https://nationaltrust.org.uk/visit/cornwall/crantock-beach/things-to-see-and-do-at-crantock-beach"
+  },
+  {
+   "fact": "Meeting point National Trust car park, Beach Road, Crantock TR8 5RN; small-group coaching, surf club",
+   "url": "https://eola.co/centres/big-green-surf-school"
+  },
+  {
+   "fact": "Lessons at Crantock Beach for all ages and abilities; SUP on the Gannel; kids' programmes",
+   "url": "https://www.biggreenadventures.co.uk/"
+  },
+  {
+   "fact": "Rentals: paddleboards, surfboards, kayaks, bodyboards, adult and child wetsuits; kayak sessions tide-dependent",
+   "url": "https://eola.co/en/373"
+  },
+  {
+   "fact": "Gannel causes currents that can be dangerous at certain stages of the tide; lifeguards May to September; keep away from sand cliffs",
+   "url": "https://www.visitcornwall.com/things-to-do/beaches/crantock-beach"
+  },
+  {
+   "fact": "Quicksand near river edge and towards West Pentire; weever fish common at low tide, wear beach or wetsuit shoes; check tide times",
+   "url": "https://www.nationaltrust.org.uk/visit/cornwall/crantock-beach/beach-safety-at-crantock-beach"
+  },
+  {
+   "fact": "Crantock is on the Gannel estuary with cliffs either side and dunes behind",
+   "url": "https://rnli.org/find-my-nearest/lifeguarded-beaches/crantock-beach"
+  },
+  {
+   "fact": "Ann's Cottage has two shops at Fistral Beach (one for wetsuits and surf gear) and a store at 14 Central Square, Newquay",
+   "url": "https://www.findingouradventure.com/travel-diaries/best-shopping-newquay-guide-cornwall"
+  },
+  {
+   "fact": "Ann's Cottage sells soft and hard surfboards, bodyboards, SUPs and seasonal wetsuits with accessories",
+   "url": "https://www.annscottage.com/"
+  },
+  {
+   "fact": "Sunset Surf is at 106 Fore St, Newquay and offers surfboard and wetsuit hire, including winter wetsuits",
+   "url": "https://directory.cornishsecrets.co.uk/listing/sunset-surf-newquay/"
+  },
+  {
+   "fact": "Sunset Surf stocks foam boards, mini mals, longboards, bodyboards and wetsuits for men, women and kids",
+   "url": "https://sunsetsurfnewquay.co.uk/"
+  },
+  {
+   "fact": "Slide and Glide is at 70 Fore Street, Newquay, sells custom surfboards and accessories and offers wetsuit and surfboard hire",
+   "url": "https://slideandglidesurf.co.uk/"
+  },
+  {
+   "fact": "Sea temperature near Newquay peaks around 15-18C in mid August and drops to about 9-10C around 1 March",
+   "url": "https://www.surf-forecast.com/breaks/Holywell-Bay/seatemp"
+  },
+  {
+   "fact": "Suggested wetsuits: 4/3mm or 3/2mm with boots in summer; 5/4mm or 5/3mm with gloves and boots in late winter; add a hood when windy",
+   "url": "https://www.surf-forecast.com/breaks/Holywell-Bay/seatemp"
+  }
+ ],
+ "gaps": "Only one school and one hire provider operate here (Big Green, the sole National Trust licensee). No surf shop found in Crantock village; distance to Newquay shops not stated by a source. Big Green's own site doesn't list minimum ages or its full hire range (hire range taken from its eola booking page). RNLI page for Crantock only shows 2020 dates; current dates not confirmed. No guidance found on which tide is best for surfing Crantock."
+}

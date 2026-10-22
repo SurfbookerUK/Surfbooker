@@ -1,0 +1,22 @@
+{
+ "name": "Tides Reach Guest House",
+ "officialUrl": "https://www.tidesreachguesthouse.com/",
+ "trading": true,
+ "stayType": "Seafront guest house with self-catering cottage",
+ "accommodation": "Five en-suite guest rooms plus Oyster Cottage (self-catering, two bedrooms, sleeps 5)",
+ "suitableFor": "Couples, families and small groups",
+ "parking": "Free parking available",
+ "dogs": "Welcome in Oyster Cottage; ask about the guest rooms",
+ "beachAccess": "On Mumbles Road on the Swansea Bay seafront; Caswell is a short drive west (distance not stated)",
+ "boardStorage": null,
+ "confirmedFeatures": "Free Wi-Fi, cooked breakfast included, seafront location, locally sourced produce",
+ "overview": "Tides Reach is a guest house on Mumbles Road, facing the promenade and Swansea Bay and a few minutes' flat walk from Mumbles. There are five individually designed rooms and a two-bedroom self-catering cottage next door. Caswell Bay is a short drive west along the coast.",
+ "surfTripFit": "It has free parking and breakfast, and you're close to Mumbles for food, with Caswell and Langland a short drive away.",
+ "sources": [
+  {
+   "label": "Tides Reach official site",
+   "url": "https://www.tidesreachguesthouse.com/"
+  }
+ ],
+ "slug": "tides-reach-guest-house"
+}

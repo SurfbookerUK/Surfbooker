@@ -1,0 +1,131 @@
+{
+ "slug": "bamburgh",
+ "schools": [
+  {
+   "name": "Northside Surf School",
+   "type": "Surf school",
+   "url": "https://www.northside-surf-school.co.uk/",
+   "base": "Based at Coble Quay, Amble; lessons run on the beach",
+   "note": "Runs two-hour surf lessons at Bamburgh for around ten months of the year, with all kit provided; it also offers a three-day surf course, SUP and coasteering. There is a hut at the beach car park.",
+   "source": "https://www.northside-surf-school.co.uk/surf-bamburgh/"
+  }
+ ],
+ "hire": [],
+ "shops": [],
+ "lessonsIntro": "Lessons at Bamburgh are run by Northside Surf School, which travels up from its base in Amble and supplies the boards and wetsuits.",
+ "learn": {
+  "text": [
+   "Bamburgh is a long, open stretch of sand beneath the castle, and Northside uses it as one of its regular teaching beaches. Its sessions last about two hours and start with a briefing on the sand before you head into the white water. You just turn up with a towel and swimwear; the school brings everything else, and there is a hut at the beach car park where you can warm up afterwards.",
+   "Northside teaches here for most of the year rather than only in summer, so you can book outside the school holidays. Its pages do not set out tide or swell advice for Bamburgh, so let the instructors pick the session time and spot on the day. If you go out on your own, remember this is an exposed North Sea beach: check the forecast, avoid going out alone and stay well within your depth."
+  ],
+  "cards": [
+   {
+    "label": "Level",
+    "title": "Beginners with a school",
+    "text": "Northside runs beginner lessons here and provides all the kit, so a first session needs no experience."
+   },
+   {
+    "label": "Best time",
+    "title": "Most of the year",
+    "text": "Lessons run about ten months of the year; summer brings the warmest water and the busiest beach."
+   },
+   {
+    "label": "Watch out for",
+    "title": "Cold water and open sea",
+    "text": "It is an exposed North Sea beach. Go with an instructor or a friend and check conditions before paddling out."
+   }
+  ]
+ },
+ "hireIntro": "We could not confirm a separate board or wetsuit hire outlet at Bamburgh. Kit comes included with Northside's lessons.",
+ "kit": {
+  "text": [
+   "Bamburgh is a beach break, so a long, stable foam board is the easiest way in for beginners, moving to a mini-mal or longboard as you improve. North Sea water is cold for much of the year, so a thick suit with boots, and gloves and a hood in winter, makes a big difference to how long you can stay in."
+  ],
+  "cards": [
+   {
+    "label": "Board",
+    "title": "Big foam board to start",
+    "text": "Northside supplies boards on its lessons. If you are new, stay on a large soft-top until you can catch and ride green waves."
+   },
+   {
+    "label": "Wetsuit",
+    "title": "5/4mm most of the year",
+    "text": "North Sea water stays cool. Scarborough Surf School hires only 5/4mm suits and treats them as year-round wear, adding boots, gloves and a hood in the colder months."
+   },
+   {
+    "label": "Other craft",
+    "title": "SUP on calm days",
+    "text": "Northside also runs stand-up paddleboard sessions in Northumberland, which suit flat, calm days better than surf days."
+   }
+  ]
+ },
+ "shopsIntro": "We could not confirm a dedicated surf shop in Bamburgh village.",
+ "shopsText": [
+  "We have not found a surf shop in Bamburgh itself. Northside Surf School's base is down the coast at Amble, and for buying boards and wetsuits you may need to look further afield, such as the Tynemouth area. Check a shop's own website for current stock before travelling."
+ ],
+ "faqs": {
+  "lessons": [
+   {
+    "q": "Who teaches surfing at Bamburgh?",
+    "a": "Northside Surf School, based in Amble, runs lessons on Bamburgh beach."
+   },
+   {
+    "q": "What do I need to bring?",
+    "a": "A towel and swimwear. Northside provides the board and wetsuit."
+   },
+   {
+    "q": "When do lessons run?",
+    "a": "Northside says it teaches at Bamburgh for around ten months of the year; book ahead for exact dates."
+   }
+  ],
+  "hire": [
+   {
+    "q": "Can I hire a surfboard at Bamburgh?",
+    "a": "We have not confirmed a stand-alone hire outlet here. Kit is included in Northside's lessons, so ask the school about hire."
+   },
+   {
+    "q": "Is a wetsuit included in a lesson?",
+    "a": "Yes, Northside supplies the kit; you only bring a towel and swimwear."
+   }
+  ],
+  "shops": [
+   {
+    "q": "Is there a surf shop in Bamburgh?",
+    "a": "We could not find one in the village, so bring what you need or buy elsewhere before you travel."
+   }
+  ]
+ },
+ "sources": [
+  {
+   "label": "Northside Surf School: Surf Bamburgh",
+   "url": "https://www.northside-surf-school.co.uk/surf-bamburgh/"
+  },
+  {
+   "label": "Northside Surf School",
+   "url": "https://www.northside-surf-school.co.uk/"
+  },
+  {
+   "label": "Living North: watersports on the North East coast",
+   "url": "https://www.livingnorth.com/article/where-try-watersports-north-east-coast"
+  },
+  {
+   "label": "Scarborough Surf School: equipment hire",
+   "url": "https://scarboroughsurfschool.co.uk/equipment-hire/"
+  }
+ ],
+ "factCheck": [
+  {
+   "fact": "Northside runs lessons at Bamburgh about 10 months of the year; hut at beach car park; bring towel and swimwear",
+   "url": "https://www.northside-surf-school.co.uk/surf-bamburgh/"
+  },
+  {
+   "fact": "Northside is based at Coble Quay, Amble",
+   "url": "https://www.northside-surf-school.co.uk/surf-bamburgh/"
+  },
+  {
+   "fact": "Scarborough Surf School hires 5/4mm wetsuits only, described as suitable year round, plus boots, gloves and hoods",
+   "url": "https://scarboroughsurfschool.co.uk/equipment-hire/"
+  }
+ ],
+ "gaps": "RNLI page for Bamburgh would not load, so lifeguard season and hazards are unconfirmed. No hire outlet or surf shop in Bamburgh confirmed. Northside's page gives no lesson ages, formats or tide advice for Bamburgh. Wetsuit guidance is from a Yorkshire school (same North Sea)."
+}

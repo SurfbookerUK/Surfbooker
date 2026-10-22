@@ -1,0 +1,199 @@
+{
+ "overview": [
+  "Porthtowan is a small surf village in a valley on Cornwall's north coast, about two miles south-west of St Agnes. The beach is right at the bottom of the village, so the car park, toilets, cafés and beach bars are only a short walk from the sand. Sandstone and slate cliffs frame the bay, and it all sits within the Godrevy Head to St Agnes heritage coast and the Cornish Mining World Heritage Site.",
+  "The tide changes everything here. At high water the beach shrinks, a steep bank can build against the promenade and waves break hard close to the shore. As the sea drops back, a wide sweep of firm sand and rock pools opens up, and on a low tide you can walk along the shore to Chapel Porth, below the Wheal Coates engine house. Check tide times before you set off, as the sea can cut off the stretches under the cliffs.",
+  "The name is usually translated from Cornish as 'landing place at the sand dunes'. The valley was busy copper country in the 18th and 19th centuries, and Wheal Towan was one of the county's most productive copper mines. By Victorian times Porthtowan had become a bank holiday outing for people from Redruth. Today it holds a Blue Flag, has seasonal RNLI lifeguards and draws a mix of families and surfers."
+ ],
+ "suits": [
+  "Surf trips where beach, parking and food are all on foot",
+  "Improvers and intermediates on clean mid-tide days",
+  "Low-tide walks to Chapel Porth and Wheal Coates",
+  "Families wanting lifeguards and a play park by the sand"
+ ],
+ "notFor": [
+  "Dog walkers on summer days (10am to 6pm ban)",
+  "Complete beginners on big or windy days",
+  "Quiet sessions on summer weekends"
+ ],
+ "surf": {
+  "text": [
+   "Porthtowan is an exposed beach break that takes Atlantic swell from the west and north-west, and forecast sites rate it fairly consistent and surfable year-round. Peaks break both left and right off sandbanks that move around, and mid to low tide usually gives the best shape. South-easterly winds are offshore, and the cliffs give a little shelter from south-westerlies.",
+   "It gets busy, and it has a serious side. The RNLI has dealt with sudden flash rips here in rough surf, and rip currents are common around gutters in the sand and near the rocks. At higher tides the beach shelves into a fast shorebreak. On bigger days it's one for confident surfers; if you're newer, pick small days, stay between the black and white flags or book a lesson."
+  ],
+  "cards": [
+   {
+    "label": "Level",
+    "title": "Improvers to intermediates",
+    "text": "Best for surfers who can handle punchy peaks. Beginners should stick to small days or lessons."
+   },
+   {
+    "label": "Hazards",
+    "title": "Rips, rocks and shorebreak",
+    "text": "Rips form around gutters and the rocks, and flash rips can appear in rough surf. Watch the shorebreak at high tide."
+   },
+   {
+    "label": "Conditions",
+    "title": "Mid to low tide, SE wind",
+    "text": "Mid to low tide usually works best, with south-easterly winds offshore. Shifting banks mean the best peak moves around."
+   }
+  ]
+ },
+ "practical": [
+  {
+   "label": "Parking",
+   "title": "Porthtowan Beach Car Park",
+   "text": "A large pay-and-display car park just off Beach Road, right beside the sand. There's more paid parking in the village; don't block lanes when it's full."
+  },
+  {
+   "label": "Facilities",
+   "title": "Toilets, showers and a play park",
+   "text": "Public toilets on the seafront with seasonal showers, a children's play park at the top of the beach, and beach bars and cafés close by. Ramps give mostly level access, though soft sand and the high-tide bank are harder going."
+  },
+  {
+   "label": "Lifeguards",
+   "title": "Seasonal RNLI patrol",
+   "text": "RNLI lifeguards patrol from spring to autumn, daily through the summer. Check the RNLI website for this year's dates, then swim between the red and yellow flags and surf between the black and white."
+  },
+  {
+   "label": "Dogs",
+   "title": "Summer daytime ban",
+   "text": "Cornwall Council bans dogs from the beach from 15 May to 30 September, 10am to 6pm. They're allowed outside those times."
+  },
+  {
+   "label": "By bus",
+   "title": "From Truro or Redruth",
+   "text": "Visit Cornwall lists the 304 from Truro and the 315 from Redruth. Redruth and Truro have mainline stations; check current timetables before you travel."
+  }
+ ],
+ "faqs": [
+  {
+   "q": "Can dogs go on Porthtowan beach?",
+   "a": "Not between 10am and 6pm from 15 May to 30 September, under Cornwall Council's rules. Outside those hours and dates, dogs are allowed."
+  },
+  {
+   "q": "Can you walk from Porthtowan to Chapel Porth?",
+   "a": "Yes, along the beach at low tide, or at any time on the coast path over the cliffs. If you go by the shore, check tide times first, as the rising tide can cut off the beach below the cliffs."
+  },
+  {
+   "q": "Is Porthtowan good for beginners?",
+   "a": "On small, clean days and inside the lifeguard flags, yes. It's an exposed beach with rips and a heavy shorebreak at high tide, so on bigger or windy days it's better left to experienced surfers or a lesson."
+  },
+  {
+   "q": "Where do you park at Porthtowan?",
+   "a": "Porthtowan Beach Car Park, off Beach Road, is right next to the beach. There's also paid parking in the village."
+  }
+ ],
+ "sources": [
+  {
+   "label": "Cornwall Council: dogs on beaches (restrictions table)",
+   "url": "https://www.cornwall.gov.uk/environment/animal-welfare-and-enforcement/dogs-on-beaches/"
+  },
+  {
+   "label": "RNLI: find a lifeguarded beach",
+   "url": "https://rnli.org/find-my-nearest/lifeguarded-beaches"
+  },
+  {
+   "label": "RNLI: lifeguards rescue 12 people at Porthtowan (July 2020)",
+   "url": "https://rnli.org/news-and-media/2020/july/07/rnli-lifeguards-rescue-12-people-at-porthtowan-beach"
+  },
+  {
+   "label": "Visit Cornwall: Porthtowan Beach",
+   "url": "https://visitcornwall.com/things-to-do/beaches/porthtowan-beach"
+  },
+  {
+   "label": "Cornish Secrets: Porthtowan Beach",
+   "url": "https://www.cornishsecrets.co.uk/guide/porthtowan-beach/"
+  },
+  {
+   "label": "Cornwall Beaches: Porthtowan",
+   "url": "https://www.cornwall-beaches.co.uk/north-coast/porthtowan.htm"
+  },
+  {
+   "label": "Wikipedia: Porthtowan",
+   "url": "https://en.wikipedia.org/wiki/Porthtowan"
+  },
+  {
+   "label": "Surf-forecast.com: Porthtowan",
+   "url": "https://www.surf-forecast.com/breaks/Porthtowan"
+  }
+ ],
+ "factCheck": [
+  {
+   "fact": "About 3.5 km (about two miles) south-west of St Agnes",
+   "url": "https://en.wikipedia.org/wiki/Porthtowan"
+  },
+  {
+   "fact": "Within the Godrevy Head to St Agnes heritage coast and the Cornwall and West Devon Mining Landscape World Heritage Site",
+   "url": "https://en.wikipedia.org/wiki/Porthtowan"
+  },
+  {
+   "fact": "Sandstone and slate cliffs",
+   "url": "https://en.wikipedia.org/wiki/Porthtowan"
+  },
+  {
+   "fact": "At high tide the beach narrows, a steep bank can build against the promenade, and the shoreline shelves into a fast shorebreak",
+   "url": "https://www.cornishsecrets.co.uk/guide/porthtowan-beach/"
+  },
+  {
+   "fact": "Low tide opens a large area of firm sand and rock pools; you can walk along the beach to Chapel Porth at low tide",
+   "url": "https://www.cornishsecrets.co.uk/guide/porthtowan-beach/"
+  },
+  {
+   "fact": "At low tide the beach extends to Chapel Porth and the cliffs below the Wheal Coates engine house",
+   "url": "https://www.cornwall-beaches.co.uk/north-coast/porthtowan.htm"
+  },
+  {
+   "fact": "Sections near the cliffs can be cut off by the incoming tide",
+   "url": "https://www.cornishsecrets.co.uk/guide/porthtowan-beach/"
+  },
+  {
+   "fact": "Name from Cornish meaning 'landing place at the sand dunes'",
+   "url": "https://en.wikipedia.org/wiki/Porthtowan"
+  },
+  {
+   "fact": "Wheal Towan was one of Cornwall's most productive 18th-century copper mines",
+   "url": "https://en.wikipedia.org/wiki/Porthtowan"
+  },
+  {
+   "fact": "Victorian/Edwardian resort popular with people from Redruth on bank holidays",
+   "url": "https://en.wikipedia.org/wiki/Porthtowan"
+  },
+  {
+   "fact": "Blue Flag beach",
+   "url": "https://visitcornwall.com/things-to-do/beaches/porthtowan-beach"
+  },
+  {
+   "fact": "Exposed beach break, fairly consistent, works year-round, lefts and rights, best swell WNW, offshore SE wind, some shelter from SW, often crowded, hazards rips and rocks",
+   "url": "https://www.surf-forecast.com/breaks/Porthtowan"
+  },
+  {
+   "fact": "Mid to low tide usually best; punchy peaks when banks line up; novices better on smaller swells or with a lesson; rips common around gutters and near rocks",
+   "url": "https://www.cornishsecrets.co.uk/guide/porthtowan-beach/"
+  },
+  {
+   "fact": "Flash rip pulled 12 bathers outside the flags in rough surf in July 2020",
+   "url": "https://rnli.org/news-and-media/2020/july/07/rnli-lifeguards-rescue-12-people-at-porthtowan-beach"
+  },
+  {
+   "fact": "Porthtowan Beach Car Park, large pay-and-display just off Beach Road",
+   "url": "https://visitcornwall.com/things-to-do/beaches/porthtowan-beach"
+  },
+  {
+   "fact": "Seafront toilets, seasonal showers, play park at top of beach, mostly level access via ramps",
+   "url": "https://www.cornishsecrets.co.uk/guide/porthtowan-beach/"
+  },
+  {
+   "fact": "Buses 304 (Truro to Porthtowan) and 315 (Redruth to Goonbell)",
+   "url": "https://visitcornwall.com/things-to-do/beaches/porthtowan-beach"
+  },
+  {
+   "fact": "Rail stations at Redruth and Truro",
+   "url": "https://en.wikipedia.org/wiki/Porthtowan"
+  },
+  {
+   "fact": "Dogs prohibited 15 May to 30 September, 10am to 6pm",
+   "url": "https://www.cornwall.gov.uk/environment/animal-welfare-and-enforcement/dogs-on-beaches/"
+  }
+ ],
+ "checked": "October 2026"
+}

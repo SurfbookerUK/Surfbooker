@@ -1,0 +1,140 @@
+{
+ "slug": "thurso-east",
+ "schools": [],
+ "hire": [
+  {
+   "name": "North Coast Watersports",
+   "type": "Board & wetsuit hire",
+   "url": "https://www.northcoastwatersports.com/equipment-hire",
+   "base": "Collect from Dunnet beach car park, next to Dunnet Bay caravan site, or from their base about 5 minutes away",
+   "note": "Hires hardboards from shortboards to longboards, plus 5/4mm wetsuits with boots, gloves and hoods. Only hire for Thurso East if you already have serious reef experience.",
+   "source": "https://www.northcoastwatersports.com/equipment-hire"
+  }
+ ],
+ "shops": [
+  {
+   "name": "North Coast Watersports",
+   "type": "Surf kit sales (collection only)",
+   "url": "https://www.northcoastwatersports.com/buy-equipment",
+   "town": "Dunnet",
+   "note": "Not a walk-in shop: you can buy wax, leashes and some second-hand wetsuits, boots and gloves for collection from their Dunnet base, or ask them to order boards and wetsuits from their trade brands.",
+   "source": "https://www.northcoastwatersports.com/buy-equipment"
+  }
+ ],
+ "lessonsIntro": "There are no lessons at Thurso East. It's a powerful reef break for very experienced surfers only.",
+ "learn": {
+  "text": [
+   "Thurso East is a reef break that the local surf school calls one of the best in the UK, and possibly in Europe. When everything lines up it throws hollow, barrelling waves and can hold swells up to around 15ft. The same school is blunt that it's only suitable for very experienced surfers with solid reef knowledge, and we couldn't find any lifeguard cover here.",
+   "If you're learning, this isn't the place. Book a lesson at Dunnet Bay, east of town, which North Coast Watersports calls the best beginner spot in the area, or try Thurso Beach once you've got the basics. The reefs on this coast rarely break in summer and come alive in winter, when big swells and cold water make it a serious place to paddle out."
+  ],
+  "cards": [
+   {
+    "label": "Level",
+    "title": "Expert only",
+    "text": "The local school says it's only for very experienced surfers with solid reef knowledge."
+   },
+   {
+    "label": "Best time",
+    "title": "Winter swells",
+    "text": "Reefs on this coast rarely see waves in summer. Winter swells of 15ft+ turn them into world-class setups."
+   },
+   {
+    "label": "Watch out for",
+    "title": "Shallow reef, heavy waves",
+    "text": "Hollow waves break over reef and can hold big swell. We couldn't find any lifeguard cover."
+   }
+  ]
+ },
+ "hireIntro": "There's no hire at Thurso East itself. North Coast Watersports hires hardboards and winter wetsuits from Dunnet, but this wave is only for experienced reef surfers.",
+ "kit": {
+  "text": [
+   "Bring the board you'd normally ride in powerful, hollow waves; this isn't a spot for foamies or learners. Thurso East works best in winter, when the local school quotes water of roughly 6-10°C, so a 5/4mm wetsuit with boots, gloves and a hood is the norm. Boots also give you some protection on the reef."
+  ],
+  "cards": [
+   {
+    "label": "Board",
+    "title": "Your own reef board",
+    "text": "Experienced surfers should ride what they'd normally use in hollow, powerful waves. Hardboards can be hired at Dunnet."
+   },
+   {
+    "label": "Wetsuit",
+    "title": "5/4mm, boots, gloves, hood",
+    "text": "Winter water on this coast is roughly 6-10°C, and that's what the local school kits out in."
+   },
+   {
+    "label": "Other craft",
+    "title": "Not for beginners on any craft",
+    "text": "The expert-only warning applies whatever you ride. We found no specific craft rules."
+   }
+  ]
+ },
+ "shopsIntro": "We couldn't confirm a walk-in surf shop in Thurso; the nearest kit sales we confirmed are through North Coast Watersports at Dunnet.",
+ "shopsText": [
+  "Thurso East is on the edge of Thurso, but we couldn't confirm a walk-in surf shop in town that's currently trading. North Coast Watersports, based at Dunnet, sells wax, leashes and some second-hand wetsuits, boots and gloves for collection and can order boards in from brands including Cord and Luke Young. Arrange a time with them first."
+ ],
+ "faqs": {
+  "lessons": [
+   {
+    "q": "Can I take a lesson at Thurso East?",
+    "a": "No. It's a reef break the local school says is only for very experienced surfers. Lessons run at Dunnet Bay."
+   },
+   {
+    "q": "Is there a lifeguard at Thurso East?",
+    "a": "We couldn't find any lifeguard cover listed."
+   },
+   {
+    "q": "When does Thurso East work?",
+    "a": "Reefs on this coast rarely break in summer. Winter swells are when they come alive, and Thurso East can hold swells up to about 15ft."
+   }
+  ],
+  "hire": [
+   {
+    "q": "Can I hire a board for Thurso East?",
+    "a": "North Coast Watersports hires hardboards from Dunnet, but only consider it if you have solid reef experience."
+   },
+   {
+    "q": "Do I need boots?",
+    "a": "In winter water of around 6-10°C, boots, gloves and a hood are standard, and boots help on the reef too."
+   }
+  ],
+  "shops": [
+   {
+    "q": "Where can I buy wax or a leash near Thurso East?",
+    "a": "North Coast Watersports at Dunnet sells wax and leashes for collection from its base."
+   }
+  ]
+ },
+ "sources": [
+  {
+   "label": "North Coast Watersports: north coast surf guide",
+   "url": "https://www.northcoastwatersports.com/northcoastofscotlandsurfguide"
+  },
+  {
+   "label": "North Coast Watersports: equipment hire",
+   "url": "https://www.northcoastwatersports.com/equipment-hire"
+  },
+  {
+   "label": "North Coast Watersports: buy equipment",
+   "url": "https://www.northcoastwatersports.com/buy-equipment"
+  }
+ ],
+ "factCheck": [
+  {
+   "fact": "Thurso East is one of the best reef breaks in the UK, possibly Europe; hollow barrelling waves; can handle swells up to 15ft; only suitable for very experienced surfers with solid reef knowledge.",
+   "url": "https://www.northcoastwatersports.com/northcoastofscotlandsurfguide"
+  },
+  {
+   "fact": "In summer reef breaks rarely see waves; winter 15ft+ swells turn reefs into world-class setups.",
+   "url": "https://www.northcoastwatersports.com/northcoastofscotlandsurfguide"
+  },
+  {
+   "fact": "Hardboards from shortboards to longboards and 5/4mm wetsuits hired from Dunnet.",
+   "url": "https://www.northcoastwatersports.com/equipment-hire"
+  },
+  {
+   "fact": "North Coast Watersports quotes water of 6-10°C in winter and spring, 11-15°C in summer and 10-15°C in autumn; its FAQ gives 7-13°C.",
+   "url": "https://www.northcoastwatersports.com/northcoastofscotlandsurfguide"
+  }
+ ],
+ "gaps": "No lifeguard information found (none listed). No tide or access/parking guidance found from an official source. Couldn't confirm a walk-in surf shop in Thurso (Tempest Surf's website blocked our fetch)."
+}

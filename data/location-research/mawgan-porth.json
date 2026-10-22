@@ -1,0 +1,173 @@
+{
+ "slug": "mawgan-porth",
+ "schools": [
+  {
+   "name": "Kingsurf Surf School",
+   "type": "Surf school",
+   "url": "https://www.kingsurf.co.uk/",
+   "base": "Beachfront base at Mawgan Porth, opposite the school's licensed beach area, with changing facilities",
+   "note": "Running here since 1997, with beginner, intermediate, family, private and group lessons, taster sessions, week-long surf camps and coasteering. Beginner lessons last two and a half hours with all equipment included.",
+   "source": "https://www.kingsurf.co.uk/"
+  }
+ ],
+ "hire": [
+  {
+   "name": "Wavehunters",
+   "type": "Board, wetsuit & SUP hire",
+   "url": "https://www.wavehunters.co.uk/",
+   "base": "Watergate Bay, the next beach south of Mawgan Porth",
+   "note": "Year-round hire of hard and foam boards, bodyboards, wetsuits, boots, gloves and hoods by the day or week, plus inflatable SUPs. Grab and go, no booking needed.",
+   "source": "https://watergatebay.co.uk/what-to-do/surf-lessons/"
+  }
+ ],
+ "shops": [
+  {
+   "name": "Kingsurf shop",
+   "type": "Surf school shop",
+   "url": "https://www.kingsurf.co.uk/surf-shop",
+   "town": "Mawgan Porth",
+   "note": "A small range from the surf school, including rash vests, towel robes, hoodies and beanies. Not a full board and wetsuit shop.",
+   "source": "https://www.kingsurf.co.uk/surf-shop"
+  }
+ ],
+ "lessonsIntro": "Mawgan Porth is a sheltered, sandy cove between Newquay and Padstow, with one surf school based right on the beachfront. It's a quieter alternative to the busy Newquay beaches.",
+ "learn": {
+  "text": [
+   "Mawgan Porth is a long, flat, sandy beach in a west-facing cove, popular with families and surfers. Visit Cornwall calls it sheltered with good surf, and Kingsurf points out that it faces the same way as Fistral, so it picks up plenty of swell. Kingsurf teaches from its beachfront base, and its coaches are qualified beach lifeguards and RNLI community responders.",
+   "The RNLI notes the beach is exposed to Atlantic swells and backed by cliffs and rocks on both sides, with caves and rock outcrops exposed at low tide. There's plenty of sand at low tide, which gives lessons room to spread out. Stay away from the rocky edges and swim or bodyboard only between the red and yellow flags while lifeguards are on duty."
+  ],
+  "cards": [
+   {
+    "label": "Level",
+    "title": "Good for beginners and families",
+    "text": "A long, flat sandy beach with lessons from first-timer to intermediate, plus family sessions."
+   },
+   {
+    "label": "Best time",
+    "title": "Summer, when lifeguards are on",
+    "text": "Lifeguards cover the beach from spring to early autumn. Low tide opens up lots of sand for lessons."
+   },
+   {
+    "label": "Watch out for",
+    "title": "Rocks at both ends",
+    "text": "Cliffs and rocks line both sides, and caves and outcrops appear at low tide. Big Atlantic swells can reach the bay."
+   }
+  ]
+ },
+ "hireIntro": "We couldn't confirm a separate hire shop at Mawgan Porth, so the nearest confirmed board and wetsuit hire is on the beach at neighbouring Watergate Bay.",
+ "kit": {
+  "text": [
+   "For your first sessions, a big soft-top board is the right choice, and Kingsurf includes all equipment in its beginner lessons. Mawgan Porth picks up the same swell as Fistral, so improvers may want a hard board on better days. Sea temperatures on this coast run from about 9 to 10°C in early March to 15 to 18°C in August."
+  ],
+  "cards": [
+   {
+    "label": "Board",
+    "title": "Soft-top to start",
+    "text": "Use a large foam board for lessons and white water. Step up to a hard board when you're riding green waves."
+   },
+   {
+    "label": "Wetsuit",
+    "title": "3/2 or 4/3 in summer, 5/4 in winter",
+    "text": "Surf-forecast suggests a 4/3 or 3/2 with boots in August and a 5/4 or 5/3 with gloves and boots in early March."
+   },
+   {
+    "label": "Other craft",
+    "title": "Bodyboard in the flags",
+    "text": "Bodyboarding is fine between the red and yellow flags. Keep away from the rocks and caves at either end."
+   }
+  ]
+ },
+ "shopsIntro": "Mawgan Porth is a small village without a full surf shop, though the surf school sells a few essentials.",
+ "shopsText": [
+  "In the village, Kingsurf's shop sells rash vests, towel robes and clothing. For wetsuits and boards you'll need to head to Watergate Bay, where Wavehunters hires kit on the beach and Watergate Bay Surf Company sells surf clothing, changing robes and accessories."
+ ],
+ "faqs": {
+  "lessons": [
+   {
+    "q": "Who runs surf lessons at Mawgan Porth?",
+    "a": "Kingsurf Surf School has taught here since 1997 and describes itself as the only surf school on the beachfront."
+   },
+   {
+    "q": "How long is a beginner lesson?",
+    "a": "Kingsurf's beginner lessons last two and a half hours, with all equipment included."
+   },
+   {
+    "q": "Is Mawgan Porth good for families?",
+    "a": "Yes. The RNLI describes it as popular with families and surfers, and Kingsurf offers dedicated family lessons."
+   }
+  ],
+  "hire": [
+   {
+    "q": "Can I hire a surfboard at Mawgan Porth?",
+    "a": "We couldn't confirm a hire service in Mawgan Porth itself. Wavehunters hires boards, wetsuits and SUPs on the beach at neighbouring Watergate Bay."
+   },
+   {
+    "q": "Do I need to bring a wetsuit to a lesson?",
+    "a": "No. Kingsurf includes all the equipment you need in beginner lessons."
+   }
+  ],
+  "shops": [
+   {
+    "q": "Is there a surf shop in Mawgan Porth?",
+    "a": "Only Kingsurf's small shop, which sells rash vests, robes and clothing rather than boards and wetsuits."
+   }
+  ]
+ },
+ "sources": [
+  {
+   "label": "Kingsurf",
+   "url": "https://www.kingsurf.co.uk/"
+  },
+  {
+   "label": "Kingsurf lessons",
+   "url": "https://www.kingsurf.co.uk/surf-lessons"
+  },
+  {
+   "label": "Kingsurf shop",
+   "url": "https://www.kingsurf.co.uk/surf-shop"
+  },
+  {
+   "label": "Visit Cornwall: Mawgan Porth",
+   "url": "https://www.visitcornwall.com/things-to-do/beaches/mawgan-porth-beach"
+  },
+  {
+   "label": "RNLI: Mawgan Porth",
+   "url": "https://rnli.org/find-my-nearest/lifeguarded-beaches/mawgan-porth-beach"
+  },
+  {
+   "label": "Watergate Bay: surf lessons (Wavehunters)",
+   "url": "https://watergatebay.co.uk/what-to-do/surf-lessons/"
+  },
+  {
+   "label": "Watergate Bay Surf Company",
+   "url": "https://watergatebaysurfcompany.co.uk/"
+  },
+  {
+   "label": "Surf-forecast: Harlyn sea temperature",
+   "url": "https://www.surf-forecast.com/breaks/Harlyn/seatemp"
+  }
+ ],
+ "factCheck": [
+  {
+   "fact": "Kingsurf at Mawgan Porth since 1997; only beachfront school; formats; faces same way as Fistral",
+   "url": "https://www.kingsurf.co.uk/"
+  },
+  {
+   "fact": "Beginner lesson 2.5 hours with equipment; coaches are beach lifeguards and RNLI community responders",
+   "url": "https://www.kingsurf.co.uk/surf-lessons"
+  },
+  {
+   "fact": "Sheltered west-facing cove, good surf, plenty of sand at low tide",
+   "url": "https://www.visitcornwall.com/things-to-do/beaches/mawgan-porth-beach"
+  },
+  {
+   "fact": "Long flat beach, popular with families; Atlantic swell, cliffs and rocks, caves at low tide",
+   "url": "https://rnli.org/find-my-nearest/lifeguarded-beaches/mawgan-porth-beach"
+  },
+  {
+   "fact": "Wavehunters hire at Watergate Bay",
+   "url": "https://watergatebay.co.uk/what-to-do/surf-lessons/"
+  }
+ ],
+ "gaps": "Only one school confirmed (search budget ran out before checking others). No hire or proper surf shop confirmed in Mawgan Porth; Kingsurf's equipment and FAQ pages failed to load. RNLI page only shows 2019 lifeguard dates, so no exact dates given. No minimum age, adaptive surfing or tide guidance found."
+}

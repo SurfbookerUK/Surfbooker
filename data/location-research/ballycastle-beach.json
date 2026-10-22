@@ -1,0 +1,134 @@
+{
+ "slug": "ballycastle-beach",
+ "schools": [],
+ "hire": [],
+ "shops": [],
+ "lessonsIntro": "We couldn't find a surf school that teaches at Ballycastle Beach, though it does have seasonal RNLI lifeguards.",
+ "learn": {
+  "text": [
+   "Ballycastle Beach is a sand and shingle bay of about 1.2km running from the marina pier east to Pans Rock, right beside the town. No surf school is confirmed as teaching here, so if you want lessons your nearest options are the schools in Portrush. If you do go in on your own, stay between the red and yellow flags when lifeguards are on duty.",
+   "RNLI lifeguards cover Ballycastle at Easter, at weekends from mid-April to late June, and daily from late June to the end of August, 10am to 6pm in 2026. The River Margy flows out at the western end beside the beach entrance, and there's safety signage there. DAERA advises avoiding the water during and for up to 48 hours after heavy or prolonged rain, as the river can affect water quality."
+  ],
+  "cards": [
+   {
+    "label": "Level",
+    "title": "No lessons here",
+    "text": "No school operates at Ballycastle. Beginners should book a lesson in Portrush."
+   },
+   {
+    "label": "Best time",
+    "title": "Late June to August",
+    "text": "RNLI lifeguards patrol daily in this window, with Easter and weekend cover in spring."
+   },
+   {
+    "label": "Watch out for",
+    "title": "The river mouth and rain",
+    "text": "Heed the signs by the River Margy, and stay out for 48 hours after heavy rain."
+   }
+  ]
+ },
+ "hireIntro": "There's no surf hire confirmed in Ballycastle, so bring your own kit or hire in Portrush.",
+ "kit": {
+  "text": [
+   "With no hire in town, you'll need your own board and wetsuit. RNLI asks bodyboarders to stay between the red and yellow flags. Sea temperature data for Ballycastle shows about 13-16°C in mid-August, when a 4/3mm or 5/3mm works, falling to 6-9°C in late February, when you'll want a 5/4mm or 6/5/4mm with boots, gloves and a hood."
+  ],
+  "cards": [
+   {
+    "label": "Board",
+    "title": "Bring your own",
+    "text": "No hire is confirmed locally. A long soft-top is the usual choice for less experienced surfers."
+   },
+   {
+    "label": "Wetsuit",
+    "title": "4/3-5/3mm summer, 5/4mm+ winter",
+    "text": "Ballycastle's sea is around 13-16°C in August and 6-9°C in late February, with boots, gloves and hood advised in winter."
+   },
+   {
+    "label": "Other craft",
+    "title": "Bodyboard between the flags",
+    "text": "RNLI asks swimmers and bodyboarders to use the area between the red and yellow flags when lifeguards are on duty."
+   }
+  ]
+ },
+ "shopsIntro": "We couldn't find a surf shop in Ballycastle; the nearest confirmed surf shops are in Portrush.",
+ "shopsText": [
+  "Ballycastle has shops, cafés and a visitor information centre near the seafront, but we couldn't confirm a surf shop in the town. The nearest confirmed surf shops are in Portrush, where Troggs sells boards, wetsuits and accessories from its Main Street store and runs hire, with a second store on Causeway Street."
+ ],
+ "faqs": {
+  "lessons": [
+   {
+    "q": "Are there surf lessons at Ballycastle Beach?",
+    "a": "Not that we could confirm. The nearest surf schools are in Portrush."
+   },
+   {
+    "q": "When is Ballycastle Beach lifeguarded?",
+    "a": "In 2026, RNLI lifeguards were on duty over the Easter holidays, at weekends from mid-April to late June, and daily from late June to 31 August, 10am to 6pm."
+   },
+   {
+    "q": "Is the water at Ballycastle safe after rain?",
+    "a": "DAERA advises not bathing during heavy or prolonged rain and for up to 48 hours afterwards, because rivers including the Margy can carry pollution into the bay."
+   }
+  ],
+  "hire": [
+   {
+    "q": "Can I hire a surfboard in Ballycastle?",
+    "a": "We couldn't find surf hire in Ballycastle. Troggs in Portrush hires boards and wetsuits."
+   },
+   {
+    "q": "Can I bodyboard at Ballycastle?",
+    "a": "Yes, RNLI asks you to bodyboard between the red and yellow flags when lifeguards are on duty."
+   }
+  ],
+  "shops": [
+   {
+    "q": "Is there a surf shop in Ballycastle?",
+    "a": "None we could confirm. The nearest is Troggs in Portrush."
+   }
+  ]
+ },
+ "sources": [
+  {
+   "label": "Causeway Coast and Glens Council: Ballycastle Beach",
+   "url": "https://old.causewaycoastandglens.gov.uk/see-do/beaches/ballycastle-beach"
+  },
+  {
+   "label": "RNLI: Ballycastle Beach",
+   "url": "https://rnli.org/find-my-nearest/lifeguarded-beaches/ballycastle-beach"
+  },
+  {
+   "label": "DAERA Ballycastle bathing water profile",
+   "url": "https://www.daera-ni.gov.uk/sites/default/files/2026-06/NEW%20DRAFT%20Ballycastle%20bathing%20water%20profile%202026.pdf"
+  },
+  {
+   "label": "Surf-Forecast: Ballycastle sea temperature",
+   "url": "https://www.surf-forecast.com/breaks/Ballycastle/seatemp"
+  },
+  {
+   "label": "About Troggs",
+   "url": "https://www.troggs.com/pages/about-troggs"
+  }
+ ],
+ "factCheck": [
+  {
+   "fact": "RNLI 2026 cover: Easter 3-12 April, weekends 18 April-21 June, daily 27 June-31 August, 10am-6pm; swim or bodyboard between red and yellow flags",
+   "url": "https://rnli.org/find-my-nearest/lifeguarded-beaches/ballycastle-beach"
+  },
+  {
+   "fact": "Beach about 1.2km from marina pier to Pans Rock; sand and shingle; River Margy/Glenshesk outflow at western end; avoid bathing during and 48h after heavy rain",
+   "url": "https://www.daera-ni.gov.uk/sites/default/files/2026-06/NEW%20DRAFT%20Ballycastle%20bathing%20water%20profile%202026.pdf"
+  },
+  {
+   "fact": "River Margy footbridge and safety signage; visitor information centre; no swimming restrictions",
+   "url": "https://old.causewaycoastandglens.gov.uk/see-do/beaches/ballycastle-beach"
+  },
+  {
+   "fact": "Sea temperature 13-16°C mid-August, 6-9°C late February with wetsuit guidance",
+   "url": "https://www.surf-forecast.com/breaks/Ballycastle/seatemp"
+  },
+  {
+   "fact": "Troggs stores in Portrush",
+   "url": "https://www.troggs.com/pages/about-troggs"
+  }
+ ],
+ "gaps": "No surf schools, hire or shops found in Ballycastle. The council page gives lifeguard hours as 11am-7pm (older page) while RNLI's 2026 page says 10am-6pm; RNLI used. No official description of surf conditions or rips."
+}

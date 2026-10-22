@@ -1,0 +1,22 @@
+{
+ "slug": "the-queens-arms-breage-rooms",
+ "officialUrl": "https://www.queensarms-breage.co.uk/",
+ "trading": "unclear",
+ "stayType": "Village pub with rooms and caravan pitches",
+ "accommodation": "2 en suite rooms, plus 5 caravan bays in an adjacent field with electric hook-up and water taps (per CAMRA).",
+ "suitableFor": "Couples, small groups, campervan travellers, dog owners",
+ "parking": "Parking listed as a facility (CAMRA).",
+ "dogs": "Listed as dog friendly (CAMRA).",
+ "beachAccess": null,
+ "boardStorage": null,
+ "confirmedFeatures": "Pub, food served daily, parking, camping/caravan bays with electric hook-up",
+ "overview": "A village pub in Breage, inland from Praa Sands between Helston and Penzance, with two en suite rooms and a small field for caravans and motorhomes. CAMRA lists it as dog friendly with parking and food served daily.",
+ "surfTripFit": "A simple, low-key base for campervan surfers or a couple, a short drive from Praa Sands; no surf-specific facilities are listed.",
+ "sources": [
+  {
+   "label": "CAMRA - Queens Arms, Breage",
+   "url": "https://camra.org.uk/pubs/queens-arms-breage-138983"
+  }
+ ],
+ "gaps": "Official site blocks automated fetching, so facts come only from CAMRA; current trading and room availability unverified. Beach distance not stated."
+}

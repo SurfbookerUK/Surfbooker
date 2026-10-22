@@ -1,0 +1,22 @@
+{
+ "name": "Urban Beach Hotel",
+ "officialUrl": "",
+ "trading": true,
+ "stayType": "Boutique hotel with bistro",
+ "accommodation": "12 rooms",
+ "suitableFor": "Couples wanting a small boutique stay",
+ "parking": null,
+ "dogs": null,
+ "beachAccess": "A few minutes' walk from the beach",
+ "boardStorage": null,
+ "confirmedFeatures": "On-site bistro, cocktail menu, large beds, power showers, Egyptian cotton linen, TVs",
+ "overview": "A 12-room boutique hotel on Argyll Road in Boscombe, a few minutes' walk from the beach. It is a sister property of the Urban Reef restaurant and has its own bistro serving locally sourced meat and fish.",
+ "surfTripFit": "A short walk to the Boscombe seafront, with food and drink on site after a session.",
+ "sources": [
+  {
+   "label": "Visit Bournemouth listing",
+   "url": "https://www.visitbournemouth.com/accommodation/urban-beach-hotel"
+  }
+ ],
+ "slug": "urban-beach-hotel"
+}

@@ -1,0 +1,26 @@
+{
+ "name": "Bournemouth Beach Lodges",
+ "officialUrl": "https://www.bournemouthbeachlodges.co.uk/",
+ "trading": true,
+ "stayType": "Self-catering beach lodges",
+ "accommodation": "Self-contained lodges sleeping up to four adults and two children",
+ "suitableFor": "Families and small groups wanting to stay right on the beach",
+ "parking": "Not stated",
+ "dogs": "Not stated",
+ "beachAccess": "A few steps from the sand on the promenade near Boscombe Pier",
+ "boardStorage": null,
+ "confirmedFeatures": "Kitchen, shower room, Wi-Fi, sea-view terrace with deckchairs, open all year",
+ "overview": "Modern lodges built into the cliffside on the promenade near Boscombe Pier, a few steps from the sand. Each has a kitchen, shower room, Wi-Fi and a terrace with sea views, and they sleep up to four adults and two children, with stays available all year.",
+ "surfTripFit": "You are steps from the Boscombe Pier peaks, so you can check the waves from the terrace and be in the water within minutes.",
+ "sources": [
+  {
+   "label": "Bournemouth Beach Lodges official site",
+   "url": "https://www.bournemouthbeachlodges.co.uk/"
+  },
+  {
+   "label": "BCP Council page",
+   "url": "https://bcpcouncil.gov.uk/about-the-council/our-websites/bournemouth-beach-lodges"
+  }
+ ],
+ "slug": "bournemouth-beach-lodges"
+}

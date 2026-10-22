@@ -1,0 +1,22 @@
+{
+ "name": "Chine Hotel",
+ "officialUrl": "",
+ "trading": true,
+ "stayType": "Three-star seaside hotel",
+ "accommodation": "79 en suite rooms, standard and superior, including family suites and interconnecting rooms",
+ "suitableFor": "Families and couples wanting hotel facilities",
+ "parking": null,
+ "dogs": null,
+ "beachAccess": "Beach is a two-minute walk from the hotel grounds; near the Boscombe surf reef",
+ "boardStorage": null,
+ "confirmedFeatures": "Swimming pool, Roman-style spa, Sea View restaurant, cocktail bar, three acres of grounds, children's playhouse, sea-view rooms with balconies",
+ "overview": "A 79-room hotel on Boscombe Spa Road set in around three acres of grounds, a two-minute walk from the beach near the Boscombe reef. Many rooms have sea views and balconies, and there is a pool, spa, restaurant and bar on site.",
+ "surfTripFit": "Two minutes from the sand near Boscombe Pier, with a pool and spa for days when the sea is flat.",
+ "sources": [
+  {
+   "label": "Visit Bournemouth listing",
+   "url": "https://www.visitbournemouth.com/accommodation/chine-hotel"
+  }
+ ],
+ "slug": "chine-hotel"
+}

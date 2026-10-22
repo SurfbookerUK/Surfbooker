@@ -1,0 +1,22 @@
+{
+ "name": "YHA Port Eynon",
+ "officialUrl": "https://www.yha.org.uk/hostel/yha-port-eynon",
+ "trading": true,
+ "stayType": "Beachfront hostel",
+ "accommodation": "Private rooms including en-suite doubles; exclusive hire of the whole building",
+ "suitableFor": "Budget travellers, families and groups",
+ "parking": "Shared area on a slip road for up to 8 cars",
+ "dogs": null,
+ "beachAccess": "Beachfront, on the seafront at Port Eynon",
+ "boardStorage": null,
+ "confirmedFeatures": "Self-catering kitchen, dining room, lounge, library, drying room, outdoor seating, free Wi-Fi in shared areas",
+ "overview": "YHA Port Eynon is a hostel on the seafront at Port Eynon, right next to the beach. It has private rooms, some en-suite, plus a self-catering kitchen, a lounge and a drying room, and groups can hire the whole building.",
+ "surfTripFit": "The beach is right outside and there is a drying room for wetsuits, and the self-catering kitchen keeps costs down.",
+ "sources": [
+  {
+   "label": "YHA Port Eynon",
+   "url": "https://www.yha.org.uk/hostel/yha-port-eynon"
+  }
+ ],
+ "slug": "yha-port-eynon"
+}

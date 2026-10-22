@@ -1,0 +1,211 @@
+{
+ "slug": "holywell-bay",
+ "schools": [
+  {
+   "name": "Holywell Bay School of Surf",
+   "type": "Surf school",
+   "url": "https://www.holywellbayschoolofsurf.com/",
+   "base": "On the beachfront at Holywell Bay, at the surf life saving club",
+   "note": "Small-group, private, family and group-private lessons of about two hours, starting with a safety briefing on the sand. You need to be a confident swimmer; wetsuit and beginner foam board are included.",
+   "source": "https://www.holywellbayschoolofsurf.com/"
+  },
+  {
+   "name": "Cornwall Surfing Academy",
+   "type": "Surf school",
+   "url": "https://cornwallsurfingacademy.co.uk/",
+   "base": "Holywell Bay Holiday Park (TR8 5PR); arrive 30 minutes early for wetsuit fitting",
+   "note": "A family-friendly school teaching at Holywell Bay and Fistral, including two-hour private lessons on Holywell beach. Students need to be able to swim 50 metres in open water.",
+   "source": "https://eola.co/cp2k3/b0cf741a-5bef-4a10-8c42-f6e0e87fb821/surf-private-lesson"
+  }
+ ],
+ "hire": [],
+ "shops": [],
+ "lessonsIntro": "Holywell Bay is a big, sandy National Trust beach between Crantock and Perranporth, with a surf school based right on the beachfront. Visit Cornwall notes lessons run throughout the year.",
+ "learn": {
+  "text": [
+   "Holywell is exposed to large Atlantic swells, and Visit Cornwall says the surf is at its best at low and mid tide. The two ends behave differently: the north end takes the full force of the swell and gets much bigger, while the south end is more sheltered from south-westerly winds by the rock islands offshore. On bigger days, learners should stick to the gentler water with a school rather than heading out alone.",
+   "RNLI lifeguards patrol daily from 16 May to 27 September 2026, 10am to 6pm, and the RNLI has reported rescuing people from rip currents here. Swim and bodyboard between the red and yellow flags. Holywell Bay School of Surf says you need to be a confident swimmer for lessons, and Cornwall Surfing Academy asks that you can swim 50 metres in open water. St Cuthbert's Cave can only be reached at low tide."
+  ],
+  "cards": [
+   {
+    "label": "Level",
+    "title": "Beginners with a school",
+    "text": "Lessons run all year, but the beach takes big Atlantic swell, so learn with an instructor."
+   },
+   {
+    "label": "Best time",
+    "title": "Low to mid tide",
+    "text": "Visit Cornwall says Holywell is at its best around low and mid tide; lifeguards are on from mid-May to late September."
+   },
+   {
+    "label": "Watch out for",
+    "title": "Big swell and rips",
+    "text": "The north end gets much bigger waves, and the RNLI has reported rip current rescues here."
+   }
+  ]
+ },
+ "hireIntro": "We couldn't confirm a standalone surf hire shop at Holywell Bay. Both local schools include a wetsuit and board in their lessons.",
+ "kit": {
+  "text": [
+   "Lessons here come with a wetsuit and a beginner foam board, so you don't need your own kit to start. If you're bringing your own, a soft-top or mini mal suits the beach's mid-tide waves for learners. Sea temperatures at Holywell range from about 9-10C in early March to 15-18C in mid August, so a full wetsuit is needed all year."
+  ],
+  "cards": [
+   {
+    "label": "Board",
+    "title": "Foam board included in lessons",
+    "text": "Both schools supply beginner foam boards; improvers can step up to a mini mal."
+   },
+   {
+    "label": "Wetsuit",
+    "title": "4/3 in summer, 5mm in winter",
+    "text": "A 4/3mm or 3/2mm with boots in summer; a 5/4mm or 5/3mm with gloves, boots and a hood in late winter."
+   },
+   {
+    "label": "Other craft",
+    "title": "Bodyboards between the flags",
+    "text": "Holywell is popular with bodyboarders; stay between the red and yellow flags when lifeguards are on."
+   }
+  ]
+ },
+ "shopsIntro": "We didn't find a surf shop at Holywell Bay, so for kit you'll need to head to Newquay or Perranporth.",
+ "shopsText": [
+  "Holywell is a small village with a National Trust car park next to the beach, and none of the sources we checked list a surf shop here. Newquay has several, including Ann's Cottage at Fistral and Sunset Surf and Slide and Glide on Fore Street, while Perranporth has Bathsheba Surf on St Pirans Road."
+ ],
+ "faqs": {
+  "lessons": [
+   {
+    "q": "Which surf schools teach at Holywell Bay?",
+    "a": "Holywell Bay School of Surf, based on the beachfront at the surf life saving club, and Cornwall Surfing Academy, based at Holywell Bay Holiday Park."
+   },
+   {
+    "q": "Do I need to be able to swim for a lesson at Holywell?",
+    "a": "Yes. Holywell Bay School of Surf asks that you're a confident swimmer, and Cornwall Surfing Academy asks that you can swim 50 metres unaided in open water."
+   },
+   {
+    "q": "What's the best tide for surfing Holywell Bay?",
+    "a": "Visit Cornwall says the surf is at its best around low and mid tide."
+   }
+  ],
+  "hire": [
+   {
+    "q": "Can I hire a surfboard at Holywell Bay?",
+    "a": "We couldn't confirm a standalone hire shop. Both local schools include a wetsuit and foam board with lessons, so booking a lesson is the easiest way to get kit."
+   },
+   {
+    "q": "What wetsuit do I need at Holywell?",
+    "a": "In summer a 3/2mm or 4/3mm with boots; from late autumn to spring, a 5mm suit with gloves, boots and a hood."
+   }
+  ],
+  "shops": [
+   {
+    "q": "Is there a surf shop in Holywell Bay?",
+    "a": "Not that we could find. The nearest surf shops are in Newquay and Perranporth."
+   }
+  ]
+ },
+ "sources": [
+  {
+   "label": "RNLI: Holywell Bay Beach",
+   "url": "https://rnli.org/find-my-nearest/lifeguarded-beaches/holywell-bay-beach"
+  },
+  {
+   "label": "Visit Cornwall: Holywell Bay Beach",
+   "url": "https://www.visitcornwall.com/things-to-do/beaches/holywell-bay-beach"
+  },
+  {
+   "label": "Proper Cornwall: Holywell Bay",
+   "url": "https://propercornwall.co.uk/beaches/holywell-bay/"
+  },
+  {
+   "label": "Holywell Bay School of Surf",
+   "url": "https://www.holywellbayschoolofsurf.com/"
+  },
+  {
+   "label": "Cornish Secrets: Holywell Bay School of Surf",
+   "url": "https://directory.cornishsecrets.co.uk/listing/holywell-bay-school-of-surf/"
+  },
+  {
+   "label": "Cornwall Surfing Academy",
+   "url": "https://cornwallsurfingacademy.co.uk/"
+  },
+  {
+   "label": "Cornwall Surf Academy on eola",
+   "url": "https://eola.co/centres/cornwall-surf-academy-newquay"
+  },
+  {
+   "label": "Cornwall Surf Academy private lesson, Holywell Bay",
+   "url": "https://eola.co/cp2k3/b0cf741a-5bef-4a10-8c42-f6e0e87fb821/surf-private-lesson"
+  },
+  {
+   "label": "Surf-forecast.com: Holywell Bay sea temperature",
+   "url": "https://www.surf-forecast.com/breaks/Holywell-Bay/seatemp"
+  }
+ ],
+ "factCheck": [
+  {
+   "fact": "Holywell is exposed to large Atlantic swells; rip current rescues reported; lifeguards daily 16 May-27 September 2026, 10am-6pm",
+   "url": "https://rnli.org/find-my-nearest/lifeguarded-beaches/holywell-bay-beach"
+  },
+  {
+   "fact": "Surf best at low and mid tide; north end bigger; south end sheltered by rock islands from south-westerlies; local school runs lessons all year; St Cuthbert's Cave reachable only at low tide",
+   "url": "https://www.visitcornwall.com/things-to-do/beaches/holywell-bay-beach"
+  },
+  {
+   "fact": "Holywell Bay School of Surf is on the beachfront at the surf life saving club; group, private, family lessons; confident swimmers; wetsuit and foam board included",
+   "url": "https://www.holywellbayschoolofsurf.com/"
+  },
+  {
+   "fact": "Holywell Bay School of Surf family classes for children from age seven",
+   "url": "https://directory.cornishsecrets.co.uk/listing/holywell-bay-school-of-surf/"
+  },
+  {
+   "fact": "Cornwall Surfing Academy names Holywell Bay and Fistral; wetsuit and board included",
+   "url": "https://cornwallsurfingacademy.co.uk/"
+  },
+  {
+   "fact": "Cornwall Surf Academy base: Holywell Bay Holiday Park TR8 5PR",
+   "url": "https://eola.co/centres/cornwall-surf-academy-newquay"
+  },
+  {
+   "fact": "Private lesson starts on Holywell Bay beach; arrive 30 minutes early; must swim 50m in open water",
+   "url": "https://eola.co/cp2k3/b0cf741a-5bef-4a10-8c42-f6e0e87fb821/surf-private-lesson"
+  },
+  {
+   "fact": "National Trust car park near the beach; stream and dunes",
+   "url": "https://propercornwall.co.uk/beaches/holywell-bay/"
+  },
+  {
+   "fact": "Bathsheba Surf is at 19 St Pirans Rd, Perranporth",
+   "url": "https://wanderlog.com/place/details/10281175"
+  },
+  {
+   "fact": "Ann's Cottage has two shops at Fistral Beach (one for wetsuits and surf gear) and a store at 14 Central Square, Newquay",
+   "url": "https://www.findingouradventure.com/travel-diaries/best-shopping-newquay-guide-cornwall"
+  },
+  {
+   "fact": "Ann's Cottage sells soft and hard surfboards, bodyboards, SUPs and seasonal wetsuits with accessories",
+   "url": "https://www.annscottage.com/"
+  },
+  {
+   "fact": "Sunset Surf is at 106 Fore St, Newquay and offers surfboard and wetsuit hire, including winter wetsuits",
+   "url": "https://directory.cornishsecrets.co.uk/listing/sunset-surf-newquay/"
+  },
+  {
+   "fact": "Sunset Surf stocks foam boards, mini mals, longboards, bodyboards and wetsuits for men, women and kids",
+   "url": "https://sunsetsurfnewquay.co.uk/"
+  },
+  {
+   "fact": "Slide and Glide is at 70 Fore Street, Newquay, sells custom surfboards and accessories and offers wetsuit and surfboard hire",
+   "url": "https://slideandglidesurf.co.uk/"
+  },
+  {
+   "fact": "Sea temperature near Newquay peaks around 15-18C in mid August and drops to about 9-10C around 1 March",
+   "url": "https://www.surf-forecast.com/breaks/Holywell-Bay/seatemp"
+  },
+  {
+   "fact": "Suggested wetsuits: 4/3mm or 3/2mm with boots in summer; 5/4mm or 5/3mm with gloves and boots in late winter; add a hood when windy",
+   "url": "https://www.surf-forecast.com/breaks/Holywell-Bay/seatemp"
+  }
+ ],
+ "gaps": "No standalone board/wetsuit hire and no surf shop could be confirmed at Holywell Bay (both lists empty). Holywell Bay School of Surf's own site doesn't state a minimum age (Cornish Secrets says family classes from age 7, not used in the note). Trevornick holiday park partners with Holywell Bay School of Surf for guest lessons, but it's not clear non-guests can book through Trevornick, so it's not listed separately. Search budget ran out before I could look for seasonal beach hire kiosks at Holywell."
+}

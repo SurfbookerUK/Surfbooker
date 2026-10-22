@@ -1,0 +1,148 @@
+{
+ "slug": "bracklesham-bay",
+ "schools": [],
+ "hire": [
+  {
+   "name": "2XS West Wittering",
+   "type": "Board & wetsuit hire",
+   "url": "https://www.2xs.co.uk/club/hire/",
+   "base": "West Wittering beach, a few miles west along the coast",
+   "note": "Foam and epoxy surfboards, bodyboards, SUPs, kayaks and wetsuits with boots and gloves.",
+   "source": "https://www.2xs.co.uk/club/hire/"
+  }
+ ],
+ "shops": [
+  {
+   "name": "Shore Watersports",
+   "type": "Surf shop",
+   "url": "https://www.shore.co.uk/",
+   "town": "20-22 Shore Road, East Wittering (about 100m from the beach)",
+   "note": "Large surf store with hundreds of surfboards and wetsuits in stock, changing rooms for fitting, plus SUPs and kayaks and a big online shop.",
+   "source": "https://www.shore.co.uk/wittering-surf-shop"
+  },
+  {
+   "name": "Wittering Surf Shop",
+   "type": "Surf shop",
+   "url": "https://witteringsurfshop.com/",
+   "town": "15 Shore Road, East Wittering",
+   "note": "Independent shop since 2005 selling surf clothing and accessories, with Fairmile surfboards in store and the Drift-In café attached.",
+   "source": "https://witteringsurfshop.com/pages/brand"
+  }
+ ],
+ "lessonsIntro": "We couldn't confirm a surf school teaching at Bracklesham itself, so the nearest verified lessons are with 2XS on West Wittering beach.",
+ "learn": {
+  "text": [
+   "Bracklesham shares its sea conditions with East Wittering next door, according to Chichester District Council: a gently sloping beach where the council says there are no rip currents. That makes small days fairly forgiving, but there are no lifeguards on the council's beaches here, so you're on your own once you're in. If you're new, it's worth taking a lesson along the coast at West Wittering before trying it yourself.",
+   "The council warns that waves can get big, particularly at high tide, and that getting back out of the sea can then be tricky. You reach the water over a loose shingle bank, which is awkward with a board. The council's foreshore team patrols from Easter to the end of September to enforce byelaws, including an 8 knot limit for powered craft within 300m of low water, but it isn't a rescue service."
+  ],
+  "cards": [
+   {
+    "label": "Level",
+    "title": "Small days only for novices",
+    "text": "Gentle slope and no rips, says the council, but no lifeguards. Learn with a school first."
+   },
+   {
+    "label": "Best time",
+    "title": "Small, clean days",
+    "text": "Pick days with modest waves. The council says waves can get large, especially at high tide."
+   },
+   {
+    "label": "Watch out for",
+    "title": "Shingle bank and high-tide waves",
+    "text": "Access is over loose shingle, and bigger waves at high tide make getting out of the water hard."
+   }
+  ]
+ },
+ "hireIntro": "We couldn't confirm surf hire at Bracklesham, but 2XS on West Wittering beach hires boards and wetsuits.",
+ "kit": {
+  "text": [
+   "The waves here are the same Channel windswell that reaches East Wittering, so a big, floaty foam board is the easiest way to learn. Water ranges from about 6 to 8°C in late winter to 17 to 19°C in late summer, says Wittering Surf Shop. Bracklesham's slipway is often covered in shingle, and the council says only small hand-launched craft should use it."
+  ],
+  "cards": [
+   {
+    "label": "Board",
+    "title": "Foam and volume",
+    "text": "Use a foam board to learn. Shore Watersports in East Wittering stocks a big range if you want to buy."
+   },
+   {
+    "label": "Wetsuit",
+    "title": "3/2 summer, 5/4 winter",
+    "text": "Wittering Surf Shop, further west on the same coast, suggests a 3/2 or shorty July to October, 4/3 in May, June and November, and 5/4 with boots and gloves December to April."
+   },
+   {
+    "label": "Other craft",
+    "title": "Hand-launched craft only",
+    "text": "The council says only small hand-launched craft should use the Bracklesham slipway, and vehicles can get stuck in the shingle."
+   }
+  ]
+ },
+ "shopsIntro": "The nearest surf shops are on Shore Road in East Wittering, a short drive west.",
+ "shopsText": [
+  "There's no surf shop we could confirm in Bracklesham, but East Wittering's Shore Road has two. Shore Watersports is a large store with hundreds of boards and wetsuits plus changing rooms for fitting, and Wittering Surf Shop sells clothing, accessories and Fairmile boards. 2XS on West Wittering beach also has an online shop."
+ ],
+ "faqs": {
+  "lessons": [
+   {
+    "q": "Is Bracklesham lifeguarded?",
+    "a": "No. Chichester District Council says there are no lifeguards on its beaches; West Wittering is the local lifeguarded beach in high season."
+   },
+   {
+    "q": "Are there rip currents at Bracklesham?",
+    "a": "The council says there are none and the beach slopes gently, but waves can be large at high tide, making it hard to get out."
+   },
+   {
+    "q": "Where can I take a surf lesson near Bracklesham?",
+    "a": "The nearest school we could confirm is 2XS on West Wittering beach."
+   }
+  ],
+  "hire": [
+   {
+    "q": "Can I hire a surfboard at Bracklesham?",
+    "a": "We couldn't confirm hire here. 2XS hires surfboards and wetsuits at West Wittering."
+   },
+   {
+    "q": "What wetsuit do I need?",
+    "a": "Wittering Surf Shop suggests a 3/2 in late summer and autumn, a 4/3 in late spring and November, and a 5/4 with boots and gloves in winter."
+   }
+  ],
+  "shops": [
+   {
+    "q": "Where's the nearest surf shop to Bracklesham?",
+    "a": "Shore Watersports and Wittering Surf Shop are both on Shore Road in East Wittering."
+   }
+  ]
+ },
+ "sources": [
+  {
+   "label": "Chichester District Council - Coastal recreation, byelaws and slipways",
+   "url": "https://www.chichester.gov.uk/article/24068/Coastal-recreation-byelaws-and-slipways"
+  },
+  {
+   "label": "Shore Watersports",
+   "url": "https://www.shore.co.uk/wittering-surf-shop"
+  },
+  {
+   "label": "Wittering Surf Shop - Surf report",
+   "url": "https://witteringsurfshop.com/pages/surf-report"
+  },
+  {
+   "label": "2XS - Hire",
+   "url": "https://www.2xs.co.uk/club/hire/"
+  }
+ ],
+ "factCheck": [
+  {
+   "fact": "No lifeguards on council beaches; Bracklesham same conditions as East Wittering: no rips, gentle slope, large waves at high tide, loose shingle access; slipway shingle-covered, hand-launched craft only; foreshore patrol Easter to end Sept; 8 knots within 300m",
+   "url": "https://www.chichester.gov.uk/article/24068/Coastal-recreation-byelaws-and-slipways"
+  },
+  {
+   "fact": "Shore Watersports 20-22 Shore Rd, 100m from beach, 300+ boards, 500+ wetsuits",
+   "url": "https://www.shore.co.uk/wittering-surf-shop"
+  },
+  {
+   "fact": "Water temp and wetsuit by month",
+   "url": "https://witteringsurfshop.com/pages/surf-report"
+  }
+ ],
+ "gaps": "No surf school or hire confirmed at Bracklesham. The Beach Watersports (existing provider) couldn't be found with its own website, so it's left out. Surf-specific tide advice for Bracklesham not confirmed."
+}

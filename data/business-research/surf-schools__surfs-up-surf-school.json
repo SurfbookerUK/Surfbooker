@@ -1,0 +1,29 @@
+{
+ "slug": "surfs-up-surf-school",
+ "kind": "surf-schools",
+ "officialUrl": "https://www.surfsupsurfschool.com/",
+ "trading": true,
+ "about": "Surf's Up! Surf School has taught on Polzeath beach since 1995 and welcomes all ages and abilities. It runs beginner, improver and intermediate lessons as groups or privately, plus school and club trips, a local kids' after-school club and residential courses. It also lets out a self-catering beach house in Polzeath.",
+ "offers": [
+  "Beginner, improver and intermediate group lessons",
+  "Private lessons",
+  "School, club and group trips",
+  "Kids' after-school club",
+  "Stag and hen lessons",
+  "Residential courses"
+ ],
+ "where": "Polzeath Beach",
+ "goodToKnow": [
+  "Group sizes follow Surfing England's recommended ratios",
+  "Surfing England Centre of Excellence; instructors are qualified beach lifeguards",
+  "Book online"
+ ],
+ "season": null,
+ "sources": [
+  {
+   "label": "Official homepage",
+   "url": "https://www.surfsupsurfschool.com/"
+  }
+ ],
+ "gaps": "Meeting point, inclusions, what to bring, kids' ages, cancellation terms and season were not stated."
+}

@@ -1,0 +1,172 @@
+{
+ "slug": "langland-bay",
+ "schools": [],
+ "hire": [
+  {
+   "name": "Gower Stand Up Paddle (SUP Gower)",
+   "type": "SUP hire & lessons",
+   "url": "https://www.supgower.com/",
+   "base": "Bases in Mumbles and at Langland, with sessions at Three Cliffs and Oxwich",
+   "note": "Paddleboard hire by the hour, day or week, plus SUP lessons, SUP surfing and coastal tours. Call ahead to confirm what is running.",
+   "source": "https://www.supgower.com/"
+  },
+  {
+   "name": "Hot Dog Surf Shop",
+   "type": "Board & wetsuit hire",
+   "url": "https://www.hotdogsurf.com/",
+   "base": "26 Pennard Road, Kittle, south Gower",
+   "note": "Hires surfboards, wetsuits and bodyboards from the shop, which has free parking and sits a couple of miles from south Gower's main breaks.",
+   "source": "https://www.hotdogsurf.com/"
+  }
+ ],
+ "shops": [
+  {
+   "name": "Hot Dog Surf Shop",
+   "type": "Surf shop",
+   "url": "https://www.hotdogsurf.com/",
+   "town": "Kittle, south Gower",
+   "note": "Sells surfboards for all levels, wetsuits, bodyboards, rash vests, changing robes and clothing, with a regularly changing second-hand board rack outside.",
+   "source": "https://www.tourismswanseabay.co.uk/hot-dog-surf-shop/"
+  }
+ ],
+ "lessonsIntro": "Langland is a popular Mumbles surf beach with summer lifeguards, but we could not confirm a surf school that runs regular lessons here, so learners usually book at nearby Caswell.",
+ "learn": {
+  "text": [
+   "Langland Bay sits just around the headland from Mumbles and is a favourite with local surfers and paddleboarders. The paddle out is generally forgiving, but the bay can get very shallow in places, so watch your depth as the tide drops. The Sandbar and Crab Island breaks are for experienced surfers only, so beginners should stick to the main beach whitewater.",
+   "RNLI lifeguards patrol Langland daily from early May to mid-September, 10am to 6pm, plus the Easter holidays, and you should bodyboard or swim between the red and yellow flags. Because we could not confirm a school teaching here, the simplest way to learn nearby is with SurfGSD at Caswell Bay, one cove along the coast path, then come back to Langland once you can catch waves on your own."
+  ],
+  "cards": [
+   {
+    "label": "Level",
+    "title": "Beginners on the main beach only",
+    "text": "The main bay suits learners on small days. Leave the Sandbar and Crab Island to experienced surfers."
+   },
+   {
+    "label": "Best time",
+    "title": "Lifeguarded season, small swell",
+    "text": "Lifeguards patrol from early May to mid-September, 10am to 6pm. Watch the depth as the tide drops."
+   },
+   {
+    "label": "Watch out for",
+    "title": "Shallow water and advanced reefs",
+    "text": "Parts of the bay get very shallow, and the reef breaks are not for learners. Take care on the rough path down from the car park."
+   }
+  ]
+ },
+ "hireIntro": "There is no surf hire on the beach that we could confirm, but Gower Stand Up Paddle has a base at Langland, and Hot Dog Surf Shop in Kittle rents boards and wetsuits.",
+ "kit": {
+  "text": [
+   "For Langland's main beach a soft-top is the best start, while improvers often ride mini-mals or longboards on smaller days. Bring boots if you plan to explore near the rocks, as the bay is shallow in places. The water follows the Gower pattern, so plan on a summer suit in July and August and a 5/4 with boots, gloves and hood in winter. Langland is also popular for stand-up paddleboarding on calm days."
+  ],
+  "cards": [
+   {
+    "label": "Board",
+    "title": "Soft-top or mini-mal",
+    "text": "Foam boards for the main beach whitewater; improvers can step up to a mini-mal. The reef breaks need advanced skills and kit."
+   },
+   {
+    "label": "Wetsuit",
+    "title": "3/2 in summer, 5/4 in winter",
+    "text": "Gower water peaks at roughly 14-18°C in mid-August and drops to about 8-9°C around March. A 3/2 or 4/3 with boots suits summer; from late autumn to spring go for a 5/4 or thicker with boots, gloves and a hood."
+   },
+   {
+    "label": "Other craft",
+    "title": "SUP and bodyboards",
+    "text": "Langland is a favourite with paddleboarders, and Gower Stand Up Paddle has a base here. Bodyboard between the flags in season."
+   }
+  ]
+ },
+ "shopsIntro": "Langland has cafés and kiosks by the beach, but the nearest dedicated surf shop we found is in Kittle on south Gower.",
+ "shopsText": [
+  "Hot Dog Surf Shop on Pennard Road in Kittle is a short drive west of Langland and stocks surfboards, wetsuits, bodyboards and accessories, with free parking and a second-hand board rack. Gower Stand Up Paddle, based in Mumbles and at Langland, sells and hires paddleboards. Around the bay itself you will find several cafés and kiosks."
+ ],
+ "faqs": {
+  "lessons": [
+   {
+    "q": "Are there surf lessons at Langland?",
+    "a": "We could not confirm a school running regular lessons at Langland. SurfGSD teaches year-round at Caswell Bay, the next cove along, which is the easiest option nearby."
+   },
+   {
+    "q": "Is Langland lifeguarded?",
+    "a": "Yes, in season. RNLI lifeguards patrol daily from early May to mid-September, 10am to 6pm, plus the Easter holidays."
+   },
+   {
+    "q": "Which parts of Langland should beginners avoid?",
+    "a": "Stay off the Sandbar and Crab Island, which are for experienced surfers, and watch your depth as parts of the bay become very shallow."
+   }
+  ],
+  "hire": [
+   {
+    "q": "Can I hire a paddleboard at Langland?",
+    "a": "Gower Stand Up Paddle has a base at Langland and offers hourly, daily and weekly board hire plus lessons. Call ahead to check what is running."
+   },
+   {
+    "q": "Where can I hire a surfboard near Langland?",
+    "a": "Hot Dog Surf Shop in Kittle hires surfboards, wetsuits and bodyboards and is a short drive away."
+   }
+  ],
+  "shops": [
+   {
+    "q": "Is there a surf shop in Mumbles or Langland?",
+    "a": "We could not confirm one in Mumbles. The nearest dedicated surf shop we found is Hot Dog Surf Shop in Kittle."
+   }
+  ]
+ },
+ "sources": [
+  {
+   "label": "Visit Swansea Bay: Langland Bay",
+   "url": "https://www.visitswanseabay.com/listings/langland-bay-beach/"
+  },
+  {
+   "label": "RNLI: Langland beach",
+   "url": "https://rnli.org/find-my-nearest/lifeguarded-beaches/langland-beach"
+  },
+  {
+   "label": "Enjoy Gower: surfing on Gower",
+   "url": "https://enjoygower.com/surfing-on-gower"
+  },
+  {
+   "label": "Gower Stand Up Paddle",
+   "url": "https://www.supgower.com/"
+  },
+  {
+   "label": "Hot Dog Surf Shop",
+   "url": "https://www.hotdogsurf.com/"
+  },
+  {
+   "label": "Tourism Swansea Bay: Hot Dog Surf Shop",
+   "url": "https://www.tourismswanseabay.co.uk/hot-dog-surf-shop/"
+  },
+  {
+   "label": "SurfGSD",
+   "url": "http://www.surfgsd.com/"
+  },
+  {
+   "label": "Surf-forecast sea temperature",
+   "url": "https://www.surf-forecast.com/breaks/Llangennith/seatemp"
+  }
+ ],
+ "factCheck": [
+  {
+   "fact": "Paddle outs forgiving; very shallow in places; Sandbar and Crab Island for experienced only",
+   "url": "https://enjoygower.com/surfing-on-gower"
+  },
+  {
+   "fact": "Lifeguards 2 May-13 Sep 10am-6pm plus Easter",
+   "url": "https://rnli.org/find-my-nearest/lifeguarded-beaches/langland-beach"
+  },
+  {
+   "fact": "Favourite with surfers and SUP; car park ~100m; dog ban 1 May-30 Sep; rough terrain",
+   "url": "https://www.visitswanseabay.com/listings/langland-bay-beach/"
+  },
+  {
+   "fact": "Gower SUP base at Langland; hire hourly/daily/weekly; lessons",
+   "url": "https://www.supgower.com/"
+  },
+  {
+   "fact": "Hot Dog hire and sales, Kittle",
+   "url": "https://www.hotdogsurf.com/"
+  }
+ ],
+ "gaps": "No surf school confirmed as teaching at Langland, and no surf shop confirmed in Mumbles. Gower Stand Up Paddle's site was last clearly updated for the 2025 season, so check it is running. Surf hire on the beach itself not found."
+}

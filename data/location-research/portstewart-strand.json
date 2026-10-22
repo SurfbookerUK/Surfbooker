@@ -1,0 +1,197 @@
+{
+ "slug": "portstewart-strand",
+ "schools": [
+  {
+   "name": "SUB6 Surf & SUP School",
+   "type": "Surf school",
+   "url": "https://sub6life.com/",
+   "base": "Portstewart Strand (118 Strand Road, Portstewart)",
+   "note": "Runs surf and SUP lessons on the strand in partnership with the National Trust: beginner groups, private lessons, one-to-one coaching, kids' summer camps and surf-and-sauna sessions. SUB6 is ASI accredited and has showcased all-abilities surfing at Trust events.",
+   "source": "https://sub6life.com/pages/surf-school-lessons-portrush"
+  }
+ ],
+ "hire": [
+  {
+   "name": "SUB6 surf hire",
+   "type": "Board & wetsuit hire",
+   "url": "https://sub6life.com/collections/surf-lessons",
+   "base": "Portstewart Strand",
+   "note": "Softboard and 5mm wetsuit hire for people who don't want a lesson, booked through SUB6's online store and collected on the strand.",
+   "source": "https://sub6life.com/collections/surf-lessons"
+  }
+ ],
+ "shops": [
+  {
+   "name": "Troggs Surf Shop",
+   "type": "Surf shop",
+   "url": "https://www.troggs.com/",
+   "town": "Portrush (88 Main Street)",
+   "note": "The nearest confirmed surf shop, in neighbouring Portrush, with boards, wetsuits and accessories, and a hire desk.",
+   "source": "https://www.troggs.com/pages/about-troggs"
+  },
+  {
+   "name": "SUB6 online surf store",
+   "type": "Surf shop",
+   "url": "https://sub6life.com/",
+   "town": "Online (Portstewart-based school)",
+   "note": "SUB6 sells surf and open-water swimming kit online; no physical shop is confirmed.",
+   "source": "https://www.visitcausewaycoastandglens.com/things-to-do/sub6-surf-and-sup-school-p757371"
+  }
+ ],
+ "lessonsIntro": "Portstewart Strand is a long National Trust beach with its own resident surf school, SUB6, running lessons for complete beginners up to improvers.",
+ "learn": {
+  "text": [
+   "Portstewart Strand is a big sandy National Trust beach between Portstewart and the mouth of the River Bann. SUB6 runs its surf school here with the Trust, teaching small groups, private lessons and kids' camps, with all kit provided. Its instructors hold beach lifeguard and surf coaching qualifications. There's lots of room to spread out, which helps when you're still learning to steer. You can also drive and park on the sand, but cars must leave by the time posted at the entrance.",
+   "Lifeguards cover the strand in July and August within a 100m car-free zone. Outside those months there's no lifeguard cover, so a lesson is the safer way to start. Check the National Trust page before you travel: as of 11 October 2026 there's an Advice Against Bathing notice because of blue-green algae on the tide line, and you should stay out of the water while it's in place. Personal watercraft need a Trust permit and are only allowed in summer."
+  ],
+  "cards": [
+   {
+    "label": "Level",
+    "title": "Beginner to improver",
+    "text": "SUB6 runs beginner groups, private lessons and one-to-one coaching for all levels, with kit supplied."
+   },
+   {
+    "label": "Best time",
+    "title": "July and August for lifeguards",
+    "text": "Lifeguards patrol the car-free zone in summer, and SUB6's kids' camps run in the summer holidays."
+   },
+   {
+    "label": "Watch out for",
+    "title": "Algae notices and cars",
+    "text": "Check for blue-green algae warnings before you go in. Cars use the beach, so take care walking down with a board."
+   }
+  ]
+ },
+ "hireIntro": "SUB6 hires softboards and wetsuits on the strand for people who'd rather not take a lesson.",
+ "kit": {
+  "text": [
+   "A softboard is the right choice for learning here, and it's what SUB6 hires. SUB6's hire wetsuits are 5mm, which suits the cold North Coast water for most of the year; in winter you'll want boots, gloves and a hood as well. If you're bringing a jet ski or similar craft, the National Trust only allows watercraft in June, July and August and you'll need a permit."
+  ],
+  "cards": [
+   {
+    "label": "Board",
+    "title": "Softboard",
+    "text": "SUB6 hires softboards on the strand. Move to a hardboard once you're catching unbroken waves on your own."
+   },
+   {
+    "label": "Wetsuit",
+    "title": "5/3mm most of the year, thicker in winter",
+    "text": "North Coast sea temperature data shows roughly 13-16°C in late summer (a 4/3mm or 5/3mm) and about 7-9°C in late winter, when a 5/4mm or 6/5/4mm with boots, gloves and a hood is advised. Local schools supply 5/3mm or 5mm suits."
+   },
+   {
+    "label": "Other craft",
+    "title": "SUP yes, watercraft by permit",
+    "text": "SUB6 teaches stand-up paddleboarding. Powered watercraft need a National Trust permit and are only allowed June to August, in the designated area."
+   }
+  ]
+ },
+ "shopsIntro": "Portstewart doesn't have a confirmed surf shop of its own, so most people head to Portrush or order from SUB6 online.",
+ "shopsText": [
+  "We couldn't confirm a bricks-and-mortar surf shop in Portstewart itself. The nearest is Troggs in Portrush, which sells boards, wetsuits and accessories and runs a hire desk. SUB6, the school on the strand, has an online store with surf and open-water swimming gear, and you can collect hire kit on the beach."
+ ],
+ "faqs": {
+  "lessons": [
+   {
+    "q": "Who runs surf lessons on Portstewart Strand?",
+    "a": "SUB6, which works in partnership with the National Trust. It runs beginner groups, private and one-to-one lessons, kids' summer camps and surf-and-sauna sessions."
+   },
+   {
+    "q": "Is Portstewart Strand lifeguarded?",
+    "a": "Yes, in July and August, within a 100m car-free zone. There's no lifeguard cover the rest of the year."
+   },
+   {
+    "q": "Can people with disabilities surf at Portstewart?",
+    "a": "SUB6 has showcased all-abilities surfing at National Trust events on the strand and lists adaptive surfing on its site, and the Mae Murray Foundation supports beach access here. Contact SUB6 to discuss what's possible."
+   }
+  ],
+  "hire": [
+   {
+    "q": "Can I hire a surfboard at Portstewart Strand?",
+    "a": "Yes. SUB6 hires softboards and 5mm wetsuits; you book online and collect on the strand."
+   },
+   {
+    "q": "Can I bring a jet ski to Portstewart Strand?",
+    "a": "Only in June, July and August, in the designated area, and you'll need a National Trust watercraft permit."
+   }
+  ],
+  "shops": [
+   {
+    "q": "Is there a surf shop in Portstewart?",
+    "a": "None we could confirm. The nearest is Troggs in Portrush, and SUB6 sells kit online."
+   }
+  ]
+ },
+ "sources": [
+  {
+   "label": "SUB6 surf school, Portstewart",
+   "url": "https://sub6life.com/pages/surf-school-lessons-portrush"
+  },
+  {
+   "label": "SUB6 lessons and hire",
+   "url": "https://sub6life.com/collections/surf-lessons"
+  },
+  {
+   "label": "Visit Causeway Coast and Glens: SUB6",
+   "url": "https://www.visitcausewaycoastandglens.com/things-to-do/sub6-surf-and-sup-school-p757371"
+  },
+  {
+   "label": "National Trust: things to do at Portstewart Strand",
+   "url": "https://www.nationaltrust.org.uk/visit/northern-ireland/portstewart-strand/things-to-do-at-portstewart-strand"
+  },
+  {
+   "label": "National Trust: Portstewart Strand activities",
+   "url": "https://www.nationaltrust.org.uk/portstewart-strand/activities"
+  },
+  {
+   "label": "National Trust: Big Help Out at Portstewart Strand",
+   "url": "https://www.nationaltrust.org.uk/visit/northern-ireland/portstewart-strand/events/dc142d66-5f80-43c5-9591-94ffb387f3d9"
+  },
+  {
+   "label": "Troggs surf shop",
+   "url": "https://www.troggs.com/"
+  },
+  {
+   "label": "About Troggs",
+   "url": "https://www.troggs.com/pages/about-troggs"
+  },
+  {
+   "label": "Surf-Forecast: Portrush East Strand sea temperature",
+   "url": "https://www.surf-forecast.com/breaks/Portrush_East-Strand/seatemp"
+  }
+ ],
+ "factCheck": [
+  {
+   "fact": "SUB6 surf school at Portstewart Strand, in partnership with the National Trust, address 118 Strand Road; instructors hold Beach Lifeguard and ASI Level 1-3",
+   "url": "https://sub6life.com/pages/surf-school-lessons-portrush"
+  },
+  {
+   "fact": "SUB6 products at Portstewart Strand: private lessons, 1:1 lessons, softboard hire, 5mm wetsuit hire, surf & sauna",
+   "url": "https://sub6life.com/collections/surf-lessons"
+  },
+  {
+   "fact": "SUB6 described as only ASI-accredited surf & SUP school in NI; surf and SUP hire on the strand via online store; lifeguards July-August within 100m car-free zone",
+   "url": "https://www.nationaltrust.org.uk/visit/northern-ireland/portstewart-strand/things-to-do-at-portstewart-strand"
+  },
+  {
+   "fact": "Advice Against Bathing notice from 11 October 2026 for blue-green algae; watercraft June-August only with permit; cars must leave by posted time",
+   "url": "https://www.nationaltrust.org.uk/portstewart-strand/activities"
+  },
+  {
+   "fact": "SUB6 showcased all-abilities surfing at a National Trust event with the Mae Murray Foundation",
+   "url": "https://www.nationaltrust.org.uk/visit/northern-ireland/portstewart-strand/events/dc142d66-5f80-43c5-9591-94ffb387f3d9"
+  },
+  {
+   "fact": "SUB6 online surf store",
+   "url": "https://www.visitcausewaycoastandglens.com/things-to-do/sub6-surf-and-sup-school-p757371"
+  },
+  {
+   "fact": "Troggs main store at 88 Main Street, Portrush",
+   "url": "https://www.troggs.com/pages/about-troggs"
+  },
+  {
+   "fact": "Sea temperature and wetsuit guidance",
+   "url": "https://www.surf-forecast.com/breaks/Portrush_East-Strand/seatemp"
+  }
+ ],
+ "gaps": "No physical surf shop confirmed in Portstewart (Troggs' history mentions a Portstewart store opened in 1994 but its site doesn't list it as current; Ocean Warriors' site is live with seasonal hire but couldn't be confirmed as trading, so both are left out). Troggs and Portrush Surf School (listed as existing providers) don't mention Portstewart on their own sites. No minimum lesson age found for SUB6. RNLI page didn't load; NT gives only 'July to August' for lifeguards. Bann mouth hazards not described by any official source."
+}

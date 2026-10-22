@@ -1,0 +1,22 @@
+{
+ "name": "Purbeck House Hotel",
+ "officialUrl": "https://www.purbeckhousehotel.co.uk/",
+ "trading": true,
+ "stayType": "Town-centre hotel",
+ "accommodation": "En suite singles, doubles, twins, sea-view and superior rooms in the main house and Louisa Lodge",
+ "suitableFor": "Couples and groups",
+ "parking": "Large car park",
+ "dogs": null,
+ "beachAccess": "350 yards from the beach",
+ "boardStorage": null,
+ "confirmedFeatures": "Conservatory breakfast, Bar 1875, meeting rooms, wedding venue, balcony rooms in Louisa Lodge",
+ "overview": "A hotel in Swanage town about 350 yards from the beach, with rooms in the main house and the Louisa Lodge annexe. All are en suite, some look over Swanage Bay, and there is a large car park and a bar.",
+ "surfTripFit": "A short walk to the beach with its own car park, handy for loading boards.",
+ "sources": [
+  {
+   "label": "Official site",
+   "url": "https://www.purbeckhousehotel.co.uk/"
+  }
+ ],
+ "slug": "purbeck-house-hotel"
+}

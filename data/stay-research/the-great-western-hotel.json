@@ -1,0 +1,26 @@
+{
+ "slug": "the-great-western-hotel",
+ "officialUrl": "https://www.greatwesternnewquay.co.uk/",
+ "trading": true,
+ "stayType": "Clifftop pub with rooms",
+ "accommodation": "Hotel-style bedrooms, including family rooms and dog-friendly rooms; number of rooms not stated.",
+ "suitableFor": "Couples, families and dog owners wanting a pub base on the Newquay headland.",
+ "parking": null,
+ "dogs": "Dogs welcome; dog-friendly rooms available.",
+ "beachAccess": "Overlooks Great Western Beach; the pub describes itself as a short walk from one of Newquay's main sandy beaches (no distance given).",
+ "boardStorage": null,
+ "confirmedFeatures": "Bar, restaurant, garden, ocean-view terrace, sports screening, venue hire",
+ "overview": "The Great Western is a St Austell Brewery pub with rooms on Cliff Road, perched above Great Western Beach in the centre of Newquay. It has open-plan bar and dining areas, a sea-view terrace and garden, and is close to the town's shops and restaurants. The building is part of a phased refurbishment running from 2026 to 2028.",
+ "surfTripFit": "Its clifftop spot above Great Western Beach, with Towan and Tolcarne close by, makes it a walkable base for Newquay's town beaches, and dog-friendly rooms help travelling surfers with dogs.",
+ "sources": [
+  {
+   "label": "Great Western official site",
+   "url": "https://www.greatwesternnewquay.co.uk/"
+  },
+  {
+   "label": "Wikipedia: Great Western Hotel, Newquay",
+   "url": "https://en.wikipedia.org/wiki/Great_Western_Hotel,_Newquay"
+  }
+ ],
+ "gaps": "Rooms page failed to load, so room count/types unconfirmed; parking and board storage not stated; refurbishment phases 2026-28 may affect availability."
+}

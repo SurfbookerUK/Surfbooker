@@ -1,0 +1,229 @@
+{
+ "slug": "bigbury-on-sea",
+ "schools": [
+  {
+   "name": "Discovery Surf School",
+   "type": "Surf school",
+   "url": "https://discoverysurf.com/",
+   "base": "Lower level of the Bigbury-on-Sea beach car park, next to Venus Cafe (TQ7 4AS)",
+   "note": "Group lessons from age 6 for confident swimmers (50m), one-to-one lessons from age 4, private family lessons, SUP lessons, surf clubs and special needs surfing.",
+   "source": "https://discoverysurf.com/pages/faq"
+  },
+  {
+   "name": "Bantham Surfing Academy",
+   "type": "Surf school",
+   "url": "https://www.banthamsurfingacademy.co.uk/",
+   "base": "Mobile; teaches around Sedgewell Cove and Bigbury Bay, reaching Bantham via Sedgewell",
+   "note": "Beginner, kids', improver, private and bodyboarding lessons, plus SUP lessons and tours and a kids' surf club. Picks the best spot each day.",
+   "source": "https://www.banthamsurfingacademy.co.uk/"
+  }
+ ],
+ "hire": [
+  {
+   "name": "Discovery Surf School",
+   "type": "Board & wetsuit hire",
+   "url": "https://discoverysurf.com/pages/hire",
+   "base": "Bigbury-on-Sea lower car park, plus a beach hire station on the causeway side in the summer holidays",
+   "note": "Surfboards, wetsuits (including shorties), bodyboards, SUPs, an XL SUP and kayaks, with boots, gloves and hoods. A free beach wheelchair is available.",
+   "source": "https://discoverysurf.com/pages/hire"
+  },
+  {
+   "name": "Bantham Surfing Academy",
+   "type": "Board & wetsuit hire",
+   "url": "https://www.banthamsurfingacademy.co.uk/hire",
+   "base": "Hire base signposted about 5 minutes from Bantham beach (check before you go, as the school is now mobile)",
+   "note": "Surfboards from 6ft to 9ft, inflatable SUPs, bodyboards, kayaks, wetsuits, boots, hoods and gloves, from an hour to a full day.",
+   "source": "https://www.banthamsurfingacademy.co.uk/hire"
+  },
+  {
+   "name": "Triocean Surf",
+   "type": "Board & wetsuit hire",
+   "url": "https://www.trioceansurf.co.uk/",
+   "base": "Hire at Bantham; shop about 2 miles from the beach",
+   "note": "Wetsuits, surfboards, bodyboards, kayaks and paddleboards, with staff matching kit to your ability and the day's conditions.",
+   "source": "https://www.trioceansurf.co.uk/"
+  }
+ ],
+ "shops": [
+  {
+   "name": "Discovery Surf School shop",
+   "type": "Surf shop",
+   "url": "https://discoverysurf.com/pages/bigbury-shop",
+   "town": "Bigbury-on-Sea (lower beach car park)",
+   "note": "Small shop selling Discovery hoodies and changing robes; ex-school boards are sold online.",
+   "source": "https://discoverysurf.com/pages/bigbury-shop"
+  },
+  {
+   "name": "Triocean Surf",
+   "type": "Surf shop",
+   "url": "https://www.trioceansurf.co.uk/",
+   "town": "Churchstow, near Kingsbridge (about 2 miles from Bantham)",
+   "note": "Wetsuits including Xcel and C-Skins, surfboards, bodyboards, SUPs, kayaks and hardware. Workshop repairs surfboards, SUPs and wetsuits.",
+   "source": "https://www.trioceansurf.co.uk/"
+  }
+ ],
+ "lessonsIntro": "Bigbury-on-Sea has a surf school in the beach car park, and the wide, gently shelving beach is a friendly place for families to learn.",
+ "learn": {
+  "text": [
+   "Bigbury is a family beach with a gently sloping shoreline, and local guides rate it highly for beginners. Discovery Surf School runs lessons from the lower car park next to Venus Cafe, and says Bigbury can run in most surf and weather conditions. Lesson times move with the tide so you're in the water when the waves are likely to be best. If it's flat, you can usually switch to a paddleboard lesson.",
+   "The beach faces Burgh Island, and at low tide a sand causeway links the two. As the tide comes in the sea covers the causeway, so keep an eye on the water if you're walking out. RNLI lifeguards cover Bigbury in the peak summer weeks only, from 11 July to 6 September in 2026. Outside those dates there's no patrol, so learning with a school is the safest option."
+  ],
+  "cards": [
+   {
+    "label": "Level",
+    "title": "Beginners and families",
+    "text": "Gently sloping sand and a surf school on site make it a good first beach."
+   },
+   {
+    "label": "Best time",
+    "title": "Summer holidays",
+    "text": "RNLI lifeguards patrol 11 July to 6 September 2026, 10am to 6pm."
+   },
+   {
+    "label": "Watch out for",
+    "title": "The tide on the causeway",
+    "text": "The incoming tide covers the causeway to Burgh Island. No flags means no lifeguards."
+   }
+  ]
+ },
+ "hireIntro": "You can hire surf kit from the beach car park, and in the summer holidays there's a hire station on the beach by the causeway.",
+ "kit": {
+  "text": [
+   "A big soft board is the right choice while you learn; improvers can move to a mid-length when the waves are cleaner. Bigbury's calm days suit paddleboards and kayaks, both available to hire. The sea here runs from about 15-19C in mid-August to 9-10C in early March. A 3/2mm or 4/3mm suits summer; in colder months Discovery Surf School puts everyone in a 5mm suit, with boots, gloves and a hood available."
+  ],
+  "cards": [
+   {
+    "label": "Board",
+    "title": "Soft board to begin",
+    "text": "Start on a soft board; step down in size as you start catching unbroken waves."
+   },
+   {
+    "label": "Wetsuit",
+    "title": "3/2 summer, 5mm winter",
+    "text": "A 3/2mm or 4/3mm in summer; a 5mm suit with boots, gloves and a hood in the colder months."
+   },
+   {
+    "label": "Other craft",
+    "title": "SUP and kayaks",
+    "text": "Paddleboards and kayaks are hired from the causeway side in summer. An XL SUP needs at least three good paddlers."
+   }
+  ]
+ },
+ "shopsIntro": "There's a small surf school shop in the beach car park, and a full surf shop a short drive away near Kingsbridge.",
+ "shopsText": [
+  "Discovery Surf School's shop in the lower beach car park sells its own hoodies and changing robes, and you can hire boards and wetsuits there. For buying a board or wetsuit, Triocean Surf at Churchstow near Kingsbridge stocks wetsuits, surfboards, bodyboards and paddleboards, and repairs boards and wetsuits."
+ ],
+ "faqs": {
+  "lessons": [
+   {
+    "q": "Where is the surf school at Bigbury?",
+    "a": "Discovery Surf School is on the lower level of the beach car park, next to Venus Cafe (TQ7 4AS)."
+   },
+   {
+    "q": "What if there are no waves?",
+    "a": "Discovery offers to reschedule, refund or, for suitable groups, switch you to a paddleboard lesson."
+   },
+   {
+    "q": "Do I need to be able to swim?",
+    "a": "Yes. Group lessons need you to swim 50m confidently. Less confident swimmers can book a one-to-one lesson."
+   }
+  ],
+  "hire": [
+   {
+    "q": "Can I hire on the beach itself?",
+    "a": "In the main summer holidays, when the weather is good, Discovery runs a hire station on the causeway side for SUPs, kayaks and bodyboards."
+   },
+   {
+    "q": "Is there an accessible beach wheelchair?",
+    "a": "Discovery Surf School has a free beach wheelchair available."
+   }
+  ],
+  "shops": [
+   {
+    "q": "Can I buy a wetsuit at Bigbury?",
+    "a": "The beach shop sells hoodies and robes. For wetsuits, Triocean Surf near Kingsbridge is the nearest specialist."
+   }
+  ]
+ },
+ "sources": [
+  {
+   "label": "Discovery Surf School",
+   "url": "https://discoverysurf.com/"
+  },
+  {
+   "label": "Discovery Surf School FAQ",
+   "url": "https://discoverysurf.com/pages/faq"
+  },
+  {
+   "label": "Discovery Surf School map",
+   "url": "https://discoverysurf.com/pages/map"
+  },
+  {
+   "label": "Discovery Surf School hire",
+   "url": "https://discoverysurf.com/pages/hire"
+  },
+  {
+   "label": "Discovery Surf School Bigbury shop",
+   "url": "https://discoverysurf.com/pages/bigbury-shop"
+  },
+  {
+   "label": "Bantham Surfing Academy",
+   "url": "https://www.banthamsurfingacademy.co.uk/"
+  },
+  {
+   "label": "Triocean Surf",
+   "url": "https://www.trioceansurf.co.uk/"
+  },
+  {
+   "label": "RNLI: Bigbury-on-Sea beach",
+   "url": "https://rnli.org/find-my-nearest/lifeguarded-beaches/bigbury-on-sea-beach"
+  },
+  {
+   "label": "Visit South Devon: Bigbury-on-Sea beach",
+   "url": "https://www.visitsouthdevon.co.uk/things-to-do/bigbury-on-sea-beach-p232883"
+  },
+  {
+   "label": "Coast & Country: surfing in South Devon",
+   "url": "https://www.coastandcountry.co.uk/blog/surfing-south-devon"
+  },
+  {
+   "label": "Surf-forecast: Bantham sea temperature",
+   "url": "https://www.surf-forecast.com/breaks/Bantham/seatemp"
+  }
+ ],
+ "factCheck": [
+  {
+   "fact": "Discovery in lower car park next to Venus Cafe TQ7 4AS; causeway hire trailer in peak season",
+   "url": "https://discoverysurf.com/pages/map"
+  },
+  {
+   "fact": "Bigbury runs in most conditions; lesson times set by tides; reschedule/refund/SUP switch",
+   "url": "https://discoverysurf.com/pages/faq"
+  },
+  {
+   "fact": "Hire list incl. XL SUP needing 3 paddlers, free beach wheelchair",
+   "url": "https://discoverysurf.com/pages/hire"
+  },
+  {
+   "fact": "Bigbury shop sells hoodies and change robes",
+   "url": "https://discoverysurf.com/pages/bigbury-shop"
+  },
+  {
+   "fact": "Bantham Surfing Academy teaches at Sedgewell Cove / Bigbury Bay",
+   "url": "https://www.banthamsurfingacademy.co.uk/"
+  },
+  {
+   "fact": "RNLI lifeguards 11 July-6 Sept 2026",
+   "url": "https://rnli.org/find-my-nearest/lifeguarded-beaches/bigbury-on-sea-beach"
+  },
+  {
+   "fact": "Gently sloping shoreline; causeway covered as tide comes in",
+   "url": "https://www.visitsouthdevon.co.uk/things-to-do/bigbury-on-sea-beach-p232883"
+  },
+  {
+   "fact": "Bigbury described as spot for beginners, family-friendly",
+   "url": "https://www.coastandcountry.co.uk/blog/surfing-south-devon"
+  }
+ ],
+ "gaps": "No rip-current or other learner-specific hazard info from RNLI/council for Bigbury. Bantham Surfing Academy's exact meeting point varies (mobile). No dedicated board/wetsuit retailer in Bigbury itself; Triocean distance from Bigbury not stated (only from Bantham)."
+}

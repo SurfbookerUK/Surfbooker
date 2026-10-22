@@ -1,0 +1,114 @@
+{
+ "slug": "eastbourne",
+ "schools": [],
+ "hire": [],
+ "shops": [],
+ "lessonsIntro": "We couldn't confirm a surf school teaching in Eastbourne; the nearest lessons we could verify are with Brighton Watersports, mostly in Shoreham.",
+ "learn": {
+  "text": [
+   "We couldn't find a surf school with its own website confirming lessons at Eastbourne. Buzz Active, on Royal Parade, teaches paddleboarding, windsurfing, sailing and kayaking, but its tourism listing doesn't mention surfing. If you want a surf lesson in Sussex, Brighton Watersports runs mobile lessons, mostly at Shoreham, with wetsuits included.",
+   "Eastbourne faces south-east into the Channel, and surf here depends on passing swell and wind. As we couldn't confirm lifeguard cover or hazards from the council or RNLI, don't head out alone if you're new. Learn with a school first, and check conditions and safety signs on the day."
+  ],
+  "cards": [
+   {
+    "label": "Level",
+    "title": "Not confirmed",
+    "text": "No surf school confirmed here. Paddleboarding lessons are available at Buzz Active."
+   },
+   {
+    "label": "Best time",
+    "title": "When there's swell",
+    "text": "Waves are occasional. Check a forecast before travelling."
+   },
+   {
+    "label": "Watch out for",
+    "title": "No confirmed lifeguard info",
+    "text": "We couldn't confirm lifeguard cover, so beginners should learn elsewhere with an instructor first."
+   }
+  ]
+ },
+ "hireIntro": "We couldn't confirm surfboard or wetsuit hire in Eastbourne.",
+ "kit": {
+  "text": [
+   "With small, occasional Channel waves, a large foam board or a longboard gives you the best chance of catching something. Water on the Sussex coast runs from about 6 to 8°C in late winter to 17 to 19°C in late summer, according to Wittering Surf Shop. On flat days, Buzz Active on Royal Parade offers paddleboarding courses."
+  ],
+  "cards": [
+   {
+    "label": "Board",
+    "title": "Big and floaty",
+    "text": "Foam boards or longboards make the most of small waves."
+   },
+   {
+    "label": "Wetsuit",
+    "title": "3/2 summer, 5/4 winter",
+    "text": "Wittering Surf Shop, further west on the same coast, suggests a 3/2 or shorty July to October, 4/3 in May, June and November, and 5/4 with boots and gloves December to April."
+   },
+   {
+    "label": "Other craft",
+    "title": "Paddleboarding",
+    "text": "Buzz Active on Royal Parade runs SUP courses as well as kayaking and windsurfing."
+   }
+  ]
+ },
+ "shopsIntro": "We couldn't confirm a surf shop in Eastbourne.",
+ "shopsText": [
+  "We couldn't confirm a dedicated surf shop in Eastbourne. The nearest we could verify is Brighton Watersports on Brighton seafront, which sells wetsuits, boards and accessories in store and online."
+ ],
+ "faqs": {
+  "lessons": [
+   {
+    "q": "Can I take a surf lesson in Eastbourne?",
+    "a": "We couldn't confirm one. Brighton Watersports runs lessons, mostly at Shoreham."
+   },
+   {
+    "q": "What watersports can I learn in Eastbourne?",
+    "a": "Buzz Active on Royal Parade teaches sailing, windsurfing, kayaking, powerboating and paddleboarding."
+   },
+   {
+    "q": "Is Eastbourne good for beginner surfers?",
+    "a": "Waves are occasional, and we couldn't confirm lifeguard cover, so learn with a school first."
+   }
+  ],
+  "hire": [
+   {
+    "q": "Can I hire a surfboard in Eastbourne?",
+    "a": "We couldn't confirm surf hire in Eastbourne."
+   },
+   {
+    "q": "What wetsuit do I need?",
+    "a": "Wittering Surf Shop suggests a 3/2 in late summer and autumn and a 5/4 with boots and gloves in winter on the Sussex coast."
+   }
+  ],
+  "shops": [
+   {
+    "q": "Is there a surf shop in Eastbourne?",
+    "a": "We couldn't confirm one. Brighton Watersports on Brighton seafront is the nearest we verified."
+   }
+  ]
+ },
+ "sources": [
+  {
+   "label": "Visit Eastbourne - Buzz Active",
+   "url": "https://www.visiteastbourne.com/things-to-do/buzz-active-eastbourne-outdoor-sports-centre-p1238201"
+  },
+  {
+   "label": "Brighton Watersports - Surf school",
+   "url": "https://thebrightonwatersports.co.uk/surf-school.html"
+  },
+  {
+   "label": "Wittering Surf Shop - Surf report",
+   "url": "https://witteringsurfshop.com/pages/surf-report"
+  }
+ ],
+ "factCheck": [
+  {
+   "fact": "Buzz Active, Royal Parade BN22 7LD: sailing, windsurfing, kayaking, powerboating, SUP; no surfing listed",
+   "url": "https://www.visiteastbourne.com/things-to-do/buzz-active-eastbourne-outdoor-sports-centre-p1238201"
+  },
+  {
+   "fact": "Brighton Watersports lessons mostly Shoreham",
+   "url": "https://thebrightonwatersports.co.uk/surf-school.html"
+  }
+ ],
+ "gaps": "No surf school, surf hire or surf shop confirmed in Eastbourne. No lifeguard/hazard info from Eastbourne Borough Council or RNLI. Consider whether Eastbourne warrants surf pages."
+}

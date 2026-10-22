@@ -1,0 +1,22 @@
+{
+ "name": "Silver Cottage Bed & Breakfast",
+ "officialUrl": "https://silvercottagebraunton.co.uk/",
+ "trading": true,
+ "stayType": "B&B in a listed cottage",
+ "accommodation": "B&B accommodation (room details not stated on home page)",
+ "suitableFor": "Couples wanting a characterful B&B",
+ "parking": null,
+ "dogs": null,
+ "beachAccess": null,
+ "boardStorage": null,
+ "confirmedFeatures": "Grade II listed cottage, terraced garden",
+ "overview": "A B&B in a Grade II listed cottage on Silver Street in Braunton, with a terraced garden surrounded by woodland. It is a short drive from Saunton Sands and the village's shops and cafés are close by.",
+ "surfTripFit": "A quiet base in Braunton for surfing Saunton, with Croyde also within easy reach.",
+ "sources": [
+  {
+   "label": "Silver Cottage B&B",
+   "url": "https://silvercottagebraunton.co.uk/"
+  }
+ ],
+ "slug": "silver-cottage-bed-and-breakfast"
+}

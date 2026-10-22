@@ -1,0 +1,233 @@
+{
+ "slug": "newgale",
+ "schools": [
+  {
+   "name": "Newsurf",
+   "type": "Surf school",
+   "url": "https://www.newsurf.co.uk/",
+   "base": "Beachfront at the northern end of Newgale, next to the Duke of Edinburgh pub (SA62 6AS)",
+   "note": "Group, private, private family (up to five) and children's lessons for beginners and intermediates, run all year. Board and wetsuit are included, minimum age 8 and you need to be able to swim.",
+   "source": "https://www.newsurf.co.uk/surf-lessons/"
+  },
+  {
+   "name": "Outer Reef Surf School",
+   "type": "Surf school",
+   "url": "https://www.outerreefsurfschool.com/surf-lessons/",
+   "base": "Office in Pembroke (Unit 4, Upper Lamphey Road); you meet your instructor at the beach confirmed for your session",
+   "note": "Newgale is one of several beaches Outer Reef uses, picked on the day for the safest conditions, so your lesson could move to Freshwater West or Manorbier. Group, private, family, improver and women's sessions, ages 7 and up.",
+   "source": "https://outerreef.nexmedia.co.uk/surf-lessons/surf-lessons-newgale-beach-outer-reef-surf-school-pembrokeshire-wales/"
+  },
+  {
+   "name": "Pembrokeshire Surf School",
+   "type": "Surf school",
+   "url": "https://pembrokeshiresurfschool.co.uk/",
+   "base": "Keeston, near Haverfordwest; beach chosen the evening before from the forecast",
+   "note": "Teaches at Newgale, Whitesands and Broad Haven and says Newgale is best for beginners around mid tide. Beginner/improver, one-to-one, small-group and adults' weekend courses, minimum age 8.",
+   "source": "https://pembrokeshiresurfschool.co.uk/learn-to-surf/"
+  },
+  {
+   "name": "Board Games Surfing",
+   "type": "Surf school",
+   "url": "https://www.boardgamessurfing.com/",
+   "base": "Newgale beach is given as the meeting point on its Visit Pembrokeshire listing; the business is based in Lower Town, Fishguard",
+   "note": "Small-group and private surf and paddleboard sessions with all kit included. Its website says coaching is paused for winter and returns in summer 2027, with group bookings of four or more still possible.",
+   "source": "https://www.visitpembrokeshire.com/activity-listing/board-games-surfing-ltd"
+  }
+ ],
+ "hire": [
+  {
+   "name": "Newsurf",
+   "type": "Board & wetsuit hire",
+   "url": "https://www.newsurf.co.uk/",
+   "base": "Beachfront, northern end of Newgale",
+   "note": "Soft boards for beginners, hard boards for intermediate and advanced surfers, bodyboards, SUPs and O'Neill wetsuits (child age 2 up to adult XXXL), by the day or week. Book in store or online; hot showers and changing rooms on site.",
+   "source": "https://www.newsurf.co.uk/hire-equipment"
+  }
+ ],
+ "shops": [
+  {
+   "name": "Newsurf",
+   "type": "Surf shop",
+   "url": "https://www.newsurf.co.uk/",
+   "town": "Newgale",
+   "note": "Surf shop and café on the beachfront selling boards, accessories and clothing, including Newgale-branded tops sold only in store. Open seven days, dawn to dusk, according to Visit Pembrokeshire.",
+   "source": "https://www.visitpembrokeshire.com/activity-listing/newsurf"
+  }
+ ],
+ "lessonsIntro": "Newgale's long, open beach is one of the main places to learn in St Brides Bay, with a school based right on the beachfront and several others bringing groups here when conditions suit.",
+ "learn": {
+  "text": [
+   "Newgale is a long, open beach at the head of St Brides Bay, and Visit Pembrokeshire calls it a consistent surf spot. It also describes the waves as generally not very powerful and says the beach is popular with longboarders and paddleboarders, which is good news if you're starting out. Newsurf runs lessons from its beachfront base at the northern end, and other schools choose Newgale on days when it is the best option.",
+   "Pembrokeshire Surf School says Newgale works best for beginners around mid tide. In summer the RNLI patrols a section of the beach daily, from 4 July to 6 September in 2026, 10am to 6pm; swim and bodyboard between the red and yellow flags. Visit Pembrokeshire flags currents as a hazard, and a stream crosses the beach. The tide can cut you off from the low-tide bays to the south, so check times first."
+  ],
+  "cards": [
+   {
+    "label": "Level",
+    "title": "Good for first-timers",
+    "text": "Generally gentle waves and lots of space make Newgale a common lesson beach for beginners and improvers, when the swell is manageable."
+   },
+   {
+    "label": "Best time",
+    "title": "Mid tide, summer to autumn",
+    "text": "Local coaching advice is that mid tide suits beginners best. Newsurf teaches all year, and lifeguards patrol through the summer holidays."
+   },
+   {
+    "label": "Watch out for",
+    "title": "Currents and the incoming tide",
+    "text": "Visit Pembrokeshire warns about currents off the beach. Stay between the flags when lifeguards are on, and watch the tide if you walk to the southern bays."
+   }
+  ]
+ },
+ "hireIntro": "You can hire boards, wetsuits and SUPs right on the beachfront at Newgale, so there's no need to bring your own kit for a first go.",
+ "kit": {
+  "text": [
+   "Newgale usually offers softer, rolling waves, so a big soft-top is the right board for your first sessions, and Newsurf hires them by the day. Once you're catching unbroken waves you can move on to a hard board. The water here is cool even in summer, so a full wetsuit is needed year-round, with boots and gloves in winter. Bodyboarding is popular in the flagged zone, and SUPs suit calm, flat days."
+  ],
+  "cards": [
+   {
+    "label": "Board",
+    "title": "Soft-top to start",
+    "text": "Newsurf describes its soft boards as for beginners and its hard boards as for intermediate to advanced surfers. Longboards suit the gentle waves too."
+   },
+   {
+    "label": "Wetsuit",
+    "title": "4/3mm in summer, 5mm or more in winter",
+    "text": "Sea temperature data for the south Pembrokeshire coast suggests a 4/3 or 3/2 in mid-August and a 5/4 or thicker with boots, gloves and a hood around late February, when the water drops to roughly 7 to 9°C. Spring and autumn sit in between."
+   },
+   {
+    "label": "Other craft",
+    "title": "Bodyboards and SUP",
+    "text": "Bodyboards and SUPs are available to hire. Lifeguards ask bodyboarders to stay between the red and yellow flags, and kitesurfers also use the beach."
+   }
+  ]
+ },
+ "shopsIntro": "Newgale has its own surf shop on the beachfront, so you can pick up wax, a leash or a new wetsuit without leaving the beach.",
+ "shopsText": [
+  "Newsurf sits at the northern end of the beach next to the Duke of Edinburgh pub, combining a surf shop, café, hire centre and surf school. It sells boards, accessories and clothing from well-known surf brands. Visit Pembrokeshire also notes a café and beach shop at the southern end of the beach. For a wider choice, Haven Sports in Broad Haven is further south along St Brides Bay."
+ ],
+ "faqs": {
+  "lessons": [
+   {
+    "q": "Is Newgale good for beginner surf lessons?",
+    "a": "Yes, in the right conditions. The waves are usually fairly gentle and the beach is long, and local schools say mid tide suits beginners best. Schools may move you to another beach if Newgale is too big or messy."
+   },
+   {
+    "q": "How old do you have to be for a lesson at Newgale?",
+    "a": "Newsurf and Pembrokeshire Surf School take children from age 8, and Outer Reef from age 7. Newsurf asks that everyone can swim."
+   },
+   {
+    "q": "Do I need my own wetsuit for a lesson?",
+    "a": "No. Newsurf includes the board and wetsuit in its lessons, and the other schools that teach here also provide kit. Bring swimwear and a towel."
+   }
+  ],
+  "hire": [
+   {
+    "q": "Can I hire a surfboard at Newgale?",
+    "a": "Yes. Newsurf on the beachfront hires soft boards for beginners, hard boards for more experienced surfers, bodyboards, SUPs and wetsuits, by the day or week."
+   },
+   {
+    "q": "Do I need to book hire in advance?",
+    "a": "Newsurf lets you book in store or online. Booking ahead is sensible in the summer holidays, and you should check its terms before you go."
+   }
+  ],
+  "shops": [
+   {
+    "q": "Is there a surf shop at Newgale?",
+    "a": "Yes. Newsurf, at the northern end of the beach, sells boards, accessories and clothing and also has a café, showers and changing rooms."
+   }
+  ]
+ },
+ "sources": [
+  {
+   "label": "Newsurf: surf lessons",
+   "url": "https://www.newsurf.co.uk/surf-lessons/"
+  },
+  {
+   "label": "Newsurf: equipment hire",
+   "url": "https://www.newsurf.co.uk/hire-equipment"
+  },
+  {
+   "label": "Visit Pembrokeshire: Newsurf listing",
+   "url": "https://www.visitpembrokeshire.com/activity-listing/newsurf"
+  },
+  {
+   "label": "Outer Reef: Newgale lessons",
+   "url": "https://outerreef.nexmedia.co.uk/surf-lessons/surf-lessons-newgale-beach-outer-reef-surf-school-pembrokeshire-wales/"
+  },
+  {
+   "label": "Outer Reef: surf lessons",
+   "url": "https://www.outerreefsurfschool.com/surf-lessons/"
+  },
+  {
+   "label": "Pembrokeshire Surf School: learn to surf",
+   "url": "https://pembrokeshiresurfschool.co.uk/learn-to-surf/"
+  },
+  {
+   "label": "Visit Pembrokeshire: Board Games Surfing",
+   "url": "https://www.visitpembrokeshire.com/activity-listing/board-games-surfing-ltd"
+  },
+  {
+   "label": "Board Games Surfing",
+   "url": "https://www.boardgamessurfing.com/"
+  },
+  {
+   "label": "RNLI: Newgale",
+   "url": "https://rnli.org/find-my-nearest/lifeguarded-beaches/newgale-south-beach"
+  },
+  {
+   "label": "Visit Pembrokeshire: Newgale beach",
+   "url": "https://www.visitpembrokeshire.com/explore-pembrokeshire/beaches/newgale"
+  },
+  {
+   "label": "Visit Pembrokeshire: where to surf",
+   "url": "https://www.visitpembrokeshire.com/articles/surfing-in-pembrokeshire-where-best"
+  },
+  {
+   "label": "Surf-forecast: sea temperature",
+   "url": "https://www.surf-forecast.com/breaks/Manorbier/seatemp"
+  }
+ ],
+ "factCheck": [
+  {
+   "fact": "Newsurf lessons: group, private, private family up to five, children; min age 8; must swim; board and wetsuit included; run all year",
+   "url": "https://www.newsurf.co.uk/surf-lessons/"
+  },
+  {
+   "fact": "Newsurf hires soft boards, hard boards, SUP, O'Neill wetsuits age 2 to XXXL, bodyboards; day or week",
+   "url": "https://www.newsurf.co.uk/hire-equipment"
+  },
+  {
+   "fact": "Newsurf is beachfront next to the Duke of Edinburgh pub, open 7 days dawn to dusk, hot showers and changing rooms",
+   "url": "https://www.visitpembrokeshire.com/activity-listing/newsurf"
+  },
+  {
+   "fact": "Pembrokeshire Surf School: Newgale best at mid tide for beginners; min age 8",
+   "url": "https://pembrokeshiresurfschool.co.uk/learn-to-surf/"
+  },
+  {
+   "fact": "Outer Reef uses Newgale depending on conditions, may move to Freshwater West or Manorbier",
+   "url": "https://outerreef.nexmedia.co.uk/surf-lessons/surf-lessons-newgale-beach-outer-reef-surf-school-pembrokeshire-wales/"
+  },
+  {
+   "fact": "Board Games Surfing meeting point Newgale",
+   "url": "https://www.visitpembrokeshire.com/activity-listing/board-games-surfing-ltd"
+  },
+  {
+   "fact": "Board Games Surfing paused for winter, returning summer 2027",
+   "url": "https://www.boardgamessurfing.com/"
+  },
+  {
+   "fact": "RNLI lifeguards daily 4 July to 6 September 2026, 10am to 6pm",
+   "url": "https://rnli.org/find-my-nearest/lifeguarded-beaches/newgale-south-beach"
+  },
+  {
+   "fact": "Waves generally not very powerful; mostly longboarders and paddleboarders",
+   "url": "https://www.visitpembrokeshire.com/articles/surfing-in-pembrokeshire-where-best"
+  },
+  {
+   "fact": "Beware currents; stream crosses beach; tide can cut off low-tide bays; café/beach shop at southern end",
+   "url": "https://www.visitpembrokeshire.com/explore-pembrokeshire/beaches/newgale"
+  }
+ ],
+ "gaps": "Board Games Surfing's own website doesn't name Newgale (only its Visit Pembrokeshire listing does) and gives a minimum age of 10 while the listing says 8. Pembrokeshire Surf School's site shows no 2025/26 dates, so check it's running. No surf repair service confirmed locally."
+}

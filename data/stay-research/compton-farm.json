@@ -1,0 +1,26 @@
+{
+ "name": "Compton Farm",
+ "officialUrl": "https://www.comptonfarm.co.uk/",
+ "trading": true,
+ "stayType": "Farm campsite with static caravans",
+ "accommodation": "Camping pitches in a meadow field plus 12 static caravans; open May to October",
+ "suitableFor": "Campers, families, walkers and cyclists",
+ "parking": "On-site parking (Visit Isle of Wight listing)",
+ "dogs": "Welcome on a lead (Visit Isle of Wight listing)",
+ "beachAccess": "About a quarter of a mile from Compton Bay",
+ "boardStorage": null,
+ "confirmedFeatures": "Shower and toilet blocks, laundry with tumble dryer, play area, waste disposal, ice pack freezing, online booking",
+ "overview": "Compton Farm is a working farm at Brook with a camping meadow and a dozen static caravans, about a quarter of a mile from Compton Bay. It opens from May to October, has shower blocks and a small laundry, and welcomes dogs on a lead. Walkers and cyclists can get half-price pitches when there is space.",
+ "surfTripFit": "The nearest place to stay to Compton Bay, close enough to walk down for a session and back for a hot shower.",
+ "sources": [
+  {
+   "label": "Official website",
+   "url": "https://www.comptonfarm.co.uk/"
+  },
+  {
+   "label": "Visit Isle of Wight listing",
+   "url": "https://www.visitisleofwight.co.uk/accommodation/compton-farm-p146911"
+  }
+ ],
+ "slug": "compton-farm"
+}

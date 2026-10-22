@@ -1,0 +1,26 @@
+{
+ "name": "Brockley Hall Hotel",
+ "officialUrl": "https://www.brockleyhallhotel.com/",
+ "trading": true,
+ "stayType": "Town-centre hotel",
+ "accommodation": "30 rooms, all with private bathrooms",
+ "suitableFor": "Couples and groups wanting a hotel with restaurant",
+ "parking": null,
+ "dogs": null,
+ "beachAccess": "In Saltburn town; no distance stated",
+ "boardStorage": null,
+ "confirmedFeatures": "Restaurant, brasserie, bar, afternoon tea, private dining, events",
+ "overview": "A hotel in Saltburn with 30 rooms, each with its own bathroom, plus a restaurant, brasserie and bar open to non-residents. It is in the town itself, so the cliff lift and the walk down to the beach and pier are close at hand.",
+ "surfTripFit": "A comfortable town base with food on site, an easy walk from the beach.",
+ "sources": [
+  {
+   "label": "Official website",
+   "url": "https://www.brockleyhallhotel.com/"
+  },
+  {
+   "label": "Redcar & Cleveland hotels",
+   "url": "https://redcarcleveland.co.uk/enjoy/new-hotels/"
+  }
+ ],
+ "slug": "brockley-hall-hotel"
+}

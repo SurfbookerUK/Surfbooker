@@ -1,0 +1,34 @@
+{
+ "title": "Broad Haven Surf & Beach Guide, Pembrokeshire: Surf Spot, Parking & Stays | Surfbooker",
+ "description": "Broad Haven surf guide and beach guide: how the surf spot works on St Brides Bay, best tides and winds, lessons, parking, dog rules, food and where to stay in Broad Haven.",
+ "surf": {
+  "intro": "A gentle, sandy beach break that needs a decent west or south-west swell to wake up.",
+  "text": [
+   "Broad Haven sits further inside St Brides Bay than Newgale, so swell has to wrap in and arrives smaller. On average days that means softer, more manageable waves that suit beginners and longboards; on big days it can be the place that is still surfable when exposed beaches are closed out.",
+   "It is a sand beach break with lefts and rights and rides of roughly 50 to 150 metres. A west-south-westerly swell with an east-south-easterly offshore is the combination to look for. Sources disagree on tide: some say a rising tide around high, others mid to low, so treat mid tide as the safe bet and check the sand bank in front of you. It is inconsistent but rarely totally flat, and winter, January especially, gives the cleanest days.",
+   "The vibe is relaxed. It gets busy with tourists and learners in the warmer months, but locals are easy-going. Newgale, Marloes and Freshwater West are the nearby alternatives when it is not working."
+  ],
+  "cards": [
+   {
+    "label": "Level",
+    "title": "Beginner to intermediate",
+    "text": "Usually gentler than Newgale. Learners should still use the lifeguarded area or go with a qualified instructor."
+   },
+   {
+    "label": "Conditions",
+    "title": "WSW swell, ESE wind",
+    "text": "Sheltered from smaller swells. Light easterlies are offshore; mid tide is the safe bet."
+   },
+   {
+    "label": "Hazards",
+    "title": "Tides around the headlands",
+    "text": "The incoming tide can cut off routes beneath the cliffs and around to Little Haven, so check tide times before walking."
+   },
+   {
+    "label": "Parking",
+    "title": "Seafront, pay car park in summer",
+    "text": "Park along the seafront, or use the paid car park at the south end of the beach in summer."
+   }
+  ]
+ }
+}

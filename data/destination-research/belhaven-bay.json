@@ -1,0 +1,132 @@
+{
+ "overview": [
+  "Belhaven Bay is the long, open beach on the western edge of Dunbar, and it sits inside John Muir Country Park. Low sand dunes shelter the back of the beach, with salt marsh and grassland behind them, and you look out across the mouth of the Firth of Forth. It feels much wilder than you'd expect for somewhere so close to a town, and it's a lovely spot to walk even when there's no surf at all.",
+  "The bay's best-known landmark is the Bridge to Nowhere, a footbridge over the Biel Water. At low tide you can walk over it and out onto the sand. As the tide comes in, the channel fills around it and the bridge ends up standing on its own in the water. Check the tide times before you cross, or you may find you have to wade back or wait it out.",
+  "For surfing, Belhaven is one of the gentlest and most forgiving beaches in south-east Scotland. A surf centre by the car park has showers and changing rooms, and Dunbar's cafés and railway station are close by. This is a North Sea beach, though, so it only works when the swell arrives from the north-east or east. Flat spells can last a long time, so keep an eye on the forecast before you make the trip."
+ ],
+ "suits": [
+  "First lessons and family surf days",
+  "Longboarders and improvers on gentle waves",
+  "Car-free trips by train to Dunbar",
+  "Walkers who want a surf check and a coastal stroll in one trip"
+ ],
+ "notFor": [
+  "Powerful, high-performance surf",
+  "Anyone needing waves during long North Sea flat spells",
+  "Swimmers looking for a lifeguarded beach"
+ ],
+ "surf": {
+  "text": [
+   "Belhaven needs swell from the north-east or east. Winds from the west or south-west blow offshore here, while strong easterlies leave it messy. Most of the bay is sand, with some rock towards the edges. The Biel Water estuary moves the sandbanks around, so the best spot can change from one visit to the next.",
+   "No single state of the tide is reliably best, because the banks decide where the waves break. What changes most is how far you have to walk. At low tide the water can be a long way out across the flats, and when the tide turns it fills the channels quickly.",
+   "Belhaven (Dunbar) is a beach and reef break that is very consistent for Scotland and usually a safe bet. A north-easterly swell with a south-westerly offshore is best, with easterly-leaning swells breaking better. Shifting sandbars and big tides change things quickly, so look before you paddle out. Dangerous rips are the hazard and bigger days mean heavy whitewater. It's unlikely to be crowded, and winter and spring are best."
+  ],
+  "cards": [
+   {
+    "label": "Level",
+    "title": "Beginners to intermediates",
+    "text": "Forgiving on most days. Intermediates will have more fun when a bigger swell arrives."
+   },
+   {
+    "label": "Hazards",
+    "title": "Fast tides and channels",
+    "text": "The incoming tide floods the flats and the estuary channels quickly. Check the tide times before you head far out."
+   },
+   {
+    "label": "Season",
+    "title": "Winter and spring",
+    "text": "These are the most dependable months for swell on this stretch of the North Sea."
+   }
+  ]
+ },
+ "practical": [
+  {
+   "label": "Parking",
+   "title": "Shore Road car park",
+   "text": "The car park is off Shore Road in Belhaven and has 120 spaces, including a disabled bay and motorhome bays. You pay and display or use the Ringo app, and a day ticket covers East Lothian's other coastal car parks that day. A height barrier restricts taller vehicles, and overnight parking isn't allowed."
+  },
+  {
+   "label": "Facilities",
+   "title": "Toilets, showers, bike racks",
+   "text": "There are toilets by the car park, including accessible ones. The surf centre has showers, there are bike racks, and a food outlet opens in season."
+  },
+  {
+   "label": "Lifeguards",
+   "title": "None",
+   "text": "East Lothian has no lifeguarded beaches. In a coastal emergency, call 999 or 112 and ask for the Coastguard."
+  },
+  {
+   "label": "Getting there",
+   "title": "Train, bus or A1087",
+   "text": "Dunbar station has ScotRail trains from Edinburgh and services from the south, and the bay is about a 15-minute walk away. East Coast Buses also run between Edinburgh and Dunbar. If you're driving, turn off the A1087 near West Barns and follow Shore Road."
+  },
+  {
+   "label": "Dogs",
+   "title": "Country park rules",
+   "text": "Dogs are welcome in the country park. Follow any wildlife signs, and keep your dog away from nesting birds."
+  }
+ ],
+ "faqs": [
+  {
+   "q": "Is Belhaven Bay good for beginners?",
+   "a": "Yes. It's one of the easiest places in Scotland to learn to surf. There are no lifeguards, though, so if you're new it's best to surf in a lesson."
+  },
+  {
+   "q": "Where do you park for Belhaven Bay?",
+   "a": "Use the council car park on Shore Road. It's pay and display, and your ticket also covers the other East Lothian coastal car parks that day."
+  },
+  {
+   "q": "Can you get to Belhaven by train?",
+   "a": "Yes. Dunbar station is about a 15-minute walk from the bay."
+  },
+  {
+   "q": "When can you cross the Bridge to Nowhere?",
+   "a": "Only around low tide. At high tide the water surrounds it, so check the tide times first."
+  }
+ ],
+ "sources": [
+  {
+   "label": "Visit East Lothian — Belhaven Bay",
+   "url": "https://visiteastlothian.org/things-to-see-do/beaches/belhaven-bay/"
+  },
+  {
+   "label": "Belhaven Surf Centre — facilities",
+   "url": "https://belhavensurfcentre.org/the-centre/the-facilities/"
+  },
+  {
+   "label": "RNLI — North Berwick news, July 2026",
+   "url": "https://rnli.org/news-and-media/2026/july/23/north-berwick-rnli-crew-member-saves-three-whilst-surfing"
+  }
+ ],
+ "factCheck": [
+  {
+   "fact": "Within John Muir Country Park; low dunes, salt marsh, grassland; Forth views",
+   "url": "https://visiteastlothian.org/things-to-see-do/beaches/belhaven-bay/"
+  },
+  {
+   "fact": "Bridge to Nowhere crossable at low tide",
+   "url": "https://visiteastlothian.org/things-to-see-do/beaches/belhaven-bay/"
+  },
+  {
+   "fact": "120 spaces, disabled/motorhome bays, Ringo, ticket valid at coastal car parks, no parking 11pm-4am, height restriction",
+   "url": "https://visiteastlothian.org/things-to-see-do/beaches/belhaven-bay/"
+  },
+  {
+   "fact": "Toilets incl. accessible, showers at surf hub, bike racks, seasonal food outlet",
+   "url": "https://visiteastlothian.org/things-to-see-do/beaches/belhaven-bay/"
+  },
+  {
+   "fact": "About 15 minutes' walk from Dunbar station; East Coast Buses; A1087/Shore Road",
+   "url": "https://visiteastlothian.org/things-to-see-do/beaches/belhaven-bay/"
+  },
+  {
+   "fact": "No lifeguarded beaches in East Lothian (carried from current guide, not re-opened this session)",
+   "url": "https://rnli.org/news-and-media/2026/july/23/north-berwick-rnli-crew-member-saves-three-whilst-surfing"
+  },
+  {
+   "fact": "Belhaven: beach and reef, NE swell, SW offshore, rips, rarely crowded",
+   "url": "https://www.surf-forecast.com/breaks/Dunbar-Belhaven-Bay"
+  }
+ ],
+ "checked": "October 2026"
+}
