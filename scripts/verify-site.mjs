@@ -413,18 +413,33 @@ for (const file of cssFiles) {
   checkLocalAssets(readFileSync(file, "utf8"), file, rel);
 }
 
-const robots = readFileSync(join(rootDir, "robots.txt"), "utf8").trim();
+const robots = readFileSync(join(rootDir, "robots.txt"), "utf8").replace(/\r\n/g, "\n").trim();
 if (robots !== "User-agent: *\nAllow: /\nDisallow: /scripts/\nDisallow: /data/\nDisallow: /docs/\nSitemap: https://surfbooker.com/sitemap.xml") {
   failures.push("robots.txt content does not match the required production directives");
 }
 
 const sitemap = readFileSync(join(rootDir, "sitemap.xml"), "utf8");
 const sitemapUrls = Array.from(sitemap.matchAll(/<loc>([^<]+)<\/loc>/g)).map((match) => match[1].replace(baseUrl, "") || "/");
-const expectedSitemapUrls = Array.from(expectedUrls).sort();
+// Pages that 301/302 elsewhere are deliberately left out of the sitemap (same rule as build-sitemap.mjs).
+const redirectedSources = new Set();
+try {
+  for (const line of readFileSync(join(rootDir, "_redirects"), "utf8").split(/\r?\n/)) {
+    const [from, , status] = line.trim().split(/\s+/);
+    if (!from || from.startsWith("#") || !from.startsWith("/") || !/^30[12]/.test(status || "")) continue;
+    redirectedSources.add(from.replace(/\/\*$/, "").replace(/\/$/, "") || "/");
+  }
+} catch {}
+const expectedSitemapUrls = Array.from(expectedUrls).filter((u) => !redirectedSources.has(u.replace(/\/$/, "") || "/")).sort();
 const actualSitemapUrls = [...sitemapUrls].sort();
 
 if (JSON.stringify(expectedSitemapUrls) !== JSON.stringify(actualSitemapUrls)) {
-  failures.push(`sitemap.xml URLs do not match the current production page set`);
+  const actualSet = new Set(actualSitemapUrls);
+  const expectedSet = new Set(expectedSitemapUrls);
+  const notInSitemap = expectedSitemapUrls.filter((u) => !actualSet.has(u));
+  const notExpected = actualSitemapUrls.filter((u) => !expectedSet.has(u));
+  failures.push(`sitemap.xml URLs do not match the current production page set (expected ${expectedSitemapUrls.length}, sitemap has ${actualSitemapUrls.length}, ${actualSitemapUrls.length - actualSet.size} duplicate)`);
+  failures.push(`  indexable pages missing from sitemap (${notInSitemap.length}): ${notInSitemap.slice(0, 25).join(" , ")}`);
+  failures.push(`  sitemap URLs with no indexable page (${notExpected.length}): ${notExpected.slice(0, 25).join(" , ")}`);
 }
 
 for (const sitemapPath of sitemapUrls) {
