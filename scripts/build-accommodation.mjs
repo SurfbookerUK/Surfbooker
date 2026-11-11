@@ -1018,21 +1018,13 @@ export const accommodationProperties = [
     surfTripFit: "A walk-to-the-beach base for Three Cliffs Bay, with Oxwich Bay and Caswell Bay a short drive away and Gower's west-coast surf beaches further along the peninsula.",
     heroImage: "/images/accommodation/properties/parkmill-cottages/Parkmill-Cottages.webp",
     heroImageAlt: "The Parkmill Cottages in Parkmill, Gower, with a parking space outside each cottage",
-    gallery: [
-      {
-        src: "/images/accommodation/properties/parkmill-cottages/Three-Cliffs-Bay.webp",
-        alt: "Marram grass on the dunes at Three Cliffs Bay with the three limestone peaks behind, about a mile's walk from Parkmill Cottages"
-      }
-    ],
-    galleryLabel: "Nearby",
-    galleryHeading: "Three Cliffs Bay.",
-    reviewStatus: "Accommodation guide",
-    reviewStatusCopy: "Property information supplied by the owner and checked against the official website and Visit Wales. Surfbooker has not yet personally reviewed these cottages.",
+    gallery: [],
     sections: [
       ["Why it works for a Gower surf trip", "Parkmill sits on the A4118 south Gower road, so you can leave the car at the cottage and walk to Three Cliffs Bay. The cottages are also a good starting point for Oxwich Bay and Caswell Bay by car, and for the longer drive west to Rhossili and Llangennith. The 118 bus between Swansea and Rhossili stops nearby, which helps if you want to leave the car parked."],
-      ["Next door and nearby", "Shepherds shop and cafe is next door, handy for supplies, coffee and breakfast. Little Valley Bakery, an artisan bakery in the Old Hay Barn at the Gower Heritage Centre, was named in the Good Food Guide's 50 Best Bakeries for 2026. The Heritage Centre itself is under five minutes' walk away: a 12th-century water mill with craft workshops, a tea room and the Shed Head cider mill."],
+      ["Nearby", "Shepherds shop and cafe is next door, handy for supplies, coffee and breakfast. Little Valley Bakery, an artisan bakery in the Old Hay Barn at the Gower Heritage Centre, was named in the Good Food Guide's 50 Best Bakeries for 2026. The Heritage Centre itself is under five minutes' walk away: a 12th-century water mill with craft workshops, a tea room and the Shed Head cider mill."],
       ["Events at the Heritage Centre", "The Gower Heritage Centre runs events through the year, including its annual Cheese and Cider Festival each May, wassail celebrations and a bluegrass festival in September. Dates change each year, so check the centre's website before you plan a stay around one."],
-      ["Walking from the door", "The Three Cliffs Bay walk follows a wooded valley past a WWII bunker, with views of Pennard Castle, before dropping to the sands. Swansea Council grades the 1.7-mile route as challenging because the paths are rough, and the Pennard Pill stream crosses the beach, so check the tide and wear suitable footwear. You can continue west over the headland to Tor Bay."],
+      ["Walking from the door", "The Three Cliffs Bay walk follows a wooded valley past a WWII bunker, with views of Pennard Castle, before dropping to the sands. Swansea Council grades the 1.7-mile route as challenging because the paths are rough, and the Pennard Pill stream crosses the beach, so check the tide and wear suitable footwear. You can continue west over the headland to Tor Bay.",
+        { src: "/images/accommodation/properties/parkmill-cottages/Three-Cliffs-Bay.webp", alt: "Marram grass on the dunes at Three Cliffs Bay with the three limestone peaks behind, about a mile's walk from Parkmill Cottages" }],
       ["For guests who have outgrown camping", "The owners describe the cottages as budget-friendly, aimed at guests who want more comfort than a tent without the cost of a larger rental. Rates and availability are not published here, so ask the property directly."]
     ],
     collectionLabel: "Cottage choices",
@@ -1769,7 +1761,7 @@ export function renderAccommodationPropertyPage(property) {
     ["Guest rating", property.guestRating]
   ].map(([label, value]) => [label, publicFactValue(value)]).filter(([, value]) => value);
   const statusSection = property.reviewStatus ? `<section class="accommodation-section property-information-note" aria-label="Surfbooker review status"><p class="section-label">${escapeHtml(property.reviewStatus)}</p><h2>${escapeHtml(property.reviewStatusHeading || "Surfbooker review status.")}</h2>${property.reviewStatusCopy ? `<p>${escapeHtml(property.reviewStatusCopy)}</p>` : ""}</section>` : "";
-  const editorialSections = property.sections?.length ? property.sections.map(([heading, copy]) => `<section class="accommodation-section"><h2>${escapeHtml(heading)}</h2><p>${escapeHtml(copy)}</p></section>`).join("") : "";
+  const editorialSections = property.sections?.length ? property.sections.map(([heading, copy, image]) => `<section class="accommodation-section"><h2>${escapeHtml(heading)}</h2><p>${escapeHtml(copy)}</p>${image?.src ? `<div class="property-gallery"><img src="${escapeHtml(image.src)}" alt="${escapeHtml(image.alt || "")}" loading="lazy"></div>` : ""}</section>`).join("") : "";
   const collectionSection = property.collectionChoices?.length ? `<section class="accommodation-section"><p class="section-label">${escapeHtml(property.collectionLabel || "Cottage choices")}</p><h2>${escapeHtml(property.collectionHeading || "Choose a Rainbolts Hill cottage.")}</h2><div class="destination-decision-grid">${property.collectionChoices.map(([name, capacity, copy]) => `<article><h3>${escapeHtml(name)}</h3><p><strong>${escapeHtml(capacity)}</strong></p><p>${escapeHtml(copy)}</p></article>`).join("")}</div></section>` : "";
   const cardSections = property.cardSections?.length ? property.cardSections.map((section) => `<section class="accommodation-section"><p class="section-label">${escapeHtml(section.label)}</p><h2>${escapeHtml(section.heading)}</h2><div class="destination-decision-grid">${section.cards.map(([name, copy]) => `<article><h3>${escapeHtml(name)}</h3><p>${escapeHtml(copy)}</p></article>`).join("")}</div></section>`).join("") : "";
   const faqSection = property.faqItems?.length ? `<section class="accommodation-section"><p class="section-label">Questions answered</p><h2>Planning a stay at ${escapeHtml(property.name)}.</h2>${property.faqItems.map(([question, answer]) => `<details><summary>${escapeHtml(question)}</summary><p>${escapeHtml(answer)}</p></details>`).join("")}</section>` : "";
