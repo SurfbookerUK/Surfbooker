@@ -8,7 +8,7 @@ const buildDate = new Date().toISOString().slice(0, 10);
 function walkHtmlFiles(directory) {
   const files = [];
   for (const name of readdirSync(directory)) {
-    if (name === ".git" || name === "node_modules") continue;
+    if (name === ".git" || name === "node_modules" || (name === "dist" && directory === rootDir)) continue;
     const entry = join(directory, name);
     const stats = statSync(entry);
     if (stats.isDirectory()) files.push(...walkHtmlFiles(entry));
