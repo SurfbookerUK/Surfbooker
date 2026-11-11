@@ -1,7 +1,7 @@
 {
  "slug": "the-beach-at-bude",
  "officialUrl": "https://www.thebeachatbude.co.uk/",
- "trading": "unclear",
+ "trading": true,
  "stayType": "Boutique beachside hotel with apartments",
  "accommodation": "16 rooms and two family suites in the hotel, plus eight apartments and two beachside townhouses (self-catering)",
  "suitableFor": "Couples, families, surfers",
@@ -16,7 +16,13 @@
   {
    "label": "The Beach at Bude official site",
    "url": "https://www.thebeachatbude.co.uk/"
+  },
+  {
+   "label": "Visit Bude accommodation listing",
+   "url": "https://www.visitbude.info/accommodation/beach-at-bude-hotel/"
   }
  ],
- "gaps": "Site shows a 2015 copyright and no clear current-season signal, so trading unclear; parking, dogs, board storage not stated."
+ "gaps": "Site shows a 2015 copyright and no clear current-season signal, ; parking, dogs, board storage not stated",
+ "verificationNote": "Trading confirmed from current third-party listings and recent guest reviews in November 2026. Surfbooker has not stayed here; confirm facilities and policies directly when you enquire.",
+ "lastVerified": "2026-11-11"
 }

@@ -113,7 +113,7 @@ function rows(items) {
   return `<div class="dg-rows">${items.map((it) => `
   <div class="dg-row">
     <div><h3>${esc(it.name)}</h3>${it.type ? `<span class="dg-row-type">${esc(it.type)}</span>` : ""}</div>
-    ${it.url ? `<a class="dg-row-link" href="${esc(it.url)}" rel="noopener" target="_blank">Official website<span class="visually-hidden"> for ${esc(it.name)}</span></a>` : "<span></span>"}
+    <span></span>
     ${it.note ? `<p>${md(it.note)}</p>` : ""}
   </div>`).join("")}
 </div>`;
@@ -159,7 +159,7 @@ function renderPage({ rel, type, d, research, captured, pages }) {
   const providerTitle = { lessons: `Surf schools at ${short}`, hire: `Where to hire a board at ${short}`, shops: `Surf shops for ${short}` }[kind];
   const providerBody = `
     ${listed.length ? listedCards(listed, { lessons: "Compare lessons", hire: "See hire details", shops: "View shop" }[kind]) : ""}
-    ${others.length ? `${listed.length ? `<h3 style="margin:30px 0 12px">Other ${what} we found</h3>` : ""}${rows(others)}` : ""}
+    ${others.length ? `${listed.length ? `<h3 style="margin:30px 0 12px">More ${what} near ${esc(short)}</h3>` : ""}${rows(others)}` : ""}
     ${!listed.length && !others.length ? `<p class="section-note">We haven't found ${what} that we can confirm for ${esc(short)} yet. ${kind === "lessons" ? "Schools from nearby beaches sometimes bring groups here when conditions suit — see nearby beaches below." : "Check the nearest town or the beaches below."}</p>` : ""}
     <p class="section-note">${listed.length ? "<strong>Listed on Surfbooker</strong> businesses have a profile on this site. " : ""}Check times, ages, prices and what's included directly before you go. <a href="/how-we-list-businesses/">How we list businesses</a>.</p>
     ${kind === "lessons" ? `<p class="section-note">Run a surf school here? <a href="/list-your-school/">Add or update your listing</a>.</p>` : ""}`;
@@ -212,19 +212,12 @@ function renderPage({ rel, type, d, research, captured, pages }) {
   const faqs = (r.faqs?.[kind] || []).filter((f) => f.q && f.a);
   if (faqs.length) add("faqs", "FAQs", section("faqs", { eyebrow: "Questions", title: `${T.label} at ${short}: quick answers` }, `<div class="faq-list">${faqs.map((f) => `<details><summary>${esc(f.q)}</summary><p>${md(f.a)}</p></details>`).join("")}</div>`));
 
-  // 6. Sources
-  const sources = [...(r.sources || []), ...(d.sources || []).slice(0, 3)].filter((s, i, a) => s?.url && a.findIndex((x) => x.url === s.url) === i);
-  add("sources", "Sources", section("sources", { eyebrow: "How we checked this page", title: "Sources", alt: true }, `
-    <p>Surfbooker desk research, checked ${CHECKED_LABEL}. Business details come from each business's own website or the local tourism board; beach facts from the sources below. Lesson times, prices, lifeguard dates and parking change — check before you travel.</p>
-    <ul class="source-list">${sources.map((s) => `<li><a href="${esc(s.url)}" rel="noopener" target="_blank"><span class="visually-hidden">Source: </span>${esc(s.label)}</a></li>`).join("")}</ul>`));
-
   // Head, hero, schema
   const titleText = { lessons: `Surf Lessons at ${short}: Schools & Beginner Tips | Surfbooker`, hire: `Surfboard & Wetsuit Hire at ${short} | Surfbooker`, shops: `Surf Shops near ${short} | Surfbooker` }[kind];
-  const countText = (n, word) => (n ? `${n} ${word}${n > 1 ? "s" : ""}` : "");
   const descText = {
-    lessons: `Surf lessons at ${name}: ${[countText(listed.length + others.length, "surf school"), "what learning here is like", "lifeguards, parking and where to stay"].filter(Boolean).join(", ")}.`,
-    hire: `Hire a surfboard, bodyboard or wetsuit at ${name}: ${[countText(listed.length + others.length, "hire option"), "what to hire for the conditions", "parking and nearby beaches"].filter(Boolean).join(", ")}.`,
-    shops: `Surf shops near ${name}: ${[countText(listed.length + others.length, "shop"), "where to buy or repair kit", "and links to lessons, hire and the beach guide"].filter(Boolean).join(", ")}.`
+    lessons: `Surf lessons at ${name}: surf schools, what learning here is like, lifeguards, parking and where to stay.`,
+    hire: `Hire a surfboard, bodyboard or wetsuit at ${name}: hire options, what to hire for the conditions, parking and nearby beaches.`,
+    shops: `Surf shops near ${name}: where to buy or repair kit, plus lessons, hire and the beach guide.`
   }[kind];
   const crumbs = captured.crumbs.length ? captured.crumbs : [["Home", "/"], [T.label, `/${type}/`], [short, path]];
   crumbs[crumbs.length - 1] = [{ lessons: `Surf lessons at ${short}`, hire: `Surf hire at ${short}`, shops: `Surf shops near ${short}` }[kind], path];
@@ -235,7 +228,7 @@ function renderPage({ rel, type, d, research, captured, pages }) {
   const heroIntro = { lessons: r.lessonsHero || `Surf schools, beginner conditions and practical tips for learning to surf at ${name}.`, hire: r.hireHero || `Where to hire a board and wetsuit at ${name}, and what suits the conditions.`, shops: r.shopsHero || `Surf shops serving ${name}, plus lessons, hire and the beach guide.` }[kind];
   const itemList = listed.length + others.length ? [{
     "@type": "ItemList", name: providerTitle,
-    itemListElement: [...listed.map((p) => ({ name: p.name, url: BASE_URL + p.href })), ...others.map((p) => ({ name: p.name, url: p.url }))].map((it, i) => ({ "@type": "ListItem", position: i + 1, name: it.name, ...(it.url ? { url: it.url } : {}) }))
+    itemListElement: [...listed.map((p) => ({ name: p.name, url: BASE_URL + p.href })), ...others.map((p) => ({ name: p.name }))].map((it, i) => ({ "@type": "ListItem", position: i + 1, name: it.name, ...(it.url ? { url: it.url } : {}) }))
   }] : [];
   const jsonLd = [
     breadcrumbLd(crumbs),

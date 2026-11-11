@@ -4522,5 +4522,57 @@
   "gaps": "Parking and exact distance to the beach not stated.",
   "verificationNote": "Details cross-checked against public accommodation listings in October 2026. Surfbooker has not stayed here; confirm facilities and policies directly when you enquire.",
   "lastVerified": "2026-10-16"
+ },
+ "alan-stevenson-house.json": {
+  "slug": "alan-stevenson-house",
+  "officialUrl": null,
+  "trading": true,
+  "stayType": "Restaurant and bar with rooms at Hynish, Tiree",
+  "accommodation": "Five rooms and a family suite, offered at bed and breakfast rates",
+  "suitableFor": "Couples, families and small groups wanting a base on the quiet south end of Tiree with a restaurant on site",
+  "parking": null,
+  "dogs": null,
+  "beachAccess": "Set in the Hynish heritage site on the south of Tiree; beach distance not stated",
+  "boardStorage": null,
+  "confirmedFeatures": "Restaurant and lounge bar on site, local crab, lobster, lamb and beef on the menu, family-run, large range of Scottish whiskies, beers and ciders",
+  "overview": "Alan Stevenson House is a family-run restaurant and bar with five rooms and a family suite in the Hynish heritage site on the Isle of Tiree. Hynish was the base for building the Skerryvore lighthouse. Dinner is served Monday to Saturday and there is a Sunday roast, with booking advised.",
+  "surfTripFit": "A practical base with an evening meal on site, handy for a surf trip to Tiree where the west-facing beaches are a drive across the island.",
+  "sources": [
+   {
+    "label": "Alan Stevenson House official site",
+    "url": "https://alanstevensonhouse.co.uk"
+   }
+  ],
+  "gaps": "Distance to Balevullin, parking, dog policy and board or wetsuit storage not stated.",
+  "verificationNote": "Details taken from the property's own website in November 2026, which shows winter opening hours to December 2026. Surfbooker has not stayed here; confirm facilities and policies directly when you enquire.",
+  "lastVerified": "2026-11-11"
+ },
+ "skerryview-self-catering.json": {
+  "slug": "skerryview-self-catering",
+  "officialUrl": null,
+  "trading": true,
+  "stayType": "Self-catering flat in Lossiemouth",
+  "accommodation": "One-bedroom flat with a sofa bed",
+  "suitableFor": "Couples and small groups wanting a self-catering base close to West Beach",
+  "parking": null,
+  "dogs": null,
+  "beachAccess": "About 400 metres to Lossiemouth West Beach and 1.2 km to East Beach, according to a public listing",
+  "boardStorage": null,
+  "confirmedFeatures": "Views over the Moray Firth, renovated with new furnishings and bedding in 2020, no private outdoor space, close to the harbour, shops and restaurants",
+  "overview": "SkerryView, on Commerce Street in Lossiemouth, is a self-catering flat looking out over the Moray Firth. It is a short walk from West Beach and close to the harbour, shops and restaurants. The flat has no private outdoor space.",
+  "surfTripFit": "A walkable base for Lossiemouth's beaches, with the firth in view to check conditions before heading out.",
+  "sources": [
+   {
+    "label": "VisitMoray listing",
+    "url": "https://morayspeyside.com/listings/skerryview-self-catering-lossiemouth/"
+   },
+   {
+    "label": "Public listing",
+    "url": "https://www.snaptrip.com/properties/united-kingdom/scotland/moray/lossiemouth/skerry-view-overlooking-the-moray-firth-close-to-beaches-harbour-shops-and-restaurants"
+   }
+  ],
+  "gaps": "Parking, dog policy and board storage not stated. No website; confirm availability directly.",
+  "verificationNote": "Details cross-checked against public listings in November 2026. Surfbooker has not stayed here; confirm facilities and policies directly when you enquire.",
+  "lastVerified": "2026-11-11"
  }
 }

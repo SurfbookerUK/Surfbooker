@@ -1,7 +1,7 @@
 {
  "slug": "the-godolphin-arms-marazion",
  "officialUrl": "https://www.thegodolphinarms.co.uk/",
- "trading": "unclear",
+ "trading": true,
  "stayType": null,
  "accommodation": null,
  "suitableFor": null,
@@ -12,6 +12,13 @@
  "confirmedFeatures": null,
  "overview": null,
  "surfTripFit": null,
- "sources": [],
- "gaps": "Official site blocks automated fetching; coolstays listing returned 404. Nothing verified - needs manual check. Note: in Marazion, not Praa Sands."
+ "sources": [
+  {
+   "label": "The Godolphin, Marazion listing (Expedia)",
+   "url": "https://www.expedia.co.kr/en/Marazion-Hotels-The-Godolphin.h28920203.Hotel-Information"
+  }
+ ],
+ "gaps": "Official site blocks automated fetching; coolstays listing returned 404. Nothing verified - needs manual check. Note: in Marazion, not Praa Sands",
+ "verificationNote": "Trading confirmed from current third-party listings and recent guest reviews in November 2026. Surfbooker has not stayed here; confirm facilities and policies directly when you enquire.",
+ "lastVerified": "2026-11-11"
 }

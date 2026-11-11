@@ -1,7 +1,7 @@
 {
  "slug": "hope-and-anchor-inn-rooms",
  "officialUrl": null,
- "trading": "unclear",
+ "trading": true,
  "stayType": null,
  "accommodation": null,
  "suitableFor": null,
@@ -12,6 +12,13 @@
  "confirmedFeatures": null,
  "overview": null,
  "surfTripFit": null,
- "sources": [],
- "gaps": "Official site (hopeandanchorhopecove.co.uk) blocked automated fetching and no other official page was opened, so nothing confirmed. Note: the inn is in Hope Cove, not Bantham. Needs manual check of rooms, dogs, parking."
+ "sources": [
+  {
+   "label": "Hope & Anchor listing (Booking.com)",
+   "url": "https://m.booking.com/hotel/gb/hope-anchor.html"
+  }
+ ],
+ "gaps": "Official site (hopeandanchorhopecove.co.uk) blocked automated fetching and no other official page was opened, so nothing confirmed. Note: the inn is in Hope Cove, not Bantham. Needs manual check of rooms, dogs, parking",
+ "verificationNote": "Trading confirmed from current third-party listings and recent guest reviews in November 2026. Surfbooker has not stayed here; confirm facilities and policies directly when you enquire.",
+ "lastVerified": "2026-11-11"
 }

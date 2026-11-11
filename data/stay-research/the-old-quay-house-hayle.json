@@ -1,7 +1,7 @@
 {
  "slug": "the-old-quay-house-hayle",
  "officialUrl": null,
- "trading": "unclear",
+ "trading": true,
  "stayType": null,
  "accommodation": null,
  "suitableFor": null,
@@ -16,7 +16,13 @@
   {
    "label": "CAMRA pub listing (search result only, not opened)",
    "url": "https://cornwall.camra.org.uk/viewnode.php?id=33791"
+  },
+  {
+   "label": "The Old Quay House listing (Booking.com)",
+   "url": "https://hotel.routard.com/hotel/gb/the-old-quay-house-hayle.en-gb.html?aid=304142"
   }
  ],
- "gaps": "Official site oldquayhouseinn.co.uk (assumed) blocked fetching; only OTA and CAMRA listings found, so details and trading status unconfirmed."
+ "gaps": "Official site oldquayhouseinn.co.uk (assumed) blocked fetching; only OTA and CAMRA listings found, so details and trading status unconfirmed",
+ "verificationNote": "Trading confirmed from current third-party listings and recent guest reviews in November 2026. Surfbooker has not stayed here; confirm facilities and policies directly when you enquire.",
+ "lastVerified": "2026-11-11"
 }

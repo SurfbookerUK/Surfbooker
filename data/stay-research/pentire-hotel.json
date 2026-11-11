@@ -1,17 +1,28 @@
 {
  "slug": "pentire-hotel",
- "officialUrl": null,
- "trading": "unclear",
- "stayType": null,
- "accommodation": null,
- "suitableFor": null,
- "parking": null,
- "dogs": null,
- "beachAccess": null,
+ "officialUrl": "https://www.pentirehotelnewquay.co.uk/",
+ "trading": true,
+ "stayType": "Three-star hotel on Pentire Headland, Newquay",
+ "accommodation": "Around 75 rooms including family rooms, many with sea or countryside views",
+ "suitableFor": "Families and groups wanting a hotel base next to Fistral",
+ "parking": "Free parking listed",
+ "dogs": "Pet-friendly rooms listed; confirm with the hotel",
+ "beachAccess": "On the Pentire Headland between Fistral Beach and the Gannel Estuary",
  "boardStorage": null,
- "confirmedFeatures": null,
- "overview": null,
- "surfTripFit": null,
- "sources": [],
- "gaps": "Official site pentirehotel.co.uk blocked fetching; searches found only aggregator listings. Trading not confirmed."
+ "confirmedFeatures": "Indoor heated pool, on-site dining, free parking",
+ "overview": "Pentire Hotel is a VisitEngland-assessed three-star hotel on the Pentire Headland in Newquay, with Fistral Beach on one side and the Gannel Estuary on the other. It has around 75 rooms, an indoor heated swimming pool, on-site dining and free parking.",
+ "surfTripFit": "A hotel base beside Fistral, handy for a surf trip to Newquay. Board storage and wetsuit rinse facilities are not stated.",
+ "sources": [
+  {
+   "label": "VisitEngland Assessment Services listing",
+   "url": "https://visitenglandassessmentservices.com/?p=81145"
+  },
+  {
+   "label": "Pentire Hotel official site",
+   "url": "https://www.pentirehotelnewquay.co.uk/"
+  }
+ ],
+ "gaps": "Board storage and rinse-off facilities not stated; room count varies by source (75-76).",
+ "verificationNote": "Trading confirmed from current third-party listings and recent guest reviews in November 2026. Surfbooker has not stayed here; confirm facilities and policies directly when you enquire.",
+ "lastVerified": "2026-11-11"
 }

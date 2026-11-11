@@ -1,6 +1,6 @@
 @echo off
 cd /d "%~dp0"
-for %%S in (unpack-stay-research run-accommodation strip-internal-sections normalise-guide-links enrich-hub-intros build-sitemap build-image-credits check-images verify-site) do (
+for %%S in (unpack-stay-research run-accommodation strip-internal-sections build-location-pages normalise-guide-links enrich-hub-intros strip-external-links seo-polish build-sitemap build-image-credits check-images verify-site) do (
   echo.
   echo ===== %%S =====
   node scripts\%%S.mjs

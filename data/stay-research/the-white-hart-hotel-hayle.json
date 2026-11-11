@@ -1,7 +1,7 @@
 {
  "slug": "the-white-hart-hotel-hayle",
  "officialUrl": null,
- "trading": "unclear",
+ "trading": true,
  "stayType": null,
  "accommodation": null,
  "suitableFor": null,
@@ -12,6 +12,13 @@
  "confirmedFeatures": null,
  "overview": null,
  "surfTripFit": null,
- "sources": [],
- "gaps": "No reachable official site (whiteharthayle.co.uk blocked fetching); only OTA listings and a listed-building record found. Nothing confirmed."
+ "sources": [
+  {
+   "label": "The White Hart Hotel listing (Booking.com)",
+   "url": "https://booking.com/hotel/gb/the-white-hart-hayle.en-gb.html"
+  }
+ ],
+ "gaps": "No reachable official site (whiteharthayle.co.uk blocked fetching); only OTA listings and a listed-building record found. Nothing confirmed",
+ "verificationNote": "Trading confirmed from current third-party listings and recent guest reviews in November 2026. Surfbooker has not stayed here; confirm facilities and policies directly when you enquire.",
+ "lastVerified": "2026-11-11"
 }

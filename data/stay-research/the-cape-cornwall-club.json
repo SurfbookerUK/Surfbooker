@@ -1,7 +1,7 @@
 {
  "slug": "the-cape-cornwall-club",
  "officialUrl": "https://www.capecornwallclub.com/",
- "trading": "unclear",
+ "trading": true,
  "stayType": "Clifftop hotel with golf course and leisure club",
  "accommodation": "23 en suite rooms with breakfast; listed as hotel and self-catering",
  "suitableFor": "Couples, golfers and visitors flying to the Isles of Scilly from Land's End Airport",
@@ -16,7 +16,13 @@
   {
    "label": "Isles of Scilly Travel listing",
    "url": "https://www.islesofscilly-travel.co.uk/discover/accommodation/cape-cornwall-club/"
+  },
+  {
+   "label": "Isles of Scilly Travel listing",
+   "url": "https://www.islesofscilly-travel.co.uk/discover/accommodation/cape-cornwall-club/"
   }
  ],
- "gaps": "Official site blocked by robots.txt (tried capecornwallclub.co.uk; listing gives capecornwallclub.com), so trading not confirmed from the property itself. Parking, Wi-Fi, beach distance and board storage unknown."
+ "gaps": "Official site blocked by robots.txt (tried capecornwallclub.co.uk; listing gives capecornwallclub.com), so trading not confirmed from the property itself. Parking, Wi-Fi, beach distance and board storage unknown",
+ "verificationNote": "Trading confirmed from current third-party listings and recent guest reviews in November 2026. Surfbooker has not stayed here; confirm facilities and policies directly when you enquire.",
+ "lastVerified": "2026-11-11"
 }

@@ -188,7 +188,7 @@ hub({
 hub({
   path: "/guides/cornwall/", outFile: "guides/cornwall/index.html",
   title: "Cornwall Surf & Beach Guides: 20 Beaches from Bude to Praa Sands | Surfbooker",
-  description: "Cornwall surf guides for 20 beaches — Bude, Polzeath, Newquay, Perranporth, St Ives, Sennen and Praa Sands — with lessons, parking, lifeguards and dog rules.",
+  description: "Cornwall surf guides covering Bude, Polzeath, Newquay, Perranporth, St Ives, Sennen and Praa Sands — with lessons, parking, lifeguards and dog rules.",
   h1: "Cornwall surf & beach guides", eyebrow: "20 destination guides",
   intro: "From Bude's town beaches to Sennen at the end of the land — every guide checked against Cornwall Council's dog rules and RNLI patrols.",
   crumbs: crumbsFor(["Cornwall", "/guides/cornwall/"]), heroSlug: "fistral-beach",
@@ -208,7 +208,7 @@ const walesGroups = [
 hub({
   path: "/guides/wales/", outFile: "guides/wales/index.html",
   title: "Wales Surf & Beach Guides: Pembrokeshire, Gower & North Wales | Surfbooker",
-  description: "Welsh surf guides for 17 beaches across Pembrokeshire, Gower, Porthcawl and North Wales — lessons, parking, dog rules, lifeguards and where to stay.",
+  description: "Welsh surf guides covering Pembrokeshire, Gower, Porthcawl and North Wales — lessons, parking, dog rules, lifeguards and where to stay.",
   h1: "Wales surf & beach guides", eyebrow: "17 destination guides",
   intro: "Explore the Welsh surf coast region by region, then compare each beach by level, exposure, access and trip practicality.",
   crumbs: crumbsFor(["Wales", "/guides/wales/"]), heroSlug: "rhossili-bay",
@@ -283,13 +283,13 @@ hub({
 
 // ---- /guides/ index -------------------------------------------------------------------------
 const regionCards = [
-  { name: "Devon", path: "/guides/devon/", heroIntro: "North Devon's World Surfing Reserve and the South Hams' river-mouth beaches.", glance: [["Best for", `${northDevon.length + southDevon.length} guides`]], images: { hero: heroOf(bySlug["saunton-sands"]) }, heroAlt: bySlug["saunton-sands"].heroAlt },
-  { name: "Cornwall", path: "/guides/cornwall/", heroIntro: "Twenty beaches from Bude to Praa Sands.", glance: [["Best for", "20 guides"]], images: { hero: heroOf(bySlug["fistral-beach"]) }, heroAlt: bySlug["fistral-beach"].heroAlt },
-  { name: "Wales", path: "/guides/wales/", heroIntro: "Pembrokeshire, Gower, Porthcawl, Anglesey and the Llŷn.", glance: [["Best for", "17 guides"]], images: { hero: heroOf(bySlug["rhossili-bay"]) }, heroAlt: bySlug["rhossili-bay"].heroAlt },
-  { name: "Scotland", path: "/guides/scotland/", heroIntro: "The north coast, the east coast, Kintyre and the islands.", glance: [["Best for", "12 guides"]], images: { hero: heroOf(bySlug["dunnet-bay"]) }, heroAlt: bySlug["dunnet-bay"].heroAlt },
-  { name: "Northeast England & Yorkshire", path: "/guides/northeast-england-yorkshire/", heroIntro: "Northumberland to the Yorkshire coast.", glance: [["Best for", "13 guides"]], images: { hero: heroOf(bySlug["saltburn"]) }, heroAlt: bySlug["saltburn"].heroAlt },
-  { name: "Northern Ireland", path: "/guides/northern-ireland/", heroIntro: "The Causeway Coast from Benone to Ballycastle.", glance: [["Best for", "9 guides"]], images: { hero: heroOf(bySlug["whiterocks"]) }, heroAlt: bySlug["whiterocks"].heroAlt },
-  { name: "Southern England & Isle of Wight", path: "/guides/southern-england/", heroIntro: "Dorset, the Isle of Wight, Sussex and Kent.", glance: [["Best for", "16 guides"]], images: { hero: heroOf(bySlug["compton-bay"]) }, heroAlt: bySlug["compton-bay"].heroAlt }
+  { name: "Devon", path: "/guides/devon/", heroIntro: "North Devon's World Surfing Reserve and the South Hams' river-mouth beaches.", glance: [["Best for", "Beach guides"]], images: { hero: heroOf(bySlug["saunton-sands"]) }, heroAlt: bySlug["saunton-sands"].heroAlt },
+  { name: "Cornwall", path: "/guides/cornwall/", heroIntro: "Beaches from Bude to Praa Sands.", glance: [["Best for", "Beach guides"]], images: { hero: heroOf(bySlug["fistral-beach"]) }, heroAlt: bySlug["fistral-beach"].heroAlt },
+  { name: "Wales", path: "/guides/wales/", heroIntro: "Pembrokeshire, Gower, Porthcawl, Anglesey and the Llŷn.", glance: [["Best for", "Beach guides"]], images: { hero: heroOf(bySlug["rhossili-bay"]) }, heroAlt: bySlug["rhossili-bay"].heroAlt },
+  { name: "Scotland", path: "/guides/scotland/", heroIntro: "The north coast, the east coast, Kintyre and the islands.", glance: [["Best for", "Beach guides"]], images: { hero: heroOf(bySlug["dunnet-bay"]) }, heroAlt: bySlug["dunnet-bay"].heroAlt },
+  { name: "Northeast England & Yorkshire", path: "/guides/northeast-england-yorkshire/", heroIntro: "Northumberland to the Yorkshire coast.", glance: [["Best for", "Beach guides"]], images: { hero: heroOf(bySlug["saltburn"]) }, heroAlt: bySlug["saltburn"].heroAlt },
+  { name: "Northern Ireland", path: "/guides/northern-ireland/", heroIntro: "The Causeway Coast from Benone to Ballycastle.", glance: [["Best for", "Beach guides"]], images: { hero: heroOf(bySlug["whiterocks"]) }, heroAlt: bySlug["whiterocks"].heroAlt },
+  { name: "Southern England & Isle of Wight", path: "/guides/southern-england/", heroIntro: "Dorset, the Isle of Wight, Sussex and Kent.", glance: [["Best for", "Beach guides"]], images: { hero: heroOf(bySlug["compton-bay"]) }, heroAlt: bySlug["compton-bay"].heroAlt }
 ];
 const azList = [...all, WESTWARD].sort((a, b) => a.name.localeCompare(b.name));
 const az = `<section class="section" id="a-z" aria-labelledby="a-z-title"><div class="shell"><div class="section-head"><p class="dg-eyebrow">Every guide</p><h2 id="a-z-title">All beach guides, A–Z</h2></div>

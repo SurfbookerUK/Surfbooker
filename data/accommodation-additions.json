@@ -596,7 +596,7 @@
   "area": "newgale"
  },
  {
-  "name": "Nolton Haven Mill – The Mill House",
+  "name": "Nolton Haven Mill \u2013 The Mill House",
   "area": "nolton-haven"
  },
  {
@@ -1356,7 +1356,7 @@
   "area": "manorbier"
  },
  {
-  "name": "Craig Y Môr B&B",
+  "name": "Craig Y M\u00f4r B&B",
   "area": "whitesands"
  },
  {
@@ -1922,5 +1922,13 @@
  {
   "name": "Chale Bay Farm",
   "area": "chale-isle-of-wight"
+ },
+ {
+  "name": "Alan Stevenson House",
+  "area": "balevullin-tiree"
+ },
+ {
+  "name": "SkerryView Self Catering",
+  "area": "lossiemouth"
  }
 ]
