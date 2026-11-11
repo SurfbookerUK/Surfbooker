@@ -32,7 +32,7 @@ function existsExact(rel) {
   }
   return existsSync(cur);
 }
-const SKIP_DIRS = new Set(["node_modules", ".git", "img", "scripts", "data", "docs", "_backup"]);
+const SKIP_DIRS = new Set(["node_modules", ".git", "img", "scripts", "data", "docs", "_backup", "dist", "outputs"]);
 
 function walk(dir, out = []) {
   for (const name of readdirSync(dir)) {

@@ -25,6 +25,13 @@ export function md(text) {
 const registry = JSON.parse(readFileSync(join(root, "data/image-registry.json"), "utf8")).images;
 const derivatives = existsSync(join(root, "data/image-derivatives.json"))
   ? JSON.parse(readFileSync(join(root, "data/image-derivatives.json"), "utf8")) : {};
+// Ignore derivative sizes whose file is not actually on disk (stale manifest entries), so a page never
+// links to a missing /img/*.webp. If none of an image's sizes exist it falls back to the source image.
+for (const [key, entry] of Object.entries(derivatives)) {
+  if (!entry || !Array.isArray(entry.files)) continue;
+  entry.files = entry.files.filter((f) => f && f.file && existsSync(join(root, f.file.replace(/^\//, ""))));
+  if (!entry.files.length) delete derivatives[key];
+}
 
 export const usedImages = new Set();
 
