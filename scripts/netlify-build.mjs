@@ -20,7 +20,7 @@ const steps = [
 
 for (const s of steps) {
   console.log(`\n===== ${s} =====`);
-  const r = spawnSync(process.execPath, [`scripts/${s}.mjs`], { stdio: "inherit" });
+  const r = spawnSync(process.execPath, [`scripts/${s}.mjs`, ...(s === "check-images" ? ["--list"] : [])], { stdio: "inherit" });
   if (r.status !== 0) {
     console.error(`\nSTOPPED: ${s} failed - deploy cancelled, live site unchanged.`);
     process.exit(1);

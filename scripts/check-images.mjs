@@ -15,6 +15,23 @@ const assetRedirects = new Map(readFileSync(join(root, "_redirects"), "utf8")
   .filter((parts) => parts.length >= 3 && /^30[1278]!?$/.test(parts[2]))
   .map(([from, to]) => [decodeURIComponent(from).replace(/^\//, ""), decodeURIComponent(to).replace(/^\//, "")]));
 const list = process.argv.includes("--list");
+
+// Case-sensitive existence check, so a file saved as Beach.JPG but referenced as beach.jpg fails here
+// (as it does on Netlify's Linux build) instead of passing on Windows/macOS.
+const dirCache = new Map();
+function existsExact(rel) {
+  let cur = root;
+  for (const part of rel.split("/").filter(Boolean)) {
+    let names = dirCache.get(cur);
+    if (!names) {
+      try { names = new Set(readdirSync(cur)); } catch { return false; }
+      dirCache.set(cur, names);
+    }
+    if (!names.has(part)) return false;
+    cur = join(cur, part);
+  }
+  return existsSync(cur);
+}
 const SKIP_DIRS = new Set(["node_modules", ".git", "img", "scripts", "data", "docs", "_backup"]);
 
 function walk(dir, out = []) {
@@ -45,8 +62,8 @@ for (const file of walk(root)) {
       try { rel = decodeURIComponent(url.split(/[?#]/)[0]); } catch { rel = url; }
       if (!rel.startsWith("/")) rel = join(page.slice(1, page.lastIndexOf("/") + 1), rel).replace(/\\/g, "/");
       rel = rel.replace(/^\//, "");
-      if (!existsSync(join(root, rel)) && assetRedirects.has(rel)) rel = assetRedirects.get(rel);
-      if (!existsSync(join(root, rel))) { problems.missing.push(`${page} -> ${rel}`); continue; }
+      if (!existsExact(rel) && assetRedirects.has(rel)) rel = assetRedirects.get(rel);
+      if (!existsExact(rel)) { problems.missing.push(`${page} -> ${rel}`); continue; }
       if (rel.startsWith("img/") || /\.svg$/i.test(rel)) continue;
       const status = registry[rel]?.status;
       if (!status) problems.unregistered.push(`${page} -> ${rel}`);
