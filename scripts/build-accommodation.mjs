@@ -1050,7 +1050,35 @@ function withStayResearch(property) {
     tags: [r.stayType && r.stayType.length < 28 ? r.stayType : property.stayType, ...(/dog/i.test(r.dogs || "") && !/no dogs|not allowed|no pets/i.test(r.dogs) ? ["Dog-friendly"] : []), ...(property.tags || []).slice(1)].filter(Boolean).slice(0, 4)
   };
 }
+// Hand-picked, different beach photo per stay so neighbouring Newquay hotels don't share one image.
+const STAY_BEACH_IMAGES = {
+  "fistral-beach-hotel-and-spa": { file: "/images/commons/fistral/85106664.webp", alt: "Waves breaking over the rocks at Fistral Beach, Newquay" },
+  "the-esplanade-hotel": { file: "/images/commons/fistral/169957112.webp", alt: "Fistral Beach and Towan Head from the dunes, Newquay" },
+  "atlantic-hotel-newquay": { file: "/images/commons/towan/165661037.webp", alt: "Towan Beach and the Newquay clifftops" }
+};
+
 const directoryAccommodationProperties = buildDirectoryAccommodationProperties().map(withStayResearch).filter(Boolean);
+
+// Spread the area's photos across its stays so neighbouring pages don't share one image.
+// Stays pinned in STAY_BEACH_IMAGES keep their photo and are excluded from the shared rotation.
+{
+  const pinnedFiles = new Set(Object.values(STAY_BEACH_IMAGES).map((entry) => entry.file));
+  const byArea = new Map();
+  for (const property of directoryAccommodationProperties) {
+    if (!property.representativeImage || STAY_BEACH_IMAGES[property.slug]) continue;
+    if (!byArea.has(property.areaSlug)) byArea.set(property.areaSlug, []);
+    byArea.get(property.areaSlug).push(property);
+  }
+  for (const [areaSlug, list] of byArea) {
+    const area = accommodationAreas.find((candidate) => candidate.slug === areaSlug);
+    const pool = placeImages(areaSlug).filter((file) => !pinnedFiles.has(encodeAssetPath("/" + file)) && !pinnedFiles.has("/" + file));
+    if (pool.length < 2) continue;
+    list.sort((a, b) => a.slug.localeCompare(b.slug)).forEach((property, index) => {
+      property.heroImage = encodeAssetPath("/" + pool[index % pool.length]);
+      property.heroImageAlt = `Coastal scene near ${area?.name || property.location}, used as a representative location image for ${property.name}`;
+    });
+  }
+}
 
 export const publicAccommodationProperties = [
   ...accommodationProperties.filter(isPublicProperty),
@@ -1466,7 +1494,7 @@ function renderWestwardFeaturedSection() {
 
 function renderPropertyCollection(properties, heading, contextArea = null, options = {}) {
   const cards = properties.map((property, index) => {
-    const representative = property.status === "directory-listed"
+    const representative = property.status === "directory-listed" && !property.representativeImage
       ? representativeImageFor(property, contextArea, index)
       : null;
     return {
@@ -1730,7 +1758,7 @@ export function renderAccommodationPropertyPage(property) {
     image: property.heroImage,
     imageAlt: property.heroImageAlt,
     heroPlaceholder: Boolean(property.heroPlaceholder),
-    heroBadge: isRoyalHotel ? "Review pending" : "",
+    heroBadge: (property.review && property.review.length) ? "" : "Review pending",
     heroAddress: isRoyalHotel ? "Barnstaple Street, Bideford, Devon EX39 4AE" : "",
     bodyClass: `accommodation-property-page${isRoyalHotel ? " rwts-property-page" : ""}`,
     breadcrumbs: [["Home", "/"], ["Accommodation", "/accommodation/"], [region?.name || "Accommodation", `/accommodation/${area?.regionSlug || "devon"}/`], [area?.name || property.location, `/accommodation/${property.areaSlug}/`], [property.name, path]],
@@ -1871,6 +1899,8 @@ function formatList(values) {
 }
 
 function representativeImageFor(property, contextArea = null, position = null) {
+  const pinned = STAY_BEACH_IMAGES[property.slug];
+  if (pinned) return { src: encodeAssetPath(pinned.file), alt: pinned.alt };
   const area = contextArea || accommodationAreas.find((candidate) => candidate.slug === property.areaSlug);
   // Prefer photos of the place itself (licensed or Surfbooker-owned) over the regional pool.
   const local = placeImages(area?.slug);
