@@ -270,7 +270,7 @@ South Devon,Gara Rock,Bantham,Hotel,Yes,gara-rock,,listed,,/accommodation/stays/
 South Devon,"The Cottage Hotel, Hope Cove",Bantham,Hotel,Yes,the-cottage-hotel-hope-cove,,listed,,/accommodation/stays/the-cottage-hotel-hope-cove/
 South Devon,Thurlestone Hotel,Bantham,Hotel,Yes,thurlestone-hotel,,listed,,/accommodation/stays/thurlestone-hotel/
 South Devon,Burgh Island Hotel,Bigbury-on-Sea,Hotel,Yes,burgh-island-hotel,,listed,,/accommodation/stays/burgh-island-hotel/
-South Devon,"Marine Hotel, Salcombe",Bigbury-on-Sea,Hotel,Yes,marine-hotel-salcombe,harbourhotels.co.uk,listed,area should be Salcombe not Bigbury; name change unconfirmed; dogs/parking unknown,/accommodation/stays/marine-hotel-salcombe/
+South Devon,"Marine Hotel, Salcombe",Bigbury-on-Sea,Hotel,Yes,marine-hotel-salcombe,harbourhotels.co.uk,removed,CLOSED - owner replied 11 Nov 2026 that it no longer exists; area should be Salcombe not Bigbury; name change unconfirmed; dogs/parking unknown,/accommodation/stays/marine-hotel-salcombe/
 South Devon,The Henley Hotel,Bigbury-on-Sea,Hotel,No,,,researched,,
 South Devon,Perfect Stays,Bigbury-on-Sea / Hope Cove,Self-catering,No,,,researched,,
 South Devon,Finest Stays,Kingsbridge / South Hams,Self-catering,No,,,researched,,
@@ -332,7 +332,8 @@ Wales,Felin Traeth Cottage,Rhosneigr,Self-catering,No,,,researched,,
 Wales,Sandy Mount House,Rhosneigr,Inn,No,,,researched,,
 Wales,Hael Farm Cottages (Port Eynon Beach Cottage),"Port Eynon, Gower",Self-catering,No,,,researched,,
 Wales,Croft Acre Holiday Cottages,"Port Eynon, Gower",Self-catering,No,,,researched,,
-Wales,Little Hill End (Pilton Moor),"Llangennith, Gower",Self-catering,No,,,researched,,
+Wales,Little Hill End (Pilton Moor),"Llangennith, Gower",Self-catering,No,,,redirected,Now on a long let; replaced by Little Hill End Barn (owner Jo Tucker 11 Nov 2026),
+Wales,Little Hill End Barn (Pilton Moor),"Llangennith, Gower",Self-catering,Yes,little-hill-end-barn-pilton-moor,,researched,Owner Jo Tucker offered the Barn 11 Nov 2026; meeting at the Barn Sun 22 Nov (email a few days before to confirm); images and details to follow,
 Wales,Glendower,St Davids,Guest house,No,,,researched,,
 Wales,Ramsey House,St Davids,Guest house,No,,,researched,,
 Wales,"Carn Llidi, Lleithyr Farm","Whitesands, St Davids",Self-catering,No,,,researched,,
@@ -372,7 +373,6 @@ Southern England,The Scott Arms,Kimmeridge Bay,Inn,Yes,the-scott-arms,,listed,,/
 Southern England,Bedford Lodge,Shanklin,Guest house,No,,,researched,,
 Southern England,Channel View Hotel,Shanklin,Hotel,Yes,channel-view-hotel,,listed,,/accommodation/stays/channel-view-hotel/
 Southern England,Hambledon Hotel,Shanklin,Hotel,No,,,researched,,
-Southern England,Haven Hall,Shanklin,Hotel,Yes,haven-hall,,listed,,/accommodation/stays/haven-hall/
 Southern England,St George's House,Shanklin,Guest house,No,,,todo,,
 Southern England,The Chestnuts,Shanklin,Guest house,No,,,researched,,
 Southern England,The Clifton,Shanklin,B&B,No,,,researched,,

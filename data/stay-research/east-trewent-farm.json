@@ -9,9 +9,9 @@
  "dogs": "Welcome by arrangement, one per cottage",
  "beachAccess": "A few minutes' walk to Freshwater East beach",
  "boardStorage": "Space to store boats, bikes or surfboards",
- "confirmedFeatures": "Wi-Fi, central heating, wood burner (Granary), ground-floor bedroom, welcome hamper, board and bike storage",
- "overview": "East Trewent Farm has four self-catering cottages on Stackpole Road, a few minutes' walk from Freshwater East beach and the coast path. They sleep two to six and come with a welcome hamper.",
- "surfTripFit": "Stated surfboard storage and a short walk to the beach make it one of the most surf-friendly stays here.",
+ "confirmedFeatures": "Wi-Fi, central heating, wood burners in the Granary, Milking Parlour and Cowshed, welcome hamper, ground-floor bedroom, table tennis in the barn, bodyboards guests can borrow, spare wetsuits in various sizes, board and bike storage",
+ "overview": "East Trewent Farm has four self-catering cottages on Stackpole Road, a few minutes' walk from Freshwater East beach and the coast path. They sleep two to six and come with a welcome hamper. Guests can borrow bodyboards, and spare wetsuits are available if you forget yours. There are wood burners in the Granary, Milking Parlour and Cowshed, and table tennis in the barn.",
+ "surfTripFit": "Surfboard storage, borrowable bodyboards, spare wetsuits and a short walk to Freshwater East make it one of the most surf-friendly stays here. Manorbier and Freshwater West are both in easy reach, so it works as a base whatever the wind is doing.",
  "sources": [
   {
    "label": "East Trewent Farm",
@@ -20,7 +20,13 @@
   {
    "label": "Visit Pembrokeshire – East Trewent Farm",
    "url": "https://www.visitpembrokeshire.com/accommodation-listing/east-trewent-farm-self-catering"
+  },
+  {
+   "label": "Owners Rebecca and Jeremy Alderwick (email, 11 Nov 2026)",
+   "url": "https://easttrewentfarm.co.uk/"
   }
  ],
- "slug": "east-trewent-farm"
+ "slug": "east-trewent-farm",
+ "verificationNote": "Facilities supplied by the owners by email on 11 Nov 2026 and cross-checked against the property's website and Visit Pembrokeshire. Surfbooker has not stayed here; confirm facilities and policies directly when you enquire.",
+ "lastVerified": "2026-11-11"
 }

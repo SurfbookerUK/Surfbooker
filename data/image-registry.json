@@ -7,6 +7,19 @@
     "blocked": "Must not appear on published pages."
   },
   "images": {
+    "images/accommodation/properties/parkmill-cottages/Three-Cliffs-Bay.webp": {
+      "status": "cleared",
+      "sourceType": "owner-supplied",
+      "credit": "Parkmill Cottages",
+      "place": "Three Cliffs Bay, Gower",
+      "notes": "Photo of Three Cliffs Bay supplied by the Parkmill Cottages owner by email on 2026-11-11 for the Surfbooker listing. Resized to 1600px wide."
+    },
+    "images/accommodation/properties/parkmill-cottages/Parkmill-Cottages.webp": {
+      "status": "cleared",
+      "sourceType": "owner-supplied",
+      "credit": "Parkmill Cottages",
+      "notes": "Photo supplied by the owner (Adam) by email on 2026-11-11 for the Surfbooker listing. Award badge, Cymraeg Approved sign and railing banner removed."
+    },
     "apple-touch-icon.png": {
       "status": "cleared",
       "sourceType": "surfbooker-brand",

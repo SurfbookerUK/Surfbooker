@@ -848,10 +848,6 @@
   "area": "shanklin"
  },
  {
-  "name": "Haven Hall",
-  "area": "shanklin"
- },
- {
   "name": "Beach Green Hotel",
   "area": "shoreham"
  },
@@ -1381,6 +1377,10 @@
  },
  {
   "name": "Little Hill End (Pilton Moor)",
+  "area": "llangennith"
+ },
+ {
+  "name": "Little Hill End Barn (Pilton Moor)",
   "area": "llangennith"
  },
  {

@@ -993,6 +993,128 @@ export const accommodationProperties = [
     lastVerified: "2026-09-01",
     verificationNotes: "The Surfbooker owner supplied the Airbnb listing details and local images on 2026-09-01, confirming the preferred public review title and permission to use the images.",
     tags: ["Sleeps four", "Ocean views", "Beach access"]
+  },
+  {
+    slug: "parkmill-cottages",
+    name: "Parkmill Cottages",
+    pageTitle: "Parkmill Cottages | Dog-Friendly Gower Cottages Near Three Cliffs Bay | Surfbooker",
+    metaDescription: "Four dog-friendly self-catering cottages in Parkmill, Gower, a mile's walk from Three Cliffs Bay, with EV charging, parking and a shop, cafe and bakery next door.",
+    areaSlug: "oxwich-bay",
+    location: "Parkmill, Gower, Swansea",
+    addressRegion: "Swansea",
+    postalCode: "SA3 2EH",
+    operator: "Parkmill Cottages",
+    hideOperatorFact: true,
+    stayType: "Four self-catering cottages",
+    accommodation: "One 1-bedroom cottage (king-size bed) and three 2-bedroom cottages (double bed and bunk beds)",
+    suitableFor: "Couples, small families, dog owners and budget-conscious guests who have outgrown camping",
+    sleepsOrRooms: "1-bedroom cottage for two; 2-bedroom cottages for up to four",
+    parking: "Allocated parking space for each cottage",
+    beachAccess: "Three Cliffs Bay is about a mile away on foot; Oxwich Bay is a short drive",
+    dogs: "Dog friendly, by prior arrangement",
+    confirmedFeatures: "Two 22kW EV charge points on site, allocated parking, Shepherds shop and cafe next door, Little Valley Bakery and Gower Heritage Centre under five minutes' walk, bus stop nearby",
+    overview: "Four purpose-built, dog-friendly cottages in Parkmill, a mile's walk from Three Cliffs Bay.",
+    overviewDetail: "Parkmill Cottages are four purpose-built, dog-friendly self-catering cottages in Parkmill on the south Gower coast, around a mile on foot from Three Cliffs Bay. There are two EV charge points on site, a shop and cafe next door, and an award-winning bakery and the Gower Heritage Centre within five minutes' walk.",
+    surfTripFit: "A walk-to-the-beach base for Three Cliffs Bay, with Oxwich Bay and Caswell Bay a short drive away and Gower's west-coast surf beaches further along the peninsula.",
+    heroImage: "/images/accommodation/properties/parkmill-cottages/Parkmill-Cottages.webp",
+    heroImageAlt: "The Parkmill Cottages in Parkmill, Gower, with a parking space outside each cottage",
+    gallery: [
+      {
+        src: "/images/accommodation/properties/parkmill-cottages/Three-Cliffs-Bay.webp",
+        alt: "Marram grass on the dunes at Three Cliffs Bay with the three limestone peaks behind, about a mile's walk from Parkmill Cottages"
+      }
+    ],
+    galleryLabel: "Nearby",
+    galleryHeading: "Three Cliffs Bay.",
+    reviewStatus: "Accommodation guide",
+    reviewStatusCopy: "Property information supplied by the owner and checked against the official website and Visit Wales. Surfbooker has not yet personally reviewed these cottages.",
+    sections: [
+      ["Why it works for a Gower surf trip", "Parkmill sits on the A4118 south Gower road, so you can leave the car at the cottage and walk to Three Cliffs Bay. The cottages are also a good starting point for Oxwich Bay and Caswell Bay by car, and for the longer drive west to Rhossili and Llangennith. The 118 bus between Swansea and Rhossili stops nearby, which helps if you want to leave the car parked."],
+      ["Next door and nearby", "Shepherds shop and cafe is next door, handy for supplies, coffee and breakfast. Little Valley Bakery, an artisan bakery in the Old Hay Barn at the Gower Heritage Centre, was named in the Good Food Guide's 50 Best Bakeries for 2026. The Heritage Centre itself is under five minutes' walk away: a 12th-century water mill with craft workshops, a tea room and the Shed Head cider mill."],
+      ["Events at the Heritage Centre", "The Gower Heritage Centre runs events through the year, including its annual Cheese and Cider Festival each May, wassail celebrations and a bluegrass festival in September. Dates change each year, so check the centre's website before you plan a stay around one."],
+      ["Walking from the door", "The Three Cliffs Bay walk follows a wooded valley past a WWII bunker, with views of Pennard Castle, before dropping to the sands. Swansea Council grades the 1.7-mile route as challenging because the paths are rough, and the Pennard Pill stream crosses the beach, so check the tide and wear suitable footwear. You can continue west over the headland to Tor Bay."],
+      ["For guests who have outgrown camping", "The owners describe the cottages as budget-friendly, aimed at guests who want more comfort than a tent without the cost of a larger rental. Rates and availability are not published here, so ask the property directly."]
+    ],
+    collectionLabel: "Cottage choices",
+    collectionHeading: "One bedroom or two.",
+    collectionChoices: [
+      ["1-bedroom cottage", "Sleeps 2", "A one-bedroom cottage with a king-size bed, suited to couples."],
+      ["2-bedroom cottages (three)", "Sleeps up to 4", "Each has a double bed and bunk beds, a practical layout for a small family or two couples with children."]
+    ],
+    faqItems: [
+      ["Are dogs allowed at Parkmill Cottages?", "Yes. The cottages are listed as dog friendly. The owners ask guests to arrange this in advance, so mention your dog when you enquire."],
+      ["Can I charge an electric car?", "Yes. The owners confirm two EV charge points on site for guests; the official website lists them as 22kW. Check current charging arrangements when you book."],
+      ["How far is Three Cliffs Bay on foot?", "About a mile, or roughly 20 minutes on a path through the valley below Pennard Castle. Swansea Council lists the circular route from the Shepherds car park as 1.7 miles."],
+      ["Where is the nearest food and drink?", "Shepherds shop and cafe is next door. Little Valley Bakery and the Gower Heritage Centre tea room are within five minutes' walk, and the Gower Inn pub is in the village."]
+    ],
+    status: "verified",
+    pageEligible: true,
+    approvedImage: true,
+    ownerVerified: true,
+    schemaType: "LodgingBusiness",
+    sourceUrls: [
+      "https://www.parkmillcottages.co.uk/",
+      "https://www.visitwales.com/accommodation/self-catering/parkmill-cottages-2169305",
+      "https://www.swansea.gov.uk/threecliffsbaywalk",
+      "https://www.gowerheritagecentre.co.uk/",
+      "https://nation.cymru/culture/the-welsh-bakeries-on-good-food-guides-50-best-bakeries-2026-list"
+    ],
+    lastVerified: "2026-11-11",
+    verificationNotes: "Owner supplied facilities and a photograph by email on 2026-11-11. Cross-checked against the official website, Visit Wales, Swansea Council walking guide, Gower Heritage Centre and Good Food Guide coverage.",
+    tags: ["Four cottages", "Dog friendly", "EV charging", "Walk to Three Cliffs"]
+  },
+  {
+    slug: "little-hill-end-barn-pilton-moor",
+    name: "Little Hill End Barn (Pilton Moor)",
+    pageTitle: "Little Hill End Barn | Romantic Llangennith Barn For Two | Surfbooker",
+    metaDescription: "Little Hill End Barn is a stone barn conversion for two in Llangennith, Gower, about five minutes' walk from the beach, with a log burner and galleried bedroom.",
+    areaSlug: "llangennith",
+    location: "Llangennith, Gower, Swansea",
+    addressRegion: "Swansea",
+    postalCode: "SA3 1JD",
+    operator: "Little Hill End Barn",
+    listingName: "Little Hill End Barn",
+    stayType: "Self-catering stone barn conversion",
+    accommodation: "One double galleried bedroom, open-plan lounge, kitchen and diner, and a shower room",
+    suitableFor: "Couples looking for a romantic break near Llangennith beach",
+    sleepsOrRooms: "Sleeps two; a travel cot for a baby may be arranged",
+    parking: "Designated on-site parking",
+    beachAccess: "About five minutes' walk to Llangennith beach",
+    dogs: "Pets by arrangement (one pet); no smokers",
+    checkIn: "Saturday changeover",
+    confirmedFeatures: "Log-burning stove, central heating, fitted kitchen with washing machine, walk-in shower, bed linen and towels provided, Wi-Fi, enclosed patio and garden with outside sitting area, sea and countryside views",
+    overview: "A rustic stone barn for two, about five minutes' walk from Llangennith beach.",
+    overviewDetail: "Little Hill End Barn is a stone barn conversion in the west Gower village of Llangennith, sleeping two in one double galleried bedroom. It has an open-plan lounge, kitchen and diner, a log-burning stove and a walk-in shower, and the beach is about five minutes' walk away.",
+    surfTripFit: "A cosy base for two within walking distance of Llangennith, the Atlantic-facing end of Rhossili Bay and Gower's best-known surf beach.",
+    heroImage: "/images/commons/llangennith/155648498.webp",
+    heroImageAlt: "Coastal scene near Llangennith, Gower, used as a location image for Little Hill End Barn",
+    representativeImage: true,
+    gallery: [],
+    reviewStatus: "Accommodation guide",
+    reviewStatusCopy: "Property information from the owner's listing, cross-checked with the owner. Surfbooker has not yet personally reviewed this barn.",
+    sections: [
+      ["Why it works for a Llangennith surf trip", "Llangennith is on the northern end of Rhossili Bay, which faces the Atlantic and picks up any available swell. The barn is about five minutes' walk from the beach, so boards and wetsuits do not need a drive. It suits a couple who want to surf by day and come back to a warm, quiet barn with a log burner."],
+      ["Inside the barn", "The barn is an open-plan lounge, kitchen and diner with bare stone walls and exposed beams, a galleried double bedroom overlooking the lounge, and a shower room with a large walk-in shower. The fitted kitchen has an electric cooker, grill and hob, washing machine, microwave, fridge, kettle and toaster. There are two settees, a TV with DVD player and a Hi-Fi with a docking station, and central heating throughout as well as the log-burning stove. Bed linen and towels are provided, and there is an enclosed patio and garden with space to sit outside."],
+      ["Food, drink and supplies", "The nearest shop and place to eat is at Hillend Campsite, about five minutes away. The nearest pub is The Kings Head, around fifteen minutes' walk, a long-standing surfers' pub in the village centre."],
+      ["Surfing from here", "Rhossili Bay is about 5km long and produces a consistent beach break open to the Atlantic, suitable for a range of abilities. The biggest waves are usually at the Llangennith end. As with any open beach, check the forecast and tide, and watch for jellyfish and weever fish at low tide."],
+      ["Good to know", "Changeover is on Saturdays. The owners take short breaks but not in July and August. The barn is for two people only, there is no smoking, and one pet is welcome by arrangement. The owners' larger Little Hill End Cottage next door is currently on a long let."]
+    ],
+    faqItems: [
+      ["How many people does Little Hill End Barn sleep?", "Two, in one double bedroom on a gallery above the lounge. A baby may be accommodated if you bring a travel cot and arrange it with the owners."],
+      ["How far is the beach?", "About five minutes' walk to Llangennith beach."],
+      ["Can I bring my dog?", "Pets are accepted by arrangement, with one pet per stay. Ask the owners before you book."],
+      ["Where is the nearest shop, cafe and pub?", "The shop and place to eat is at Hillend Campsite, about five minutes away. The Kings Head pub is around fifteen minutes' walk."],
+      ["Can I book a short break?", "Yes. The owners accept short breaks outside July and August. Weekly changeover is on Saturdays."]
+    ],
+    status: "verified",
+    pageEligible: true,
+    approvedImage: true,
+    ownerVerified: true,
+    schemaType: "VacationRental",
+    sourceUrls: [],
+    lastVerified: "2026-11-11",
+    verificationNotes: "Owner Jo Tucker confirmed the Barn by email on 2026-11-11. Facilities taken from the owner's Gower Holidays listing and checked against the Airbnb listing; parking and the enclosed patio come from the Airbnb listing. The dishwasher shown on one channel is not claimed because the owner's own description does not mention it. Surf information from the Enjoy Gower guide. A representative location image is used until the owner supplies photographs.",
+    tags: ["Sleeps two", "Log burner", "5-minute walk to beach", "Romantic break"]
   }
 ];
 
@@ -1007,7 +1129,8 @@ export const DUPLICATE_STAYS = {
   "saunton-sands-hotel-source-spa-and-wellness": "saunton-sands-hotel",
   "the-porthtowan-eco-park": "mount-pleasant-eco-park",
   "golden-coast-leisure-park": "woolacombe-bay-holiday-park",
-  "driftwood-spars-rooms": "the-driftwood-spars-rooms"
+  "driftwood-spars-rooms": "the-driftwood-spars-rooms",
+  "little-hill-end-pilton-moor": "little-hill-end-barn-pilton-moor"
 };
 // Where the property actually is, when that's not the beach it's listed under.
 const STAY_LOCATIONS = {
@@ -1651,7 +1774,7 @@ export function renderAccommodationPropertyPage(property) {
   const cardSections = property.cardSections?.length ? property.cardSections.map((section) => `<section class="accommodation-section"><p class="section-label">${escapeHtml(section.label)}</p><h2>${escapeHtml(section.heading)}</h2><div class="destination-decision-grid">${section.cards.map(([name, copy]) => `<article><h3>${escapeHtml(name)}</h3><p>${escapeHtml(copy)}</p></article>`).join("")}</div></section>`).join("") : "";
   const faqSection = property.faqItems?.length ? `<section class="accommodation-section"><p class="section-label">Questions answered</p><h2>Planning a stay at ${escapeHtml(property.name)}.</h2>${property.faqItems.map(([question, answer]) => `<details><summary>${escapeHtml(question)}</summary><p>${escapeHtml(answer)}</p></details>`).join("")}</section>` : "";
   const gallerySection = property.gallery?.length
-    ? `<section class="accommodation-section"><p class="section-label">Property gallery</p><h2>Inside the stay.</h2><div class="property-gallery">${property.gallery.map((item) => `<img src="${escapeHtml(item.src)}" alt="${escapeHtml(item.alt)}" loading="lazy">`).join("")}</div></section>`
+    ? `<section class="accommodation-section"><p class="section-label">${escapeHtml(property.galleryLabel || "Property gallery")}</p><h2>${escapeHtml(property.galleryHeading || "Inside the stay.")}</h2><div class="property-gallery">${property.gallery.map((item) => `<img src="${escapeHtml(item.src)}" alt="${escapeHtml(item.alt)}" loading="lazy">`).join("")}</div></section>`
     : "";
   const reviewSection = property.review?.length
     ? `<section class="accommodation-section property-review-section"><div class="property-review-grid"><div><p class="section-label">Our review</p><h2>${escapeHtml(property.reviewHeading || `What ${property.name} is like.`)}</h2><div class="property-review-copy">${property.review.map((paragraph) => `<p>${escapeHtml(paragraph)}</p>`).join("")}</div></div>${property.reviewVerdict ? `<aside class="property-review-verdict" aria-label="Surfbooker verdict"><p>${escapeHtml(property.reviewVerdict)}</p></aside>` : ""}</div></section>`
@@ -1666,7 +1789,7 @@ export function renderAccommodationPropertyPage(property) {
       "@type": "PostalAddress",
       ...(property.streetAddress ? { streetAddress: property.streetAddress } : {}),
       addressLocality: area?.name || property.location,
-      addressRegion: area?.regionSlug === "cornwall" ? "Cornwall" : area?.regionSlug === "wales" ? "Pembrokeshire" : "Devon",
+      addressRegion: property.addressRegion || (area?.regionSlug === "cornwall" ? "Cornwall" : area?.regionSlug === "wales" ? "Pembrokeshire" : "Devon"),
       ...(property.postalCode ? { postalCode: property.postalCode } : {}),
       addressCountry: "GB"
     },
