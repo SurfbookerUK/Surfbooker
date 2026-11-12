@@ -1070,7 +1070,7 @@ export const accommodationProperties = [
     hideOperatorFact: true,
     hideRoomsFact: true,
     stayType: "Clifftop hotel with golf course and leisure facilities",
-    accommodation: "23 en suite rooms with breakfast; listed as a hotel with a separate self-catering cottage",
+    accommodation: "23 en suite rooms with breakfast, plus a separate 2-bed self-catering cottage in St Just",
     suitableFor: "Couples, golfers and visitors flying to the Isles of Scilly from Land's End Airport, plus walkers on the South West Coast Path, bird watchers, wild swimmers, surfers, photographers, cycling groups and sports teams",
     sleepsOrRooms: "23 bedrooms",
     parking: "Free car park on site",
@@ -1078,26 +1078,26 @@ export const accommodationProperties = [
     dogs: "Pets allowed; they must be included in the reservation. Dogs are welcome in all areas except the gym and pool",
     confirmedFeatures: "Heated pool, gym, golf course, breakfast, airport minibus transfer, sauna and jacuzzi, evening meals (times and offerings vary with season), terrace, function room, free car park",
     overview: "A clifftop golf and leisure club half a mile from Cape Cornwall, with 23 bedrooms, a heated pool and a dog-friendly welcome.",
-    overviewDetail: "The Cape Cornwall Club sits at Sennen, on Cape Cornwall Road near St Just, on the far west coast of Cornwall. It has 23 en suite rooms with breakfast, a separate 2-bed self-catering cottage in St Just a mile from the Club, an indoor heated pool with a sauna and jacuzzi, a gym, a restaurant and terrace, and its own golf course. Cape Cornwall itself is half a mile away on foot, and the Club says it is open every day of the year.",
+    overviewDetail: "The Cape Cornwall Club sits at Sennen, on Cape Cornwall Road near St Just, on the far west coast of Cornwall. It has 23 en suite rooms with breakfast, a separate 2-bed self-catering cottage in St Just a mile away, an indoor heated pool with a sauna and jacuzzi, a gym, a restaurant and terrace, and its own golf course. Cape Cornwall itself is half a mile away on foot, and it is open every day of the year.",
     surfTripFit: "A base for the far west of Cornwall rather than a beachfront stay. Sennen Cove, Gwenver and Portheras Cove are all within reach by car, and the pool, sauna and gym are useful after a cold session or on a flat day.",
     heroImage: "/images/commons/sennen-cove/108258497.webp",
     heroImageAlt: "Aerial view of the Cape Cornwall golf course, headland and Brisons rocks",
     gallery: [],
     sections: [
-      ["Why it works for a surf trip", "The Club is on the far west coast of Cornwall, so it works as a base for the beaches either side: Sennen Cove and Gwenver to the south, and Portheras Cove to the north-east near Pendeen. It is not on the beach, so plan to drive to the surf. The Club lists a free car park, which helps if you are travelling with boards, and the indoor pool, sauna and jacuzzi are there for after a session or on a flat day."],
-      ["On site", "The Club lists an indoor heated swimming pool, sauna and jacuzzi, and an air-conditioned gym that has been newly refurbished. There is a restaurant serving freshly cooked meals and a terrace for drinks, including at sunset, plus a large function room and terrace used for events. The Club says it is open to non-members as well as guests."],
-      ["Golf", "The Club describes its course as the first and last golf course in the UK. The Isles of Scilly Travel listing mentions views out towards the Isles of Scilly and Skybus planes arriving and leaving above the course. Dogs are allowed on the course."],
-      ["Groups, teams and clubs", "The Club says it is the only sports resort in far West Cornwall, and that its regular guests include professional sports teams, walkers, cycling groups and golf groups. It also says it offers off-peak deals to surf groups who book direct with the Club. Terms are set by the Club, so ask what is available for your dates and group size."],
-      ["Dogs and dog-friendly beaches", "Dogs are welcome throughout the Club except the gym and pool, and on the golf course. The Club's local area guide lists Portheras Cove, Cot Valley, Nanjizal and Gwenver as dog-friendly all year. Sennen has no dog restrictions from 1 October to 14 May; from 15 May to 30 September dogs are not allowed between 10am and 6pm. Beach rules can change, so check the signs on the day."],
-      ["Walking from the Club", "Cape Cornwall is half a mile from the Club. The Club lists the walk from the Club to Pendeen Lighthouse as 3.8 miles, and the longer coast path walk from Sennen to Pendeen Lighthouse, passing the Club, as 9 miles. It is also an official Way Maker on the South West Coast Path, where walkers can have a Coast Path Passport stamped."],
-      ["Flying to the Isles of Scilly", "The Isles of Scilly Travel listing describes the Club as a short drive from Land's End Airport and mentions an airport minibus transfer, which suits guests combining a stay with a flight to the islands. Ask the Club about transfer times and availability when you enquire."]
+      ["Why it works for a surf trip", "It sits on the far west coast of Cornwall, so it works as a base for the beaches either side: Sennen Cove and Gwenver to the south, and Portheras Cove to the north-east near Pendeen. It is not on the beach, so plan to drive to the surf. There is a free car park, which helps if you are travelling with boards, and the indoor pool, sauna and jacuzzi are there for after a session or on a flat day."],
+      ["On site", "There is an indoor heated swimming pool, sauna and jacuzzi, and a newly refurbished, air-conditioned gym. There is a restaurant serving freshly cooked meals and a terrace for drinks, including at sunset, plus a large function room and terrace used for events. It is open to non-members as well as guests."],
+      ["Golf", "The course is billed as the first and last golf course in the UK. The course has views out towards the Isles of Scilly, with Skybus planes arriving and leaving overhead. Dogs are allowed on the course."],
+      ["Groups, teams and clubs", "This is the only sports resort in far West Cornwall, and regular guests include professional sports teams, walkers, cycling groups and golf groups. Off-peak deals are offered to surf groups who book direct. Terms are set by the venue, so ask what is available for your dates and group size."],
+      ["Dogs and dog-friendly beaches", "Dogs are welcome throughout except the gym and pool, and on the golf course. Portheras Cove, Cot Valley, Nanjizal and Gwenver are dog-friendly all year. Sennen has no dog restrictions from 1 October to 14 May; from 15 May to 30 September dogs are not allowed between 10am and 6pm. Beach rules can change, so check the signs on the day."],
+      ["Walking from the Club", "Cape Cornwall is half a mile away. The walk to Pendeen Lighthouse is 3.8 miles, and the longer coast path walk from Sennen to Pendeen Lighthouse, passing the door, is 9 miles. It is also an official Way Maker on the South West Coast Path, where walkers can have a Coast Path Passport stamped."],
+      ["Flying to the Isles of Scilly", "It is a short drive from Land's End Airport and offers an airport minibus transfer, which suits guests combining a stay with a flight to the islands. Ask about transfer times and availability when you enquire."]
     ],
     faqItems: [
-      ["Are dogs allowed at The Cape Cornwall Club?", "Yes. The Club says dogs are welcome in all areas except the gym and swimming pool, and they are also allowed on the golf course. Mention your dog when you enquire so the Club can confirm room arrangements."],
-      ["Is there parking?", "Yes. The Club lists a free car park on site."],
-      ["How far is Cape Cornwall on foot?", "About half a mile, according to the Club's local walks guide."],
-      ["Can people who are not staying use the Club?", "The Club says it is open to non-members. Ask the Club about access to the pool and gym if you are not staying."],
-      ["Does the Club offer deals for surf groups?", "The Club says it offers off-peak deals to surf groups who book direct, and that it is open every day of the year. Ask the Club for current terms and dates."]
+      ["Are dogs allowed at The Cape Cornwall Club?", "Yes. Dogs are welcome in all areas except the gym and swimming pool, and are also allowed on the golf course. Mention your dog when you enquire so they can confirm room arrangements."],
+      ["Is there parking?", "Yes, there is a free car park on site."],
+      ["How far is Cape Cornwall on foot?", "About half a mile on foot."],
+      ["Can people who are not staying use the facilities?", "Yes, it is open to non-members. Ask about access to the pool and gym if you are not staying."],
+      ["Are there deals for surf groups?", "Off-peak deals are offered to surf groups who book direct, and it is open every day of the year. Ask for current terms and dates."]
     ],
     status: "verified",
     pageEligible: true,
@@ -1109,7 +1109,7 @@ export const accommodationProperties = [
       "https://www.islesofscilly-travel.co.uk/discover/accommodation/cape-cornwall-club/"
     ],
     lastVerified: "2026-11-12",
-    verificationNotes: "Facilities, dog policy, walks and parking checked against the Club's website on 2026-11-12, with the Isles of Scilly Travel listing for the airport and golf details. The Club's management supplied the sports resort, group guest and off-peak surf group details by email on 2026-11-12. Surfbooker has not stayed here; confirm facilities and policies directly when you enquire.",
+    verificationNotes: "Facilities, dog policy, walks, parking, group guests and off-peak surf group deals verified on 2026-11-12. Surfbooker has not stayed here; confirm facilities and policies directly when you enquire.",
     tags: ["23 bedrooms", "Heated pool", "Dog friendly", "Golf course"]
   },
   {
@@ -1332,32 +1332,15 @@ const OWNER_STAY_IMAGES = {
     ]
   },
   "the-cape-cornwall-club": {
-    galleryHeading: "Inside the Club.",
+    galleryHeading: "Around the Club.",
     hero: { file: "/images/accommodation/properties/the-cape-cornwall-club/Cape-Cornwall-Club-Aerial-Golf-Course.webp", alt: "Aerial view of the Cape Cornwall golf course, headland and Brisons rocks" },
-    gallery: [
-      { src: "/images/accommodation/properties/the-cape-cornwall-club/Cape-Cornwall-Club-Golfer-Cape-Cornwall.webp", alt: "Golfer mid-swing with the Cape Cornwall headland and sea behind" },
-      { src: "/images/accommodation/properties/the-cape-cornwall-club/Cape-Cornwall-Club-Putting-Green-Brisons.webp", alt: "Golfers on a green with the sea and the Brisons rocks behind" },
-      { src: "/images/accommodation/properties/the-cape-cornwall-club/Cape-Cornwall-Club-Heated-Pool-Sauna.webp", alt: "Heated indoor pool with sauna and jacuzzi at the Cape Cornwall Club" },
-      { src: "/images/accommodation/properties/the-cape-cornwall-club/Cape-Cornwall-Club-Bedroom-Beams.webp", alt: "Bedroom with white linen, exposed beams and a window" },
-      { src: "/images/accommodation/properties/the-cape-cornwall-club/Cape-Cornwall-Club-Bedroom-Twin-Stone-Walls.webp", alt: "Bedroom with a double and a single bed, stone walls and exposed beams" },
-      { src: "/images/accommodation/properties/the-cape-cornwall-club/Cape-Cornwall-Club-Gym.webp", alt: "Gym with cardio and resistance machines" },
-      { src: "/images/accommodation/properties/the-cape-cornwall-club/Cape-Cornwall-Club-Terrace-Food-Wine.webp", alt: "Food and wine on a terrace table at the Cape Cornwall Club" },
-      { src: "/images/accommodation/properties/the-cape-cornwall-club/Cape-Cornwall-Club-Terrace-Evening-Sun.webp", alt: "Terrace under shade sails with low sun over the sea" },
-      { src: "/images/accommodation/properties/the-cape-cornwall-club/Cape-Cornwall-Club-Terrace-Sunset.webp", alt: "Terrace at sunset with guests under shade sails" },
-      { src: "/images/accommodation/properties/the-cape-cornwall-club/Cape-Cornwall-Club-Squad-Clubhouse-Terrace.webp", alt: "Squad photographed outside the Cape Cornwall Club clubhouse entrance" },
-      { src: "/images/accommodation/properties/the-cape-cornwall-club/Cape-Cornwall-Club-Squad-Clubhouse-Sunshine.webp", alt: "Squad gathered outside the Club's CCC-signed clubhouse" },
-      { src: "/images/accommodation/properties/the-cape-cornwall-club/Cape-Cornwall-Club-Team-Clubhouse-Group.webp", alt: "Team group photo in front of the clubhouse" },
-      { src: "/images/accommodation/properties/the-cape-cornwall-club/Cape-Cornwall-Club-Visiting-Team-Terrace.webp", alt: "Visiting team and staff gathered on the Cape Cornwall Club terrace" },
-      { src: "/images/accommodation/properties/the-cape-cornwall-club/Cape-Cornwall-Club-Team-Huddle-Function-Room.webp", alt: "Sports team huddled in the Club's function room" },
-      { src: "/images/accommodation/properties/the-cape-cornwall-club/Cape-Cornwall-Club-Wedding-Sunset-Cape.webp", alt: "Couple at sunset on the clifftop with Cape Cornwall behind" }
-    ],
+    gallery: [],
     sections: [
-      { label: "The golf course", heading: "A clifftop course by Cape Cornwall.", copy: ["The Club has its own golf course on the clifftop, with views over the sea and the Brisons rocks. It is open every day of the year and welcomes golf groups."], image: { src: "/images/accommodation/properties/the-cape-cornwall-club/Cape-Cornwall-Club-Aerial-Golf-Course.webp", alt: "Aerial view of the Cape Cornwall golf course, headland and Brisons rocks" } },
-      { label: "Pool and spa", heading: "Warm up after a cold session.", copy: ["The heated indoor pool is joined by a sauna and a jacuzzi, which are useful on flat days and after winter surf sessions."], image: { src: "/images/accommodation/properties/the-cape-cornwall-club/Cape-Cornwall-Club-Heated-Pool-Sauna.webp", alt: "Heated indoor pool with sauna and jacuzzi at the Cape Cornwall Club" } },
-      { label: "The rooms", heading: "23 en suite rooms with breakfast.", copy: ["The Club has 23 en suite rooms with breakfast. There is also a separate 2-bed self-catering cottage in St Just, a mile from the Club."], image: { src: "/images/accommodation/properties/the-cape-cornwall-club/Cape-Cornwall-Club-Bedroom-Beams.webp", alt: "Bedroom with white linen, exposed beams and a window" } },
-      { label: "Food and drink", heading: "Evening meals and a sunset terrace.", copy: ["Evening meals are served, with times and offerings varying by season. The terrace looks out to sea and catches the evening light."], image: { src: "/images/accommodation/properties/the-cape-cornwall-club/Cape-Cornwall-Club-Terrace-Sunset.webp", alt: "Terrace at sunset with guests under shade sails" } },
-      { label: "The gym", heading: "Train between surfs.", copy: ["The gym sits alongside the pool, sauna and jacuzzi for guests who want to keep training on non-surf days."], image: { src: "/images/accommodation/properties/the-cape-cornwall-club/Cape-Cornwall-Club-Gym.webp", alt: "Gym with cardio and resistance machines" } },
-      { label: "Groups and teams", heading: "Built for groups.", copy: ["The Club describes itself as the only sports resort in far West Cornwall. Regular guests include professional sports teams, walkers, cycling groups and golf groups, and it offers off-peak deals for surf groups who book direct."], image: { src: "/images/accommodation/properties/the-cape-cornwall-club/Cape-Cornwall-Club-Visiting-Team-Terrace.webp", alt: "Visiting team and staff gathered on the Cape Cornwall Club terrace" } }
+      { label: "Golf", heading: "A clifftop course by Cape Cornwall.", copy: ["Its own golf course runs along the clifftop, with views over the sea and the Brisons rocks. It is open every day of the year and welcomes golf groups."], image: { src: "/images/accommodation/properties/the-cape-cornwall-club/Cape-Cornwall-Club-Aerial-Golf-Course.webp", alt: "Aerial view of the Cape Cornwall golf course, headland and Brisons rocks" }, more: [{ src: "/images/accommodation/properties/the-cape-cornwall-club/Cape-Cornwall-Club-Golfer-Cape-Cornwall.webp", alt: "Golfer mid-swing with the Cape Cornwall headland and sea behind" }, { src: "/images/accommodation/properties/the-cape-cornwall-club/Cape-Cornwall-Club-Putting-Green-Brisons.webp", alt: "Golfers on a green with the sea and the Brisons rocks behind" }] },
+      { label: "The rooms", heading: "23 en suite rooms with breakfast.", copy: ["Twenty-three en suite rooms, breakfast included. A separate 2-bed self-catering cottage in St Just, a mile away, is also available."], image: { src: "/images/accommodation/properties/the-cape-cornwall-club/Cape-Cornwall-Club-Bedroom-Beams.webp", alt: "Bedroom with white linen, exposed beams and a window" }, more: [{ src: "/images/accommodation/properties/the-cape-cornwall-club/Cape-Cornwall-Club-Bedroom-Twin-Stone-Walls.webp", alt: "Bedroom with a double and a single bed, stone walls and exposed beams" }] },
+      { label: "Pool and spa", heading: "Warm up after a cold session.", copy: ["A heated indoor pool, sauna and jacuzzi are handy on flat days and after winter surf sessions, with a gym alongside for training between surfs."], image: { src: "/images/accommodation/properties/the-cape-cornwall-club/Cape-Cornwall-Club-Heated-Pool-Sauna.webp", alt: "Heated indoor pool with sauna and jacuzzi" }, more: [{ src: "/images/accommodation/properties/the-cape-cornwall-club/Cape-Cornwall-Club-Gym.webp", alt: "Gym with cardio and resistance machines" }] },
+      { label: "Food and drink", heading: "Evening meals and a sunset terrace.", copy: ["Evening meals are served, with times and offerings varying by season. The terrace looks out to sea and catches the evening light."], image: { src: "/images/accommodation/properties/the-cape-cornwall-club/Cape-Cornwall-Club-Terrace-Sunset.webp", alt: "Terrace at sunset with guests under shade sails" }, more: [{ src: "/images/accommodation/properties/the-cape-cornwall-club/Cape-Cornwall-Club-Terrace-Food-Wine.webp", alt: "Food and wine on a terrace table" }, { src: "/images/accommodation/properties/the-cape-cornwall-club/Cape-Cornwall-Club-Terrace-Evening-Sun.webp", alt: "Terrace under shade sails with low sun over the sea" }, { src: "/images/accommodation/properties/the-cape-cornwall-club/Cape-Cornwall-Club-Wedding-Sunset-Cape.webp", alt: "Couple at sunset on the clifftop with Cape Cornwall behind" }] },
+      { label: "Groups and teams", heading: "Built for groups.", copy: ["Billed as the only sports resort in far West Cornwall. Regular guests include professional sports teams, walkers, cycling groups and golf groups, and off-peak deals are offered to surf groups who book direct."], image: { src: "/images/accommodation/properties/the-cape-cornwall-club/Cape-Cornwall-Club-Visiting-Team-Terrace.webp", alt: "Visiting team and staff gathered on the terrace" }, more: [{ src: "/images/accommodation/properties/the-cape-cornwall-club/Cape-Cornwall-Club-Squad-Clubhouse-Terrace.webp", alt: "Squad photographed outside the clubhouse entrance" }, { src: "/images/accommodation/properties/the-cape-cornwall-club/Cape-Cornwall-Club-Squad-Clubhouse-Sunshine.webp", alt: "Squad gathered outside the CCC-signed clubhouse" }, { src: "/images/accommodation/properties/the-cape-cornwall-club/Cape-Cornwall-Club-Team-Clubhouse-Group.webp", alt: "Team group photo in front of the clubhouse" }, { src: "/images/accommodation/properties/the-cape-cornwall-club/Cape-Cornwall-Club-Team-Huddle-Function-Room.webp", alt: "Sports team huddled in the function room" }] }
     ]
   },
   "hotel-pelirocco": {
@@ -1407,7 +1390,7 @@ for (const property of [...accommodationProperties, ...directoryAccommodationPro
   property.heroImageAlt = own.hero.alt;
   property.gallery = own.gallery.map((item) => ({ src: encodeAssetPath(item.src), alt: item.alt }));
   property.galleryHeading = own.galleryHeading || "Inside the stay.";
-  property.extraSections = (own.sections || []).map((x) => ({ ...x, image: { src: encodeAssetPath(x.image.src), alt: x.image.alt } }));
+  property.extraSections = (own.sections || []).map((x) => ({ ...x, image: { src: encodeAssetPath(x.image.src), alt: x.image.alt }, more: (x.more || []).map((m) => ({ src: encodeAssetPath(m.src), alt: m.alt })) }));
   if (own.review) {
     property.review = own.review;
     property.reviewHeading = own.reviewHeading;
@@ -1995,7 +1978,7 @@ export function renderAccommodationPropertyPage(property) {
     ? `<section class="accommodation-section"><p class="section-label">${escapeHtml(property.galleryLabel || "Property gallery")}</p><h2>${escapeHtml(property.galleryHeading || "Inside the stay.")}</h2><div class="property-gallery">${property.gallery.map((item) => `<img src="${escapeHtml(item.src)}" alt="${escapeHtml(item.alt)}" loading="lazy">`).join("")}</div></section>`
     : "";
   if (property.extraSections?.length) {
-    gallerySection += property.extraSections.map((x, n) => `<section class="accommodation-section property-feature-section${n % 2 ? " property-feature-reverse" : ""}"><div class="property-feature-grid"><div><p class="section-label">${escapeHtml(x.label)}</p><h2>${escapeHtml(x.heading)}</h2>${x.copy.map((c) => `<p>${escapeHtml(c)}</p>`).join("")}</div><figure><img src="${escapeHtml(x.image.src)}" alt="${escapeHtml(x.image.alt)}" loading="lazy"></figure></div></section>`).join("");
+    gallerySection += property.extraSections.map((x, n) => `<section class="accommodation-section property-feature-section${n % 2 ? " property-feature-reverse" : ""}"><div class="property-feature-grid"><div><p class="section-label">${escapeHtml(x.label)}</p><h2>${escapeHtml(x.heading)}</h2>${x.copy.map((c) => `<p>${escapeHtml(c)}</p>`).join("")}</div><figure><img src="${escapeHtml(x.image.src)}" alt="${escapeHtml(x.image.alt)}" loading="lazy"></figure></div>${x.more?.length ? `<div class="property-gallery">${x.more.map((m) => `<img src="${escapeHtml(m.src)}" alt="${escapeHtml(m.alt)}" loading="lazy">`).join("")}</div>` : ""}</section>`).join("");
   }
   const reviewSection = property.review?.length
     ? `<section class="accommodation-section property-review-section"><div class="property-review-grid"><div><p class="section-label">Our review</p><h2>${escapeHtml(property.reviewHeading || `What ${property.name} is like.`)}</h2><div class="property-review-copy">${property.review.map((paragraph) => `<p>${escapeHtml(paragraph)}</p>`).join("")}</div>${property.reviewDisclaimer ? `<p class="property-review-disclaimer"><em>${escapeHtml(property.reviewDisclaimer)}</em></p>` : ""}</div>${property.reviewVerdict ? `<aside class="property-review-verdict" aria-label="Surfbooker verdict"><p>${escapeHtml(property.reviewVerdict)}</p></aside>` : ""}</div></section>`
