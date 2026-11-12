@@ -2,23 +2,35 @@
   "slug": "the-royal-george",
   "officialUrl": null,
   "trading": true,
-  "stayType": "Pub with rooms on the estuary in Appledore, North Devon",
-  "accommodation": "Five rooms sleeping two to four",
-  "suitableFor": "Couples and groups visiting Appledore, Northam and Saunton",
-  "parking": "No parking at the pub; guests use nearby car parks",
-  "dogs": "Dogs allowed in some rooms and the downstairs restaurant, with a per-stay charge",
-  "beachAccess": "On the Torridge estuary; Saunton Sands is visible across the water and the surf beaches at Westward Ho! and Croyde are a short drive",
+  "stayType": "Waterside pub with rooms on Irsha Street, Appledore, North Devon",
+  "accommodation": "En suite king, deluxe, triple and family rooms: four above the pub and, per one listing, a further six at Sailors Rest on the quay; Sawday's lists five rooms sleeping two to four",
+  "suitableFor": "Couples, groups and dog owners visiting Appledore, Northam Burrows, Westward Ho! and Saunton; walkers on the South West Coast Path",
+  "parking": "No car park at the pub; West Appledore car park (EX39 1RT) is nearby",
+  "dogs": "Well-behaved dogs allowed in two of the rooms and in the downstairs restaurant",
+  "beachAccess": "Estuary views from the pub; Westward Ho! beach is around 1.8 miles away and Northam Burrows Country Park about half a mile. Saunton and Croyde are a short drive",
   "boardStorage": null,
-  "confirmedFeatures": "Restaurant specialising in fish, breakfast included",
-  "overview": "The Royal George is a pub with five rooms in Appledore. It serves fresh fish and local produce, includes breakfast and welcomes dogs in some rooms.",
-  "surfTripFit": "An estuary-side village base for Westward Ho!, Saunton and Croyde.",
+  "confirmedFeatures": "Restaurant with estuary views and terrace serving local seafood and Sunday lunch, handpumped ales, breakfast, free WiFi, on the South West Coast Path",
+  "overview": "The Royal George is a reinvented old pub on Irsha Street in Appledore with floor to ceiling views over the estuary. The restaurant serves a modern British menu built around local seafood and pub classics, with a terrace and handpumped ales. Rooms are en suite and the South West Coast Path runs right past the door. Dogs are welcome in two rooms and the downstairs restaurant.",
+  "surfTripFit": "A characterful estuary-side base for Westward Ho!, about 1.8 miles away, with Saunton Sands and Croyde a short drive. Appledore's pubs, shops and quay make it a good choice for a post-surf evening, and the Coast Path is on the doorstep for flat days.",
   "sources": [
     {
-      "label": "Public listing",
+      "label": "Sawday's listing",
       "url": "https://sawdays.co.uk/britain/england/devon/the-royal-george"
+    },
+    {
+      "label": "Stay in a Pub listing",
+      "url": "https://stayinapub.co.uk/?p=84117"
+    },
+    {
+      "label": "Good Food Guide entry",
+      "url": "https://www.thegoodfoodguide.co.uk/restaurant/the-royal-george/id/35972"
+    },
+    {
+      "label": "Public accommodation listing",
+      "url": "https://hotels.webbanve.net/hotel/gb/the-royal-george-appledore.html"
     }
   ],
-  "gaps": "Distance to the nearest surf beach not stated.",
-  "verificationNote": "Details cross-checked against public accommodation listings in October 2026. Surfbooker has not stayed here; confirm facilities and policies directly when you enquire.",
-  "lastVerified": "2026-10-16"
+  "gaps": "Room numbers differ between listings (five at Sawday's, ten including Sailors Rest elsewhere); rates, board storage and surf group terms not confirmed.",
+  "verificationNote": "Details cross-checked against public listings on 12 November 2026. Surfbooker has not stayed here; confirm facilities and policies directly when you enquire.",
+  "lastVerified": "2026-11-12"
 }

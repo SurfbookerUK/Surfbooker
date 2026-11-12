@@ -8,10 +8,10 @@
  "parking": "On-site parking (limited); reserved parking extra; EV charging (not reservable)",
  "dogs": "Dogs allowed in selected rooms for a fee; self-service dog wash",
  "beachAccess": "Directly overlooks Fistral Beach, a few minutes' walk to the sand",
- "boardStorage": null,
- "confirmedFeatures": "Heated indoor pool, hot tub, sauna, children's pool, cinema, indoor and outdoor play areas, Cove Restaurant, cocktail bar, free Wi-Fi, EV charging, dog wash, on-site Quiksilver Surf School",
- "overview": "The Esplanade is a family-oriented hotel looking straight over Fistral Beach in Newquay, a few minutes' walk from the sand. It has couples and family rooms, a heated indoor pool, cinema and play areas, a restaurant and bar, and an on-site Quiksilver surf school offering guests discounted lessons.",
- "surfTripFit": "A strong surf base for families: Fistral on the doorstep, an on-site surf school and parking; board storage isn't stated.",
+ "boardStorage": "Surf board storage, lockers, changing rooms and showers on site, according to the hotel's marketing team",
+ "confirmedFeatures": "Heated indoor pool, hot tub, sauna, children's pool, cinema, indoor and outdoor play areas, Cove Restaurant, cocktail bar, free Wi-Fi, EV charging, dog wash, on-site Quiksilver Surf School, two surf-inspired rooms (the Roxy and the Quiksilver)",
+ "overview": "The Esplanade is a family-oriented hotel looking straight over Fistral Beach in Newquay, a few minutes' walk from the sand. Rooms include couples rooms, such as the surf-inspired Roxy and Quiksilver rooms, and family rooms sleeping 3 to 6. Facilities include a heated indoor pool, hot tub, sauna, children's pool, a 30-seat cinema and indoor and outdoor play areas. The Cove Restaurant serves seasonal modern British and European menus with Cornish produce, and Elements Cocktail Bar has a terrace. The Quiksilver Surf School overlooks the south end of Fistral and offers guests discounted lessons. Vegetarian, vegan and gluten-free options are available if you tell the hotel in advance. On-site parking is limited, so reserve it when you book. Dogs are allowed in selected rooms for £15 per dog per night, with a self-service dog wash. Surfbooker stayed in the Roxy room and has reviewed it below.",
+ "surfTripFit": "A strong surf base for families: Fistral on the doorstep, an on-site surf school, board storage, lockers, changing rooms and showers, and parking.",
  "sources": [
   {
    "label": "Official site",
@@ -22,5 +22,7 @@
    "url": "https://www.visitcornwall.com/accommodation/hotel/newquay/esplanade-hotel"
   }
  ],
- "gaps": "Room count and board storage not stated."
+ "gaps": "Room count not stated; board storage confirmed by the hotel but not listed on its website.",
+ "lastVerified": "2026-11-12",
+ "verificationNote": "Facts from the hotel website, checked 12 Nov 2026. Board storage, lockers and showers were confirmed by the hotel's marketing team, not listed on the site."
 }

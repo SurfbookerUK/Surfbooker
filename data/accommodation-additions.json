@@ -1930,5 +1930,17 @@
  {
   "name": "SkerryView Self Catering",
   "area": "lossiemouth"
+ },
+ {
+  "name": "The King Arthur Hotel",
+  "area": "rhossili-bay"
+ },
+ {
+  "name": "The St Leonards Guesthouse",
+  "area": "shanklin"
+ },
+ {
+  "name": "Dunluce Lodge",
+  "area": "whiterocks"
  }
 ]

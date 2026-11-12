@@ -1,0 +1,23 @@
+{
+ "slug": "the-king-arthur-hotel",
+ "officialUrl": "https://www.kingarthurhotel.co.uk/",
+ "trading": true,
+ "stayType": "Village inn with rooms and self-catering cottages, Reynoldston, Gower",
+ "accommodation": "Hotel rooms and self-catering holiday cottages (room count not published on the hotel's site).",
+ "suitableFor": "Couples, walkers and groups exploring the Gower Peninsula.",
+ "parking": null,
+ "dogs": null,
+ "beachAccess": "In Reynoldston, in the middle of the Gower Peninsula, with the Gower beaches nearby.",
+ "boardStorage": null,
+ "confirmedFeatures": "Country pub with restaurant (tables bookable online), open fire, exposed beams and nautical artefacts, wedding and events venue",
+ "overview": "The King Arthur Hotel is a village-centre inn in Reynoldston on the Gower Peninsula, with hotel rooms and self-catering cottages. The pub has exposed beams, nautical artefacts and an open fire, and has been named a top cosy pub in the UK by The Times. The owners describe it as a fantastic base for exploring Gower and its beaches.",
+ "surfTripFit": "A relaxed inland base for Gower's surf beaches, with a pub and restaurant on the doorstep.",
+ "sources": [
+  {
+   "label": "King Arthur Hotel official site",
+   "url": "https://www.kingarthurhotel.co.uk/"
+  }
+ ],
+ "gaps": "Parking, dog policy, room count and distance to the nearest surf beach not stated on the official site.",
+ "lastVerified": "2026-11-12"
+}

@@ -2,23 +2,27 @@
   "slug": "the-haggard",
   "officialUrl": null,
   "trading": true,
-  "stayType": "Three-bedroom cottage at Manorbier, Pembrokeshire",
-  "accommodation": "Sleeps six, three bedrooms, two bathrooms",
+  "stayType": "Three-bedroom barn conversion at Manorbier, Pembrokeshire",
+  "accommodation": "Sleeps up to six: ground-floor double with en suite shower room, a twin bedroom and a mezzanine bedroom with two single beds, plus a family bathroom",
   "suitableFor": "Families and groups visiting South Pembrokeshire",
-  "parking": "Free on-site parking",
-  "dogs": "Dogs welcome",
-  "beachAccess": "Manorbier Beach is about a 5 to 6-minute walk",
+  "parking": "Dedicated off-street parking space",
+  "dogs": "Listed as dog friendly on a public listing; confirm with the manager when you enquire",
+  "beachAccess": "Manorbier Beach is a short walk away; the owner says it takes a little over five minutes on foot",
   "boardStorage": null,
-  "confirmedFeatures": null,
-  "overview": "The Haggard is a three-bedroom cottage in Manorbier sleeping six, with free on-site parking. Manorbier Beach is within a short walk.",
-  "surfTripFit": "A walk from Manorbier, a popular Pembrokeshire surf beach.",
+  "confirmedFeatures": "Log-burning stove, open-plan kitchen, dining and living area, private garden with seating and patio, Wi-Fi, dedicated parking",
+  "overview": "The Haggard is a rustic three-bedroom barn conversion in the Pembrokeshire countryside at Manorbier, sleeping up to six, with a log-burning stove, private garden and dedicated parking. The owner says Manorbier Beach is a little over five minutes' walk.",
+  "surfTripFit": "A short walk from Manorbier beach, with a log burner and private garden to come back to after a session. The owner says the walk takes a little over five minutes, so allow a little longer with boards.",
   "sources": [
+    {
+      "label": "Stay Pembrokeshire listing (managing agent)",
+      "url": "https://stay-pembrokeshire.co.uk/property/324-haggard-3-bedroom-cottage-manorbier/"
+    },
     {
       "label": "Public listing",
       "url": "https://www.hotels.com/ho3376563616/haggard-3-bedroom-cottage-manorbier-tenby-united-kingdom"
     }
   ],
-  "gaps": "Room count, rates and current availability not confirmed; check with the property.",
-  "verificationNote": "Details cross-checked against public accommodation listings in October 2026. Surfbooker has not stayed here; confirm facilities and policies directly when you enquire.",
-  "lastVerified": "2026-10-16"
+  "gaps": "Rates and availability not confirmed; the dog policy is not stated on the manager's page, so check with the property.",
+  "verificationNote": "Details from the managing agent's listing on Stay Pembrokeshire and the owner's reply by email on 11 November 2026, which corrected the walking time to the beach. Surfbooker has not stayed here; confirm facilities and policies directly when you enquire.",
+  "lastVerified": "2026-11-12"
 }

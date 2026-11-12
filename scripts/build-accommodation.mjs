@@ -1056,6 +1056,126 @@ export const accommodationProperties = [
     tags: ["Four cottages", "Dog friendly", "EV charging", "Walk to Three Cliffs"]
   },
   {
+    slug: "the-cape-cornwall-club",
+    name: "The Cape Cornwall Club",
+    pageTitle: "The Cape Cornwall Club | Clifftop Golf and Leisure Stay Near Sennen | Surfbooker",
+    metaDescription: "A clifftop golf and leisure club near St Just with 23 bedrooms, a heated indoor pool, sauna and gym, dog-friendly stays and Cape Cornwall half a mile away.",
+    areaSlug: "sennen",
+    destinationSlugs: ["sennen"],
+    location: "St Just, near Sennen, Cornwall",
+    addressRegion: "Cornwall",
+    streetAddress: "Cape Cornwall Road",
+    postalCode: "TR19 7NL",
+    operator: "The Cape Cornwall Club",
+    hideOperatorFact: true,
+    hideRoomsFact: true,
+    stayType: "Clifftop hotel with golf course and leisure facilities",
+    accommodation: "23 en suite rooms with breakfast; listed as a hotel with a separate self-catering cottage",
+    suitableFor: "Couples, golfers and visitors flying to the Isles of Scilly from Land's End Airport, plus walkers on the South West Coast Path, bird watchers, wild swimmers, surfers, photographers, cycling groups and sports teams",
+    sleepsOrRooms: "23 bedrooms",
+    parking: "Free car park on site",
+    beachAccess: "Cape Cornwall is half a mile away on foot; Sennen Cove and Gwenver are a short drive south",
+    dogs: "Pets allowed; they must be included in the reservation. Dogs are welcome in all areas except the gym and pool",
+    confirmedFeatures: "Heated pool, gym, golf course, breakfast, airport minibus transfer, sauna and jacuzzi, evening meals (times and offerings vary with season), terrace, function room, free car park",
+    overview: "A clifftop golf and leisure club half a mile from Cape Cornwall, with 23 bedrooms, a heated pool and a dog-friendly welcome.",
+    overviewDetail: "The Cape Cornwall Club sits at Sennen, on Cape Cornwall Road near St Just, on the far west coast of Cornwall. It has 23 en suite rooms with breakfast, a separate 2-bed self-catering cottage in St Just a mile from the Club, an indoor heated pool with a sauna and jacuzzi, a gym, a restaurant and terrace, and its own golf course. Cape Cornwall itself is half a mile away on foot, and the Club says it is open every day of the year.",
+    surfTripFit: "A base for the far west of Cornwall rather than a beachfront stay. Sennen Cove, Gwenver and Portheras Cove are all within reach by car, and the pool, sauna and gym are useful after a cold session or on a flat day.",
+    heroImage: "/images/commons/sennen-cove/108258497.webp",
+    heroImageAlt: "Aerial view of the Cape Cornwall golf course, headland and Brisons rocks",
+    gallery: [],
+    sections: [
+      ["Why it works for a surf trip", "The Club is on the far west coast of Cornwall, so it works as a base for the beaches either side: Sennen Cove and Gwenver to the south, and Portheras Cove to the north-east near Pendeen. It is not on the beach, so plan to drive to the surf. The Club lists a free car park, which helps if you are travelling with boards, and the indoor pool, sauna and jacuzzi are there for after a session or on a flat day."],
+      ["On site", "The Club lists an indoor heated swimming pool, sauna and jacuzzi, and an air-conditioned gym that has been newly refurbished. There is a restaurant serving freshly cooked meals and a terrace for drinks, including at sunset, plus a large function room and terrace used for events. The Club says it is open to non-members as well as guests."],
+      ["Golf", "The Club describes its course as the first and last golf course in the UK. The Isles of Scilly Travel listing mentions views out towards the Isles of Scilly and Skybus planes arriving and leaving above the course. Dogs are allowed on the course."],
+      ["Groups, teams and clubs", "The Club says it is the only sports resort in far West Cornwall, and that its regular guests include professional sports teams, walkers, cycling groups and golf groups. It also says it offers off-peak deals to surf groups who book direct with the Club. Terms are set by the Club, so ask what is available for your dates and group size."],
+      ["Dogs and dog-friendly beaches", "Dogs are welcome throughout the Club except the gym and pool, and on the golf course. The Club's local area guide lists Portheras Cove, Cot Valley, Nanjizal and Gwenver as dog-friendly all year. Sennen has no dog restrictions from 1 October to 14 May; from 15 May to 30 September dogs are not allowed between 10am and 6pm. Beach rules can change, so check the signs on the day."],
+      ["Walking from the Club", "Cape Cornwall is half a mile from the Club. The Club lists the walk from the Club to Pendeen Lighthouse as 3.8 miles, and the longer coast path walk from Sennen to Pendeen Lighthouse, passing the Club, as 9 miles. It is also an official Way Maker on the South West Coast Path, where walkers can have a Coast Path Passport stamped."],
+      ["Flying to the Isles of Scilly", "The Isles of Scilly Travel listing describes the Club as a short drive from Land's End Airport and mentions an airport minibus transfer, which suits guests combining a stay with a flight to the islands. Ask the Club about transfer times and availability when you enquire."]
+    ],
+    faqItems: [
+      ["Are dogs allowed at The Cape Cornwall Club?", "Yes. The Club says dogs are welcome in all areas except the gym and swimming pool, and they are also allowed on the golf course. Mention your dog when you enquire so the Club can confirm room arrangements."],
+      ["Is there parking?", "Yes. The Club lists a free car park on site."],
+      ["How far is Cape Cornwall on foot?", "About half a mile, according to the Club's local walks guide."],
+      ["Can people who are not staying use the Club?", "The Club says it is open to non-members. Ask the Club about access to the pool and gym if you are not staying."],
+      ["Does the Club offer deals for surf groups?", "The Club says it offers off-peak deals to surf groups who book direct, and that it is open every day of the year. Ask the Club for current terms and dates."]
+    ],
+    status: "verified",
+    pageEligible: true,
+    approvedImage: true,
+    ownerVerified: true,
+    schemaType: "LodgingBusiness",
+    sourceUrls: [
+      "https://www.capecornwallclub.com/",
+      "https://www.islesofscilly-travel.co.uk/discover/accommodation/cape-cornwall-club/"
+    ],
+    lastVerified: "2026-11-12",
+    verificationNotes: "Facilities, dog policy, walks and parking checked against the Club's website on 2026-11-12, with the Isles of Scilly Travel listing for the airport and golf details. The Club's management supplied the sports resort, group guest and off-peak surf group details by email on 2026-11-12. Surfbooker has not stayed here; confirm facilities and policies directly when you enquire.",
+    tags: ["23 bedrooms", "Heated pool", "Dog friendly", "Golf course"]
+  },
+  {
+    slug: "lands-end-hotel",
+    name: "Lands End Hotel",
+    listingName: "The Land's End Hotel",
+    pageTitle: "Lands End Hotel | Clifftop Stay At Land's End Near Sennen Cove | Surfbooker",
+    metaDescription: "A clifftop hotel at Land's End with 30 en suite rooms, Penwith Studios and dog-friendly rooms, about a mile from Sennen Cove and its surf.",
+    areaSlug: "sennen",
+    destinationSlugs: ["sennen"],
+    location: "Land's End, Sennen, Cornwall",
+    addressRegion: "Cornwall",
+    postalCode: "TR19 7AA",
+    operator: "The Land's End Hotel",
+    hideOperatorFact: true,
+    hideRoomsFact: true,
+    stayType: "Clifftop hotel with studios and countryside rooms",
+    accommodation: "30 en suite hotel rooms, four Penwith Studios and The Saddle & Stablerooms",
+    suitableFor: "Couples, families, dog owners, walkers and visitors exploring the far west of Cornwall",
+    sleepsOrRooms: "30 hotel rooms, four studios and the Saddle & Stablerooms",
+    parking: "On-site parking is listed; ask the hotel about charges",
+    beachAccess: "Sennen Cove is about a mile away, according to the hotel's own area guide",
+    dogs: "Dog friendly, with pet-friendly rooms",
+    confirmedFeatures: "Sea views from 200ft cliffs, The Land's End Restaurant, First & Last Inn, coastline walks in both directions, Cornwall Tourism Awards Silver (2021-22 and 2023-24)",
+    overview: "A clifftop hotel at Land's End with 30 en suite rooms, Penwith Studios, dog-friendly rooms and Sennen Cove about a mile away.",
+    overviewDetail: "The Land's End Hotel stands on cliffs about 200ft high at Land's End, with views towards the Isles of Scilly. It has 30 en suite rooms, four Penwith Studios and The Saddle & Stablerooms, a rustic countryside option from the same operator. The restaurant and First & Last Inn are on site, dogs are welcome in pet-friendly rooms, and the hotel's own area guide puts Sennen about a mile away.",
+    surfTripFit: "A scenery-led base at the far western tip of Cornwall rather than a beachfront stay. Sennen Cove, which the hotel's area guide describes as known for its surf and golden sands, is about a mile away, and the coast path runs in both directions from the hotel.",
+    heroImage: "/guides/_licensed-images/cornwall/sennen-cove.jpg",
+    heroImageAlt: "Sennen Cove in west Cornwall, used as a representative location image for Lands End Hotel",
+    gallery: [],
+    sections: [
+      ["Why it works for a surf trip", "The hotel sits at Land's End, so Sennen Cove and Whitesand Bay are the nearest surf. The hotel's own area guide puts Sennen about a mile away and describes Sennen Cove as known for its surf and golden sands. You will want the car or a taxi for early checks, but the rest of the setting is hard to beat: cliff-top views, coast path from the door and a restaurant on site for when you come off the water."],
+      ["Views and the coast path", "The hotel stands on cliffs about 200ft high. On a clear day there are views towards the Isles of Scilly, and the Longships Lighthouse is just over a mile offshore. Guests can walk the coastline in both directions from the hotel, which makes it a good choice for walkers as well as surfers."],
+      ["Food and drink", "The Land's End Restaurant and the First & Last Inn are both on site. The listing on Visit Cornwall describes the bar and restaurant as open to the public every day, with breakfast and lunch service and a terrace. Opening hours and menus change, so check with the hotel before you plan around a meal."],
+      ["Dogs", "The hotel is dog friendly and has pet-friendly rooms. Booking sites mention an extra charge per pet, so ask about charges and room availability when you enquire, particularly if you are travelling in a group."],
+      ["Nearby", "Sennen, with its beaches and surf, is the closest village. The hotel's area guide also lists Minack Theatre at Porthcurno a few miles away, St Michael's Mount about 10 miles away and Greeb Pottery, a studio where visitors can throw pots and make clay animals."]
+    ],
+    collectionLabel: "Where you can stay",
+    collectionHeading: "Three ways to stay at Land's End.",
+    collectionChoices: [
+      ["The Land's End Hotel rooms", "30 en suite rooms", "Single, twin, family, superior and pet-friendly rooms, including superior sea-view rooms and standard rooms facing inland."],
+      ["Penwith Studios", "Four studios", "Spacious en suite studios in a building that began life as a Temperance Hotel in 1860."],
+      ["The Saddle & Stablerooms", "Countryside rooms", "A rustic countryside option from the same operator. Ask the hotel about room numbers and layouts."]
+    ],
+    faqItems: [
+      ["Are dogs allowed at the Land's End Hotel?", "Yes. The hotel describes itself as dog friendly and has pet-friendly rooms. Booking sites mention a per-pet charge, so check the current terms when you enquire."],
+      ["How far is Sennen Cove from the hotel?", "The hotel's own area guide says about a mile. Check the route and parking at the beach when you plan your surf."],
+      ["What types of room are there?", "The hotel has 30 en suite rooms, including single, twin, family, superior and pet-friendly rooms. Penwith Studios and The Saddle & Stablerooms are separate options."],
+      ["Can non-guests eat at the hotel?", "Visit Cornwall describes the bar and restaurant as open to the public every day. Check opening hours and booking requirements with the hotel."],
+      ["Is there parking?", "On-site parking is listed. Booking sites mention a daily charge, so ask the hotel about current arrangements."]
+    ],
+    status: "verified",
+    pageEligible: true,
+    approvedImage: true,
+    schemaType: "Hotel",
+    sourceUrls: [
+      "https://www.landsendhotel.co.uk/",
+      "https://www.landsendhotel.co.uk/the-lands-end-hotel/",
+      "https://www.landsendhotel.co.uk/west-cornwall/",
+      "https://www.visitcornwall.com/accommodation/hotel/land-s-end/the-land-s-end-hotel"
+    ],
+    lastVerified: "2026-11-12",
+    verificationNotes: "Rooms, dog policy, sea views, restaurant and local area details checked against the hotel's website and the Visit Cornwall listing on 2026-11-12. Parking and pet charge details come from booking sites and should be confirmed with the hotel. Surfbooker has not stayed here; confirm facilities and policies directly when you enquire.",
+    tags: ["30 rooms", "Dog friendly", "Clifftop sea views", "Near Sennen Cove"]
+  },
+  {
     slug: "little-hill-end-barn-pilton-moor",
     name: "Little Hill End Barn (Pilton Moor)",
     pageTitle: "Little Hill End Barn | Romantic Llangennith Barn For Two | Surfbooker",
@@ -1172,6 +1292,91 @@ const STAY_BEACH_IMAGES = {
   "atlantic-hotel-newquay": { file: "/images/commons/towan/165661037.webp", alt: "Towan Beach and the Newquay clifftops" }
 };
 
+// Photos supplied by the owner for a directory stay (cleared in data/image-registry.json).
+const OWNER_STAY_IMAGES = {
+  "fistral-beach-hotel-and-spa": {
+    hero: { file: "/images/accommodation/properties/fistral-beach-hotel-and-spa/Fistral-Beach-Hotel-From-The-Headland.webp", alt: "Fistral Beach Hotel and Spa on the hill above Fistral Beach, Newquay, with surfers in the water" },
+    gallery: []
+  },
+  "sea-breeze-beach-house": {
+    galleryHeading: "Inside the Beach House and out on the patio.",
+    hero: { file: "/images/accommodation/properties/sea-breeze-beach-house/Sea-Breeze-Beach-House-Garden.webp", alt: "Sea Breeze Beach House, Manorbier, with its curved timber roof, open bi-fold doors and sun loungers in the flower-filled walled garden" },
+    gallery: [
+      { src: "/images/accommodation/properties/sea-breeze-beach-house/Sea-Breeze-Living-Room-Wood-Burner.webp", alt: "Living area at Sea Breeze Beach House with a lit wood burner, kitchenette and bi-fold doors to the patio" },
+      { src: "/images/accommodation/properties/sea-breeze-beach-house/Sea-Breeze-Patio-Bifolds-Open.webp", alt: "Patio table and chairs outside Sea Breeze Beach House with the bi-fold doors open onto the kitchen and sitting area" },
+      { src: "/images/accommodation/properties/sea-breeze-beach-house/Sea-Breeze-Breakfast-On-The-Patio.webp", alt: "Breakfast laid out on the patio table at Sea Breeze Beach House with sun loungers and the garden beyond" },
+      { src: "/images/accommodation/properties/sea-breeze-beach-house/Sea-Breeze-Patio-Garden-View.webp", alt: "View from inside Sea Breeze Beach House across the patio to the south-facing walled garden" }
+    ]
+  },
+  "tregenna-castle": {
+    galleryHeading: "The castle and the view over St Ives.",
+    hero: { file: "/images/accommodation/properties/tregenna-castle/Tregenna-Castle-Gardens-And-Pool.webp", alt: "Tregenna Castle on the hill above St Ives, with its terraced gardens, clipped hedges and outdoor pool" },
+    gallery: [
+      { src: "/images/accommodation/properties/tregenna-castle/Tregenna-Castle-Entrance.webp", alt: "The ivy-covered front entrance of Tregenna Castle with spring azaleas in the foreground" },
+      { src: "/images/accommodation/properties/tregenna-castle/Tregenna-Castle-Above-St-Ives.webp", alt: "Tregenna Castle and its grounds above St Ives harbour and the Atlantic, seen from the air" },
+      { src: "/images/accommodation/properties/tregenna-castle/Tregenna-Castle-Lodges-View-Of-St-Ives.webp", alt: "Timber lodges in the grounds of Tregenna Castle with St Ives and the Island beyond" }
+    ],
+    sections: [
+      { label: "The grounds", heading: "72 acres above St Ives.", copy: ["Tregenna Castle sits in 72 acres of grounds on the hill above St Ives, with terraced gardens, clipped hedges and an outdoor pool. Coastal walks run through the grounds, so there is plenty of space to stretch your legs between surf sessions."], image: { src: "/images/accommodation/properties/tregenna-castle/Tregenna-Castle-Aerial-Grounds.webp", alt: "Aerial view of Tregenna Castle, its car park, outdoor pool and landscaped grounds" } },
+      { label: "Food and drink", heading: "Afternoon tea on the lawn.", copy: ["The resort has a restaurant and a bar, and the hotel's own photos show afternoon tea served on the lawn with the sea in the distance. After a cold session in the water, it is the kind of treat that makes a winter break feel special."], image: { src: "/images/accommodation/properties/tregenna-castle/Tregenna-Castle-Afternoon-Tea-Sea-View.webp", alt: "Afternoon tea served on the lawn at Tregenna Castle with the sea in the distance" } },
+      { label: "The view", heading: "Looking down on St Ives harbour.", copy: ["From the hill you look straight down over St Ives harbour and the Island. The town and its beaches, including Porthmeor, are below the resort, so the surf and the harbour are never far away."], image: { src: "/images/accommodation/properties/tregenna-castle/Tregenna-Castle-Window-View-St-Ives-Harbour.webp", alt: "View of St Ives harbour and the Island through a window at Tregenna Castle" } },
+      { label: "Cottages and lodges", heading: "More space for groups and families.", copy: ["Alongside the hotel rooms and apartments there are self-catering cottages and lodges in the woodland and grounds, which suit groups and families who want their own space, a base for the whole surf crew."], image: { src: "/images/accommodation/properties/tregenna-castle/Tregenna-Castle-Miss-Robinsons-Cottage.webp", alt: "A stone cottage with a round tower and balcony in the woods at Tregenna Castle" } }
+    ]
+  },
+  "timber-hill": {
+    galleryHeading: "Inside the lodges.",
+    hero: { file: "/images/accommodation/properties/timber-hill/Timber-Hill-Lodges-Aerial.webp", alt: "Aerial view of the Timber Hill lodges set among woodland and meadow near Broad Haven" },
+    gallery: [
+      { src: "/images/accommodation/properties/timber-hill/Timber-Hill-Lodge-Living-Room.webp", alt: "Timber-lined lodge living area with a sofa, dining table and large windows over the woodland" },
+      { src: "/images/accommodation/properties/timber-hill/Timber-Hill-Lodge-Dining-Area.webp", alt: "Dining table by the glazed doors and deck in a Timber Hill lodge" }
+    ]
+  },
+  "the-cape-cornwall-club": {
+    galleryHeading: "Inside the Club.",
+    hero: { file: "/images/accommodation/properties/the-cape-cornwall-club/Cape-Cornwall-Club-Aerial-Golf-Course.webp", alt: "Aerial view of the Cape Cornwall golf course, headland and Brisons rocks" },
+    gallery: [
+      { src: "/images/accommodation/properties/the-cape-cornwall-club/Cape-Cornwall-Club-Golfer-Cape-Cornwall.webp", alt: "Golfer mid-swing with the Cape Cornwall headland and sea behind" },
+      { src: "/images/accommodation/properties/the-cape-cornwall-club/Cape-Cornwall-Club-Putting-Green-Brisons.webp", alt: "Golfers on a green with the sea and the Brisons rocks behind" },
+      { src: "/images/accommodation/properties/the-cape-cornwall-club/Cape-Cornwall-Club-Heated-Pool-Sauna.webp", alt: "Heated indoor pool with sauna and jacuzzi at the Cape Cornwall Club" },
+      { src: "/images/accommodation/properties/the-cape-cornwall-club/Cape-Cornwall-Club-Bedroom-Beams.webp", alt: "Bedroom with white linen, exposed beams and a window" },
+      { src: "/images/accommodation/properties/the-cape-cornwall-club/Cape-Cornwall-Club-Bedroom-Twin-Stone-Walls.webp", alt: "Bedroom with a double and a single bed, stone walls and exposed beams" },
+      { src: "/images/accommodation/properties/the-cape-cornwall-club/Cape-Cornwall-Club-Gym.webp", alt: "Gym with cardio and resistance machines" },
+      { src: "/images/accommodation/properties/the-cape-cornwall-club/Cape-Cornwall-Club-Terrace-Food-Wine.webp", alt: "Food and wine on a terrace table at the Cape Cornwall Club" },
+      { src: "/images/accommodation/properties/the-cape-cornwall-club/Cape-Cornwall-Club-Terrace-Evening-Sun.webp", alt: "Terrace under shade sails with low sun over the sea" },
+      { src: "/images/accommodation/properties/the-cape-cornwall-club/Cape-Cornwall-Club-Terrace-Sunset.webp", alt: "Terrace at sunset with guests under shade sails" },
+      { src: "/images/accommodation/properties/the-cape-cornwall-club/Cape-Cornwall-Club-Squad-Clubhouse-Terrace.webp", alt: "Squad photographed outside the Cape Cornwall Club clubhouse entrance" },
+      { src: "/images/accommodation/properties/the-cape-cornwall-club/Cape-Cornwall-Club-Squad-Clubhouse-Sunshine.webp", alt: "Squad gathered outside the Club's CCC-signed clubhouse" },
+      { src: "/images/accommodation/properties/the-cape-cornwall-club/Cape-Cornwall-Club-Team-Clubhouse-Group.webp", alt: "Team group photo in front of the clubhouse" },
+      { src: "/images/accommodation/properties/the-cape-cornwall-club/Cape-Cornwall-Club-Visiting-Team-Terrace.webp", alt: "Visiting team and staff gathered on the Cape Cornwall Club terrace" },
+      { src: "/images/accommodation/properties/the-cape-cornwall-club/Cape-Cornwall-Club-Team-Huddle-Function-Room.webp", alt: "Sports team huddled in the Club's function room" },
+      { src: "/images/accommodation/properties/the-cape-cornwall-club/Cape-Cornwall-Club-Wedding-Sunset-Cape.webp", alt: "Couple at sunset on the clifftop with Cape Cornwall behind" }
+    ],
+    sections: [
+      { label: "The golf course", heading: "A clifftop course by Cape Cornwall.", copy: ["The Club has its own golf course on the clifftop, with views over the sea and the Brisons rocks. It is open every day of the year and welcomes golf groups."], image: { src: "/images/accommodation/properties/the-cape-cornwall-club/Cape-Cornwall-Club-Aerial-Golf-Course.webp", alt: "Aerial view of the Cape Cornwall golf course, headland and Brisons rocks" } },
+      { label: "Pool and spa", heading: "Warm up after a cold session.", copy: ["The heated indoor pool is joined by a sauna and a jacuzzi, which are useful on flat days and after winter surf sessions."], image: { src: "/images/accommodation/properties/the-cape-cornwall-club/Cape-Cornwall-Club-Heated-Pool-Sauna.webp", alt: "Heated indoor pool with sauna and jacuzzi at the Cape Cornwall Club" } },
+      { label: "The rooms", heading: "23 en suite rooms with breakfast.", copy: ["The Club has 23 en suite rooms with breakfast. There is also a separate 2-bed self-catering cottage in St Just, a mile from the Club."], image: { src: "/images/accommodation/properties/the-cape-cornwall-club/Cape-Cornwall-Club-Bedroom-Beams.webp", alt: "Bedroom with white linen, exposed beams and a window" } },
+      { label: "Food and drink", heading: "Evening meals and a sunset terrace.", copy: ["Evening meals are served, with times and offerings varying by season. The terrace looks out to sea and catches the evening light."], image: { src: "/images/accommodation/properties/the-cape-cornwall-club/Cape-Cornwall-Club-Terrace-Sunset.webp", alt: "Terrace at sunset with guests under shade sails" } },
+      { label: "The gym", heading: "Train between surfs.", copy: ["The gym sits alongside the pool, sauna and jacuzzi for guests who want to keep training on non-surf days."], image: { src: "/images/accommodation/properties/the-cape-cornwall-club/Cape-Cornwall-Club-Gym.webp", alt: "Gym with cardio and resistance machines" } },
+      { label: "Groups and teams", heading: "Built for groups.", copy: ["The Club describes itself as the only sports resort in far West Cornwall. Regular guests include professional sports teams, walkers, cycling groups and golf groups, and it offers off-peak deals for surf groups who book direct."], image: { src: "/images/accommodation/properties/the-cape-cornwall-club/Cape-Cornwall-Club-Visiting-Team-Terrace.webp", alt: "Visiting team and staff gathered on the Cape Cornwall Club terrace" } }
+    ]
+  },
+  "hotel-pelirocco": {
+    galleryHeading: "Inside the hotel.",
+    hero: { file: "/images/accommodation/properties/hotel-pelirocco/Hotel-Pelirocco-Front.webp", alt: "Hotel Pelirocco's cream Regency frontage and balconies on Regency Square, Brighton" },
+    gallery: [
+      { src: "/images/accommodation/properties/hotel-pelirocco/Hotel-Pelirocco-Bar.webp", alt: "The colourful, poster-covered bar and lounge at Hotel Pelirocco" },
+      { src: "/images/accommodation/properties/hotel-pelirocco/Botanica-Room.webp", alt: "Botanica room at Hotel Pelirocco with a round bed under pink drapes" },
+      { src: "/images/accommodation/properties/hotel-pelirocco/Salon-Rouge-Room.webp", alt: "Salon Rouge room with a heart-shaped bedhead, red drapes and a chaise longue" },
+      { src: "/images/accommodation/properties/hotel-pelirocco/Koibito-Room.webp", alt: "Koibito room with a raised round bed, sofa and tall windows over Regency Square" },
+      { src: "/images/accommodation/properties/hotel-pelirocco/Lord-Vaders-Quarters.webp", alt: "Lord Vader's Quarters, a space-themed room with bunk beds" },
+      { src: "/images/accommodation/properties/hotel-pelirocco/Botanica-Courtyard.webp", alt: "Yellow-walled courtyard with planters at Hotel Pelirocco" },
+      { src: "/images/accommodation/properties/hotel-pelirocco/Full-Peli-Breakfast.webp", alt: "A cooked breakfast with eggs, sausage, tomato and toast at Hotel Pelirocco" },
+      { src: "/images/accommodation/properties/hotel-pelirocco/Koibito-View-Regency-Square.webp", alt: "Bay window of the Koibito room looking across Regency Square gardens" },
+      { src: "/images/accommodation/properties/hotel-pelirocco/Balcony-View-Brighton-Seafront.webp", alt: "View from the hotel balcony towards Brighton seafront and the West Pier at night" }
+    ]
+  }
+};
+
 const directoryAccommodationProperties = buildDirectoryAccommodationProperties().map(withStayResearch).filter(Boolean);
 
 // Spread the area's photos across its stays so neighbouring pages don't share one image.
@@ -1180,7 +1385,7 @@ const directoryAccommodationProperties = buildDirectoryAccommodationProperties()
   const pinnedFiles = new Set(Object.values(STAY_BEACH_IMAGES).map((entry) => entry.file));
   const byArea = new Map();
   for (const property of directoryAccommodationProperties) {
-    if (!property.representativeImage || STAY_BEACH_IMAGES[property.slug]) continue;
+    if (!property.representativeImage || STAY_BEACH_IMAGES[property.slug] || OWNER_STAY_IMAGES[property.slug]) continue;
     if (!byArea.has(property.areaSlug)) byArea.set(property.areaSlug, []);
     byArea.get(property.areaSlug).push(property);
   }
@@ -1192,6 +1397,22 @@ const directoryAccommodationProperties = buildDirectoryAccommodationProperties()
       property.heroImage = encodeAssetPath("/" + pool[index % pool.length]);
       property.heroImageAlt = `Coastal scene near ${area?.name || property.location}, used as a representative location image for ${property.name}`;
     });
+  }
+}
+
+for (const property of [...accommodationProperties, ...directoryAccommodationProperties]) {
+  const own = OWNER_STAY_IMAGES[property.slug];
+  if (!own) continue;
+  property.heroImage = encodeAssetPath(own.hero.file);
+  property.heroImageAlt = own.hero.alt;
+  property.gallery = own.gallery.map((item) => ({ src: encodeAssetPath(item.src), alt: item.alt }));
+  property.galleryHeading = own.galleryHeading || "Inside the stay.";
+  property.extraSections = (own.sections || []).map((x) => ({ ...x, image: { src: encodeAssetPath(x.image.src), alt: x.image.alt } }));
+  if (own.review) {
+    property.review = own.review;
+    property.reviewHeading = own.reviewHeading;
+    property.reviewVerdict = own.reviewVerdict;
+    property.reviewDisclaimer = own.reviewDisclaimer;
   }
 }
 
@@ -1622,13 +1843,18 @@ function renderPropertyCollection(properties, heading, contextArea = null, optio
       tags: property.tags,
       action: property.cardAction || (property.areaSlug === "newgale" ? "View stay" : "Send enquiry"),
       href: `/accommodation/stays/${property.slug}/${contextArea ? `?destination=${encodeURIComponent(contextArea.slug)}` : ""}`,
-      placeholder: Boolean(property.heroPlaceholder)
+      placeholder: Boolean(property.heroPlaceholder),
+      reviewed: Boolean(property.review?.length)
     };
   });
+  cards.sort((a, b) => Number(b.reviewed) - Number(a.reviewed));
+  const reviewNote = cards.some((card) => card.reviewed)
+    ? `<p class="featured-stays-note">Places we have stayed in and reviewed are listed first. Reviewed places get prominent positioning and far more detailed pages, with our own imagery and an in-depth write-up.</p>`
+    : "";
   const relatedAttributes = options.destinationSlug
     ? ` data-related-destination="${escapeHtml(options.destinationSlug)}"${options.hidden ? " hidden" : ""}`
     : "";
-  return `<section class="accommodation-section featured-stays-section${options.destinationSlug ? " related-property-section" : ""}"${relatedAttributes}><div class="accommodation-section-heading"><p class="section-label">Accommodation options</p><h2>${escapeHtml(heading)}</h2></div><div class="property-card-grid">${cards.map(renderPropertyCard).join("")}</div></section>`;
+  return `<section class="accommodation-section featured-stays-section${options.destinationSlug ? " related-property-section" : ""}"${relatedAttributes}><div class="accommodation-section-heading"><p class="section-label">Accommodation options</p><h2>${escapeHtml(heading)}</h2>${reviewNote}</div><div class="property-card-grid">${cards.map(renderPropertyCard).join("")}</div></section>`;
 }
 
 function renderPropertyCard(property) {
@@ -1637,7 +1863,7 @@ function renderPropertyCard(property) {
     ? `<div class="property-card-placeholder" aria-hidden="true"><span>Westbeach</span><small>Holiday Apartments</small></div>`
     : `<img src="${escapeHtml(property.image)}" alt="${escapeHtml(property.imageAlt)}" loading="lazy">`;
   const tags = property.tags?.length ? `<div class="property-card-tags">${property.tags.map((tag) => `<span>${escapeHtml(tag === "Accommodation option" ? "Independent accommodation" : tag)}</span>`).join("")}</div>` : "";
-  const cardContent = `<div class="property-card-image">${image}</div><div class="property-card-copy">${property.location ? `<p class="property-card-location">${escapeHtml(property.location)}</p>` : ""}<h3>${escapeHtml(property.name)}</h3>${displayType ? `<span class="property-card-type">${escapeHtml(displayType)}</span>` : ""}${tags}${property.href ? `<span class="property-card-action">${escapeHtml(property.action || "Send enquiry")}</span>` : ""}</div>`;
+  const cardContent = `<div class="property-card-image">${image}${property.reviewed ? `<span class="property-card-reviewed">Stayed &amp; reviewed by Surfbooker</span>` : ""}</div><div class="property-card-copy">${property.location ? `<p class="property-card-location">${escapeHtml(property.location)}</p>` : ""}<h3>${escapeHtml(property.name)}</h3>${displayType ? `<span class="property-card-type">${escapeHtml(displayType)}</span>` : ""}${tags}${property.href ? `<span class="property-card-action">${escapeHtml(property.action || "Send enquiry")}</span>` : ""}</div>`;
   return property.href
     ? `<a class="property-card" href="${escapeHtml(property.href)}">${cardContent}</a>`
     : `<article class="property-card">${cardContent}</article>`;
@@ -1765,11 +1991,14 @@ export function renderAccommodationPropertyPage(property) {
   const collectionSection = property.collectionChoices?.length ? `<section class="accommodation-section"><p class="section-label">${escapeHtml(property.collectionLabel || "Cottage choices")}</p><h2>${escapeHtml(property.collectionHeading || "Choose a Rainbolts Hill cottage.")}</h2><div class="destination-decision-grid">${property.collectionChoices.map(([name, capacity, copy]) => `<article><h3>${escapeHtml(name)}</h3><p><strong>${escapeHtml(capacity)}</strong></p><p>${escapeHtml(copy)}</p></article>`).join("")}</div></section>` : "";
   const cardSections = property.cardSections?.length ? property.cardSections.map((section) => `<section class="accommodation-section"><p class="section-label">${escapeHtml(section.label)}</p><h2>${escapeHtml(section.heading)}</h2><div class="destination-decision-grid">${section.cards.map(([name, copy]) => `<article><h3>${escapeHtml(name)}</h3><p>${escapeHtml(copy)}</p></article>`).join("")}</div></section>`).join("") : "";
   const faqSection = property.faqItems?.length ? `<section class="accommodation-section"><p class="section-label">Questions answered</p><h2>Planning a stay at ${escapeHtml(property.name)}.</h2>${property.faqItems.map(([question, answer]) => `<details><summary>${escapeHtml(question)}</summary><p>${escapeHtml(answer)}</p></details>`).join("")}</section>` : "";
-  const gallerySection = property.gallery?.length
+  let gallerySection = property.gallery?.length
     ? `<section class="accommodation-section"><p class="section-label">${escapeHtml(property.galleryLabel || "Property gallery")}</p><h2>${escapeHtml(property.galleryHeading || "Inside the stay.")}</h2><div class="property-gallery">${property.gallery.map((item) => `<img src="${escapeHtml(item.src)}" alt="${escapeHtml(item.alt)}" loading="lazy">`).join("")}</div></section>`
     : "";
+  if (property.extraSections?.length) {
+    gallerySection += property.extraSections.map((x, n) => `<section class="accommodation-section property-feature-section${n % 2 ? " property-feature-reverse" : ""}"><div class="property-feature-grid"><div><p class="section-label">${escapeHtml(x.label)}</p><h2>${escapeHtml(x.heading)}</h2>${x.copy.map((c) => `<p>${escapeHtml(c)}</p>`).join("")}</div><figure><img src="${escapeHtml(x.image.src)}" alt="${escapeHtml(x.image.alt)}" loading="lazy"></figure></div></section>`).join("");
+  }
   const reviewSection = property.review?.length
-    ? `<section class="accommodation-section property-review-section"><div class="property-review-grid"><div><p class="section-label">Our review</p><h2>${escapeHtml(property.reviewHeading || `What ${property.name} is like.`)}</h2><div class="property-review-copy">${property.review.map((paragraph) => `<p>${escapeHtml(paragraph)}</p>`).join("")}</div></div>${property.reviewVerdict ? `<aside class="property-review-verdict" aria-label="Surfbooker verdict"><p>${escapeHtml(property.reviewVerdict)}</p></aside>` : ""}</div></section>`
+    ? `<section class="accommodation-section property-review-section"><div class="property-review-grid"><div><p class="section-label">Our review</p><h2>${escapeHtml(property.reviewHeading || `What ${property.name} is like.`)}</h2><div class="property-review-copy">${property.review.map((paragraph) => `<p>${escapeHtml(paragraph)}</p>`).join("")}</div>${property.reviewDisclaimer ? `<p class="property-review-disclaimer"><em>${escapeHtml(property.reviewDisclaimer)}</em></p>` : ""}</div>${property.reviewVerdict ? `<aside class="property-review-verdict" aria-label="Surfbooker verdict"><p>${escapeHtml(property.reviewVerdict)}</p></aside>` : ""}</div></section>`
     : "";
   const lodgingSchema = {
     "@type": property.schemaType || (property.slug === "the-waterfront-inn" ? "BedAndBreakfast" : property.stayType.includes("apartment") ? "VacationRental" : "LodgingBusiness"),
@@ -1873,7 +2102,7 @@ export function renderAccommodationPropertyPage(property) {
     image: property.heroImage,
     imageAlt: property.heroImageAlt,
     heroPlaceholder: Boolean(property.heroPlaceholder),
-    heroBadge: (property.review && property.review.length) ? "" : "Review pending",
+    heroBadge: (property.review && property.review.length) ? "Stayed & reviewed by Surfbooker" : "Review pending",
     heroAddress: isRoyalHotel ? "Barnstaple Street, Bideford, Devon EX39 4AE" : "",
     bodyClass: `accommodation-property-page${isRoyalHotel ? " rwts-property-page" : ""}`,
     breadcrumbs: [["Home", "/"], ["Accommodation", "/accommodation/"], [region?.name || "Accommodation", `/accommodation/${area?.regionSlug || "devon"}/`], [area?.name || property.location, `/accommodation/${property.areaSlug}/`], [property.name, path]],

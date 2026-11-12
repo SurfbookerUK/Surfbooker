@@ -32767,6 +32767,328 @@
       "status": "cleared",
       "sourceType": "surfbooker-brand",
       "place": "Surfbooker brand asset"
+    },
+    "images/accommodation/properties/timber-hill/Timber-Hill-Lodges-Aerial.webp": {
+      "status": "cleared",
+      "sourceType": "owner-supplied",
+      "credit": "Timber Hill",
+      "place": "Timber Hill lodges, Broad Haven",
+      "notes": "Photo supplied by the owner (Matthew) by email on 2026-11-12 for the Surfbooker listing. Resized to 1600px wide."
+    },
+    "images/accommodation/properties/timber-hill/Timber-Hill-Lodge-Living-Room.webp": {
+      "status": "cleared",
+      "sourceType": "owner-supplied",
+      "credit": "Timber Hill",
+      "place": "Lodge living area",
+      "notes": "Photo supplied by the owner (Matthew) by email on 2026-11-12 for the Surfbooker listing. Resized to 1600px wide."
+    },
+    "images/accommodation/properties/timber-hill/Timber-Hill-Lodge-Dining-Area.webp": {
+      "status": "cleared",
+      "sourceType": "owner-supplied",
+      "credit": "Timber Hill",
+      "place": "Lodge dining area",
+      "notes": "Photo supplied by the owner (Matthew) by email on 2026-11-12 for the Surfbooker listing. Resized to 1600px wide."
+    },
+    "images/accommodation/properties/hotel-pelirocco/Hotel-Pelirocco-Front.webp": {
+      "status": "cleared",
+      "sourceType": "owner-supplied",
+      "credit": "Hotel Pelirocco",
+      "place": "Hotel frontage, Regency Square",
+      "notes": "Photo supplied by the owner (Marko) by email link on 2026-11-12 for the Surfbooker listing. Resized to 1600px wide."
+    },
+    "images/accommodation/properties/hotel-pelirocco/Hotel-Pelirocco-Bar.webp": {
+      "status": "cleared",
+      "sourceType": "owner-supplied",
+      "credit": "Hotel Pelirocco",
+      "place": "Bar",
+      "notes": "Photo supplied by the owner (Marko) by email link on 2026-11-12 for the Surfbooker listing. Resized to 1600px wide."
+    },
+    "images/accommodation/properties/hotel-pelirocco/Botanica-Room.webp": {
+      "status": "cleared",
+      "sourceType": "owner-supplied",
+      "credit": "Hotel Pelirocco",
+      "place": "Botanica room",
+      "notes": "Photo supplied by the owner (Marko) by email link on 2026-11-12 for the Surfbooker listing. Resized to 1600px wide."
+    },
+    "images/accommodation/properties/hotel-pelirocco/Salon-Rouge-Room.webp": {
+      "status": "cleared",
+      "sourceType": "owner-supplied",
+      "credit": "Hotel Pelirocco",
+      "place": "Salon Rouge room",
+      "notes": "Photo supplied by the owner (Marko) by email link on 2026-11-12 for the Surfbooker listing. Resized to 1600px wide."
+    },
+    "images/accommodation/properties/hotel-pelirocco/Koibito-Room.webp": {
+      "status": "cleared",
+      "sourceType": "owner-supplied",
+      "credit": "Hotel Pelirocco",
+      "place": "Koibito room",
+      "notes": "Photo supplied by the owner (Marko) by email link on 2026-11-12 for the Surfbooker listing. Resized to 1600px wide."
+    },
+    "images/accommodation/properties/hotel-pelirocco/Lord-Vaders-Quarters.webp": {
+      "status": "cleared",
+      "sourceType": "owner-supplied",
+      "credit": "Hotel Pelirocco",
+      "place": "Lord Vader's Quarters room",
+      "notes": "Photo supplied by the owner (Marko) by email link on 2026-11-12 for the Surfbooker listing. Resized to 1600px wide."
+    },
+    "images/accommodation/properties/hotel-pelirocco/Botanica-Courtyard.webp": {
+      "status": "cleared",
+      "sourceType": "owner-supplied",
+      "credit": "Hotel Pelirocco",
+      "place": "Courtyard",
+      "notes": "Photo supplied by the owner (Marko) by email link on 2026-11-12 for the Surfbooker listing. Resized to 1600px wide."
+    },
+    "images/accommodation/properties/hotel-pelirocco/Full-Peli-Breakfast.webp": {
+      "status": "cleared",
+      "sourceType": "owner-supplied",
+      "credit": "Hotel Pelirocco",
+      "place": "Cooked breakfast",
+      "notes": "Photo supplied by the owner (Marko) by email link on 2026-11-12 for the Surfbooker listing. Resized to 1600px wide."
+    },
+    "images/accommodation/properties/hotel-pelirocco/Koibito-View-Regency-Square.webp": {
+      "status": "cleared",
+      "sourceType": "owner-supplied",
+      "credit": "Hotel Pelirocco",
+      "place": "Room view over Regency Square",
+      "notes": "Photo supplied by the owner (Marko) by email link on 2026-11-12 for the Surfbooker listing. Resized to 1600px wide."
+    },
+    "images/accommodation/properties/hotel-pelirocco/Balcony-View-Brighton-Seafront.webp": {
+      "status": "cleared",
+      "sourceType": "owner-supplied",
+      "credit": "Hotel Pelirocco",
+      "place": "Seafront view at night",
+      "notes": "Photo supplied by the owner (Marko) by email link on 2026-11-12 for the Surfbooker listing. Resized to 1600px wide."
+    },
+    "images/accommodation/properties/fistral-beach-hotel-and-spa/Fistral-Beach-Hotel-From-The-Headland.webp": {
+      "status": "cleared",
+      "sourceType": "owner-supplied",
+      "credit": "Fistral Beach Hotel and Spa",
+      "place": "Fistral Beach Hotel and Spa above Fistral Beach, Newquay",
+      "notes": "Hero image requested by the hotel's marketing team (Philema Hospitality) by email on 2026-11-12 for the Surfbooker listing. Resized to 1600px wide."
+    },
+    "images/accommodation/properties/the-esplanade-hotel/Esplanade-Hotel-View-Over-Fistral.webp": {
+      "status": "cleared",
+      "sourceType": "owner-supplied",
+      "credit": "Surfbooker",
+      "place": "The Esplanade Hotel, Newquay",
+      "notes": "Surfbooker's own photo from our stay."
+    },
+    "images/accommodation/properties/the-esplanade-hotel/Roxy-Room.webp": {
+      "status": "cleared",
+      "sourceType": "owner-supplied",
+      "credit": "Surfbooker",
+      "place": "The Esplanade Hotel, Newquay",
+      "notes": "Surfbooker's own photo from our stay."
+    },
+    "images/accommodation/properties/the-esplanade-hotel/Roxy-Room-Bathroom.webp": {
+      "status": "cleared",
+      "sourceType": "owner-supplied",
+      "credit": "Surfbooker",
+      "place": "The Esplanade Hotel, Newquay",
+      "notes": "Surfbooker's own photo from our stay."
+    },
+    "images/accommodation/properties/sea-breeze-beach-house/Sea-Breeze-Beach-House-Garden.webp": {
+      "status": "cleared",
+      "sourceType": "owner-supplied",
+      "credit": "Sea Breeze Beach House",
+      "place": "Sea Breeze Beach House, Manorbier",
+      "notes": "Photo supplied by the owner for use on Surfbooker."
+    },
+    "images/accommodation/properties/sea-breeze-beach-house/Sea-Breeze-Living-Room-Wood-Burner.webp": {
+      "status": "cleared",
+      "sourceType": "owner-supplied",
+      "credit": "Sea Breeze Beach House",
+      "place": "Sea Breeze Beach House, Manorbier",
+      "notes": "Photo supplied by the owner for use on Surfbooker."
+    },
+    "images/accommodation/properties/sea-breeze-beach-house/Sea-Breeze-Patio-Bifolds-Open.webp": {
+      "status": "cleared",
+      "sourceType": "owner-supplied",
+      "credit": "Sea Breeze Beach House",
+      "place": "Sea Breeze Beach House, Manorbier",
+      "notes": "Photo supplied by the owner for use on Surfbooker."
+    },
+    "images/accommodation/properties/sea-breeze-beach-house/Sea-Breeze-Breakfast-On-The-Patio.webp": {
+      "status": "cleared",
+      "sourceType": "owner-supplied",
+      "credit": "Sea Breeze Beach House",
+      "place": "Sea Breeze Beach House, Manorbier",
+      "notes": "Photo supplied by the owner for use on Surfbooker."
+    },
+    "images/accommodation/properties/sea-breeze-beach-house/Sea-Breeze-Patio-Garden-View.webp": {
+      "status": "cleared",
+      "sourceType": "owner-supplied",
+      "credit": "Sea Breeze Beach House",
+      "place": "Sea Breeze Beach House, Manorbier",
+      "notes": "Photo supplied by the owner for use on Surfbooker."
+    },
+    "images/accommodation/properties/tregenna-castle/Tregenna-Castle-Gardens-And-Pool.webp": {
+      "status": "cleared",
+      "sourceType": "owner-supplied",
+      "credit": "Tregenna Castle",
+      "place": "Tregenna Castle, St Ives",
+      "notes": "Photo supplied by the hotel for use on Surfbooker."
+    },
+    "images/accommodation/properties/tregenna-castle/Tregenna-Castle-Aerial-Grounds.webp": {
+      "status": "cleared",
+      "sourceType": "owner-supplied",
+      "credit": "Tregenna Castle",
+      "place": "Tregenna Castle, St Ives",
+      "notes": "Photo supplied by the hotel for use on Surfbooker."
+    },
+    "images/accommodation/properties/tregenna-castle/Tregenna-Castle-Entrance.webp": {
+      "status": "cleared",
+      "sourceType": "owner-supplied",
+      "credit": "Tregenna Castle",
+      "place": "Tregenna Castle, St Ives",
+      "notes": "Photo supplied by the hotel for use on Surfbooker."
+    },
+    "images/accommodation/properties/tregenna-castle/Tregenna-Castle-Above-St-Ives.webp": {
+      "status": "cleared",
+      "sourceType": "owner-supplied",
+      "credit": "Tregenna Castle",
+      "place": "Tregenna Castle, St Ives",
+      "notes": "Photo supplied by the hotel for use on Surfbooker."
+    },
+    "images/accommodation/properties/tregenna-castle/Tregenna-Castle-Lodges-View-Of-St-Ives.webp": {
+      "status": "cleared",
+      "sourceType": "owner-supplied",
+      "credit": "Tregenna Castle",
+      "place": "Tregenna Castle, St Ives",
+      "notes": "Photo supplied by the hotel for use on Surfbooker."
+    },
+    "images/accommodation/properties/tregenna-castle/Tregenna-Castle-Window-View-St-Ives-Harbour.webp": {
+      "status": "cleared",
+      "sourceType": "owner-supplied",
+      "credit": "Tregenna Castle",
+      "place": "Tregenna Castle, St Ives",
+      "notes": "Photo supplied by the hotel for use on Surfbooker."
+    },
+    "images/accommodation/properties/tregenna-castle/Tregenna-Castle-Miss-Robinsons-Cottage.webp": {
+      "status": "cleared",
+      "sourceType": "owner-supplied",
+      "credit": "Tregenna Castle",
+      "place": "Tregenna Castle, St Ives",
+      "notes": "Photo supplied by the hotel for use on Surfbooker."
+    },
+    "images/accommodation/properties/tregenna-castle/Tregenna-Castle-Afternoon-Tea-Sea-View.webp": {
+      "status": "cleared",
+      "sourceType": "owner-supplied",
+      "credit": "Tregenna Castle",
+      "place": "Tregenna Castle, St Ives",
+      "notes": "Photo supplied by the hotel for use on Surfbooker."
+    },
+    "images/accommodation/properties/the-cape-cornwall-club/Cape-Cornwall-Club-Aerial-Golf-Course.webp": {
+      "status": "cleared",
+      "sourceType": "owner-supplied",
+      "credit": "The Cape Cornwall Club",
+      "place": "Aerial Golf Course",
+      "notes": "Photo supplied by the Club (Robyn Chivers) by email link on 2026-11-12 for the Surfbooker listing. Resized to 1600px wide."
+    },
+    "images/accommodation/properties/the-cape-cornwall-club/Cape-Cornwall-Club-Bedroom-Beams.webp": {
+      "status": "cleared",
+      "sourceType": "owner-supplied",
+      "credit": "The Cape Cornwall Club",
+      "place": "Bedroom Beams",
+      "notes": "Photo supplied by the Club (Robyn Chivers) by email link on 2026-11-12 for the Surfbooker listing. Resized to 1600px wide."
+    },
+    "images/accommodation/properties/the-cape-cornwall-club/Cape-Cornwall-Club-Bedroom-Twin-Stone-Walls.webp": {
+      "status": "cleared",
+      "sourceType": "owner-supplied",
+      "credit": "The Cape Cornwall Club",
+      "place": "Bedroom Twin Stone Walls",
+      "notes": "Photo supplied by the Club (Robyn Chivers) by email link on 2026-11-12 for the Surfbooker listing. Resized to 1600px wide."
+    },
+    "images/accommodation/properties/the-cape-cornwall-club/Cape-Cornwall-Club-Golfer-Cape-Cornwall.webp": {
+      "status": "cleared",
+      "sourceType": "owner-supplied",
+      "credit": "The Cape Cornwall Club",
+      "place": "Golfer Cape Cornwall",
+      "notes": "Photo supplied by the Club (Robyn Chivers) by email link on 2026-11-12 for the Surfbooker listing. Resized to 1600px wide."
+    },
+    "images/accommodation/properties/the-cape-cornwall-club/Cape-Cornwall-Club-Gym.webp": {
+      "status": "cleared",
+      "sourceType": "owner-supplied",
+      "credit": "The Cape Cornwall Club",
+      "place": "Gym",
+      "notes": "Photo supplied by the Club (Robyn Chivers) by email link on 2026-11-12 for the Surfbooker listing. Resized to 1600px wide."
+    },
+    "images/accommodation/properties/the-cape-cornwall-club/Cape-Cornwall-Club-Heated-Pool-Sauna.webp": {
+      "status": "cleared",
+      "sourceType": "owner-supplied",
+      "credit": "The Cape Cornwall Club",
+      "place": "Heated Pool Sauna",
+      "notes": "Photo supplied by the Club (Robyn Chivers) by email link on 2026-11-12 for the Surfbooker listing. Resized to 1600px wide."
+    },
+    "images/accommodation/properties/the-cape-cornwall-club/Cape-Cornwall-Club-Putting-Green-Brisons.webp": {
+      "status": "cleared",
+      "sourceType": "owner-supplied",
+      "credit": "The Cape Cornwall Club",
+      "place": "Putting Green Brisons",
+      "notes": "Photo supplied by the Club (Robyn Chivers) by email link on 2026-11-12 for the Surfbooker listing. Resized to 1600px wide."
+    },
+    "images/accommodation/properties/the-cape-cornwall-club/Cape-Cornwall-Club-Squad-Clubhouse-Sunshine.webp": {
+      "status": "cleared",
+      "sourceType": "owner-supplied",
+      "credit": "The Cape Cornwall Club",
+      "place": "Squad Clubhouse Sunshine",
+      "notes": "Photo supplied by the Club (Robyn Chivers) by email link on 2026-11-12 for the Surfbooker listing. Resized to 1600px wide."
+    },
+    "images/accommodation/properties/the-cape-cornwall-club/Cape-Cornwall-Club-Squad-Clubhouse-Terrace.webp": {
+      "status": "cleared",
+      "sourceType": "owner-supplied",
+      "credit": "The Cape Cornwall Club",
+      "place": "Squad Clubhouse Terrace",
+      "notes": "Photo supplied by the Club (Robyn Chivers) by email link on 2026-11-12 for the Surfbooker listing. Resized to 1600px wide."
+    },
+    "images/accommodation/properties/the-cape-cornwall-club/Cape-Cornwall-Club-Team-Clubhouse-Group.webp": {
+      "status": "cleared",
+      "sourceType": "owner-supplied",
+      "credit": "The Cape Cornwall Club",
+      "place": "Team Clubhouse Group",
+      "notes": "Photo supplied by the Club (Robyn Chivers) by email link on 2026-11-12 for the Surfbooker listing. Resized to 1600px wide."
+    },
+    "images/accommodation/properties/the-cape-cornwall-club/Cape-Cornwall-Club-Team-Huddle-Function-Room.webp": {
+      "status": "cleared",
+      "sourceType": "owner-supplied",
+      "credit": "The Cape Cornwall Club",
+      "place": "Team Huddle Function Room",
+      "notes": "Photo supplied by the Club (Robyn Chivers) by email link on 2026-11-12 for the Surfbooker listing. Resized to 1600px wide."
+    },
+    "images/accommodation/properties/the-cape-cornwall-club/Cape-Cornwall-Club-Terrace-Evening-Sun.webp": {
+      "status": "cleared",
+      "sourceType": "owner-supplied",
+      "credit": "The Cape Cornwall Club",
+      "place": "Terrace Evening Sun",
+      "notes": "Photo supplied by the Club (Robyn Chivers) by email link on 2026-11-12 for the Surfbooker listing. Resized to 1600px wide."
+    },
+    "images/accommodation/properties/the-cape-cornwall-club/Cape-Cornwall-Club-Terrace-Food-Wine.webp": {
+      "status": "cleared",
+      "sourceType": "owner-supplied",
+      "credit": "The Cape Cornwall Club",
+      "place": "Terrace Food Wine",
+      "notes": "Photo supplied by the Club (Robyn Chivers) by email link on 2026-11-12 for the Surfbooker listing. Resized to 1600px wide."
+    },
+    "images/accommodation/properties/the-cape-cornwall-club/Cape-Cornwall-Club-Terrace-Sunset.webp": {
+      "status": "cleared",
+      "sourceType": "owner-supplied",
+      "credit": "The Cape Cornwall Club",
+      "place": "Terrace Sunset",
+      "notes": "Photo supplied by the Club (Robyn Chivers) by email link on 2026-11-12 for the Surfbooker listing. Resized to 1600px wide."
+    },
+    "images/accommodation/properties/the-cape-cornwall-club/Cape-Cornwall-Club-Visiting-Team-Terrace.webp": {
+      "status": "cleared",
+      "sourceType": "owner-supplied",
+      "credit": "The Cape Cornwall Club",
+      "place": "Visiting Team Terrace",
+      "notes": "Photo supplied by the Club (Robyn Chivers) by email link on 2026-11-12 for the Surfbooker listing. Resized to 1600px wide."
+    },
+    "images/accommodation/properties/the-cape-cornwall-club/Cape-Cornwall-Club-Wedding-Sunset-Cape.webp": {
+      "status": "cleared",
+      "sourceType": "owner-supplied",
+      "credit": "The Cape Cornwall Club",
+      "place": "Wedding Sunset Cape",
+      "notes": "Photo supplied by the Club (Robyn Chivers) by email link on 2026-11-12 for the Surfbooker listing. Resized to 1600px wide."
     }
   }
 }

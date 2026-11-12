@@ -2,27 +2,27 @@
  "slug": "the-cape-cornwall-club",
  "officialUrl": "https://www.capecornwallclub.com/",
  "trading": true,
- "stayType": "Clifftop hotel with golf course and leisure club",
- "accommodation": "23 en suite rooms with breakfast; listed as hotel and self-catering",
- "suitableFor": "Couples, golfers and visitors flying to the Isles of Scilly from Land's End Airport",
- "parking": null,
- "dogs": "Third-party listing says 'pets allowed'; confirm with hotel",
- "beachAccess": null,
+ "stayType": "Clifftop golf and leisure club with rooms",
+ "accommodation": "23 en suite bedrooms",
+ "suitableFor": "Surf groups, sports teams, walkers, cyclists, golfers, couples and dog owners",
+ "parking": "Free car park on site",
+ "dogs": "Dogs welcome in all areas except the gym and pool, and on the golf course",
+ "beachAccess": "Cape Cornwall is half a mile away on foot; Sennen Cove and Gwenver are a short drive south",
  "boardStorage": null,
- "confirmedFeatures": "Heated pool, gym, golf course, breakfast, airport minibus transfer",
- "overview": "The Cape Cornwall Club is a clifftop hotel on Cape Cornwall Road outside St Just, within the Cornwall mining World Heritage Site. It has 23 en suite rooms, a heated pool, a gym and its own golf course, and sits about five minutes' drive from Land's End Airport.",
- "surfTripFit": "The pool and gym are useful on flat days and Sennen is a short drive south, but no beach access or surf facilities are stated.",
+ "confirmedFeatures": "Heated indoor pool, sauna and jacuzzi, newly refurbished air-conditioned gym, restaurant and terrace, golf course, function room, free car park",
+ "overview": "The Cape Cornwall Club is a clifftop golf and leisure club on Cape Cornwall Road near St Just, half a mile from Cape Cornwall. It has 23 bedrooms, a heated indoor pool with sauna and jacuzzi, a gym, a restaurant and terrace, and its own golf course.",
+ "surfTripFit": "A base for the far west of Cornwall rather than a beachfront stay: Sennen Cove, Gwenver and Portheras Cove are within reach by car, and the pool, sauna and gym are useful on flat days.",
  "sources": [
   {
-   "label": "Isles of Scilly Travel listing",
-   "url": "https://www.islesofscilly-travel.co.uk/discover/accommodation/cape-cornwall-club/"
+   "label": "Cape Cornwall Club website",
+   "url": "https://www.capecornwallclub.com/"
   },
   {
    "label": "Isles of Scilly Travel listing",
    "url": "https://www.islesofscilly-travel.co.uk/discover/accommodation/cape-cornwall-club/"
   }
  ],
- "gaps": "Official site blocked by robots.txt (tried capecornwallclub.co.uk; listing gives capecornwallclub.com), so trading not confirmed from the property itself. Parking, Wi-Fi, beach distance and board storage unknown",
- "verificationNote": "Trading confirmed from current third-party listings and recent guest reviews in November 2026. Surfbooker has not stayed here; confirm facilities and policies directly when you enquire.",
- "lastVerified": "2026-11-11"
+ "gaps": "Room types, rates and breakfast terms not published on the Club's homepage; golf course length and hole count not checked from the Club itself. The wild winter offer and off-peak surf group terms are not yet published.",
+ "verificationNote": "Facilities, dog policy, walks and parking checked against the Club's website on 12 November 2026. The Club's management supplied the sports resort, group guest and off-peak surf group details by email the same day. Surfbooker has not stayed here; confirm facilities and policies directly when you enquire.",
+ "lastVerified": "2026-11-12"
 }

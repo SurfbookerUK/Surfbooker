@@ -1,24 +1,28 @@
 {
   "slug": "freshwater-holidays-16-freshwater-bay",
-  "officialUrl": null,
+  "officialUrl": "https://www.freshwaterholidays.com",
   "trading": true,
-  "stayType": "Self-catering beach house at Freshwater East",
-  "accommodation": "Three-bedroom house sleeping six, with three bathrooms and an enclosed garden",
+  "stayType": "Self-catering New England-style beach house at Freshwater East",
+  "accommodation": "Three double bedrooms, sleeps six, with three bathrooms",
   "suitableFor": "Families and groups with dogs",
-  "parking": null,
-  "dogs": "Dog friendly",
-  "beachAccess": "About 200 m from Freshwater East beach",
+  "parking": "Allocated parking, according to guest reviews on the owner's website",
+  "dogs": "Dogs welcome. The owner's site calls the area dog friendly year round, and the beach about 200 m away is dog friendly all year",
+  "beachAccess": "About 200 m from Freshwater East beach, around a four-minute walk according to a guest review",
   "boardStorage": null,
-  "confirmedFeatures": "Enclosed two-level garden, large terrace and balconies, well-equipped kitchen, a pub serving breakfast next door",
-  "overview": "16 Freshwater Bay is a New England-style self-catering beach house at Freshwater East, near Pembroke. It sleeps six, has an enclosed garden and a large terrace, and the beach is about 200 metres away.",
-  "surfTripFit": "A short walk to Freshwater East's beach, which suits families and dog owners; no board storage is mentioned.",
+  "confirmedFeatures": "Enclosed private garden on two levels, large terrace and balconies, well-equipped kitchen, Wi-Fi, indoor children's toys, allocated parking, rated 4 stars by Visit Wales, a pub next door (Jacks at the Longhouse) serving food and breakfast, with food best booked in advance",
+  "overview": "16 Freshwater Bay is a New England-style self-catering beach house at Freshwater Bay Holiday Village, Freshwater East, near Pembroke. It has three double bedrooms and three bathrooms and sleeps six. There is a private enclosed garden on two levels, a large terrace and balconies, and a well-equipped kitchen. The beach is about 200 metres away and dog friendly all year, and the pub next door serves food and breakfast. Pembroke is about five miles away and Tenby about nine. The owner describes Freshwater East as a calm, family-friendly beach that is often like a mill pond in summer and not busy with surfers. Manorbier is about ten minutes by car and Freshwater West, which the owner calls the holy grail, is about fifteen. The house is rated 4 stars by Visit Wales and is usually fully booked in season.",
+  "surfTripFit": "A good family base for a Pembrokeshire surf trip. Freshwater East itself is gentle and uncrowded, with Manorbier about ten minutes away by car and Freshwater West about fifteen.",
   "sources": [
     {
       "label": "Freshwater Holidays official site",
       "url": "https://www.freshwaterholidays.com"
+    },
+    {
+      "label": "Visit Wales listing",
+      "url": "https://www.visitwales.com/accommodation/self-catering/16-freshwater-bay-525271"
     }
   ],
-  "gaps": "Parking not stated by the owner; Wi-Fi and other details come partly from guest reviews. Confirm with the owner.",
-  "verificationNote": "Details checked against the property's own website in October 2026. Surfbooker has not stayed here; confirm facilities and policies directly when you enquire.",
-  "lastVerified": "2026-10-16"
+  "gaps": "Booking minimums, season dates and board storage not stated. Wi-Fi and some features come from guest reviews on the owner's site.",
+  "verificationNote": "Details from the owner's website, Visit Wales and the owner's email of 12 November 2026. Surfbooker has not stayed here; confirm facilities and policies directly when you enquire.",
+  "lastVerified": "2026-11-12"
 }

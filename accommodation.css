@@ -1274,3 +1274,12 @@ a.property-card:hover {
 /* Area-photo label on directory-listed stays (no property photo supplied) */
 .property-card-image { position: relative; }
 .property-card-photo-note { position: absolute; left: 10px; bottom: 10px; background: rgba(15, 42, 51, 0.82); color: #fff; font-size: 11.5px; font-weight: 600; padding: 4px 9px; border-radius: 999px; }
+
+.property-card-image { position: relative; }
+.property-card-reviewed { position: absolute; left: 0.75rem; top: 0.75rem; padding: 0.3rem 0.65rem; border-radius: 999px; background: #0b3a4a; color: #fff; font-size: 0.75rem; font-weight: 600; letter-spacing: 0.02em; }
+.featured-stays-note { max-width: 46rem; margin: 0.75rem 0 0; color: inherit; opacity: 0.8; }
+
+.property-feature-grid { display: grid; gap: 2rem; align-items: center; grid-template-columns: 1fr; }
+.property-feature-grid figure { margin: 0; }
+.property-feature-grid img { width: 100%; height: auto; display: block; border-radius: 12px; }
+@media (min-width: 800px) { .property-feature-grid { grid-template-columns: 1fr 1fr; } .property-feature-reverse .property-feature-grid figure { order: -1; } }
