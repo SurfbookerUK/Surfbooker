@@ -474,7 +474,7 @@ function walk(dir) {
   for (const entry of entries) {
     const stats = statSync(entry);
     if (stats.isDirectory()) {
-      if (entry.endsWith(".git") || [join(rootDir, "dist"), join(rootDir, "outputs"), join(rootDir, "node_modules")].includes(entry)) {
+      if (entry.endsWith(".git")) {
         continue;
       }
       files.push(...walk(entry));
