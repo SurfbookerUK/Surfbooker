@@ -276,25 +276,37 @@
   "slug": "bike-and-boot",
   "officialUrl": null,
   "trading": true,
-  "stayType": "Hotel on Cliff Bridge Terrace, Scarborough",
+  "stayType": "Design-led hotel on Cliff Bridge Terrace, Scarborough, in the former Mount Hotel",
   "accommodation": "65 rooms in several sizes, including family rooms",
-  "suitableFor": "Cyclists, walkers and groups visiting Scarborough",
+  "suitableFor": "Cyclists, walkers, families and groups visiting Scarborough",
   "parking": "No on-site parking; permit parking nearby",
   "dogs": "Pet-friendly, up to two pets",
-  "beachAccess": "South Bay Beach is about a 1-minute walk",
+  "beachAccess": "South Bay Beach is a 1 to 3 minute walk; North Bay Beach, Scarborough's main surf beach, is about 0.7 miles (13 to 15 minutes' walk). Scarborough Spa is around 6 minutes' walk",
   "boardStorage": null,
-  "confirmedFeatures": null,
-  "overview": "Bike & Boot is a 65-room hotel on Cliff Bridge Terrace with a cafe, bar and restaurant. Dogs are welcome.",
-  "surfTripFit": "A South Bay base; Scarborough's surf is best on the North Bay.",
+  "confirmedFeatures": "Restaurant, bar, film club, breakfast available for a fee (served weekdays and weekends), free WiFi, pet-friendly, family rooms, sea view rooms",
+  "overview": "Bike & Boot is a design-led hotel on Cliff Bridge Terrace, created from what was the Mount Hotel. It has a restaurant, bar and film club, a mix of room sizes including family rooms and sea view rooms, and sits a minute or two from South Bay Beach. Dogs are welcome.",
+  "surfTripFit": "A central base a short walk from South Bay, with North Bay, Scarborough's main surf beach, about 0.7 miles away on foot. Scarborough Spa, the Rotunda Museum and the harbour are all close, so it suits mixed groups where not everyone surfs.",
   "sources": [
    {
-    "label": "Public listing",
+    "label": "Expedia listing",
     "url": "https://expedia.com/Scarborough-District-hotels-Bike-&-Boot.h48315356.Hotel-information"
+   },
+   {
+    "label": "Expedia UK reviews and area guide",
+    "url": "https://www.expedia.co.uk/Scarborough-Hotels-Bike-Boot.h48315356.Hotel-Reviews"
+   },
+   {
+    "label": "Yorkshire Post feature",
+    "url": "https://www.yorkshirepost.co.uk/lifestyle/homes-and-gardens/the-bike-and-boot-is-scarboroughs-hippest-new-hotel-and-heres-why-2929156"
+   },
+   {
+    "label": "Yorkshire Food Guide",
+    "url": "https://yorkshirefoodguide.co.uk/restaurant/bike-boot-scarborough/"
    }
   ],
-  "gaps": "Room count, rates and current availability not confirmed; check with the property.",
-  "verificationNote": "Details cross-checked against public accommodation listings in October 2026. Surfbooker has not stayed here; confirm facilities and policies directly when you enquire.",
-  "lastVerified": "2026-10-16"
+  "gaps": "Room count, rates and current availability not confirmed; parking arrangements differ between listings; board storage not stated.",
+  "verificationNote": "Details cross-checked against public listings on 12 November 2026. Surfbooker has not stayed here; confirm facilities and policies directly when you enquire.",
+  "lastVerified": "2026-11-12"
  },
  "blackrock-house-b-and-b.json": {
   "slug": "blackrock-house-b-and-b",
@@ -772,22 +784,27 @@
  },
  "cornish-riviera-holidays.json": {
   "slug": "cornish-riviera-holidays",
-  "officialUrl": null,
+  "officialUrl": "https://www.cornishrivieraholidays.co.uk/",
   "trading": true,
-  "stayType": "Holiday letting agency in St Ives",
-  "accommodation": "Self-catering holiday homes; number varies",
-  "suitableFor": "Families and groups self-catering in St Ives",
-  "parking": null,
-  "dogs": null,
-  "beachAccess": "Properties are in and around St Ives",
+  "stayType": "Family-run holiday letting agency in St Ives",
+  "accommodation": "Fishermen's cottages, town houses, beachside apartments, studios and flats, sleeping from two to larger groups",
+  "suitableFor": "Couples, families and groups wanting a self-catering base in St Ives",
+  "parking": "Many properties come with parking; the agency also lists St Ives short-stay and long-stay car parks and the Park and Ride",
+  "dogs": "Dog-friendly properties available; check each listing",
+  "beachAccess": "Properties sit in the heart of St Ives, a few minutes' walk from the harbour and close to Porthmeor, Porthgwidden and Porthminster beaches",
   "boardStorage": null,
-  "confirmedFeatures": null,
-  "overview": "Cornish Riviera Holidays is a letting agency offering self-catering holiday homes in the St Ives area.",
-  "surfTripFit": "A way to find self-catering near St Ives' beaches.",
-  "sources": [],
-  "gaps": "Property facilities vary; check each listing.",
-  "verificationNote": "Details cross-checked against public accommodation listings in October 2026. Surfbooker has not stayed here; confirm facilities and policies directly when you enquire.",
-  "lastVerified": "2026-10-16"
+  "confirmedFeatures": "Fishermen's cottages, town houses and beachside apartments, free Wi-Fi in many properties, a dog-friendly category and an office in the Guildhall, St Ives",
+  "overview": "Cornish Riviera Holidays is a family-run holiday letting agency based in St Ives and established in 1984, with its office in the Guildhall on Street an Pol. It manages a mix of fishermen's cottages, town houses and beachside apartments in the heart of the town, including studios and flats, and many are within a few minutes' walk of the harbour and the town beaches. Properties sleep anywhere from two to larger groups, many have free Wi-Fi, and there is a dog-friendly category for guests travelling with pets. The agency sponsors St Ives Surf Life Saving Club and runs a live webcam over St Ives harbour. Because it manages many properties, facilities, parking and prices differ from one to the next, so check the details of the one you are interested in.",
+  "surfTripFit": "St Ives is one of Cornwall's best-known surf towns, with Porthmeor and Porthgwidden close to the centre and Porthminster in the town itself, so a self-catering base here puts you within walking distance of the beaches, cafes and harbour. Ask the agency which properties suit surfers best, including board storage, outdoor showers and drying space.",
+  "sources": [
+   {
+    "label": "Cornish Riviera Holidays",
+    "url": "https://www.cornishrivieraholidays.co.uk/"
+   }
+  ],
+  "gaps": "Property facilities, parking, dog policy and sleeping numbers vary by listing; the agency has been asked for surf-specific details and photos.",
+  "verificationNote": "Details taken from the agency's own website in November 2026. Surfbooker has not stayed here; confirm facilities and policies directly when you enquire.",
+  "lastVerified": "2026-11-12"
  },
  "craig-y-m-r-b-and-b.json": {
   "slug": "craig-y-m-r-b-and-b",
@@ -1145,27 +1162,31 @@
  },
  "freshwater-holidays-16-freshwater-bay.json": {
   "slug": "freshwater-holidays-16-freshwater-bay",
-  "officialUrl": null,
+  "officialUrl": "https://www.freshwaterholidays.com",
   "trading": true,
-  "stayType": "Self-catering beach house at Freshwater East",
-  "accommodation": "Three-bedroom house sleeping six, with three bathrooms and an enclosed garden",
+  "stayType": "Self-catering New England-style beach house at Freshwater East",
+  "accommodation": "Three double bedrooms, sleeps six, with three bathrooms",
   "suitableFor": "Families and groups with dogs",
-  "parking": null,
-  "dogs": "Dog friendly",
-  "beachAccess": "About 200 m from Freshwater East beach",
+  "parking": "Allocated parking, according to guest reviews on the owner's website",
+  "dogs": "Dogs welcome. The owner's site calls the area dog friendly year round, and the beach about 200 m away is dog friendly all year",
+  "beachAccess": "About 200 m from Freshwater East beach, around a four-minute walk according to a guest review",
   "boardStorage": null,
-  "confirmedFeatures": "Enclosed two-level garden, large terrace and balconies, well-equipped kitchen, a pub serving breakfast next door",
-  "overview": "16 Freshwater Bay is a New England-style self-catering beach house at Freshwater East, near Pembroke. It sleeps six, has an enclosed garden and a large terrace, and the beach is about 200 metres away.",
-  "surfTripFit": "A short walk to Freshwater East's beach, which suits families and dog owners; no board storage is mentioned.",
+  "confirmedFeatures": "Enclosed private garden on two levels, large terrace and balconies, well-equipped kitchen, Wi-Fi, indoor children's toys, allocated parking, rated 4 stars by Visit Wales, a pub next door (Jacks at the Longhouse) serving food and breakfast, with food best booked in advance",
+  "overview": "16 Freshwater Bay is a New England-style self-catering beach house at Freshwater Bay Holiday Village, Freshwater East, near Pembroke. It has three double bedrooms and three bathrooms and sleeps six. There is a private enclosed garden on two levels, a large terrace and balconies, and a well-equipped kitchen. The beach is about 200 metres away and dog friendly all year, and the pub next door serves food and breakfast. Pembroke is about five miles away and Tenby about nine. The owner describes Freshwater East as a calm, family-friendly beach that is often like a mill pond in summer and not busy with surfers. Manorbier is about ten minutes by car and Freshwater West, which the owner calls the holy grail, is about fifteen. The house is rated 4 stars by Visit Wales and is usually fully booked in season.",
+  "surfTripFit": "A good family base for a Pembrokeshire surf trip. Freshwater East itself is gentle and uncrowded, with Manorbier about ten minutes away by car and Freshwater West about fifteen.",
   "sources": [
    {
     "label": "Freshwater Holidays official site",
     "url": "https://www.freshwaterholidays.com"
+   },
+   {
+    "label": "Visit Wales listing",
+    "url": "https://www.visitwales.com/accommodation/self-catering/16-freshwater-bay-525271"
    }
   ],
-  "gaps": "Parking not stated by the owner; Wi-Fi and other details come partly from guest reviews. Confirm with the owner.",
-  "verificationNote": "Details checked against the property's own website in October 2026. Surfbooker has not stayed here; confirm facilities and policies directly when you enquire.",
-  "lastVerified": "2026-10-16"
+  "gaps": "Booking minimums, season dates and board storage not stated. Wi-Fi and some features come from guest reviews on the owner's site.",
+  "verificationNote": "Details from the owner's website, Visit Wales and the owner's email of 12 November 2026. Surfbooker has not stayed here; confirm facilities and policies directly when you enquire.",
+  "lastVerified": "2026-11-12"
  },
  "glebe-house-and-cottage.json": {
   "slug": "glebe-house-and-cottage",
@@ -1614,18 +1635,22 @@
   "dogs": "Pets not allowed",
   "beachAccess": "Brighton Beach is about a 1-minute walk",
   "boardStorage": null,
-  "confirmedFeatures": null,
-  "overview": "Hotel Pelirocco is a boutique hotel on Regency Square with themed rooms and a bar. Cooked breakfast is available on weekdays.",
-  "surfTripFit": "Brighton's beach is for swimming and sea sports rather than major surf; the nearest surf spots are along the Sussex and Kent coast.",
+  "confirmedFeatures": "Individually themed rooms, a colourful bar with live music, breakfast, a courtyard and a one-minute walk to Brighton Beach",
+  "overview": "Hotel Pelirocco is a boutique hotel on Regency Square in Brighton, a minute's walk from the beach and the seafront. Its rooms are individually themed, with names such as Botanica, Salon Rouge, Koibito, Lord Vader's Quarters, Betty's Boudoir, Rebel Rebel and Pin Up Parlour, and some look across the Regency Square gardens. Downstairs there is a bar and lounge with a lot of colour and character, where live music has been played, and a cooked breakfast is available on weekdays. The hotel says it was Tripadvisor's No. 1 Traveller Ranked Hotel in October 2024. The owners kindly supplied the photographs on this page.",
+  "surfTripFit": "Brighton's beach is for swimming and sea sports rather than major surf, so this is a characterful base for a Sussex coast trip with the nearest surf spots along the Sussex and Kent coast, then a lively bar and a very short walk to the sea when you are back.",
   "sources": [
+   {
+    "label": "Hotel Pelirocco",
+    "url": "https://www.hotelpelirocco.co.uk/"
+   },
    {
     "label": "Public listing",
     "url": "https://www.hotels.com/ho363992"
    }
   ],
   "gaps": "Room count, rates and current availability not confirmed; check with the property.",
-  "verificationNote": "Details cross-checked against public accommodation listings in October 2026. Surfbooker has not stayed here; confirm facilities and policies directly when you enquire.",
-  "lastVerified": "2026-10-16"
+  "verificationNote": "Details cross-checked against public accommodation listings in October 2026, plus the owner's reply and photographs of 12 November 2026. Surfbooker has not stayed here; confirm facilities and policies directly when you enquire.",
+  "lastVerified": "2026-11-12"
  },
  "hydro-hotel.json": {
   "slug": "hydro-hotel",
@@ -4066,25 +4091,37 @@
   "slug": "the-royal-george",
   "officialUrl": null,
   "trading": true,
-  "stayType": "Pub with rooms on the estuary in Appledore, North Devon",
-  "accommodation": "Five rooms sleeping two to four",
-  "suitableFor": "Couples and groups visiting Appledore, Northam and Saunton",
-  "parking": "No parking at the pub; guests use nearby car parks",
-  "dogs": "Dogs allowed in some rooms and the downstairs restaurant, with a per-stay charge",
-  "beachAccess": "On the Torridge estuary; Saunton Sands is visible across the water and the surf beaches at Westward Ho! and Croyde are a short drive",
+  "stayType": "Waterside pub with rooms on Irsha Street, Appledore, North Devon",
+  "accommodation": "En suite king, deluxe, triple and family rooms: four above the pub and, per one listing, a further six at Sailors Rest on the quay; Sawday's lists five rooms sleeping two to four",
+  "suitableFor": "Couples, groups and dog owners visiting Appledore, Northam Burrows, Westward Ho! and Saunton; walkers on the South West Coast Path",
+  "parking": "No car park at the pub; West Appledore car park (EX39 1RT) is nearby",
+  "dogs": "Well-behaved dogs allowed in two of the rooms and in the downstairs restaurant",
+  "beachAccess": "Estuary views from the pub; Westward Ho! beach is around 1.8 miles away and Northam Burrows Country Park about half a mile. Saunton and Croyde are a short drive",
   "boardStorage": null,
-  "confirmedFeatures": "Restaurant specialising in fish, breakfast included",
-  "overview": "The Royal George is a pub with five rooms in Appledore. It serves fresh fish and local produce, includes breakfast and welcomes dogs in some rooms.",
-  "surfTripFit": "An estuary-side village base for Westward Ho!, Saunton and Croyde.",
+  "confirmedFeatures": "Restaurant with estuary views and terrace serving local seafood and Sunday lunch, handpumped ales, breakfast, free WiFi, on the South West Coast Path",
+  "overview": "The Royal George is a reinvented old pub on Irsha Street in Appledore with floor to ceiling views over the estuary. The restaurant serves a modern British menu built around local seafood and pub classics, with a terrace and handpumped ales. Rooms are en suite and the South West Coast Path runs right past the door. Dogs are welcome in two rooms and the downstairs restaurant.",
+  "surfTripFit": "A characterful estuary-side base for Westward Ho!, about 1.8 miles away, with Saunton Sands and Croyde a short drive. Appledore's pubs, shops and quay make it a good choice for a post-surf evening, and the Coast Path is on the doorstep for flat days.",
   "sources": [
    {
-    "label": "Public listing",
+    "label": "Sawday's listing",
     "url": "https://sawdays.co.uk/britain/england/devon/the-royal-george"
+   },
+   {
+    "label": "Stay in a Pub listing",
+    "url": "https://stayinapub.co.uk/?p=84117"
+   },
+   {
+    "label": "Good Food Guide entry",
+    "url": "https://www.thegoodfoodguide.co.uk/restaurant/the-royal-george/id/35972"
+   },
+   {
+    "label": "Public accommodation listing",
+    "url": "https://hotels.webbanve.net/hotel/gb/the-royal-george-appledore.html"
    }
   ],
-  "gaps": "Distance to the nearest surf beach not stated.",
-  "verificationNote": "Details cross-checked against public accommodation listings in October 2026. Surfbooker has not stayed here; confirm facilities and policies directly when you enquire.",
-  "lastVerified": "2026-10-16"
+  "gaps": "Room numbers differ between listings (five at Sawday's, ten including Sailors Rest elsewhere); rates, board storage and surf group terms not confirmed.",
+  "verificationNote": "Details cross-checked against public listings on 12 November 2026. Surfbooker has not stayed here; confirm facilities and policies directly when you enquire.",
+  "lastVerified": "2026-11-12"
  },
  "the-suncliff-hotel.json": {
   "slug": "the-suncliff-hotel",
@@ -4266,7 +4303,7 @@
   "beachAccess": "About a 20-minute woodland walk to Broad Haven beach",
   "boardStorage": null,
   "confirmedFeatures": null,
-  "overview": "Timber Hill has self-catering lodges in woodland near Broad Haven, with private parking and access to a coast path trail. Selected lodges accept dogs. The owners offer Surfbooker readers 20% off the standard lodge rate with the code SURF20, and say three-night winter breaks start from £368 per lodge when booked ahead.",
+  "overview": "Timber Hill has self-catering lodges in woodland near Broad Haven, with private parking and access to a coast path trail. Selected lodges accept dogs. Surfbooker guests get 20% off the standard lodge rate. The owners also say three-night winter breaks start from £368 per lodge when booked ahead.",
   "surfTripFit": "A woodland base within walking distance of Broad Haven beach.",
   "sources": [
    {
