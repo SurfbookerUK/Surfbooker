@@ -1062,7 +1062,7 @@ export const accommodationProperties = [
     metaDescription: "A clifftop golf and leisure club near St Just with 23 bedrooms, a heated indoor pool, sauna and gym, dog-friendly stays and Cape Cornwall half a mile away.",
     areaSlug: "sennen",
     destinationSlugs: ["sennen"],
-    location: "St Just, near Sennen, Cornwall",
+    location: "Sennen, Cornwall",
     addressRegion: "Cornwall",
     streetAddress: "Cape Cornwall Road",
     postalCode: "TR19 7NL",
@@ -1070,7 +1070,7 @@ export const accommodationProperties = [
     hideOperatorFact: true,
     hideRoomsFact: true,
     stayType: "Clifftop hotel with golf course and leisure facilities",
-    accommodation: "23 en suite rooms with breakfast, plus a separate 2-bed self-catering cottage in St Just",
+    accommodation: "23 en suite rooms with breakfast; listed as a hotel with a separate self-catering cottage",
     suitableFor: "Couples, golfers and visitors flying to the Isles of Scilly from Land's End Airport, plus walkers on the South West Coast Path, bird watchers, wild swimmers, surfers, photographers, cycling groups and sports teams",
     sleepsOrRooms: "23 bedrooms",
     parking: "Free car park on site",
@@ -1078,7 +1078,7 @@ export const accommodationProperties = [
     dogs: "Pets allowed; they must be included in the reservation. Dogs are welcome in all areas except the gym and pool",
     confirmedFeatures: "Heated pool, gym, golf course, breakfast, airport minibus transfer, sauna and jacuzzi, evening meals (times and offerings vary with season), terrace, function room, free car park",
     overview: "A clifftop golf and leisure club half a mile from Cape Cornwall, with 23 bedrooms, a heated pool and a dog-friendly welcome.",
-    overviewDetail: "The Cape Cornwall Club sits at Sennen, on Cape Cornwall Road near St Just, on the far west coast of Cornwall. It has 23 en suite rooms with breakfast, a separate 2-bed self-catering cottage in St Just a mile away, an indoor heated pool with a sauna and jacuzzi, a gym, a restaurant and terrace, and its own golf course. Cape Cornwall itself is half a mile away on foot, and it is open every day of the year.",
+    overviewDetail: "The Cape Cornwall Club sits at Sennen, on Cape Cornwall Road near St Just, on the far west coast of Cornwall. It has 23 en suite rooms with breakfast, a separate 2-bed self-catering cottage in St Just a mile from the Club, an indoor heated pool with a sauna and jacuzzi, a gym, a restaurant and terrace, and its own golf course. Cape Cornwall itself is half a mile away on foot, and the Club says it is open every day of the year.",
     surfTripFit: "A base for the far west of Cornwall rather than a beachfront stay. Sennen Cove, Gwenver and Portheras Cove are all within reach by car, and the pool, sauna and gym are useful after a cold session or on a flat day.",
     heroImage: "/images/commons/sennen-cove/108258497.webp",
     heroImageAlt: "Aerial view of the Cape Cornwall golf course, headland and Brisons rocks",
@@ -1086,18 +1086,18 @@ export const accommodationProperties = [
     sections: [
       ["Why it works for a surf trip", "It sits on the far west coast of Cornwall, so it works as a base for the beaches either side: Sennen Cove and Gwenver to the south, and Portheras Cove to the north-east near Pendeen. It is not on the beach, so plan to drive to the surf. There is a free car park, which helps if you are travelling with boards, and the indoor pool, sauna and jacuzzi are there for after a session or on a flat day."],
       ["On site", "There is an indoor heated swimming pool, sauna and jacuzzi, and a newly refurbished, air-conditioned gym. There is a restaurant serving freshly cooked meals and a terrace for drinks, including at sunset, plus a large function room and terrace used for events. It is open to non-members as well as guests."],
-      ["Golf", "The course is billed as the first and last golf course in the UK. The course has views out towards the Isles of Scilly, with Skybus planes arriving and leaving overhead. Dogs are allowed on the course."],
+      ["Golf", "The course is billed as the first and last golf course in the UK. The Isles of Scilly Travel listing mentions views out towards the Isles of Scilly and Skybus planes arriving and leaving above the course. Dogs are allowed on the course."],
       ["Groups, teams and clubs", "This is the only sports resort in far West Cornwall, and regular guests include professional sports teams, walkers, cycling groups and golf groups. Off-peak deals are offered to surf groups who book direct. Terms are set by the venue, so ask what is available for your dates and group size."],
-      ["Dogs and dog-friendly beaches", "Dogs are welcome throughout except the gym and pool, and on the golf course. Portheras Cove, Cot Valley, Nanjizal and Gwenver are dog-friendly all year. Sennen has no dog restrictions from 1 October to 14 May; from 15 May to 30 September dogs are not allowed between 10am and 6pm. Beach rules can change, so check the signs on the day."],
+      ["Dogs and dog-friendly beaches", "Dogs are welcome throughout except the gym and pool, and on the golf course. The local area guide lists Portheras Cove, Cot Valley, Nanjizal and Gwenver as dog-friendly all year. Sennen has no dog restrictions from 1 October to 14 May; from 15 May to 30 September dogs are not allowed between 10am and 6pm. Beach rules can change, so check the signs on the day."],
       ["Walking from the Club", "Cape Cornwall is half a mile away. The walk to Pendeen Lighthouse is 3.8 miles, and the longer coast path walk from Sennen to Pendeen Lighthouse, passing the door, is 9 miles. It is also an official Way Maker on the South West Coast Path, where walkers can have a Coast Path Passport stamped."],
-      ["Flying to the Isles of Scilly", "It is a short drive from Land's End Airport and offers an airport minibus transfer, which suits guests combining a stay with a flight to the islands. Ask about transfer times and availability when you enquire."]
+      ["Flying to the Isles of Scilly", "The Isles of Scilly Travel listing describes it as a short drive from Land's End Airport and mentions an airport minibus transfer, which suits guests combining a stay with a flight to the islands. Ask about transfer times and availability when you enquire."]
     ],
     faqItems: [
       ["Are dogs allowed at The Cape Cornwall Club?", "Yes. Dogs are welcome in all areas except the gym and swimming pool, and are also allowed on the golf course. Mention your dog when you enquire so they can confirm room arrangements."],
       ["Is there parking?", "Yes, there is a free car park on site."],
       ["How far is Cape Cornwall on foot?", "About half a mile on foot."],
-      ["Can people who are not staying use the facilities?", "Yes, it is open to non-members. Ask about access to the pool and gym if you are not staying."],
-      ["Are there deals for surf groups?", "Off-peak deals are offered to surf groups who book direct, and it is open every day of the year. Ask for current terms and dates."]
+      ["Can people who are not staying use the Club?", "Yes, it is open to non-members. Ask about access to the pool and gym if you are not staying."],
+      ["Does the Club offer deals for surf groups?", "The Club says it offers off-peak deals to surf groups who book direct, and that it is open every day of the year. Ask the Club for current terms and dates."]
     ],
     status: "verified",
     pageEligible: true,
@@ -1109,7 +1109,7 @@ export const accommodationProperties = [
       "https://www.islesofscilly-travel.co.uk/discover/accommodation/cape-cornwall-club/"
     ],
     lastVerified: "2026-11-12",
-    verificationNotes: "Facilities, dog policy, walks, parking, group guests and off-peak surf group deals verified on 2026-11-12. Surfbooker has not stayed here; confirm facilities and policies directly when you enquire.",
+    verificationNotes: "Facilities, dog policy, walks and parking checked against the Club's website on 2026-11-12, with the Isles of Scilly Travel listing for the airport and golf details. The Club's management supplied the sports resort, group guest and off-peak surf group details by email on 2026-11-12. Surfbooker has not stayed here; confirm facilities and policies directly when you enquire.",
     tags: ["23 bedrooms", "Heated pool", "Dog friendly", "Golf course"]
   },
   {
