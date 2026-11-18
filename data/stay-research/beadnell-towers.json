@@ -10,7 +10,7 @@
  "beachAccess": "In Beadnell village, a short walk from the beach",
  "boardStorage": null,
  "confirmedFeatures": "Beadnell Kitchen restaurant, Beadnell Bar, private dining and functions",
- "overview": "A boutique hotel in the middle of Beadnell village with 22 individually styled bedrooms, a restaurant serving local produce and a bar. Pet-friendly rooms are available. Beadnell Bay's long sweep of sand is a short walk from the door, and Seahouses is a few minutes along the coast.",
+ "overview": "A boutique hotel in the middle of Beadnell village with 22 individually styled bedrooms, a restaurant serving local produce and a bar. Pet-friendly rooms are available. Beadnell Bay's long sweep of sand is a short walk from the door, and Seahouses is a few minutes along the coast. Beadnell Towers is run by Coast & Country Stays.",
  "surfTripFit": "Walkable to the bay with good food on site, it suits surfers who want comfort after a session.",
  "sources": [
   {
@@ -22,5 +22,6 @@
    "url": "https://www.visitnorthumberland.com/explore/things-to-do/stay/inns/beadnell-towers"
   }
  ],
- "slug": "beadnell-towers"
+ "slug": "beadnell-towers",
+ "lastVerified": "2026-11-18"
 }

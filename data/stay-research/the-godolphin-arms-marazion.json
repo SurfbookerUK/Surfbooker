@@ -1,24 +1,24 @@
 {
- "slug": "the-godolphin-arms-marazion",
- "officialUrl": "https://www.thegodolphinarms.co.uk/",
- "trading": true,
- "stayType": null,
- "accommodation": null,
- "suitableFor": null,
- "parking": null,
- "dogs": null,
- "beachAccess": null,
- "boardStorage": null,
- "confirmedFeatures": null,
- "overview": null,
- "surfTripFit": null,
- "sources": [
-  {
-   "label": "The Godolphin, Marazion listing (Expedia)",
-   "url": "https://www.expedia.co.kr/en/Marazion-Hotels-The-Godolphin.h28920203.Hotel-Information"
-  }
- ],
- "gaps": "Official site blocks automated fetching; coolstays listing returned 404. Nothing verified - needs manual check. Note: in Marazion, not Praa Sands",
- "verificationNote": "Trading confirmed from current third-party listings and recent guest reviews in November 2026. Surfbooker has not stayed here; confirm facilities and policies directly when you enquire.",
- "lastVerified": "2026-11-11"
+  "slug": "the-godolphin-arms-marazion",
+  "officialUrl": "https://www.thegodolphinarms.co.uk/",
+  "trading": true,
+  "stayType": "Beachfront pub with rooms",
+  "accommodation": "Eight room types: standard double, signature view double, premium view double, deluxe suite, standard twin, signature view family, premium view twin and premium view family",
+  "suitableFor": "Couples, families and guests travelling with dogs",
+  "parking": null,
+  "dogs": "Dog-friendly rooms available",
+  "beachAccess": null,
+  "boardStorage": null,
+  "confirmedFeatures": "Beachfront pub with a food menu from morning to evening, 18th-century Georgian building, individually styled bedrooms, views over Cornwall's west coast",
+  "overview": "The Godolphin Arms is a beachfront pub with rooms in the centre of Marazion, with views over Cornwall's west coast. The food menu runs from morning to evening. The bedrooms are in an 18th-century Georgian building, each individually styled, with family and dog-friendly options.",
+  "surfTripFit": "A beachfront base in Marazion for exploring the west Cornwall coast, with family and dog-friendly rooms.",
+  "sources": [
+    {
+      "label": "The Godolphin, Marazion listing (Expedia)",
+      "url": "https://www.expedia.co.kr/en/Marazion-Hotels-The-Godolphin.h28920203.Hotel-Information"
+    }
+  ],
+  "gaps": "Beach distance and parking not confirmed.",
+  "verificationNote": "Trading confirmed from current third-party listings and recent guest reviews in November 2026. Surfbooker has not stayed here; confirm facilities and policies directly when you enquire.",
+  "lastVerified": "2026-11-18"
 }

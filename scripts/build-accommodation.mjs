@@ -878,7 +878,7 @@ export const accommodationProperties = [
     accommodation: "Fully equipped kitchens, private balconies, Smart TVs and super-fast Wi-Fi",
     suitableFor: "Couples, families and guests travelling with dogs",
     overview: "Self-catering apartments for couples, families and coastal breaks in Westward Ho!.",
-    overviewDetail: "Westbeach Holiday Apartments provides self-catering stays with fully equipped kitchens, private balconies, Smart TVs and super-fast Wi-Fi. The apartments are suitable for couples, families and guests travelling with dogs.",
+    overviewDetail: "Westbeach Holiday Apartments provides self-catering stays with fully equipped kitchens, private balconies, Smart TVs and super-fast Wi-Fi. The apartments are suitable for couples, families and guests travelling with dogs. They are in the centre of Westward Ho!, moments from the beach and from the village's seaside bars, restaurants and tea-rooms. Westward Ho! was built in the 1860s as a Victorian seaside resort and keeps much of that character. The village sits in the North Devon Surfing Reserve, about 30 km of coastline running from Saunton, Croyde, Putsborough and Woolacombe round to Sandymouth, Bude and Widemouth Bay, with many of those beaches within a 30-minute drive. The beach is Blue Flag award winning.",
     surfTripFit: "Flexible self-catering stays for beach days, surf sessions and exploring North Devon.",
     heroImage: "/images/Westward Ho Accomodation.jpg",
     heroImageAlt: "Westward Ho! beach in North Devon, representing the location of Westbeach Holiday Apartments",
@@ -1294,6 +1294,66 @@ const STAY_BEACH_IMAGES = {
 
 // Photos supplied by the owner for a directory stay (cleared in data/image-registry.json).
 const OWNER_STAY_IMAGES = {
+  "the-godolphin-arms-marazion": {
+    galleryHeading: "Inside The Godolphin Arms.",
+    hero: { file: "/images/accommodation/properties/the-godolphin-arms-marazion/Godolphin-Arms-Sea-View-Double-Room.webp", alt: "Double room at The Godolphin Arms with a large bed, floral armchairs and a sea view through the sash windows" },
+    gallery: [
+      { src: "/images/accommodation/properties/the-godolphin-arms-marazion/Godolphin-Arms-Sea-View-Bedroom-Window.webp", alt: "Sash window at The Godolphin Arms looking over the beach and rock, with two floral armchairs and a coffee machine" },
+      { src: "/images/accommodation/properties/the-godolphin-arms-marazion/Godolphin-Arms-Double-Room.webp", alt: "Double room at The Godolphin Arms with a tall window, teal cushions and bedside lamps" },
+      { src: "/images/accommodation/properties/the-godolphin-arms-marazion/Godolphin-Arms-Marble-Shower-Room.webp", alt: "Marble-tiled walk-in shower and pedestal basin with an illuminated round mirror at The Godolphin Arms" },
+      { src: "/images/accommodation/properties/the-godolphin-arms-marazion/Godolphin-Arms-Shower-Room.webp", alt: "En-suite shower room at The Godolphin Arms with a corner shower cubicle" },
+      { src: "/images/accommodation/properties/the-godolphin-arms-marazion/Godolphin-Arms-Exterior-Sign.webp", alt: "The Godolphin sign on the front of the pub beside olive trees" }
+    ],
+    sections: [
+      { label: "The location", heading: "On the seafront at Marazion.", copy: ["The Godolphin Arms is a laid-back beachfront pub in the heart of Marazion, with views across the bay to St Michael's Mount and along Cornwall's west coast.", "Marazion's long beach is right outside, so a sunrise check of the swell or a walk along the sand is easy to fit in."], image: { src: "/images/accommodation/properties/the-godolphin-arms-marazion/Godolphin-Arms-Window-View-St-Michaels-Mount.webp", alt: "Window at The Godolphin Arms looking over Marazion beach to St Michael's Mount" }, more: [{ src: "/images/accommodation/properties/the-godolphin-arms-marazion/St-Michaels-Mount-From-Marazion.webp", alt: "St Michael's Mount and its harbour across the water from Marazion" }] },
+      { label: "Food and drink", heading: "A menu from morning to evening.", copy: ["The pub serves a contemporary menu from morning to evening, with drinks for every taste. Tall windows in the dining room look out over the bay, so lunch after a surf comes with the view of the Mount."], image: { src: "/images/accommodation/properties/the-godolphin-arms-marazion/Godolphin-Arms-Dining-Room-Sea-View.webp", alt: "Dining room at The Godolphin Arms with large windows over the bay" }, more: [{ src: "/images/accommodation/properties/the-godolphin-arms-marazion/Godolphin-Arms-Breakfast-Table.webp", alt: "Croissants, fruit and tableware on a breakfast table at The Godolphin Arms" }, { src: "/images/accommodation/properties/the-godolphin-arms-marazion/Godolphin-Arms-Upstairs-Dining-Windows.webp", alt: "Diners at the window tables overlooking the sea at The Godolphin Arms" }] },
+      { label: "The rooms", heading: "Georgian rooms, individually styled.", copy: ["The building has 18th-century Georgian character, and each bedroom is individually styled. Family and dog-friendly options are available.", "Room types are standard double, signature view double, premium view double, deluxe suite, standard twin, signature view family, premium view twin and premium view family."], image: { src: "/images/accommodation/properties/the-godolphin-arms-marazion/Godolphin-Arms-Twin-Room.webp", alt: "Twin room at The Godolphin Arms with pale linen and bedside lamps" }, more: [{ src: "/images/accommodation/properties/the-godolphin-arms-marazion/Godolphin-Arms-Double-Room-Panelled-Wall.webp", alt: "Double room at The Godolphin Arms with a panelled wall and patterned cushions" }, { src: "/images/accommodation/properties/the-godolphin-arms-marazion/Godolphin-Arms-Room-Seating-Area.webp", alt: "Seating area with wicker chairs by a sea-view window at The Godolphin Arms" }] }
+    ]
+  },
+  "the-nici-newquay": {
+    galleryHeading: "Inside THE NICI Newquay.",
+    hero: { file: "/images/accommodation/properties/the-nici-newquay/The-Nici-Newquay-Exterior.webp", alt: "The white Victorian frontage of THE NICI Newquay under a blue sky" },
+    gallery: [
+      { src: "/images/accommodation/properties/the-nici-newquay/The-Nici-Newquay-Amalfis-Restaurant.webp", alt: "Dining room at Amalfi's Restaurant in THE NICI Newquay with olive trees and pastel seating" },
+      { src: "/images/accommodation/properties/the-nici-newquay/The-Nici-Newquay-Spa-Pool.webp", alt: "Indoor spa pool at THE NICI Newquay with loungers and a sea view" },
+      { src: "/images/accommodation/properties/the-nici-newquay/The-Nici-Newquay-Sauna.webp", alt: "Timber-lined sauna in the spa at THE NICI Newquay" },
+      { src: "/images/accommodation/properties/the-nici-newquay/The-Nici-Newquay-Staircase.webp", alt: "Pale green staircase and entrance hall at THE NICI Newquay" }
+    ]
+  },
+  "westbeach-holiday-apartments": {
+    galleryHeading: "Inside the apartments.",
+    hero: { file: "/images/accommodation/properties/westbeach-holiday-apartments/Westbeach-Living-Dining-Area.webp", alt: "Open-plan living and dining area in a Westbeach Holiday Apartment with corner sofa, dining table and kitchen" },
+    gallery: [
+      { src: "/images/accommodation/properties/westbeach-holiday-apartments/Westbeach-Kitchen-Living-And-Bedroom.webp", alt: "View through an apartment at Westbeach Holiday Apartments from the kitchen to the dining area and a bedroom with balcony doors" }
+    ]
+  },
+  "byron-woolacombe-holidays": {
+    galleryHeading: "Inside Byron and out on the terraces.",
+    hero: { file: "/images/accommodation/properties/byron-woolacombe-holidays/Byron-Woolacombe-Balcony-View-Over-Beach.webp", alt: "View from a Byron Woolacombe balcony over the sands of Woolacombe Beach and the coast beyond" },
+    gallery: [
+      { src: "/images/accommodation/properties/byron-woolacombe-holidays/Byron-Woolacombe-Bedroom-Sea-View.webp", alt: "Bedroom at Byron Woolacombe with a floor-to-ceiling window looking over Woolacombe Bay" },
+      { src: "/images/accommodation/properties/byron-woolacombe-holidays/Byron-Woolacombe-Living-Room.webp", alt: "Living area at Byron Woolacombe with corner sofa and a large window over the bay" },
+      { src: "/images/accommodation/properties/byron-woolacombe-holidays/Byron-Woolacombe-Apartment-Dining.webp", alt: "Apartment dining table set for breakfast beside the balcony doors at Byron Woolacombe" },
+      { src: "/images/accommodation/properties/byron-woolacombe-holidays/Byron-Woolacombe-Balcony-Seating.webp", alt: "Balcony seating at Byron Woolacombe overlooking Woolacombe village and the dunes" },
+      { src: "/images/accommodation/properties/byron-woolacombe-holidays/Byron-Woolacombe-Roof-Terrace.webp", alt: "Roof terrace with loungers and sea views at Byron Woolacombe" },
+      { src: "/images/accommodation/properties/byron-woolacombe-holidays/Byron-Woolacombe-Sauna-And-Pool.webp", alt: "Sauna with the heated indoor pool beyond at Byron Woolacombe" },
+      { src: "/images/accommodation/properties/byron-woolacombe-holidays/Byron-Woolacombe-Gym.webp", alt: "Private gym at Byron Woolacombe with rowing machine, bikes and free weights" },
+      { src: "/images/accommodation/properties/byron-woolacombe-holidays/Byron-Woolacombe-Games-Room.webp", alt: "Games room at Byron Woolacombe with pool table and table football" },
+      { src: "/images/accommodation/properties/byron-woolacombe-holidays/Byron-Woolacombe-Treatment-Room.webp", alt: "Treatment room at Byron Woolacombe" },
+      { src: "/images/accommodation/properties/byron-woolacombe-holidays/Byron-Woolacombe-Residents-Lounge.webp", alt: "Residents lounge at Byron Woolacombe with sofas and a balcony view" },
+      { src: "/images/accommodation/properties/byron-woolacombe-holidays/Byron-Woolacombe-Beach.webp", alt: "Woolacombe Beach on a summer day, with the headland beyond" }
+    ]
+  },
+  "portrush-adelphi": {
+    galleryHeading: "Inside and out at Marine & Lawn Portrush.",
+    hero: { file: "/images/accommodation/properties/portrush-adelphi/Marine-And-Lawn-Portrush-Bar-And-Dining.webp", alt: "Bar and dining room at Marine & Lawn Portrush, with tartan chairs, green panelled walls and a red leather banquette" },
+    gallery: [
+      { src: "/images/accommodation/properties/portrush-adelphi/Marine-And-Lawn-Portrush-Bay-Windows.webp", alt: "White Victorian bay-window frontage of Marine & Lawn Portrush on Main Street, Portrush" },
+      { src: "/images/accommodation/properties/portrush-adelphi/Marine-And-Lawn-Portrush-Reception.webp", alt: "Reception desk and stained-glass lamp in the entrance hall at Marine & Lawn Portrush" },
+      { src: "/images/accommodation/properties/portrush-adelphi/Marine-And-Lawn-Portrush-Bedroom.webp", alt: "Bedroom at Marine & Lawn Portrush with a tartan headboard, navy walls and knitted throw" },
+      { src: "/images/accommodation/properties/portrush-adelphi/Giants-Causeway-Coast.webp", alt: "Walkers on the basalt rocks of the Giant's Causeway coast on the North Antrim coast near Portrush" }
+    ]
+  },
   "fistral-beach-hotel-and-spa": {
     hero: { file: "/images/accommodation/properties/fistral-beach-hotel-and-spa/Fistral-Beach-Hotel-From-The-Headland.webp", alt: "Fistral Beach Hotel and Spa on the hill above Fistral Beach, Newquay, with surfers in the water" },
     gallery: []

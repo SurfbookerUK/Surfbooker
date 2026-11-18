@@ -3,15 +3,15 @@
  "officialUrl": "https://www.coastandcountrystays.co.uk/",
  "trading": true,
  "stayType": "Holiday cottage operator",
- "accommodation": "Nine cottages in Beadnell including Church Cottage (sleeps 6), plus others in Seahouses and Bamburgh",
+ "accommodation": "Self-catering homes in Beadnell, Seahouses and Bamburgh, including Church Cottage (sleeps 6), plus two hotels: Beadnell Towers and Beach House Seahouses",
  "suitableFor": "Couples, families, groups and dog owners",
  "parking": null,
  "dogs": "Dogs welcome across the properties",
  "beachAccess": "Beadnell cottages are within walking distance of the beaches",
  "boardStorage": null,
  "confirmedFeatures": "Online booking, pet friendly, some properties with sea views",
- "overview": "A local operator with nine holiday cottages in Beadnell village, alongside a handful in Seahouses and Bamburgh. Properties range from small cottages to larger family houses, and dogs are welcomed across the collection. The beaches of Beadnell Bay are within walking distance of the village cottages.",
- "surfTripFit": "A choice of dog-friendly cottages in the village, walkable to the bay.",
+ "overview": "A local operator of self-catering homes along the Northumberland coast in Beadnell, Seahouses and Bamburgh, with two hotels of its own: Beadnell Towers in Beadnell and Beach House Seahouses. Properties range from small cottages to larger family houses, and dogs are welcomed across the collection. The beaches of Beadnell Bay are within walking distance of the village cottages.",
+ "surfTripFit": "A choice of dog-friendly cottages and two hotels along the coast, with the Beadnell properties walkable to the bay.",
  "sources": [
   {
    "label": "Official website",
@@ -22,5 +22,6 @@
    "url": "https://www.visitnorthumberland.com/explore/things-to-do/stay/self-catering/coast-country-stays"
   }
  ],
- "slug": "coast-and-country-stays"
+ "slug": "coast-and-country-stays",
+ "lastVerified": "2026-11-18"
 }
