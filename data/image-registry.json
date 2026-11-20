@@ -6,7 +6,13 @@
     "confirm": "Believed to be Surfbooker's own photo; publishable but listed for owner confirmation.",
     "blocked": "Must not appear on published pages."
   },
-  "images": {
+  "images": {    "accommodation/stays/rwts-rooms-and-resto/rwts-main.png": {
+      "status": "cleared",
+      "sourceType": "owner-supplied",
+      "credit": "Rwts Rooms and Resto",
+      "place": "Terrace overlooking Broad Haven beach",
+      "notes": "Hero photo supplied for the Surfbooker RWTS listing."
+    },
     "images/accommodation/properties/parkmill-cottages/Three-Cliffs-Bay.webp": {
       "status": "cleared",
       "sourceType": "owner-supplied",
