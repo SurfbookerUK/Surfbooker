@@ -88,12 +88,12 @@
     #rwts-christmas-menu .rwts-details{background:rgba(255,255,255,.06);border-color:rgba(255,255,255,.18);color:#fff}
     #rwts-christmas-menu .rwts-details[open]{background:rgba(255,255,255,.1)}
     #rwts-christmas-menu .rwts-details>summary::after{color:#f4c542}
-    @media (max-width:640px){.rwts-property-page .accommodation-content{padding-top:0}.rwts-property-page .property-back-row{padding:16px 4px}.rwts-avail-row{margin-top:0}.rwts-menu-list{grid-template-columns:1fr}.rwts-jump{margin-inline:-.5rem}}
+    @media (max-width:640px){.rwts-property-page .accommodation-content{padding-top:0}.rwts-property-page .property-back-row{padding:16px 4px}.rwts-menu-list{grid-template-columns:1fr}.rwts-jump{margin-inline:-.5rem}}
     .rwts-property-page .accommodation-hero-content .property-hero-address{display:inline-block;padding:.4rem .8rem;border-radius:999px;background:rgba(255,255,255,.92);color:#0b4f8a;font-weight:700}
     .rwts-top-facts{grid-template-columns:repeat(2,minmax(0,1fr))}
     .rwts-top-facts>div:last-child{grid-column:1/-1}
-    .rwts-avail-row{margin:0 0 1rem}
-    .rwts-avail-btn{display:inline-block;padding:.8rem 1.6rem;border-radius:999px;background:var(--accommodation-navy);color:#fff;font-weight:700;text-decoration:none}
+    .rwts-top-row{display:flex;justify-content:space-between;align-items:center;gap:1rem}
+    .rwts-top-row a.rwts-avail-btn{padding:.45rem 1rem;border-radius:999px;background:var(--accommodation-navy);color:#fff;font-size:.85rem;font-weight:700;text-decoration:none}
     .rwts-avail-btn:hover,.rwts-avail-btn:focus-visible{background:#1c8fa0}
     .rwts-gallery{margin-top:1.25rem}
   </style>
@@ -112,8 +112,7 @@
 
     <div class="accommodation-content">
       <div class="property-page-content">
-        <div class="property-back-row"><a href="/accommodation/broad-haven/">← Broad Haven</a></div>
-        <p class="rwts-avail-row"><a class="rwts-avail-btn" href="#enquiry">Check availability</a></p>
+        <div class="property-back-row rwts-top-row"><a href="/accommodation/broad-haven/">← Broad Haven</a><a class="rwts-avail-btn" href="#enquiry">Check availability</a></div>
         <nav class="rwts-jump" aria-label="On this page"><a href="#stay">Info</a><a href="#rooms">Rooms</a><a href="#food">Food</a><a href="#menus">Menus</a><a href="#events">Events</a><a href="#surf">Surf</a></nav>
         <dl class="fact-grid property-fact-grid rwts-top-facts" aria-label="Check-in, check-out and restaurant">
           <div><dt>Check-in</dt><dd>3pm to 6pm</dd></div>
