@@ -6,7 +6,50 @@
     "confirm": "Believed to be Surfbooker's own photo; publishable but listed for owner confirmation.",
     "blocked": "Must not appear on published pages."
   },
-  "images": {    "accommodation/stays/rwts-rooms-and-resto/rwts-main.png": {
+  "images": {
+    "accommodation/stays/rwts-rooms-and-resto/rwts-room.jpg": {
+      "status": "cleared",
+      "sourceType": "owner-supplied",
+      "credit": "Rwts Rooms and Resto",
+      "place": "RWTS room",
+      "notes": "Photo supplied for the Surfbooker RWTS listing."
+    },
+    "accommodation/stays/rwts-rooms-and-resto/rwts-room-2.jpg": {
+      "status": "cleared",
+      "sourceType": "owner-supplied",
+      "credit": "Rwts Rooms and Resto",
+      "place": "RWTS room",
+      "notes": "Photo supplied for the Surfbooker RWTS listing."
+    },
+    "accommodation/stays/rwts-rooms-and-resto/room-balcony.jpeg": {
+      "status": "cleared",
+      "sourceType": "owner-supplied",
+      "credit": "Rwts Rooms and Resto",
+      "place": "RWTS room balcony",
+      "notes": "Photo supplied for the Surfbooker RWTS listing."
+    },
+    "accommodation/stays/rwts-rooms-and-resto/ramen-and-pizza.jpeg": {
+      "status": "cleared",
+      "sourceType": "owner-supplied",
+      "credit": "Rwts Rooms and Resto",
+      "place": "RWTS food",
+      "notes": "Photo supplied for the Surfbooker RWTS listing."
+    },
+    "accommodation/stays/rwts-rooms-and-resto/front-seats.jpeg": {
+      "status": "cleared",
+      "sourceType": "owner-supplied",
+      "credit": "Rwts Rooms and Resto",
+      "place": "RWTS front seating",
+      "notes": "Photo supplied for the Surfbooker RWTS listing."
+    },
+    "accommodation/stays/rwts-rooms-and-resto/front-night-time.jpeg": {
+      "status": "cleared",
+      "sourceType": "owner-supplied",
+      "credit": "Rwts Rooms and Resto",
+      "place": "RWTS frontage at night",
+      "notes": "Photo supplied for the Surfbooker RWTS listing."
+    },
+    "accommodation/stays/rwts-rooms-and-resto/rwts-main.png": {
       "status": "cleared",
       "sourceType": "owner-supplied",
       "credit": "Rwts Rooms and Resto",
